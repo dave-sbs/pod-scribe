@@ -1,0 +1,881 @@
+{
+  "metadata": {
+    "episodeNumber": 233,
+    "title": "Elon Musk, Peter Thiel, Max Levchin (PayPal)",
+    "slug": "233-elon-musk-peter-thiel-max-levchin-paypal",
+    "url": "https://podscripts.co/podcasts/founders/233-elon-musk-peter-thiel-max-levchin-paypal",
+    "date": "February 23, 2022",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "And finally, to Venice, to whom this book is dedicated. The idea for this project started when you were a one-year-old, and it was completed when you were six. The intervening five years have been among the happiest of my life, in large measure because you made them so. You, too, indulged my stories about Max Levchin and Elon Musk, and you offered wisdom of your own kind in my moments of doubt about the project. You are unlikely to remember most of what happened these last five years. I will never forget them. Authors of books like this should usually refrain from burdening readers with lessons. The reader is smart enough to figure those"
+    },
+    {
+      "timestamp": "00:00:37",
+      "text": "out for themselves, but there's a special acknowledgments-only exception to that rule for author dads, and I'm going to take advantage of it to offer you a message in a bottle for whenever you get around to reading these words. Here goes. Your life will be shaped by the things that you create and the people you make them with. We tend to sweat the former. We don't worry enough about the latter. The story of PayPal isn't just people banding together to shape a product. It's about how banding together shaped the people themselves. The founders and earliest employees of the company pushed and prodded and demanded better of one another. I hope you find people like that too, and that you make things with them. That sounds simple, but it's awfully hard. I've been fortunate."
+    },
+    {
+      "timestamp": "00:01:25",
+      "text": "I have a sequence of those people in my life, many of whom have been named in the previous pages. You know them as Auntie Lauren, and Auntie Grace, and Uncle Justin, and so on. They are the people who hold me to account. We don't just enjoy one another's company. We make each other better. Our friendship rests on productive discomfort, and we love each other enough to say what needs to be said. In a funny way, I'm not sure I can play that role for you. There are lessons I love you too much to teach you, so you'll need to go out and learn them for yourself."
+    },
+    {
+      "timestamp": "00:02:01",
+      "text": "Fellow travelers will help. Books need editors. Lives do too. As with all my advice, take it with a very hungry caterpillar-sized grain of salt. Besides, I may not have to worry. If you crack this book open at all, sat with it this long, and made it this far, maybe you'll be just fine. That is an excerpt from the book that we talked about today, which is The Founders, the story of PayPal and the entrepreneurs who shaped Silicon Valley. And it was written by Jimmy Soni. And that dedication to his young daughter comes at the very end of this incredible, incredible book that I'm holding in my hand. I was able to talk to Jimmy and he sent me an early copy of this book. He's, if you're a long time listener of the"
+    },
+    {
+      "timestamp": "00:02:41",
+      "text": "podcast, you'll recognize his name. He wrote one of the best biographies I've ever read. I think it's Founders No. 93. It's the biography of Claude Shannon. And so once this book arrived in the mail, it reorganized my plans for my entire week. I've spent most of the last several days completely engrossed in the book. And normally when I sit down to talk to you, I'm excited. Today I'm a little nervous. I do not think I'm going to be able to do justice to just how great this book is for entrepreneurs, for founders,"
+    },
+    {
+      "timestamp": "00:03:03",
+      "text": "for anybody trying to start a company and do something really, anybody trying to do something really difficult in their lives. So all I can do is just jump right into it and we'll see how this goes. So I'm going to jump right into the introduction. The very first word in the book is a quote from Elon Musk. And if you've read Ashley Vance's biography of Elon, you know, this is his favorite word. And it says, fuck, you're making me rummage around the attic, said Elon Musk. We sat in his living room, but the metaphor still fit. Musk was about to tell me the story of PayPal."
+    },
+    {
+      "timestamp": "00:03:31",
+      "text": "As he spoke about the internet's development and PayPal's origins, the story spilled out. About his first internship at a Canadian bank, about building his first startup, then his second. About what it felt like to be overthrown as CEO. By the end of the afternoon, nearly three hours later, I suggested we pause. We had only scheduled an hour together, and though Musk had been generous with his time, I didn't want to wear out my welcome. But even as he stood to show me out, he launched into another PayPal story. 47 years old, Musk spoke with the enthusiasm of someone older asked to relive his glory days."
+    },
+    {
+      "timestamp": "00:04:07",
+      "text": "I can't believe it's been 20 years, he said. It was hard to believe. Not just the years that had passed, but how much PayPal's alumni had accomplished in them. And then he goes into some of the influence that this PayPal mafia, the alumni network, has had. So it says, both in the foreground and behind the scenes, PayPal's alumni have built, funded, or counseled nearly every Silicon Valley company of consequence for the last two decades. For its admirers, PayPal's founders are a force to be emulated. For its critics, the group represented everything wrong with big tech, putting historically unprecedented power into the hands of a small clutch of techno-utopian libertarians. Indeed, it is hard to find a lukewarm opinion about PayPal's founders."
+    },
+    {
+      "timestamp": "00:04:53",
+      "text": "They are either heroes or heathens, depending on who offers the judgment. And yet, despite all that, the PayPal days themselves are usually glossed over. If the early years come up at all, they are typically granted a polite paragraph crediting PayPal for making the later splash year achievements possible. The group's subsequent successes are so legendary and their controversy so conspicuous that they steal the oxygen from the origin story."
+    },
+    {
+      "timestamp": "00:05:24",
+      "text": "And then these next two sentences I double underlined. I even jotted in the book. Nailed it. To skip PayPal's creation is to neglect the most interesting stuff about its founders. It is to miss the defining experiences of their early professional lives. One that defined so much of what came later. He just gets it. That's exactly what you and i try to do here if you if you're able to see the books that i highlight 70 80 90 of my highlights come"
+    },
+    {
+      "timestamp": "00:05:52",
+      "text": "in the first half of the book maybe the first two-thirds of the book before they were rich and famous and successful it is always more interesting to learn about who they were, like what versions of themselves built the foundation that they're now current or future success lays upon. I saw a tweet from another. His name's Antonio. He read the book as well. He's an author. And he says something fantastic about he's like obviously highly recommended. You can clearly see that I think you should buy the book right now. This is a book that you're going to reread. I'm going to wind up doing podcasts on years down the line. There's just so much information here. It's not only the personalities you get to learn, like,"
+    },
+    {
+      "timestamp": "00:06:31",
+      "text": "what was Elon Musk like in his 20s? What was Peter Thiel like in his 20s? What was Reid Hoffman like when they were at this age? But it's also just they're so creative. There's just so many times I've done the book, I'm like, that is really, really smart what they just did there. It was so complicated and complex what they just did there it's so it was so complicated and complex what they had to achieve and yet their response and the ideas they"
+    },
+    {
+      "timestamp": "00:06:49",
+      "text": "came up with it just it's remarkable but what he said is the book is full of improvison improvisation and gumption fear and arrogance it perfectly captures the drama of early early-ish silicon valley and now big players when they were just hustlers trying to figure it out and so aside from elon musk nobody's already rich when this is happening elon had just sold zip to um he has this funny line in the book i'll get to later he's like overnight my my bank account went from having five5,000 in it to having $21 million and $5,000 in it. But everybody else is living in little apartments. Now, you fast forward, you know, they've built multiple. They've not only built but also invested in multiple multi-billion dollar companies."
+    },
+    {
+      "timestamp": "00:07:37",
+      "text": "A lot of these people have, you know, multiple billion dollar net worths. But in the book book they didn't and so that line these are the now quote unquote big players when they were just trying to figure it out and there's just another fantastic line that gives you an idea of what this book is about several paypal alumni observed that they had spent the rest of their careers seeking a team of comparable intensity intellect and initiative and then he gives us a little bit about the prehistory to PayPal. It says, the PayPal we know today resulted from the fusion of two companies. Confinity was founded in 1998 by two unknowns, Max Levchin and Peter Thiel."
+    },
+    {
+      "timestamp": "00:08:18",
+      "text": "Fresh off his sale of his first startup, Elon Musk had founded X.com. He still owns that domain to this day, actually. A company that helped users email money. So the history of PayPal is they started out as competitors and then they eventually merged. This was a contest that raised the competitive ire of both teams and ended in a merger. For the next several years, the company's survival was an open question. They were sued, defrauded, copied, mocked from the outset. From the outset, PayPal was a startup under siege its"
+    },
+    {
+      "timestamp": "00:08:45",
+      "text": "founders took on multi-billion dollar financial firms a critical press and skeptical public hostile regulators and even foreign fraudsters in the space this is why i tell you the stories in this book is just wild this is it's incredible in the space of just four years the company survived the bursting of the dot-com bubble i think i have a line later on but in case i don't it really struck to me it's like so you have the they started the company survived the bursting of the dot-com bubble. I think I have a line later on, but in case I don't, it really struck to me. It's like, so they started the company before the internet bubble burst, right? But they said something like three quarters, like 75% of their growth happened after, post-crash, which I thought was wild. In the space of just four years, the company survived the bursting of the dot-com bubble,"
+    },
+    {
+      "timestamp": "00:09:26",
+      "text": "three investigations from state attorney generals, and a copycat built by one of its own investors. Many of its founders and early employees joined the company in their 20s. Most were fresh out of college. Working at PayPal was their first taste of the professional world, and that's why you'll hear them, when you hear them speak now, or write, they talk about it, and they talk about it in the book as well. It's like they purposely hired for inexperience. They prioritized intelligence and enthusiasm. They were not trying to recruit heavily from banks or other financial institutions"
+    },
+    {
+      "timestamp": "00:09:54",
+      "text": "because they didn't want people to come in and say, oh, this is how we did it there, so this is how we should do it here. That sounds very counterintuitive. But I would say it's extremely common in the history of entrepreneurship. Henry Ford writes about this at length. And he was talking about, listen, we're inventing a new way to mass produce cars. If you're doing something new, you cannot go and recruit experts. He says, let me quote from his autobiography."
+    },
+    {
+      "timestamp": "00:10:15",
+      "text": "And these are words he wrote over 100 years ago. That is the way with wise people. They are so wise and practical that they always know down to a dot just why something cannot be done. They always know the limitation. That is why I never employ an expert in full bloom. This is a crazy sentence that Henry Ford is about to tell us. If I ever wanted to kill opposition by unfair means, I would endow the opposition with experts. They would have so much good advice that I could be sure that they would"
+    },
+    {
+      "timestamp": "00:10:45",
+      "text": "do little work. And so I'm not sure if the founders of PayPal knew Henry Ford's words. I do know because Elon's talked about Henry Ford quite a bit while studying Henry Ford, reading about him. I just don't know if he did it when he was this age. So he says its earliest hires included high school dropouts, ace chess players and champions, often chosen because of their eccentricities and peculiarities, not in spite of them. Again, another very common theme. I got three quotes for you. One is from David O'Grease writing. He says, talent is most likely to be found among nonconformist dissenters and rebels. That is a great way to describe the early PayPal team. This is Walter Isaacson writing in Benjamin Franklin's biography"
+    },
+    {
+      "timestamp": "00:11:25",
+      "text": "about Benjamin Franklin's family and how that influenced him. And this is what he says. The family produced dissenters and nonconformists who were willing to defy authority. They were clever craftsmen and inventive blacksmiths with a love of learning. Avid readers and writers, they had deep convictions. And then this comes from the biography of the founder of FedEx, Fred Smith. And it talks about Fred and then his"
+    },
+    {
+      "timestamp": "00:11:52",
+      "text": "executive team at the very beginning. It says they were all mavericks, nonconformist, courageous, and crazy. We see a small example of that here. It says a wall in the engineering office area included two banners. One was titled the world domination index. There's an entire chapter named that it says, uh, that the world domination index was a total count of PayPal's users that day. The other was a banner bearing the words memento mori, Latin for remember that you will die. PayPal's oddball team was out to dominate the world or die trying. And then I really like this observation by Elon here. So it says Musk would later correct an interviewer who offered that PayPal was a hard company to create. The company wasn't hard to create at all, he said. Rather, it was a hard company to keep alive."
+    },
+    {
+      "timestamp": "00:12:43",
+      "text": "And then Jimmy talks about, the author talks about the fact that, you know, he's interviewing a ton of employees. He worked on this book for five years. And there's just a line here. It's funny that I underlined this at the very beginning. I'm still in the introduction and now I've read the book's 400, the version of the copy I have. I don't know what it will be when it's released. It's 414 pages. And this is a great way to think about this."
+    },
+    {
+      "timestamp": "00:13:03",
+      "text": "And it's just so these these stories are really important to read and to to to really absorb is because it talks about the true nature of business and this crazy endeavor that we choose to dedicate our lives to and it's not clean cut it's not cookie cutter the people like it is a dangerous environment the way entrepreneurs represent themselves on like an interview is not the way they really are. And that's natural. It's anybody who's like is going to present their best version themselves to the public, right? But it says many remember that the company was as cutthroat as it was creative. And it was unforgivingly intense. When you read a book about the lives of somebody that accomplished a lot or the early story of like the early days of a company the extremes are on display and those can both be negative and positive this is a"
+    },
+    {
+      "timestamp": "00:13:50",
+      "text": "positive uh like in in the aftermath because these people are being interviewed you know many years later and this is what one of the early employees said i felt like i was part of something grand and something that jimmy does that's really smart he compares it to other historical collections of talent. So let me go into that a little bit here because I thought this was an interesting idea, and I want to compare it to something I learned from this interview I watched a long time ago with Steve Jobs. So he said, I began to wonder about other – so he's talking about – so first, let me give you some background before I jump into this. He's talking about when he was doing all the research on the Claude Shannon biography,"
+    },
+    {
+      "timestamp": "00:14:25",
+      "text": "that you realize that where Claude was working at the time at Bell Laboratories, you had this insane collection of talent. And this insane collection of talent is extremely rare. And so he's like, these are special. Like when you have an example like that, you should study them and see what lessons you can learn from that. So he says, I begin to wonder about other Bell-like constellations of talent, including tech companies like PayPal, General Magic, and Fairchild Semiconductor. And so there's this British musician, his last name is Eno, and he winds up, Jimmy discovers that he had studied this previously,"
+    },
+    {
+      "timestamp": "00:14:49",
+      "text": "and he was trying to figure it out from an artistic perspective, and he says, as he looked into these revolutionaries, including people like Picasso and Rembrandt, he discovered them to be products of very fertile scenes involving lots and lots of people, some of them artists, some of them collectors, some of them curators, thinkers, theorists, all sorts of people who created a kind of ecology of talents."
+    },
+    {
+      "timestamp": "00:15:08",
+      "text": "And so he calls this scenius. So think of the word genius, but put SC on the front. Scenius, he said, is the intelligence of a whole, an operation or a group of people. It is also a useful way, now Jimmy's talking about his takeaway from that, it's useful to think about the PayPal story. Properly understood as a narrative about the lives, intersections, and intersections of several hundred individuals set at a moment in time when the consumer internet took shape. Many of their achievements emerged from the productive friction of the group."
+    },
+    {
+      "timestamp": "00:15:38",
+      "text": "At PayPal, disharmony produced discovery. And so that's going into just how many fights and you remember these are friends and in case they in many cases they went to college together they're friends of friends like that's how they started out hiring it's just like friends and then we'd hire okay you got a friend you got a friend like you okay let's see if they got friends like them so i think i think um peter later on says something it's like we just started like expanding on these concentric circles if i'm not mistaken if if he said that but But this idea of we're going to fight and argue and get in positions of discomfort to make sure that we're actually solving this problem or getting to the right answer. Steve Jobs made this observation a few years before PayPal was even founded."
+    },
+    {
+      "timestamp": "00:16:22",
+      "text": "I have notes on – it's called Steve Jobs, The Lost Interview. And according to this, I took those notes back in 2019. I want to read something for you. And this is Steve talking. I'll leave the link in the show notes too. So it says, well, this is my note. It says, this is a metaphor for teams working on a product that they are passionate about. Okay. So here's Steve. There was an 80-year-old man that lived on my street. One day he showed me a dusty old rock tumbler. We took regular old ugly rocks and some liquid and powder and put them in the tumbler he said to come back tomorrow the next day we opened the can we took out these amazingly beautiful polished rocks the same common stones that had gone in through rubbing against each other creating"
+    },
+    {
+      "timestamp": "00:17:02",
+      "text": "a little friction creating a little noise had come out these beautiful, polished rocks. It is through a group of incredibly talented people bumping against each other, working together. They polish each other. They polish the ideas. And so that idea, now looking back at what Steve's saying, with the benefit of having read this book, that line really sticks out. It is through a group of incredibly talented people bumping against each other, working together, that they polish each other. They polish the ideas. And then there's another great line here, why I think this book is worthy of study."
+    },
+    {
+      "timestamp": "00:17:36",
+      "text": "Properly understood, PayPal's story is a four-year odyssey of near failure followed by near failure. So I want to go to Max Levchins. He's the CTO and co-founder of PayPal. He might be the most, if you consider that his work wound up solving, him and his team wound up solving the huge fraud issue that came very close to killing PayPal, he might be the most important person in the story."
+    },
+    {
+      "timestamp": "00:18:02",
+      "text": "But in his early life, he's growing up in Soviet Russia, or russia rather or the soviet union whatever you want to call it and he they don't have a lot of money he discovers computers and he just completely falls in love and there's a there's actually a lesson here so he says the notion that you could tell a machine to do things in the future was this profound realization he said from now on i don't have to know everything to get stuff done i can just start writing it down and it will happen on its own later. So he gets access to a computer. He's severely limited on how much time he can spend on a computer."
+    },
+    {
+      "timestamp": "00:18:30",
+      "text": "This is in the 1980s. I think we're on 1986 or somewhere in there. And so he has to start programming with pen and paper or pencil and paper, rather. And this wind up and he says this wind up being good. So he says to preserve his precious computer time, he dev a system writing code with a pencil and paper this learning process left exacting standards and so he's talking about this is obviously i'd rather program on a computer but i don't have that option so i'm going to do it this way i'll do whatever it takes and here's his punchline this made me very tenacious i never really had the option to take the easy way out and then max"
+    },
+    {
+      "timestamp": "00:19:04",
+      "text": "talks about the importance of his grandmother she was a physicist she's an extremely strong woman and he learns from her it's like there's just it's not acceptable to give up so it says she was fortitude personified a woman who triumphed in a male-dominated field her grit seemed to him almost supernatural i had this living example of someone who would never who would never surrender under any circumstances. So they wind up having to flee because they're worried that his father's going to be disappeared by the KGB. And so they wind up immigrating to the United States. And there's two things here that a gift can change a young person's life. So if we have the ability to play"
+    },
+    {
+      "timestamp": "00:19:40",
+      "text": "this role in other people's lives, we should do so. And that you should treat life as a quest, which was fantastic. Immigrating to the United States was risky but for levchin who had just turned 16 it was the first step on an epic quest the language and cultures were new but one thing remained levchin's love for all things computers and in america he finally got to use one at his leisure it was a gift from a relative and it did something his old machines didn't it would connect And then there's some people that remember what Max was like in high school. And we're going to see that PayPal was an entire company full of people like this. He showed early signs of his hallmark intensity. He wanted to be the best at everything he did."
+    },
+    {
+      "timestamp": "00:20:30",
+      "text": "So then Max makes it to MIT, and I just want to pull out something, because I always think it's interesting when they're recommending, when other people recommend, okay, you've got to read this book, or you've got to watch this movie, it had a huge effect on me. And he uses this movie that he's going to watch over 100 times as a metaphor for startups. And so he says he became obsessed with Seven Sam seven samurai i thought it was the best movie ever i watched seven samurai at least 25 times during the course of one summer and i've now watched it over a hundred times he calls it his sole source of management training so i went to go look to see"
+    },
+    {
+      "timestamp": "00:20:59",
+      "text": "i was googling i was like okay where can i find this this movie it's on hbo max right now i started watching i watched like the first first hour of it last night. And then I also found him describing, I think this is in Tim Ferriss' book, A Tribe of Mentors. And so Max says, I don't have a book to recommend but a movie. I've watched the classic Seven Samurai more than 100 times. I used to give copies to young CEOs that I mentored. I love the movie, but I recommend it to new managers and CEOs,"
+    },
+    {
+      "timestamp": "00:21:27",
+      "text": "especially because it's fundamentally about leadership. It is a small band that risks everything to organize a ragtag group in a fight for its life. Does that sound familiar? To me, this timeless story is a near perfect metaphor for startups and then he says really quickly and if you think about this is what exactly what we're doing um i just listened to this fantastic interview with mark andreessen recently uh somebody brought it to my attention joseph who's been a long time subscriber and constantly sends me great information to use for the podcast he's like listen listen to this interview uh listen to the last 10 minutes of it and it sounds exactly what you're doing with founders and it's it's mark talking about like you know mark's famous for reading hundreds of"
+    },
+    {
+      "timestamp": "00:22:07",
+      "text": "like he's just read essentially every biography that i've ever come across and he talks about why he does this and he's like you build mental models of these people so like i have a little version of the people i read about and he's talking on his shoulder some of those people he winds up knowing in person and so he when he's presented with his decision he's like okay knowing what i know about this person's way of thinking what would this person say in this situation like what decision would they make and then he said something was fantastic and he said developing this base of knowledge is a way to stress test your ideas and so if you think about what you and i are doing here is like we're building up this this gigantic base of knowledge"
+    },
+    {
+      "timestamp": "00:22:39",
+      "text": "about the history of entrepreneurship and then we can stress test the ideas in our day-to-day lives in our working professional lives about what we know against the history of entrepreneurship, right? And so Max drew us an interesting parallel here because, like, listen, I watched this movie 100 times, and it's a perfect metaphor for startups. And the main character, I think his last name is Shimada. So he's like, what would Shimada do? So I understand how this guy thinks. I've studied how he thinks. Now I'm presented with a difficult decision."
+    },
+    {
+      "timestamp": "00:23:10",
+      "text": "I'm running it through my own calculus of like, well, what I would do. But to enhance that is like, let me ask, what would Shimada do in this situation? That is genius. So then we get to this chapter about Peter Thiel in the early days, like the prehistory of meeting up with Max. There's something that somebody says here that i've seen before as well and so before this i guess peter had set up a like a hedge fund it's called teal capital and it said he was interviewing somebody he says how are we his name's how are we i thought this last name uh returned to his dorm and said to his girlfriend peter might be the smartest person i've"
+    },
+    {
+      "timestamp": "00:23:41",
+      "text": "met in my four years at stanford i think i might work for him for the rest of my life. It was very interesting because if you read Ben Horowitz's book, The Hard Thing About Hard Things, in that book, he meets, I'm pretty sure Mark Andreessen was like 22 at the time. But it says, after the interview, I phoned my brother and told him that I just interviewed with Mark Andreessen, and I thought he might be the smartest person I'd ever met. So we see a very similar experience that Harry's having with Peter Thiel that Ben had with Mark."
+    },
+    {
+      "timestamp": "00:24:07",
+      "text": "So they wind up, they're all together at Stanford. And I think this echoes what Jimmy and Eno were saying at the very beginning. You try to place yourself in these physical locations around people that are really smart and into what you're into. And so they wind up meeting up. There's all these people that are, I mean, there's like 50 different characters in this book. And so four of them are meeting up and having a meal together and just sharing like all their thoughts and just bouncing ideas after each other. And so it's Peter Thiel and three other guys."
+    },
+    {
+      "timestamp": "00:24:40",
+      "text": "And it says the four met at a local fast casual chain. They referred to these gatherings as the billionaires breakfast club. The level of self-belief they have is amazing. We all believe that the others were going to build big things. Oh, and this is 1998. Mind you, over meals, they discuss the latest developments in technology, philosophy, education, startups, and their predictions for the future. And so one of them is this guy named Luke Nosek, who's winds up saying, Hey, I want to start my own company. Peter, you're, um, you're interested in startup investing. Will you make an investment? Uh, they're going to work together for a long time. So it says just about"
+    },
+    {
+      "timestamp": "00:25:12",
+      "text": "everything was wrong with it. So Luke has this idea for like a smart calendar app. Um, so, and then the reason I'm pulling this out is because if you, if you listen to Peter speak or you read his book, he talks about over and over again, do not build. If you want to capture lasting value, you can't build undifferentiated commodity businesses he puts a a like a cheek like a pithy maxim on this he says competition is for losers again i think that's him being a way to hook that idea in your brain i mean and this this may be an influence where he learns from this uh so he says or he learned this uh just about everything was wrong with this idea, Thiel later said. It was a saturated e-calendar space that had like 200 companies that were competing for dominance."
+    },
+    {
+      "timestamp": "00:25:54",
+      "text": "Thiel would later cite his smart calendar investment as a rich vein of learning, a failure whose lessons included minimizing competition that would pave the way for PayPal's success. And then I think this is also an example of the importance of just putting your ideas out there, even if really no one's listening or no one's showing up. Teal's giving all these lectures. I think this is at Stanford. They're at Stanford. Yeah, it's in Stanford's engineering center."
+    },
+    {
+      "timestamp": "00:26:18",
+      "text": "And Max just didn't know who Peter was. I think he was like a friend of a friend maybe. And so Max just pops into this lecture. And again, this is what if Peter decided, oh, you know what? I'm not going to, you know, maybe I don't have any ideas. Maybe I don't have like there's a level of self-belief you have to have to think that people want to hear what you have to say. Right. So what if he never did this? Well, then there's no PayPal. And what if there's no PayPal? Like there may be no very like think about all the companies that came out of the wealth that was generated from this one company."
+    },
+    {
+      "timestamp": "00:26:43",
+      "text": "You know, Tesla, SpaceX. Elon's going to wind up being the largest shareholder because he's crazy. There's many examples of that in the book. And he comes out with $180 million once eBay buys it, or maybe after the IPO. I'm not sure exactly when he sold. But regardless, he comes out of this environment with $180 million that he immediately puts $100 million into SpaceX, $70 million into Tesla. Again, these things are just so important."
+    },
+    {
+      "timestamp": "00:27:08",
+      "text": "So if you have something to say, you have ideas, even if no one's showing up. Max is coming. I'm not being clear here. Max is coming to a lecture that Peter's giving, and there's like five people there. It's just not a lot of people. So it says, small crowd notwithstanding, Thiel's talk impressed Levchin."
+    },
+    {
+      "timestamp": "00:27:23",
+      "text": "Wow, if I ever do anything in the financial world, Levchin thought, that's the dude I want to hang with. So remember that tweet I was quoting from? It's like, listen, they were just young hustlers trying to figure it out. They wind up launching. Their initial idea is to do an application for Palm Pilots at the time. This is really the prehistory of PayPal. I'm going to read it to you and then I'll explain it to you. The effort arguably represented PayPal's earliest iteration. The company now boasted an angel investor with a closet office. So that's Teal."
+    },
+    {
+      "timestamp": "00:28:02",
+      "text": "Remember, this guy probably has, I don't know, $10 or $20 billion, whatever it is now. He starts his company in a broom closet. Essentially, that's all that was available. A CTO without air conditioning. That's Max, and he's coming from Soviet. Actually, no, he's coming from MIT. Sorry. He comes from MIT to California, and he's got his tiny little apartment without air conditioning."
+    },
+    {
+      "timestamp": "00:28:23",
+      "text": "And a CEO with a 2100 mile commute. This is this older guy named Powers who is commuting on the weekends. So he's got a job. I think he's in Chicago and he's got to fly in on Friday night work and then come back on the early morning Monday and go back to work. And so again, this is the prehistory of PayPal. You've got a company with an angel investor working out of a broom closet, a CTO with a tiny apartment and no air conditioning, and a part-time CEO that has to commute 2,100 miles. And then it talks about the important relationship that Max and Peter had together. And it says, founders have to have somebody they can actually trust. There are so many people who are good at being good to you when things are great but when shit's not really working who do you objectively talk to Levchin and Thiel had each other they burned so brightly"
+    },
+    {
+      "timestamp": "00:29:10",
+      "text": "and so differently they are one of the best examples of a great partnership and so the note I left myself on that page was Charlie said the same thing and I think this is a really important point uh that they're picking up on the relationship between Peter and Max and what Charlie realized in his very long career. And Charlie said, Everybody engaged in complicated work needs colleagues. Just the discipline of having to put your thoughts in order with somebody else is a very useful thing. So if you read the biography of Elon Musk,"
+    },
+    {
+      "timestamp": "00:29:37",
+      "text": "you know that something he did, what he would read the newspaper and he'd just cold call people that he thought were smart and interesting and try to get them to meet with him uh he winds up meeting this guy that's a executive at nova or excuse me scotia bank and i just want to give you a description this he wants to becoming a friend and mentor to elon and his name's nicholson and i'm just giving you a real quick like his impression of meeting elon when elon was 19 years old uh So it says, he was very, very bright. He was very curious. And he was already a very, very big picture thinker."
+    },
+    {
+      "timestamp": "00:30:11",
+      "text": "And so it's through this internship that Nicholson gets Musk at the bank, where Musk just has this, like, these people are morons. If I ever have to compete, like, I would not be worried about competing against bankers. He says if they're this is Elon looking back at this time, if they're this bad at innovation, then any company that enters the financial space should not fear that the banks will crush them because the banks do not innovate."
+    },
+    {
+      "timestamp": "00:30:36",
+      "text": "Must said. And so there's a couple of highlights here that are just really interesting. It's Elon on not needing business school, on the importance of studying physics, on reading, and then the importance of asking the right questions. And so he's a dual major. He's studying physics and finance. And so it says if he had to redo his studies, he admitted he might have ditched the business classes altogether. Musk's passion for physics predated college. I had an existential crisis when I was 12 or 13, he later said."
+    },
+    {
+      "timestamp": "00:31:04",
+      "text": "And I was trying to figure out what does this all mean, meaning life. Why are we here? Is this all meaningless? In the midst of that crisis, Musk discovered a science fiction novel that offered hope. It was Douglas Adams, The Hitchhiker's Guide to the Galaxy. And so he talks about the stuff, like this actually soothed him. This is interesting because I've had this own realization, like I really feel, I'll tell you in a minute. He learns, so he's talking about what he's learning in the book. He learns of an old species of hyper-intelligent beings who had constructed a computer called the deep thought"
+    },
+    {
+      "timestamp": "00:31:33",
+      "text": "to seek an answer to the ultimate question to life, the universe and everything. The Hitchhiker's Guide to the Galaxy soothed Musk's existential worries by suggesting that framing the right questions was as important as divining the answer. A lot of times, Musk explained, the question is harder than the answer. And if you can properly phrase the question, then the answer is the easy part. And so it's interesting that he was soothed by reading this book."
+    },
+    {
+      "timestamp": "00:32:00",
+      "text": "I really feel if you read a lot of biographies you read especially of you know people that are that have already died my own experience that is that's the same word i would use it's like weirdly soothing that you see life is going to play out death is undefeated it's not something you can avoid so let's get to it let's build let's have a quest to treat life as a grand adventure uh tomas physics asked the right questions he started to read the work of uh of dr richard feinman i've read the work of Dr. Richard Feynman. I've read like three of Feynman's books, including his autobiography. I'll probably throw that on the podcast at some point. The internships exposed Musk to the world of technology startups,"
+    },
+    {
+      "timestamp": "00:32:32",
+      "text": "and he found people who, like him, labored around the clock, relished video games, and would solve math puzzles for fun. And then it goes into the behavior we see of like Musk, like what Musk was like in his early 20s, moves out to California, starts his own company. This is Zip2. This is when, you know, he starts his, I just work. I wake up. I open my eyes."
+    },
+    {
+      "timestamp": "00:32:52",
+      "text": "I work. I work until I fall asleep. He literally lived in the office. He would shower at the YMCA. So I'm going to fast forward through some of this history. But it says Zip2 grew throughout late 1996 and 1997. One's being like a technology company that powers media companies, essentially. So they get investment from Knight Ritter, SoftBank, Hearst, Pulitzer Publishing, and other companies, and the New York Times, actually."
+    },
+    {
+      "timestamp": "00:33:15",
+      "text": "Only two years into its existence, the company powered sections of 140 different newspapers. The growth came at a price, though. Musk clashed with his investors and fellow executives, who raised questions about his leadership. He was impatient and perpetually sleep-deprived. He was prone to setting unreasonable deadlines, chewing out other executives and colleagues in the open, and retooling code written by other people without asking first. maniac he says later on he said listen this is the first time i ran everything i didn't even play team sports like i never managed people um you know his aggressiveness and all those uh those traits i think he still possesses today but hopefully but he says that he's better at dealing with other people uh this is i'm gonna fast forward so we can get to the paypal it all came to a conclusion early the following year zip to zip to sold to compact for 307 million dollars in cash for musk that purchase meant a $21 million payday. To this day, that moment astonishes him."
+    },
+    {
+      "timestamp": "00:34:08",
+      "text": "My bank account went from $5,000 to $21,005,000, he said. He was 27 years old. And then you're going to see he does something, like when he starts X.com, he just throws a bunch of his own money into it. He doesn't even try to raise investments. We see this over and over again. He'll eventually raise money in the future and I think in every endeavor. But this idea, it's like why would – his app is like he's full risk on."
+    },
+    {
+      "timestamp": "00:34:35",
+      "text": "Why would you do that? And part of the reason is because he has this great insight about the internet. And so he says, the business types treated the internet as a 20th century gold rush. Musk saw it differently. I thought it was something that would fundamentally change the world. It was like a nervous system for the world that could potentially make humanity somewhat of a superorganism. So then he starts x.com and here's some people that are working with him. And really I'm bringing this to your attention."
+    },
+    {
+      "timestamp": "00:35:12",
+      "text": "This is the impressions they had of Elon in 1999 he's one of the greatest salesmen I've ever met he's like a Steve Jobs when he articulates something he tends to find the kernel that will appeal to a broad mask a broad mass of people intuitively and that we're still in 1999 An early employee goes to Elon's apartment. And this is what he says. He was very high energy. Very much, let's go. Let's get something going and do something. Build something. Let's achieve something."
+    },
+    {
+      "timestamp": "00:35:32",
+      "text": "He walked into Musk's bedroom. The room was literally filled with books. Biographies about business luminaries and how they succeeded. It kind of clicked to me that Elon was prepping himself and studying to be a famous entrepreneur it's funny because that's what my bedroom looks like now I've long since run out of shelf space so then Musk talks about fixing a mistake that he made with his first startup and he's got a really important insight about marketing and it's just one human communicating to another do not over compl it. Musk had outsourced the renaming of GlobalLink, that is one of Zip2's"
+    },
+    {
+      "timestamp": "00:36:08",
+      "text": "products, and regretted it. I had deferred brand and marketing and whatever to people I thought were domain experts, Musk said, and then discovered subsequently that you just have to use common sense. And that's actually a better guide. And then we see this risk-on attitude that continues, I mean, for the rest of his companies, right? Musk rolled much of his Zip2 windfall into X.com, investing $12.5 million and purchasing the X.com domain with his personal funds. At the time, I thought, he's nuts. Honestly, he's nuts. Indeed, staking so much of one's net worth on a new startup was noteworthy, in large part because Musk didn't have to. And so they made the point at this time when he's trying to raise money for X.com or when he's investing his money for X.com, it was a very friendly environment to people raising money for internet companies."
+    },
+    {
+      "timestamp": "00:36:56",
+      "text": "And if somebody that just had a successful exit of $300 million could raise money easily. He did not have to do this. What was interesting to me is the signal. I didn't even think about this, like this other effect that it could have. The signal it made to other people that he was trying to recruit because he's saying, listen,"
+    },
+    {
+      "timestamp": "00:37:11",
+      "text": "they're throwing around, everybody's throwing around money. It's very hard to recruit engineers. I need the best talent. And so it says, this wind up, the fact that he put so much of his skin in the game, people would choose him if the two offers were equals like i'm"
+    },
+    {
+      "timestamp": "00:37:25",
+      "text": "going with the guy that actually put money behind it because he clearly believes in it musk's personal investment made for a winning recruitment pitch i'd make a phone call for recruiting or whatever and say oh he's got 13 million of his own money in it a high this was a this was an example of a high profile founder betting his fortune on the company so i I want to stay here for a second because this is Elon post-Zip2, but pre-PayPal, right? We're in the X.com. His mentor hooks him up with this guy, Fricker, who is also used to running his own thing. So this guy's not going to last very long, but there's just a lot of valuable insights on these two pages, a bunch of double honor lines, and damn, that's good, and little notes that I left on this."
+    },
+    {
+      "timestamp": "00:38:06",
+      "text": "So it says, Elon was very good at pointing to the future just as he is today and saying, the objective is over there, and I know it's over there, so we should all go over there. Vision weighed as much as data. There's a reason why entrepreneurs who succeed in technology get paid as well as they do. It's because it's not a straight line. It's not a straight line between I build the factory and the widgets come out and the widgets get sold. Musk had learned, this is one of the parts that where I underline twice, Musk had learned that startup success wasn't just about dreaming up the right ideas as much as discovering and then rapidly discarding"
+    },
+    {
+      "timestamp": "00:38:41",
+      "text": "the wrong ones. And so listen to what Elon says here. This is an extremely interesting perspective. You start off with an idea and that idea is mostly wrong. And then you adapt that idea and keep refining it. And then you listen to criticism. And then you engage in a sort of recursive self-improvement. Keep iterating on a loop that says, this is so perfect. Keep iterating on a loop that says, is so perfect keep iterating on a loop that says am i doing something useful for other people because that is what a company is supposed to do too much"
+    },
+    {
+      "timestamp": "00:39:13",
+      "text": "precision in early plans he believed cut that iterative loop prematurely and so this is just one the first example of dozens in the book where you have people within a company fighting with each other and it says some co-workers found the conflict confusing this is between musk and fricker others were less surprised musk and fricker had both run the show in prior roles power sharing wasn't a particular strength for either of them and what's crazy about how tumultuous and just how messy this whole process is. PayPal's messy, the stuff that happens before PayPal's messy. There's four co-founders of X.com. Three out of the four leave before the PayPal merger."
+    },
+    {
+      "timestamp": "00:39:54",
+      "text": "And so Fricker sends an email to Musk, and he's just like, you know, are you not all in on this? And so it says, Musk responded but rejected Fricker's premise that he was asleep with the wheel. So this gives you an insight into just how crazy he is. And this is Musk writing to Fricker. I think you may misread me a little. My mind is always on X by default, even in my sleep."
+    },
+    {
+      "timestamp": "00:40:15",
+      "text": "I am by nature obsessive compulsive. What matters to me is winning and not in a small way. And that line right there, what matters to me is winning, is the name of this entire chapter. And something came to mind as I'm reading this book. And it really comes to mind when I'm reading. There's just not very many non-obsessed people that we talk about, right? They are by nature obsessive. But this idea is like, you misread me."
+    },
+    {
+      "timestamp": "00:40:38",
+      "text": "My mind is always on X by default, even in my sleep. I am by nature obsessive compulsive. And what matters to me is winning i had this uh this highlight i saw on uh on youtube and it's about highly successful people are usually insane and there was a quote in there i wrote down and really this this quote popped to my mind because there's a bunch of people like this in this book and it says you think the people who run things are just sitting at home smoking big cigars. That's not true. I know lots of people like that. They work all the time, all the time from the second they wake up until the second they go to sleep. And they don't just"
+    },
+    {
+      "timestamp": "00:41:14",
+      "text": "casually work. These people who are running things, the vast majority of them first are self-made. And second, this is really the punchline, they are so bloody efficient and smart, you cannot believe it. And they work 80 hours. Before I finish this other punchline that I thought was interesting in this little clip, that is something I cannot tell you how many times I put down this book and said, damn, that's smart. Damn, I can't believe they came up with this idea. This idea, they are so bloody at the very top, right? So I had this idea, and I don't bloody at the very top right so i had this idea"
+    },
+    {
+      "timestamp": "00:41:45",
+      "text": "and i don't have a good way to explain to you i think i mentioned to you before but i think on the macro level this is the way i have it in my mind and i got to figure out how to explain it better but like on the macro level i think people vastly overestimate the level of competition most people are not thinking about starting companies even the large percentage of people that do think about starting and never do then you have a smaller percentage that do start companies and you just don't have to worry about those people at all and then the the further down you get on the line the more micro you get then you vastly underestimate the competition and so when i hear this person saying they are so bloody efficient and smart you cannot believe it i think of like"
+    },
+    {
+      "timestamp": "00:42:20",
+      "text": "a jeff bezos pops to mind. Highly intelligent, highly driven, and highly ruthless. And fully committed every hour of the day. Go back and read their biographies. Go back and read the early history of their companies. They're not lollygagging. They're not taking days off. They're insane. And so it says, the people who are running things, the vast majority of them, first are self-made."
+    },
+    {
+      "timestamp": "00:42:40",
+      "text": "And second, they are so bloody efficient and smart you cannot believe it. And they work 80 hours a week. There's a small number of insane people who will do nothing but work 80 hours a week no matter where you put them if you put them in the middle of a forest with an axe all they would do is run around chopping trees and so on i'm reading this old email by a late 20 he's 27 28 years old when he's writing this email he's like i think about this in my sleep all i care about is winning and i think it's just so hard to understand the variance between a person like that and like an average joe or jane they're almost like a different species i want to get to this really interesting because a large um influence of what they were"
+    },
+    {
+      "timestamp": "00:43:14",
+      "text": "trying like at least on the paypal like the peter teal and uh max left side they were very interested in creating like uh their own currency like their own almost like this own version of their own little sovereign nation so their initial idea which i'm going to skip over, there's a lot more detail. You got to obviously read the book. I mean, I can easily recommend this to anybody building a company. There's just too much valuable information here. In fact, you can pick stuff for like 25 bucks. It's crazy. But the initial idea is that they're going to beam money using Palm Pilots. Max is studying up on cryptography, and that's like a huge part of the initial product of, at this point, the company's called Confinity."
+    },
+    {
+      "timestamp": "00:43:52",
+      "text": "And so they go to a conference, and it's interesting because Peter Thiel is convinced that the Bitcoin creator was actually at this conference. It says, in 1999, Levchin attended the International Financial Cryptography Association Conference hosted in Aguila. The annual gathering drew the leading players in academic cryptography and digital currencies. To this day, Thiel, who attended the 2000 conference, harbors a theory that Satoshi Nakamoto, the mysterious founder of the cryptocurrency Bitcoin, was among the attendees."
+    },
+    {
+      "timestamp": "00:44:18",
+      "text": "To the assemblage of financial crypto experts, Thiel and Levchin came off as arrogant, uninformed outsiders, unaware of the decade of wasted effort before their arrival on the scene. And so what they're talking about is they're trying to raise money for their startup. And it's unbelievably difficult because of what they're choosing to do. I'm going to finish this, but the reason I'm bringing this to attention is as a reminder, it's supposed to be hard. It took Jeff Bezos 50 meetings to raise a million dollars. He talks about that in speeches over and over again. It's like, oh, it took 50 meetings just to raise a million dollars. The most common question at these meetings was, what is the Internet?"
+    },
+    {
+      "timestamp": "00:44:57",
+      "text": "That's crazy to think of. That's a trillion-dollar company now. It took 50 meetings to raise a million dollars. Venture capitalists, too, were unenthused. During what Thiel called an excruciating process, the team presented over 100 times, with pitch after pitch falling flat. As rejections piled up, the team grew desperate. And so many times, reality is stranger than fiction. This is such a coincidence. These two companies are going to wind up at different starting points and then"
+    },
+    {
+      "timestamp": "00:45:21",
+      "text": "wind up at the same emphasis, which is this idea they wind up pivoting to both companies, Confinity and X.com, the idea that you should email money. And they wind up being neighbors. Confinity and X.com occupied adjoining office suites in Palo Alto. It started as a mere coincidence. X.com and Confinity were neither competitors nor collaborators. Confinity pursued mobile money transfer and cryptography while X.com went about building its financial services superstore."
+    },
+    {
+      "timestamp": "00:45:48",
+      "text": "So you think about the way to describe what Elon's idea was, like the Amazon of financial services. Each company thought the other was misguided. Despite divergent approaches to financial technology, the company's CEOs shared an obsession, getting noticed. Just as Musk courted media attention for X.com, Peter made generating headlines a top priority."
+    },
+    {
+      "timestamp": "00:46:11",
+      "text": "In this environment, Peter sees a lot of excess. The lesson here is a good question to ask yourself before spending company money. Will this improve our product and help us achieve our mission? As the internet boom began, startup excesses flooded the Bay Area. Expensive team retreats, parties, and limitless alcohol, and pricey billboards. None of it, Thiel and Levchin thought, credibly advanced a given company's products or mission. They would not use the millions that they had raised for such excesses. So then you talk about, okay, how the hell do you recruit very talented people?"
+    },
+    {
+      "timestamp": "00:46:46",
+      "text": "You're not going to pay them a lot. And so Levchin just has a lot of good advice. You have to find undiscovered talent and you have to give them something more than money. You cannot compete with the large companies on money. And so he says, to win recruits over, the team crafted an edgy sales pitch. So Levchin is going to describe this. He says, engineers are very cynical people. They're trained to be, and they can afford to be, given the large number of companies that are trying to recruit them in Silicon Valley. Since engineers think any new idea is dumb, they will tend to think that your new idea is dumb."
+    },
+    {
+      "timestamp": "00:47:12",
+      "text": "And they get paid a lot at Google. So he's describing this years after PayPal, okay? So he says, why would they stop doing that to do your dumb thing? So the way, and this is where he's going to get to his advice. So the way to compete against the giants is not with money. Google will outbid you. They have an, oh, this is such an interesting way to think about Google at the time. They have an oil, Derek, that spits out 30 billion a year. To win, you need to tell a story about cogs. At Google, you're a cog. Whereas with me, you're an instrumental piece of this great thing that we'll build together."
+    },
+    {
+      "timestamp": "00:47:47",
+      "text": "Articulate the vision. Don't even try to compete on pay. Meet people's cash flow needs. Pay them so they can cover their rent and go out. It's not about cash. It is about breaking through the wall of cynicism. It is about making 1% of this new thing way more exciting than a couple hundred grand in a cubicle at google and then this might be this is one of the most"
+    },
+    {
+      "timestamp": "00:48:12",
+      "text": "important ideas in the entire book because paypal probably the early days of pay i'm just going to call paypal even though it's x and infinity at the time you you know where this is going okay paypal prioritize speed on everything over everything else except in one category recruiting they would rather staff slowly than compromise on quality and what levchin says here is fantastic okay so he says levchin kept the bar high for talent or kept the talent kept the bar for talent exceedingly high even if that came at the expense of speedy staffing. And this is what he says. Max kept repeating, A players hire A players."
+    },
+    {
+      "timestamp": "00:48:51",
+      "text": "B players hire C players. So the first B player you hire takes the entire company down. And so they found a way to limit the chance that a B player is going to slip in there. Additionally, PayPal's leaders mandated that all prospects meet with every single member of the team. And then we get our first introduction to David Sachs. David Sachs winds up becoming a major, he's a huge character in this book. He's all over this book. Peter had to overrule everybody else to bring him in because Sachs thought the idea was like you're beaming palm pilots."
+    },
+    {
+      "timestamp": "00:49:26",
+      "text": "This is stupid. No one has palm pilots. He's like you have the product and you bury the product on your homepage. He's like the product is sending money through an email address. So it's not in full chronological order here. They're going back and forth. But I want to give you an idea. Like the energy of the company would convince recruits to join and take a chance."
+    },
+    {
+      "timestamp": "00:49:47",
+      "text": "And they're just on it 24-7. There is no like they're like we said earlier. It's a small group of insane people. Sacks invited Lee to visit the office at 10 p.m. and given the hour she expected to stop by and then move on. But a short meet and greet was not to be. It was a full on interview. She recalled interviewing people at 10 a.m. at 10 p.m., which I was not prepared for. By the time she left at 2 a.m., she had spoken to nearly every employee. And then she winds up accepting because she says, I can't really put words on it because I go by my gut. But the energy there, I hadn't felt that before. And I'm like, there's something here. There's another, this person's name is Denise. It says, she came to meet the team. I left the"
+    },
+    {
+      "timestamp": "00:50:24",
+      "text": "interview not being able to tell you anything exactly about the product or much else other than that those these are the people that i want to work with they're clearly hyper competitive they're clear she's emphasizing these words these are her emphasis not mine clearly hyper competitive clearly workaholics clearly want to change the world i was just like like, wow, I found my people. So now they recruit another person that you're going to know who is. This is the future founder of LinkedIn, Reid Hoffman. And this is fantastic because this idea that Paul Graham has popularized that at the very beginning of your company, you need to do things that don't scale. And you learn information, value information when you're doing that. And he says like in his observation of all these great"
+    },
+    {
+      "timestamp": "00:51:04",
+      "text": "companies, they all did things that don't scale at the very beginning and in this case doing things that don't scale lead to a breakthrough and so this is what reed says we're living in the heaven of palm pilots and we would walk into every single restaurant and go to each table so they'd go they're in palo alto they're like this is you know the center of tech if the highest percentage of people adopting this new device and they don't even have it what are we doing here so it says we're living in the heaven of palm pilots and we would walk into every single restaurant and then we'd go to each table and ask how many people have palm pilots the answer was between zero and one per restaurant and that means that your use case can only be used"
+    },
+    {
+      "timestamp": "00:51:39",
+      "text": "between zero and one times you're hosed it is over on this idea leptin so it talks about this idea of what happens if you need to complete a transaction you forget your palm pilot and so they stumble on this idea their main idea by trying to fix a problem that for a product they're not even going to continue to build leptin proposed a workaround suggesting that paypal uh the paypal's website could be set up to send money via a user's email address when and this is the crazy part when emailing money remember the foundation the entire foundation of their company when emailing money was first suggested few recognized it as a eureka moment and then looking back it seems weird too because they're like listen the email money demo dramatically simplified this sequence which is i'm one person trying to"
+    },
+    {
+      "timestamp": "00:52:22",
+      "text": "pay another you can pull out the Palm Pilots, use the infrared, and sometimes it works, sometimes it doesn't. Oh, you don't have a Palm Pilot, you can't do this. It's like, well, everybody has an email address. So again, a way to think about this is, is there something that you're not working on that can be like a more simple version of what you're doing? The email money demo dramatically simplified the sequence."
+    },
+    {
+      "timestamp": "00:52:40",
+      "text": "Within weeks, Levchin had become an avid user of the Afterthought product, even as he remained committed to the vision of the original and he looks back he's like I didn't understand how stupid I was being at that point he says that should have been a clue I had become an avid user of an afterthought product but I'm still committed to the vision of the original that I'm not really using and then think about this go back to that idea that we had learned we just learned from Elon where he's like you need to keep yourself in this recursive loop of self-improvement and the loop this read this this iterative loop is just keep asking am I doing something useful for other people because that is the entire foundation of a company and if you apply Elon's thought process to what Max is"
+    },
+    {
+      "timestamp": "00:53:18",
+      "text": "experiencing here it's like yeah I'm doing something useful because I'm using it all the time this email product's great and I'm not I'm not using what I'm focused on. And to me, that's another really important point of studying the early days of their lives because you see the mistakes and the struggles of smart, driven people. So back to the book, it says, Another person who severely doubted the money-beaming's viability was a recent hire who would play a pivotal role in the company's success, David Sachs. They owned Sachs, had attended Stanford together."
+    },
+    {
+      "timestamp": "00:53:45",
+      "text": "Sachs didn't pass the Aura test. Remember, this idea is like where everybody has to meet them. So this is an early, they don't name the person who said this. This is an early team member. The team objected in part to Sachs' total dismissal of the PalmPilot product. It was a dumb idea. There were two problems, Sachs remembered. One is there's only 5 million Palm users."
+    },
+    {
+      "timestamp": "00:54:04",
+      "text": "So unless you're with somebody who also had a PalmPilot, the app is remembered. One is there's only 5 million Palm users. So unless you're with somebody who also had a Palm Pilot, the app is useless. And then there's the other problem. Even if you're with somebody who's got a Palm Pilot, what would you use it for? Nobody could really come up with anything other than splitting dinner tabs. And so I always think about what DeGaulle said, that when he was so weak, intransigence was his only weapon. And there's just example after example of Sachs being intransigent. And this book, In Hiring David Sachs, Thiel pulled rank and overruled the team's objections. This was a rare move for Thiel, who believes Sachs a rare candidate. After all,"
+    },
+    {
+      "timestamp": "00:54:35",
+      "text": "few people would come into an interview guns blazing against their prospective employer's flagship product. Thiel valued bracing honesty, and he trusted trusted that sax would speak candidly so it's another example they're just they're not running away go back to steve jobs rock tumblr story he's like don't run from disagreement run towards it so while that's happening at paypal or confinity or whatever you want to call it we got to go back to x.com we're still in 1999 so now they haven't linked up yet this is the late summer of 99 this is is crazy. What am I about to read to you? So I'm going to read to you first, and I'm going to tell you why I think it's crazy. So in late summer of 1999, Elon Musk's X.com was a pale shadow of the digital finance behemoth he envisioned."
+    },
+    {
+      "timestamp": "00:55:14",
+      "text": "X.com had no finished products and a hollowed-out team. The employee directory now contained a mere five names. Missing were the company's founding president and COo the cto and vp of product development the cfo the principal architect and the vp of corporate development why is that crazy because three years later elon musk will make 180 million dollars from this broken situation that he's currently finds himself in so even though musk has a large amount of his own money in the business he decides to raise money and so he winds up meeting with Michael Moritz at Sequoia Capital."
+    },
+    {
+      "timestamp": "00:55:47",
+      "text": "Michael Moritz has a very interesting life story. He wrote that book that I did back in like founders, maybe 76 or something in there. It's The Little Kingdom. It's like the, it's about Apple. It's like the first, he was at the time, I think he was a reporter for Time Magazine at that point in his career."
+    },
+    {
+      "timestamp": "00:56:03",
+      "text": "I can't exactly remember, but he winds up writing that book. It's like the first five or seven years. It's like a snapshot of the first five or seven years of the history of Apple, which is very fascinating. He winds up getting an adventure. He winds up becoming a billionaire. So it says Moritz cut an unconventional figure in Silicon Valley. He was an Oxford graduate with a Welsh accent."
+    },
+    {
+      "timestamp": "00:56:20",
+      "text": "He was a former Time magazine journalist with limited technical background. But his years of reporting honed his instinct for talent and ambition in one famous deal he secured a 25% stake in yahoo for a million dollars back when it's yahoo's founders were still working in a trailer and so moritz is going to invest in elon and he says something that's really interesting that elon remembers he says, this is August 1999. And he says, Moritz was like, dude, you should not have basically everything you own except your house and your car in a company. Musk remembered. And Moritz makes a good point."
+    },
+    {
+      "timestamp": "00:56:56",
+      "text": "He's like, if I knew what was about to happen, we might not have done it. Had Moritz and Sequoia known precisely what they were signing up for, he'd wondered if they had signed up for all. At all, rather. I think we waded into it perhaps the same way that Elon and and then peter and max waded into it with a level of ignorance so i always find uh it interestingly to think about the traits they had back then that they still have now there's just a memo leaked where elon just i think it was in spacex no mistake he was apoplectic on the use of acronyms he wants simple language uh so you see this at this point they're hiring some older people and they call them gray hairs they're not i don't even think they're they're that old it's just everybody else is like they're early early to mid-20s another of the gray hairs who joined"
+    },
+    {
+      "timestamp": "00:57:33",
+      "text": "shortly after was sandeep lau his interview with musk was memorable i remember that i used the words change management and musk said stop using bullshit words and then we see an example of muscle leaning from the front i just read that book it's on the first six years history of spacex called liftoff it's also in the archive if you want to check it out and we see that he what what they're about to say what his employees at x.com are about to say about him here they say the exact same thing you know decade and a half later maybe like a decade later and there's spacex maybe less than that so anyways it says uh we slept under desks even elon slept under his desk he didn't pull himself away from"
+    },
+    {
+      "timestamp": "00:58:09",
+      "text": "that sort of thing the engineers recall their ceo working elbow to elbow with them do naughty technical challenges most ceos are not very transparent with their staff elon was like listen we're in the trenches together let's do this it was powerful to work with him because of that and this is an interesting sentence if you think about this business is going to be sold for 1.6 billion dollars three years later we didn't even have an i didn't have an office or a desk i had a chair and a milk crate so there's several coups in the book uh it's a coup at x.com they're trying to get rid of Musk, which is not going to happen. There's a coup to get rid of the original CEO of PayPal when they joined together. Then there's another coup to get rid of Musk that's successful, and then Peter Thiel takes over."
+    },
+    {
+      "timestamp": "00:58:55",
+      "text": "But this first coup just happened or just attempted to happen. And really, I'm reading this section to you because one of my favorite ideas that I've ever read comes from Derek Sivers. And I'll leave a link in the show notes for the art. I've read the entire thing on past podcasts before. But it's this idea that there's no speed limit and that the standard pace is for chumps. And we'll see how fast they move here. It was the summer of 1999 and X.com's banking heavyweights had tried to oust Musk as CEO and then they fled. The company, quote unquote, was essentially a mysterious URL, some loyal holdouts,"
+    },
+    {
+      "timestamp": "00:59:26",
+      "text": "Musk's dwindling capital, and an idea. Four months later, this is what I mean about there's no speed limit in life, right? You can go as fast as possible. It was wild to me. I just talked about this"
+    },
+    {
+      "timestamp": "00:59:37",
+      "text": "to somebody on the phone yesterday was that, because they have like several outlines in the book of like progress later on. PayPal goes from 1,000 paying customers to 10 million in less than two years. So it says four months later, that episode was ancient history. So all this happens in the next four months."
+    },
+    {
+      "timestamp": "00:59:55",
+      "text": "In the intervening period, X.com earned funding from a top-flight venture firm, that Sequoia, built a functional product, grew its engineering and management benches, and signed agreements with banks at home and abroad. As ever, Musk wanted faster, more thoroughly dazzling results. So there's a series of disasters in the press for both companies and when they join together. And there's this weird thing that humans haven't figured out, especially in the age of the Internet. If you dislike something, in many cases cases talking about it can actually help it it's like you should starve it of attention right you think of attention as the oxygen for that something and so think of variation of this idea is the idea that it's a streisand effect it's like when you"
+    },
+    {
+      "timestamp": "01:00:38",
+      "text": "have an attempt to hide remove or censor information it has the unintended consequence of increasing awareness of that information and so you get all the negative press about this this event that happens at x.com and this is the result the extensive coverage although it was negative left x.com with more signups than before the negative headlines and so in parallel x uh elon and x.com are going to realize like it's there's just so many regulatory barriers like he wanted literally you sign in x.com and every single thing your bank accounts there your investments are there like it is your home for money it is the amazon of money right and then they wind up in the interim figuring out hey we can tie people's instead of having account numbers we'll have your account will be your email address then you can send money that way and he comes to a realization where elon"
+    },
+    {
+      "timestamp": "01:01:24",
+      "text": "was like this is this didn't make sense because it would seem so stupid and trivial to me. And so he says, it was trivial to do a money transfer. It's like super dumb. My kid has made one, and he's 12. He's saying it's just literally you have an SQL database, and you're just moving it to another row in the database, right? He says they initially thought of it as a user acquisition engine, not as the end product."
+    },
+    {
+      "timestamp": "01:01:45",
+      "text": "And so there's another early X.com employee. She's going to stay with PayPal for a while. Her name is Amy Clement. She recalled that the X.com team thought that the person-to-person payment product is simply a user acquisition engine. It wasn't the core business. That was the online financial superstore. Indeed, Musk was frustrated that X.com's other products didn't generate the same excitement. We would show people the hard part, the agglomeration of financial services. This is Musk speaking. And nobody was interested. Then we'd show them the email payments, which was the easy part."
+    },
+    {
+      "timestamp": "01:02:14",
+      "text": "And everybody was interested. And so what Musk was saying there about this is super frustrating. This is really hard. I want to show it off. And yet you're interested in this thing that was super easy for me to do. There's a quote i keep on my phone i always think about and it says people pay you according to how valuable they find your work not how hard you find it basic fact of life many don't understand and then there's"
+    },
+    {
+      "timestamp": "01:02:36",
+      "text": "also like during this section musk picks up on another interesting insight and and really what i thought about is like oh this is an interesting insight. Take something that already exists and marry it to a fast-growing technology, what they did, and this is why it was also confusing. Why is it so impactful? So he says, it wasn't even that we invented money transfer. We just made it useful, Musk said. Other companies had the idea of doing payments before Confinity or X.com. They just didn't do it right."
+    },
+    {
+      "timestamp": "01:03:03",
+      "text": "And so is it possible? Can you take something that already exists and then marry it to a fast-growing technology? A lot of people have email in the late 90s, but it's also growing rapidly. And you compare and contrast to their other ideas. Like, well, there's 5,000 Palm Pilots. What are we doing here? Can't build a big business off that. So at this point in the story, David Sachs is in control of the product at Confinity. And I'm going to compare this to something I learned about Steve Jobs. It was really interesting."
+    },
+    {
+      "timestamp": "01:03:25",
+      "text": "He soon discovered that the product manager was much about avoiding distractions as producing breakthroughs. As I took over a product in the company, Sachs remembered, I kind of became like Dr. No. Because I'd always have to say no to everyone's stupid ideas. It was really important that we not squander our precious engineering bandwidth on ideas that didn't make sense for the long-term strategy of the company. So that idea, that's a variation of obviously Steve Jobs' idea that focus is saying no. Sacks became a zealot. He's got a really important idea here. It's like make your product as easy as email."
+    },
+    {
+      "timestamp": "01:03:53",
+      "text": "It's fantastic. Sacks became a zealot for efficiency within Confinity and simplicity without. A zealot for efficiency within the confines of the company and then simplicity without the company so on the outside of the company when he saw when he saw for instance that the early iteration of the paypal signup process so i don't want to confuse you paypal was the product name before confinity is the company paypal is the product name they came up with eventually confinity and x.com are going to merge it's going to be called x.com and the product will be called paypal eventually like hey the freaking name of the company should be paypal okay so it says when he saw for instance that an early iteration of the"
+    },
+    {
+      "timestamp": "01:04:33",
+      "text": "paypal signup process forced new users through seven web pages he was horrified on the office whiteboard he outlined a new single signup page form and after getting approval from Thiel and Levchin, Sachs marched all the engineers in and said build this. Sachs was like I do not understand why this is so complicated it should be as easy as email and then they started taking that that that saying and putting it on the company's walls as easy as email graced the office walls. So I did a bonus episode on that book, Insanely Simple, The Obsession That Drives Apple's Success."
+    },
+    {
+      "timestamp": "01:05:10",
+      "text": "It's in the archive if you want to see it. And so there's a story in the book where these people are getting ready. They have all this demonstration ready. They're about to meet with Steve. They go through all this work. They're waiting for him to show up. He walks in and this is what happens. Mike was shocked when Steve jobs walked into the room"
+    },
+    {
+      "timestamp": "01:05:26",
+      "text": "ignored their work and walked right up to the whiteboard here's the new application he said it's got one window you drag your video into that window then you click the button that says burn that's it that's what we're gonna make and then he walked out the room and so this is really interesting. The takeaway here is like you need to read emails from your customers. And so Steve Jobs is known for responding to email. Jeff Bezos is known for responding to email from customers. I say it's like a variation of what the founder of UPS realized."
+    },
+    {
+      "timestamp": "01:05:59",
+      "text": "It's like you're getting filtered information for your executives and you get it unfiltered from your customers or the people working your front line. So that's why Jim Casey, the founder of UPS, would always when we saw UPS truck, he'd pull over and he talked to the driver. He's like, because this guy is going to he know that he's the interaction with the customer. He's going to tell me to be straight as opposed to what I'm getting to my executives. And so they wind up realizing, hey, people are adapting our product in ways we didn't understand and it was really important because ebay becomes the entire like that's the platform they build their future"
+    },
+    {
+      "timestamp": "01:06:31",
+      "text": "success on and so says sax recalled the precise moment the team discovered paypal's use on ebay an ebay user had emailed confinity customer service seeking permission to use the paypal logo on the auction page she also wanted the team's help resizing the logo. The team wondered if the logo resizing ask was a one-off request or if there might be more people like her. Luke Nozick, Chad Hurley, Chad Hurley is going to be one of the founders of YouTube, and David Sachs huddled together and searched ebay.com for the term PayPal."
+    },
+    {
+      "timestamp": "01:07:03",
+      "text": "Thousands of auction listings popped into view it was one of these holy shit moments sack said and then there's just a bunch of like these great one lines you know because these people are just the amount of lived experience they have it's just incredible and so this idea from this one-liner from reid hoffman i thought was great to give you an idea of the story in the book he He says the cadence of learning at a startup fucking intense is an understatement. So there's a bunch of other companies that are flush with cash around this time. We're in 99, 2000 era. And so they almost sell the company too early. And there's a bunch of examples like this. And so one of these companies had just, I think they"
+    },
+    {
+      "timestamp": "01:07:43",
+      "text": "had IPO and they had a bunch of money and And this company, I don't even know. It's called BeFree. It had just gone public a few months earlier and then soared like 700%. And so they're like, oh, let's buy your company. And they would have sold the company. Peter was, this is Confinity. This is before it's PayPal. Peter said, hey, you can have the company."
+    },
+    {
+      "timestamp": "01:07:59",
+      "text": "Just give me $100 million. And they said no. And then another great one-liner, they're talking about how they hate they abhor bureaucracies and so um musk makes an observation about peter so says peter is even less tolerant of bullshit than i am the famously administrative adverse musk remarked my bullshit tolerance is low but peter's is like zero and so there's a whole thing in the book where peter's like i don't want to be ceo he did it like reluctantly then they go public he's like i really don't want to be a public ceo company he kept trying to get out of this thing that he was in he just like does not want to do this he was much more interested in markets and money than managing people it's like i don't want any of this"
+    },
+    {
+      "timestamp": "01:08:37",
+      "text": "and i think about what the founder of the four seasons said like it's good to know who you are as a person and when following natural drift because he says what we really want to do is usually what we do best so then we got to the part of the story where they've both both teams independently have arrived at the same product and so now they're gonna have to compete head-to-head which is going to lead to their eventual merger so it says as must follow the confinity team's machinations he began to respect the team's ingenuity i thought well these guys are pretty damn smart. He concluded that X.com would have to do everything it could to win on eBay. To Musk, defeating Confinity on eBay would likely incapacitate it elsewhere."
+    },
+    {
+      "timestamp": "01:09:15",
+      "text": "Thus began one of the more ferocious and unusual battles in Internet history. X.com and Confinity launched a weeks-long war to win customers on eBay. And they're talking about, so this is widely known, but in case you don't happen to know it, both companies are paying sign-up bonuses. So you get $10 to sign up, and then if you try to send money to somebody else, they get $10 to sign up as well. And these numbers, $10 is what it changes over time."
+    },
+    {
+      "timestamp": "01:09:42",
+      "text": "Sometimes it's $20, sometimes it's $5, but $10 is the one I think they got the most growth out of. So it says, This began one of the most ferocious and unusual battles in Internet history. X.com and Confinity launched a week-long war to win customers on eBay. It was kind of a race to see who could run out of money the fastest, Musk said. And then we see the extremists. Somebody had a birthday."
+    },
+    {
+      "timestamp": "01:10:01",
+      "text": "So it says, Confinity team brought out a cake with the words die x.com written in frosting must send a memorable x.com wide email with an innocuous subject a friendly note about our competitors the message body contained a single line kill them dead die die die in lepchin and te, Musk found something he rarely encountered. Competitors as driven to win as he was. And then Peter reflects about this point where they're competing. It was incredibly exciting and incredibly scary. And then we get into more of Peter's perspective on this. Earlier than many of his colleagues, Thiel saw X.com as an existential threat."
+    },
+    {
+      "timestamp": "01:10:42",
+      "text": "Peter likes to confront things. He likes to know if he's wrong. He's actively looking on how things could break. How could things fail? Constantly. Much more so and much more proactively than a lot of entrepreneurs that I know. Peter was determined that X.com could simply spend Confinity out of existence. Peter was good to recognize that they were a real threat. And Peter did not like to lose."
+    },
+    {
+      "timestamp": "01:11:03",
+      "text": "Show me a good loser, he once once said and i'll show you a loser so they eventually arrive at the conclusion again keep in mind i'm skipping over massive parts there is so much detail think about this the book is 414 pages long it only covers four year history that the entire paypal adventure lasts just four years so So there's a ton of detail in the book. This is interesting, though. They realize they have to merge and the differing opinions. So it says, Levchin grew to respect Musk. I really like this Elon guy, Levchin remembered thinking."
+    },
+    {
+      "timestamp": "01:11:39",
+      "text": "He's obviously completely crazy, but he's really, really smart. And I really like smart people. Mike Moritz says, this is fantastic. It's going to be a merger for the ages. Elon, though, Elon Musk saw the acquisition as a surrender in a winnable war. And then a few pages later, this is just wild. And how did this wind up working out is the question here. Anyone looking at the merger could have been forgiven for forecasting doom."
+    },
+    {
+      "timestamp": "01:12:07",
+      "text": "X.com founders Elon Musk was opposed to it. Confinity's lead investor was skeptical of it. Confinity's CTO Max Levchin had called it off once before. And X.com CEO Bill Harris had put himself permanently on the outs with Musk in order to make the merger happen. So then from here they have this two-year sprint to solve all the problems to make sure that the company can survive. It's an echo back to what Elon said. The company was easy to start, almost impossible to keep alive. I'm just going to give you a list of some problems that they have that just must be solved. More users meant more"
+    },
+    {
+      "timestamp": "01:12:38",
+      "text": "complaints. The companies faced additional scrutiny for government regulators. The Federal Trade Commission and the U.S. Secret Service grew concerned over illegal transactions. The two companies had distinct user bases and distinct websites, and they had built their services on different development platforms, one on Microsoft and one on Linux. Basic questions like what to call the company's core product remain unanswered. The merger also hadn't solved a fundamental problem. The new entities combined burn rate."
+    },
+    {
+      "timestamp": "01:13:03",
+      "text": "The joint company was on track to spend almost $25 million that quarter alone. And it's a funny quote from Reid Hoffman here. If we were standing on the roof of our building throwing wads of $100 bills over the side, we would have been spending money less quickly. Musk remembered the myriad crisis colliding at the point of merger. If the fraud thing is not solved we're gonna die if customer service is not solved we're gonna die if we don't have a revenue model if our business only consists if our business consists of only costs and no revenue we were gonna die and so then peter also realizes listen we're in a huge bubble and he's young he's 32 years old when he's saying this stuff and so he talks he's like we got to"
+    },
+    {
+      "timestamp": "01:13:45",
+      "text": "raise money right now and he says peter wanted to close commitments quickly arising from his belief that the u.s economy sat on the brink i give the credit to peter he made the macro call we have he said we have to close on this because the end is near i wouldn't call raising money and he talks about like how you you have a sign of a bubble i wouldn't cause it i don't know if this isn't peter saying this is another investor i't call it raising money when it's like, okay, of all the various people trying to smash down the door and give us money, who should we accept? Oh, I'm sorry."
+    },
+    {
+      "timestamp": "01:14:11",
+      "text": "This is Elon talking about this time. I wouldn't call it raising money when it was like, okay, of all the various people trying to smash the door down and give us money, who should we accept? Musk recalled. We were getting firehosed with cash. Peter remembered being cornered seemingly everywhere he went. The crazy nature of it all confirmed Peter's suspicions about the market."
+    },
+    {
+      "timestamp": "01:14:30",
+      "text": "I remember thinking to myself that it felt like things couldn't get much crazier and that we had to close the money quickly because the window might not last forever. Peter kicked everyone's asses to get that funding round done, David Sachs remembered. Musk, too, anticipated an impending downturn. And he talks about all the crappy companies at the time. He says people need to do their homework and not blindly buy into companies that aren't well put together. There's a lot of Potemkin villages out there built on flimsy foundations and many will fall. That is from a speech that Musk gave in mid-1999."
+    },
+    {
+      "timestamp": "01:15:00",
+      "text": "Musk said, and for young people who've never really seen a serious recession anyone who's studied history knows that they happen and that a downturn is a rough experience the timing was auspicious just days after the close of the round US public markets entered a downward slide that would ultimately wipe out $2.5 trillion in market cap and sour the mood on technology stocks and this is crazy I feel like everything I'm saying, starting every section trillion in market cap and sour the mood on technology stocks and then this is crazy i think"
+    },
+    {
+      "timestamp": "01:15:25",
+      "text": "i feel like i'm everything i'm saying like starting every section so this is crazy because it is this is how important that one decision proved to be to act with urgency to think okay there's a huge change we got to get this money in now and because there's a bunch of competitors that didn't weren't able to do that back then there were five to seven other online money moving services that just got starved of oxygen over time. They all died out by the fall. So they didn't have the money and there goes not even half, almost all your competition. If we hadn't raised that $100 million round, there would be no PayPal. There would be no SpaceX, no LinkedIn, and no Tesla. There's a fantastic story about their customer service issues."
+    },
+    {
+      "timestamp": "01:16:09",
+      "text": "It goes on quite a bit in the book. I want to give you the punchline here, though. So they go from a backlog of... There's one guy in customer service, and he grabs David Sachs. He's like, we have 100,000 unread customer service emails. And David's like, you know, you could have told me this before you got to 100,000. And so they go from a backlog of 100,000 customer complaints to zero in a matter of months. And they put an employee in charge of this with the last name of Anderson. And she just has a fantastic idea. So her original idea is they want to staff a call center to do customer service to go through the complaints faster. Her original idea is, okay, she's from the Midwest. She's like, I can go to Omaha and I can teach my extended family to do customer service from home. This is like the year 2000."
+    },
+    {
+      "timestamp": "01:16:51",
+      "text": "And then she trains them. Then they hire their friends. And then they go out and they just keep recruiting people. And that's a very simple idea, a very smart idea, on how they go from a backlog of 100,000 customer complaints to down zero. And then later on, this winds up being extremely important because later on, eBay has their own payment service that they are trying to prioritize. And one of the complaints from eBay power sellers is that PayPal's customer service is just so much better. And another crazy thing is you can have an idea."
+    },
+    {
+      "timestamp": "01:17:20",
+      "text": "And then 20 years later, they staff this call center in Omaha. And it says, to this day, PayPal remains one of the region's largest employers. So an idea comes from just one employee saying, hey, how can we solve this problem? Let me think on my toes. And 20 years later, you know, you're providing employment for a large swath of people. And this is the takeaway. Years later, Anderson reflected on her scrappy approach to solving customer service for the company. I never stopped and thought, will this work? That question was completely foreign in those years. It was, what can we do and how fast can we do it?"
+    },
+    {
+      "timestamp": "01:17:54",
+      "text": "And then this is an interesting idea. Elon believes that you have to tolerate failures as a side effect of iteration. It says, I remember once Elon saying one thing, which was like, if you can't tell me the four ways you fuck something up before you got it right, you probably weren't the right person who worked on it. Musk echoed this sentiment. If there were two paths where we had to choose one thing or another, and one wasn't obviously better than the other, then rather than spend a lot of time trying to figure out which one was slightly better,"
+    },
+    {
+      "timestamp": "01:18:20",
+      "text": "we would just pick one and do it. And sometimes we'd be wrong. But oftentimes, it's better to just pick a path and do it rather than facilitate endlessly on the choice. And then I think this book is a perfect illustration of the founder of Atari, Steve Jobs' mentor, a guy who hired a 19-year-old Steve Jobs. It was this guy named Nolan Bushnell. He wrote a book called Finding the Next Steve Jobs, which I read. It's also in the archive. He has this idea that sounds counterintuitive to other people that are not entrepreneurs. And he says, listen, only the arrogant are self-confident enough to"
+    },
+    {
+      "timestamp": "01:18:54",
+      "text": "push their creative ideas on others. And he said, Steve believed that he was always right. And he was willing to push harder and longer than other people who might've had equally good ideas, but who caved under pressure. And so we see an example of that. Of the four executives at the top, Levchin, Musk, Thiel, and himself, Harris would say with a laugh. This guy was forced out. He was a CEO for a couple months. Harris would say with a laugh, four guys and not a single one of us had an ego that would fit in a large gymnasium and one thing is they disagreed"
+    },
+    {
+      "timestamp": "01:19:27",
+      "text": "on is that he wanted to bring in like these older people um you know to people with experience and this is what this is elon on the value of being a young whippersnapper which i thought was funny uh he was so elon saying he was going to tame us young whippersnappers that's his words with these like seasoned financial executives or whatever and we're like uh these are the same seasoned executives of these banks who can't do jack shit who can't compete with us doesn't make sense must uh must said he believed that whippersnappers like peter who's who's lost troubled musk because musk um there's again a lot of stories i have to omit peter's not getting along with this harris guy and musk isn't either"
+    },
+    {
+      "timestamp": "01:20:05",
+      "text": "and so Peter leaves he's eventually going to come back but he leaves so he says Musk believed that whippersnappers like Peter who's lost troubled Musk stood the best chance of innovating and winning and so in Peter's absence Musk gets to know David Sachs and they had a lot of similarities"
+    },
+    {
+      "timestamp": "01:20:21",
+      "text": "they were both immigrants from South America from South Africa and this is the important part they both brought an intensity and energy to their work They had a lot of similarities. They were both immigrants from South America, or South America, from South Africa. And this is the important part. They both brought an intensity and energy to their work. And so they're going to kick this Harris guy out. And this is another coup. And they're going to put Elon in there. And really the lesson here is you got to live and die by the founder."
+    },
+    {
+      "timestamp": "01:20:38",
+      "text": "Right or wrong, this episode cemented the team's allergy to executive experience. This belief would emerge as a startup truism later. But at the time, the team's sense defied received wisdom. Standard operating procedure at the time saw boards installing a seasoned CEO to steer dot-coms once they found their footing. X.com's leaders took Bill Harris's rocky tenure as evidence that such supervision was not only unnecessary but counterproductive."
+    },
+    {
+      "timestamp": "01:21:02",
+      "text": "We saw what had happened at Apple when they brought in the Pepsi executive, David Sachs said. We saw what happened at Netscape when they brought in Jim Barksdale. And then Musk makes just a fantastic observation of why you have to live and die by the founder. And he says, the founder may be bizarre and erratic, but this is a creative force and they should run the company. If someone's the creative force or one of the creative forces behind the company, at least they understand which direction to go in. Maybe they don't run the ship perfectly."
+    },
+    {
+      "timestamp": "01:21:30",
+      "text": "The ship may be a little erratic and morale may be mixed and some parts of the ship aren't working as well, but it's going in the right direction. And so he compares this to Steve Jobs as well. He says, Musk admired Steve Jobs and had studied the period of his departure from Apple. The ship was sailing really well, Musk observed, in the interim years between Jobs' departure and return."
+    },
+    {
+      "timestamp": "01:21:54",
+      "text": "Sailing really well towards the reef. In May 2000, just shy of his 29th birthday, Elon Musk retook the title of CEO. So the idea that Musk and Sachs have at this time is like, we need to reorganize it back into small teams of smart people. They changed towards semi-independent teams, which would lead to more rapid iteration. Both Musk and Sachs had observed an irksome startup paradox. As a startup grows in size, it began to accomplish less work of substance. They were far from the first to identify this paradox. In 1975, Dr. Frederick Brooks explored this conundrum in his software engineering Bible, The Mythical Man Month."
+    },
+    {
+      "timestamp": "01:22:32",
+      "text": "So we're going to quote from this book now. When schedule slippage is recognized, the natural and traditional response is to add manpower. Like dousing a fire with gasoline, this makes matters worse, much worse. More fire requires more gasoline and thus begins a regenerative cycle which ends in disaster. More programmers assigned to a given project, Brooks explained, multiplied the number of communication channels. This is a really interesting idea. So they multiply the number of communication channels. The time spent talking, whether keeping the team members up to speed or building interpersonal relationships,"
+    },
+    {
+      "timestamp": "01:23:02",
+      "text": "was time not spent coding. Two heads, in other words, was not necessarily better than one. Sachs decided to build small, self-contained units. Sachs and Musk believe small units freed innovators from the entanglements of bureaucracy. And then this is fantastic. We see the future founder of Yelp talk about the early culture that is emerging here. In the view of X.com's leaders, growing organizations often make a crucial mistake. Employee happiness becomes a bigger concern than output. To avoid this, company leaders set a cultural tone of impatience."
+    },
+    {
+      "timestamp": "01:23:39",
+      "text": "So I recently had coffee with a founder and investor who listens to the podcast, this guy named Seth. And he said something about this founder that he knows and when he said I was like hold on I got to write that down sorry I'm stealing that line and he says uh the founder is intolerant of completely intolerant of slowness be intolerant of slowness I thought that was fantastic so it says the company's leader set a cultural tone of impatience, they may and they would make decisions by fiat when necessary. It was not an open democracy of ideas. We called Jeremy Stoppelman. Company leaders set a cultural tone of impatience."
+    },
+    {
+      "timestamp": "01:24:15",
+      "text": "Be intolerant of slowness. And so I have notes in this book. I was like, I might buy another copy and literally just highlight and underline just the tactics and the solutions that they come up with to some problems. Like the story is fascinating. The narrative that Jimmy builds is fantastic. Getting to know the people"
+    },
+    {
+      "timestamp": "01:24:35",
+      "text": "when they were younger is fantastic. There's like dual, there's so many reasons to read the book. And one of them is just becomes like, you're going to see, okay, they have a problem. This is a unique solution they come up with um and it's just like understanding not you're not copying the what you're understanding the how behind it right and so one of the problems they have is they're getting killed because like they're they're transferring money but if you're doing it on credit cards"
+    },
+    {
+      "timestamp": "01:24:58",
+      "text": "they're paying percentages coming and going and so it's like okay well if we're getting killed in transaction costs how can we find a solution and so one one of them is like, well, let's see if we can encourage them to keep balances in their PayPal account, and then we can just transfer from internally, which costs nothing. If enough customers kept money on their accounts, the team realized that the company could transfer dollars between users at no cost. The internal transaction costs, like a millicent, Musk explained, it's basically zero, and that is why you want to maintain balances. This process also produced some counterintuitive insights. For example, Musk insisted that the company continue distributing debit cards and"
+    },
+    {
+      "timestamp": "01:25:34",
+      "text": "even checks. If you're forced in order to conduct your life to move money out of PayPal, right? So I have money in PayPal. I sold on eBay, but now I got to pay a bill. I don't have a check on this account, so I'll move it out. He's like, I don't want you guys to do that. So it says, if you're forced in order to conduct your life to move money out of PayPal, he observed, you move money out of PayPal. So if you have, but if you have to write checks, so if you have to write checks and PayPal won't let you write checks from your PayPal account, you're going to move money to your checking account. And then he says, commenting on the modern PayPal's lack of checks, this made me laugh, Musk became impassioned about the subject anew."
+    },
+    {
+      "timestamp": "01:26:06",
+      "text": "So give them the goddamn checks. Sweet baby Jesus, what is wrong with you people? Another great one-liner, important insight for you. David Sachs has brought something to their attention when they're building up this product. And he said every moment of friction for the customer was fat to be cut. So there's this huge internal fight about Musk wanted to rewrite the entire PayPal product. He wanted it written from Linux into Microsoft."
+    },
+    {
+      "timestamp": "01:26:31",
+      "text": "There's also some other issues with company direction. He's a very young CEO at the time. And so there's another coup and they're going to wind up kicking him out. It says, so began the clandestine effort to cut Musk, the co-founder and CEO and biggest individual shareholder out of the company. And so this winds up happening. They wind up being successful."
+    },
+    {
+      "timestamp": "01:26:52",
+      "text": "This is where Peter is going to come and be the CEO up until they sell it to eBay. And then he'll leave. Everybody else leaves. But during this whole time, really what's remarkable is Musk's response to this. And so he gets an email from some supporters, internal supporters, and his response. Thanks, folks. The whole thing is making me so sad that words fail me. I have given every last ounce of effort, almost all my cash from Zip2, and my marriage is on the rocks. And yet I stand accused of bad deeds to which I have not even been given the opportunity to respond."
+    },
+    {
+      "timestamp": "01:27:21",
+      "text": "And I think the key takeaway here is just the way elon like just i'm really impressed the way elon responded so it says must didn't even seek retribution jeremy stoppeman was an early musk recruit and he reached out to elon in the immediate aftermath to ask if he and others should show their support by threatening to resign in mask must instructed him to stand down even musk's long-serving allies within the company were thrown off by his moderation musk's position was born of realism while i didn't agree with their conclusion musk said i understood why they took the action they did peter and max and david and the other guys are smart people with generally good motivations and they did what they thought was right was right for the right reasons except the reasons weren't"
+    },
+    {
+      "timestamp": "01:28:00",
+      "text": "valid in my opinion musk referenced the biblical story of Judgment of Solomon, where they're both saying who's the mother of the baby, and they say, okay, they can't agree, so the king says, okay, split the baby in half, which then leads the first woman to immediately relinquish her claim for the sake of the child's life, and then that means, this is a story in the Bible, and then the king says, you know, give the first woman the living child,"
+    },
+    {
+      "timestamp": "01:28:23",
+      "text": "and by no means kill him because she is obviously the mother. And so he must says, I view the company at least partly my baby. His voice tinged with emotion. If I attack the company and the people there, it's like I would be attacking my baby. I don't want to do that. And then Jimmy talks about, you know, revisiting this difficult time many years later. There's another smart move by them here. They just, they let the past stay there, is the note I left myself."
+    },
+    {
+      "timestamp": "01:28:51",
+      "text": "A few chose to remain mum because of genuine misgivings about how the ouster took place. Still, others simply believe that long-buried Hatchich should remain so. Very smart. Leave the past where it is. And then two decades later, Musk could muster a bit of grudgingly respect for the revolt. It was a well-executed coup, he said, smiling. It's slightly complimentary that they can only do it when I'm not there. So they did it when he was on like a joint honeymoon and fundraising trip. And they planned the meeting for when his plane took off."
+    },
+    {
+      "timestamp": "01:29:22",
+      "text": "And then there's a memorable line in the book of the biography written by Ashley Vance on Elon. It talks about his level of pain tolerance that this guy had. It was in terms of like in 2008, both SpaceX and Tesla were near bankruptcy. And so this is an example of that. We see this even when he was younger."
+    },
+    {
+      "timestamp": "01:29:39",
+      "text": "Founding a payment service startup amid the dot-com bust represented a spring of hope and the winter of despair. Few experienced those fluctuations more viscerally than Elon Musk. From 1999 to 2002, Musk netted a fortune from the sale of his first startup, launched another successful internet company, minted a second fortune when the company went public, and launched a third venture."
+    },
+    {
+      "timestamp": "01:29:59",
+      "text": "During those same years, he fought off one mutiny against him, nearly perished in a car crash, was ousted as the CEO of the company he co-founded, almost died again due to a combination of malaria and meningitis, and lost an infant son to sudden infant death syndrome. And this is all in three years. He decided once he was ousted at PayPal, he wasted no time. He already knew what he was going to do. He says the new ventures for Musk began briskly. There was no time to lick wounds or nurse grievances. Just"
+    },
+    {
+      "timestamp": "01:30:30",
+      "text": "months after the coup, Mark Wooler took Musk out for drinks. I asked him what he was going to do next. And he said, I'm going to colonize Mars. This is in 2002, mind you. I'm going to colonize Mars. My mission in life is to make mankind a multi-planetary civilization and i'm like dude you're bananas so now peter's in charge peter's main thing again he's not optimizing for experience he would bet that's he would just wanted to hire really smart people and he'd bet that they'd figure it out we saw ed catmull founder of pixar who said the same thing he's like you can give a mediocre team mediocre idea to a smart team and they'll throw it away and figure out something new so says peter was both an example and a proponent of putting talented neophytes in charge early on peter appointed reid hoffman as ceo cutting against"
+    },
+    {
+      "timestamp": "01:31:12",
+      "text": "his board members advice he installed sax as vp of strategy despite concerns about sax congeniality he promoted a fresh out of business school rolooff Botha to CFO and put a young attorney named Rebecca Eisenberg as the first legal chair on the IPO. Later, talk of Peter's contrarianism would focus on his decision in markets and politics, but during the PayPal years, his tendency to buck convention had nothing to do with math or political philosophy. It had to do with people. He didn't give a shit he cared about smart people"
+    },
+    {
+      "timestamp": "01:31:46",
+      "text": "who worked hard so there's an entire chapter called igor it is about max and his team solving the they were losing tens of like a 10 million dollars a month or something like that just on fraud and if they could not solve this problem they're like it's over for them and so there's again i says there's more detail in the book but really i want there's just like two three paragraphs here is and i wrote fascinating what business are we actually in and the whole time i'm thinking i'm reading a book on a payment company he's like no that's not the business that we're in that's not not the innovation that PayPal achieved in Max's perspective. And so he says, with these evolutions, PayPal effectively reinvented itself as one of the first big data security companies."
+    },
+    {
+      "timestamp": "01:32:34",
+      "text": "PayPal is actually more or less a commodity business, Lepchin observed. It sounds very cool and innovative, making money on the Internet, or excuse me, moving money on the Internet, but the credit card interfaces have existed for 20 years. All we really did was put a very pretty web front on it and let people use their email address instead of their accounting number. But beneath the service, Levchin said, PayPal's core innovation sparkled. So what business are we actually in? What is the value that we're adding? So this is Max talking now. This submerged part of PayPal is the massive and very, very numerically driven risk management system, which allows us to instantaneously tell when you're moving money to someone else with a very high degree of certainty whether the money you're moving is yours or whether you got it illegally and you might be on the hook later. Or we might be on the hook later to help authorities investigate or retrieve the money."
+    },
+    {
+      "timestamp": "01:33:26",
+      "text": "Even PayPal's millions of dollars in bad transactions. This is now the author wrapping up the main point here, which is very fascinating. Even PayPal's millions of dollars in bad transactions could be justified for the extensive data set that they generated. Losing a lot of money to fraud was a necessary byproduct in gathering the data needed to understand the problem and build good predictive models. So I think Max's point is anybody can move money, but can you move money and not be beset by fraud where it puts you out of business? We solved that problem and other companies did not. And so another massive problem that they had to tangle with over and over again is platform risk now you have problems you have problems with fraud"
+    },
+    {
+      "timestamp": "01:34:11",
+      "text": "you're probably customer service you're probably growth you're probably internally but now you got a problem from ebay itself and this is a this is something that founders to this day still have to deal with this this risk when you're building upon somebody else's platform it says once the paypal team dove into the buy it now button mechanics they started to panic so ebay before you know there was no crazy thing is years before this ebay existed there was no way to they didn't have a payment system at all and in fact at the very very beginning they trusted that if you use their auction system and you sold something pierre the founder he had this belief that people were genuinely good so he's just like i'll trust you to just mail in like my percentage of transactions so he'd get a"
+    },
+    {
+      "timestamp": "01:34:50",
+      "text": "bunch of stuff in the mail like with like 25 cents or you know dollar in it or whatever the case is and then eventually obviously paypal realized it's like hey uh your customers like why would you want to send checks like if you're an ebay power seller like i don't want to wait for a check just like then i have to deal with the wait for the check i have to go deposit i have to do all this other stuff you just pay me paypal it's it's like 10x better than a check and so eventually ebay realizes their mistake they're like oh so they have bill point they have all these other systems they but people are still electively their customers are still electively choosing to check out with paypal because they thought the product was better than the customer service better so then they stopped going for"
+    },
+    {
+      "timestamp": "01:35:27",
+      "text": "they had a thing where it's just like okay you can do an auction but what if you just want to say i just want to buy this i don't want to bid on it so when they released buy it now they made their own ebay payments the default setting and so this is the story i'm about to tell you but once the paypal team dove into the buy it now button mechanics started to panic in traditional auction and ebay bidder replace a bid receive an email if they want, and then choose a payment system. Because auction buyers left eBay mid-auction, PayPal had a chance to warm itself into the payment process. A winning bidder could go from their email account to PayPal in order to pay a seller, thus completing the auction process without ever returning to eBay.com. Buy it now radically reconfigured this dynamic. If a buyer pressed"
+    },
+    {
+      "timestamp": "01:36:05",
+      "text": "the buy it now button, an eBay payments form would appear, allowing the buyer to complete the payment directly on eBay.com, thus knocking out PayPal, right? And so this is about their reaction to this platform risk. This change sent Peter and David Sachs into fits of anger. David and Peter would get totally hysterical and say things like they can't do this how dare they and we're like it's their platform they can do whatever damn well they want so then it talks about the relationships they start building reed hoffman is put with the task of building a relationship on a back channel through ebay this isn't this what i mean about they're just so bloody efficient and smart that you just cannot believe it. There's just tons of examples of these. Really, apart from the story, I would"
+    },
+    {
+      "timestamp": "01:36:52",
+      "text": "read it just to understand how they solve their problems. I just think it's amazing. So they start having this back channel. They essentially begin building a relationship. From eBay's perspective, they're kind of annoying. They come to hate PayPal, but they grudgingly respect them. It says this guy that's building a relationship on eBay's side with Hoffman on PayPal's side, Chestnut came to respect PayPal's team's aggressive growth efforts. They are definitely default aggressive. They were very highly entrepreneurial, very aggressive. You've got to admire that,e ebay ceo meg whitman said paypal"
+    },
+    {
+      "timestamp": "01:37:26",
+      "text": "was a company of extremely aggressive people with a real bias for action she concluded a company of extremely aggressive people with a bias for action now the only thing that saved them is the fact that they were a company focused on one thing going against a company focused on many so ebay puts out this new buy it now with their own bill point but the product sucks and their execution is terrible so it says despite buy it now the free promotion and other growth efforts ebay's bill point gained only a marginal share of payments on the platform in late 2000 and early 2001 as bill point wound down its promotions, they were doing the same thing."
+    },
+    {
+      "timestamp": "01:38:07",
+      "text": "It was like, oh, pay you to open account, basically copying what PayPal's growth strategy was. As they wound down its promotions, Billpoint's progress stalled and then reversed. PayPal's numerous counter-offensives helped it stave off Billpoint's encroachments and the two sides now continued to fight for ground. So again, you can copy what I'm doing, but I'm only focused on this."
+    },
+    {
+      "timestamp": "01:38:28",
+      "text": "And you're focused on, it's one part of your gigantic business. We know how that fight is usually going to end. So they're continuing to fight. And PayPal does it as another strategy. And I know that myself is here. PayPal uses everything to their advantage and so now they're like okay you're putting defaults on your website in response to what we were doing and other payment processors are doing this is clearly antitrust and why are"
+    },
+    {
+      "timestamp": "01:38:57",
+      "text": "they saying this because at the time this is taking place in history microsoft is getting whacked um and so they're like and other technology companies are scared so it says the department of justice and 20 state attorney generals had sued microsoft for anti-competitive monopolistic behaviors um so it says the government threatened to break up microsoft up the case sent a chill through the spine of technology leaders everywhere including at ebay paypal leaders fomented their fears keith raboy was tasked by peter teiel to build an antitrust paper trail against eBay. PayPal also built a political action committee to send contributions to members of Congress, then encouraged those members to write notes to the Federal Trade Commission concerning eBay's monopoly power. The company also enlisted an outside counsel to issue a scathing note to eBay's headquarters."
+    },
+    {
+      "timestamp": "01:39:45",
+      "text": "eBay is abusing its market power over the online marketplace to distort and eliminate competition for payment services. In direct contradiction to see United States versus Microsoft Corporation. And they list, obviously, the case numbers and all that stuff. And it's just at this point, I'm, you know, 80% done with the book. And I'm just like, I would not want to compete with these guys. You can clearly see from eBay. It's just like, okay, just name your price. I want to buy you just to shut you up."
+    },
+    {
+      "timestamp": "01:40:14",
+      "text": "So this is the world domination chapter I mentioned earlier. This is when they start to expand. They had a world domination index like I mentioned earlier. It's like how many PayPal users they have. But then they start to expand globally. And really, I'm just reading this quick paragraph to you because this is their mo this is their modus operandi the team chose to use its international expansion to pursue two major goals growth and fundraising it began this effort as it had begun much else over the prior years"
+    },
+    {
+      "timestamp": "01:40:36",
+      "text": "with little planning quick action and faith in itself to iterate its way to success so they eventually are going to file for their ipo this is after the bubbles popped people like this the press's reactions like this is stupid don't buy this ipo it's completely negative i think today what paypal is like 300 billion dollar company something like that but really the reason i'm reading this intersection is because everything they do is like this nothing is as it appears they are masters at misdirection and just concealing what their actual intentions are and so they're in the quiet period right before the ipo they're about to be and they're like okay ebay hates us ebay can come out and really like torpedo our ipo they"
+    },
+    {
+      "timestamp": "01:41:16",
+      "text": "don't want us to ipo because that means we're we're more likely to stick around right and so it's like how do we stop them from talking shit about us essentially and so they come up with some machination. We're going public and all these people are going to call eBay, Reid Hoffman explained. And eBay is going to say, oh, we think PayPal is a house of cards. We're going to drive them off our platform as soon as possible. Public investors, Reid noted, had a reputation for risk aversion. If eBay poisoned the well with those investors, PayPal's stock issue could fail."
+    },
+    {
+      "timestamp": "01:41:41",
+      "text": "With the quiet period hovering, PayPal could say little to defend itself publicly. So Hoffman came up with another way of muzzling eBay. And this is what he said. If eBay is in negotiations to buy us, if they say anything to the public market, it's breaking fiduciary responsibility, he realized. PayPal would then enter another round of acquisition negotiations with eBay to silence it. And they've had many failed talks up until this point. And again, so I'm going to, from eBay's perspective, like, okay, these guys are back. We have a chance to buy them again. PayPal's not, they're not going to, that's not their goal here."
+    },
+    {
+      "timestamp": "01:42:18",
+      "text": "Their stated goal is you shut up until this IPO happens. Hoffman approached eBay with the offer. So they said, OK, you can buy us for a billion dollars. I think they would have taken a billion, by the way. It says, I think Reid says that the eBay team came back with counter offers. But Hoffman's third firm, Hoffman said, I have a mandate to sell the company for a billion dollars. I'm not trying to negotiate. And of course, every day of, quote unquote, not trying to negotiate, bought PayPal an additional day of eBay silence as its IPO marched to a close. These guys are just so bloody efficient and smart you cannot believe it."
+    },
+    {
+      "timestamp": "01:42:56",
+      "text": "eBay recognized that an acquisition of PayPal before the IPO might prove wise financially and came back with a final offer of $850 million. If what you're telling me is that your last offer is $850 million, Hoffman said, I can take it to the board. But just to be really clear, I have a mandate to sell the company for a billion dollars. If you gave me a billion dollar offer, you would own the company. eBay CEO Meg Whitman grew frustrated at PayPal's unwillingness to yield. I think she thought we were going to take the $850 million, Reid said. She didn't realize that my principal goal was to keep them quiet and not to sell the company. So the IPO winds up working out. They wind up raising a"
+    },
+    {
+      "timestamp": "01:43:39",
+      "text": "bunch of money. I think the valuation was somewhere like a final settled like $1.2, $1.4 billion, somewhere in there. And I just want to read this to you because up until this point, we're almost 400 pages into the book. It's just struggle after struggle. We're going to die. We're going to die. We're going to die over and over again. And there's a guy named John Kotheneck who's an employee at PayPal."
+    },
+    {
+      "timestamp": "01:43:57",
+      "text": "And I want to read. There's a bunch of reflections on this day, but I thought his was the best. It's just a feeling of relief and satisfaction post-IPO. And so he says, John remembered gazing across the crowd in the parking lot because everybody gathered as a company and seeing the parts that produced the whole. We weren't a big company still, he said. And you know, there's a couple hundred people standing out there most. And you could look at the people and you could say, I know what that guy did to get us to this moment. I know what that woman did to get us to this moment. I know what he and she and her and"
+    },
+    {
+      "timestamp": "01:44:25",
+      "text": "him did to get us here. And I was just so proud of everybody. The festivities had PayPal's PayPal quirks though, with a celebration mixing with competition. The employee's most vivid memory of the day was Peter playing 10 simultaneous games of speed chess in the parking lot. Each game concluded included a cash bet. A large crowd huddled as Peter played each board and moved to the next in rapid succession. During one stretch, Peter won nine out of ten games. Peter doesn't drink much, and we made him do a keg stand that day. And after that, he was half drunk, and he still beat nine out of ten people. It's crazy. David Sachs earned lifelong bragging rights"
+    },
+    {
+      "timestamp": "01:45:05",
+      "text": "for being the only player to beat Peter during the simultaneous chess match. When Peter lost, he was pissed. I just remember him getting up and clearly being screw-faced. He was livid. So competitive to the very end. This is more about the financial outcome for Elon"
+    },
+    {
+      "timestamp": "01:45:23",
+      "text": "and his default of being full risk on. Far and away, the biggest personal windfall went to Elon Musk. Musk was historically the company's biggest individual shareholder and had acquired even more equity as time went on. Musk owned more PayPal stock than even institutional backers like Nokia Ventures and Sequoia Capital. And then this is, again, just this another genius counterintuitive strategy that they had. The guerrilla marketing is just amazing. So this is post IPO. Another round of acquisition costs with eBay have talks with eBay rather has fallen out. And so eBay is having this gigantic company conference, right? Inviting all the sellers on their platforms to"
+    },
+    {
+      "timestamp": "01:46:04",
+      "text": "come and have this giant conference. And the CEO is going to talk and everything else. And it's called eBay Live. And so PayPal is like, all right, well, how do we remind eBay how important we are to them? And it says, the marketing team had procured thousands of T-shirts featuring the PayPal logo on the front and the phrase New World Currency on the back. They distribute them at the event with an incentive. Those seen sporting the shirts at eBay Live would be eligible to win $250 cash prize. The goal was to remind eBay senior leadership that PayPal was inextricably"
+    },
+    {
+      "timestamp": "01:46:40",
+      "text": "tied to its seller community. Even eBay's most vocal cheerleaders would wear PayPal swag. As eBay Live opened its doors, PayPal logos were everywhere. With attendees wearing the shirts in hopes of winning free cash, eBay took notice. As Meg Whitman took to the conference stage for her keynote, she was greeted by thousands, a staggering number of PayPal t-shirts. And so why is this so important? Why are they playing these games? And this is a great way to think about risk. We were completely dependent on our enemy. Few on the PayPal team saw that risk dissipating without a deal between the two companies. Reid Hoffman had a pithy means of describing the challenge."
+    },
+    {
+      "timestamp": "01:47:25",
+      "text": "Just because someone shoots five bullets at you and misses does not preclude the sixth one from killing you, Keith Raboy said. And in the footnotes of this section, they're talking about this guy that's hired by eBay. And he tells a story, a great Steve Jobs story, that I've never heard. And so I'm a sucker for these."
+    },
+    {
+      "timestamp": "01:47:43",
+      "text": "I'm going to read this to you. I think this is around 1999. So it says, Steve Jobs had been hunting for a CFO of Pixar and reached out to Jordan, who agreed to meet Jobs for breakfast. I show up in my suit jacket, Jordan recalled, and Jobs walks in in torn clothes 20 minutes late. Jobs only had two interview questions for Jordan. Question one, you went to Stanford Business School in the late 80s and then you're in the center of the company creation universe in the most exciting time in the world and you became a fucking management consultant? Question two, how could you work at Disney for eight years? Those guys are fucking bozos. What a job interview. Jordan saw the questions for what they were a steve jobs stress test"
+    },
+    {
+      "timestamp": "01:48:27",
+      "text": "i'll cop to the first one jordan said it took me 10 10 years to find my way back here but i'm back here and i'm here to stay on the question of disney he pushed back hard you're wrong on disney he said then he explained because this guy's running i shouldn't clear he's running disney's retail stores then he explained that disney stores had higher consumer ratings than Disney theme parks. Jobs seemed satisfied and pitched Jordan on Pixar. Jordan demurred. He had just been a CFO and he was looking for something different. Jobs proposed he join Apple instead."
+    },
+    {
+      "timestamp": "01:48:55",
+      "text": "I have this new vision for Apple stores, Jobs said, and proceeded to outline a reimagined shopping experience from the root up. Jordan thought Steve Jobs was delusional and politely and politely declined the offer of course jordan said of jobs retail concept he nailed it and so i was all these people on paypal giving interviews that they had reunions and everything else throughout the years and one of them one of the early employees brandon spike says something that's really important it's like why why the stories that you and i discussed on this podcast like why these books and these stories are just so important to spread because they inspire people"
+    },
+    {
+      "timestamp": "01:49:31",
+      "text": "to to make to do things with their lives and their work a lot of these people i sat next to in cubes writing codes and building systems and they went off to create some of the greatest companies that exist today getting back together with all these folks and hearing the stories was just so inspiring. Spikes felt moved to raise funds and to launch his own company. And then they reflect back on the fact that their inexperience was an asset. Says the idea that our motley crew of misfits could come together to build something out of nothing was really incredible. They also came to see inexperience as an asset. The best employees had little or no prior background building internet products. Had the company built its fraud process traditionally, they would have hired people who had been building logistic regression"
+    },
+    {
+      "timestamp": "01:50:12",
+      "text": "models for banks for 20 years, but never innovated, and then fraud losses would have swallowed up the company. Levchin added an unexpected qualification for PayPal's employees that he felt contributed to the company's success and the later achievement of its alumni. Many of its earliest employees simply hated being employees. The very best employee at any job, at any level of responsibility, is the person who generally believes that this is their last job working for someone. The next thing they'll do, they'll start on their own. And then they talk about the difficulty of now 20 years removed from this situation they're no longer the people sleeping in the office they're no longer the"
+    },
+    {
+      "timestamp": "01:50:50",
+      "text": "people with the empty bank accounts they've built companies are massively successful so what do you do and i think what they're telling us here is like advice for us like if you can give back to the next generation you do is whatever you can the founders especially in their capacity as investors have had to find ways of working around this challenge so it's saying you get to a certain level of comfort it's really hard to put everything on the line again and then appreciate the person who is putting it on the line to that end Levchin takes regular meetings with smaller student organizations at various colleges that he visits Peter is known for taking sit-downs well outside of his immediate orbit including the occasional high school student who reaches out with a compelling note"
+    },
+    {
+      "timestamp": "01:51:24",
+      "text": "Reid Hoffman forces himself to regularly ask others, who is the most eccentric or unorthodox person you know and how could I meet them? They might be crazy or they might be a genius. He's searching for the less than perfectly polished founder who resembles his once less than perfectly polished colleagues, a group that turned a hot mess into one of the world's largest public companies. And then this is a great quote from Elon reflecting on this time. We were really very focused"
+    },
+    {
+      "timestamp": "01:51:54",
+      "text": "on building the best product we could. We were incredibly obsessive about how do we evoke something that is really going to have the best possible customer experience, Musk said. That is far more effective selling, building that product, I mean, a fantastic product, something that is really going to have the best possible customer experience, Musk said. That is far more effective selling,"
+    },
+    {
+      "timestamp": "01:52:08",
+      "text": "building that product, I mean, a fantastic product. That was a far more effective selling tool than having a giant sales force. And then Peter talks about the valuable lesson that the people at PayPal learned. And he says they learned the best lesson, that it's hard but doable. And Michael Jordan, his autobiography, said the same thing."
+    },
+    {
+      "timestamp": "01:52:27",
+      "text": "He says, it's hard, but fair. I live by those words. And then I'll close here with Max on founders. PayPal's earliest employees reserve the highest praise for those who tread the same stony road. Founders across varied fields of endeavor. Those that bring the big ideas into hard, unpredictable reality are the practitioners, the high leverage ones, and I admire them almost without reservation, Max wrote. One key ingredient of being this kind of person is an almost irrational lack of fear of failure and irrational optimism. They manage to not get caught up in all the little details"
+    },
+    {
+      "timestamp": "01:53:06",
+      "text": "while being remarkably aware of the really important ones. And that is where I'll leave it. I can unequivocally highly recommend reading this book. Every single entrepreneur, every single founder, every single person that's attempting to do something difficult in their lives will draw lessons from the book that you can use in the future. If you want to support the podcast and get the book at the same time, you can buy the book using the link that's in the show notes on your podcast player. If you want to buy a friend or a co-worker, a gift subscription to Founders, that link is also in the show notes and you can also get that at founderspodcast.com."
+    },
+    {
+      "timestamp": "01:53:39",
+      "text": "This is number, I actually don't know when this is coming out because I cannot release it until after the book is released. So that's an unknown number of books down 1,000 to go. And I'll talk to you again soon."
+    }
+  ],
+  "scrapedAt": "2026-03-23T18:58:42.942Z"
+}

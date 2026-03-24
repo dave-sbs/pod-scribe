@@ -1,0 +1,617 @@
+{
+  "metadata": {
+    "episodeNumber": 92,
+    "title": "Ed Thorp and Claude Shannon",
+    "slug": "92-ed-thorp-and-claude-shannon",
+    "url": "https://podscripts.co/podcasts/founders/92-ed-thorp-and-claude-shannon",
+    "date": "October 7, 2019",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "Much useful thought and data collection has supported the idea that neither securities markets nor betting systems prevent some venturers from gaining highly satisfactory, way above average results through unusual skill. William Poundstone's book, Fortune's Formula, collects much of the modern evidence on this point in a highly entertaining way. Moreover, the book contains an account of the Lollapalooza investment record of Claude Shannon, pioneer scientist in information theory, that makes Shannon's methods look much like those of Charlie Munger. Okay, so a few weeks ago when I was reading through Poor Charlie's Almanac, I came across that paragraph. Charlie Munger is one of"
+    },
+    {
+      "timestamp": "00:00:46",
+      "text": "the smartest people I've ever come across. So when he recommends reading a book, it's kind of a no-brainer to just order it immediately. So the full title of the book is Fortune's Formula, The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street. And it was written by William Poundstone. So for today, there's a lot of different characters in the book, and I'm going to focus on two of them, Claude Shannon and Edward Thorpe. And both of them also have biographies, which will be featured in the next few weeks on Founders Podcast. Now, a note about the format of this podcast, okay? Fortune's formula is wildly entertaining, but it's written in a very odd and unique way. So a lot of the stuff I'm going to share with you, they're going to seem like non sequiturs because I wouldn't describe Fortune's formula as like a cohesive narrative."
+    },
+    {
+      "timestamp": "00:01:33",
+      "text": "It's more like 30 or 40 individual essays that kind of tie together this theme. It ties together this theme that there are people in the world that can actually have better than average performance through unusual skill. And so they're separated by chapters, but I almost consider them like essays because some of the chapters are like a page, maybe two pages, maybe three pages. They're very short. So what I did is I just extracted my highlights and notes I took pertaining to the overall theme of the book and specifically the applications of that theme by Claude Shannon and Edward Thorpe."
+    },
+    {
+      "timestamp": "00:02:09",
+      "text": "And I think we're going to learn a lot today. But this story is insane and crazy. And you'll see even more when I cover. I'm going to cover Edward Thorpe's autobiography next week. It's called A Man of All Markets. This guy has had an insane life, as has Claude Shannon. Okay, so let me go ahead and jump on right in. I'm going to start with Claude Shannon."
+    },
+    {
+      "timestamp": "00:02:27",
+      "text": "I'm going to go back and forth between Claude Shannon and Ed Thorpe. And we have to start with understanding why Claude Shannon is so famous. It's because he invented information theory, which is basically the foundation of our entire economy and the entire world we live in right now. And then specifically how they apply what they learned as academics to investments and making a ton of money. Okay, so it says, life is a gamble. There are few sure things. Claude Shannon was as close to a sure thing as existed. Shannon had done what practically no one had done since the Renaissance."
+    },
+    {
+      "timestamp": "00:03:02",
+      "text": "He had single-handedly invented an important new science. Shannon's information theory is an abstract science of communication that lies behind computers, the internet, and all digital media. It is one of the few times in history where somebody founded the field, asked all the right questions, and answered them at once. There were many who compared Shannon's insights to Einstein's. Others found that comparison unfair. Unfair to Shannon."
+    },
+    {
+      "timestamp": "00:03:29",
+      "text": "Einstein's work had virtually no effect on the life of the average human being. The consequences of Shannon's work were already being felt in the 1950s. In our digital age, if people were asked to characterize Shannon's achievements, are often apt to be at a loss for words. It's like saying how much influence the inventor of the alphabet has had on literature. Shannon's supreme opus, information theory, turned out to be one of those all-encompassing ideas. I do agree with Munger when he talks about why he reads so many biographies, because he says, I think when you are trying to teach the great concepts that work, it helps to tie them into the lives and personalities of the people who develop them."
+    },
+    {
+      "timestamp": "00:04:10",
+      "text": "So I've been doing that obviously on the podcast for a long time, but I want to focus a little bit about Shannon's early life and personality. He says Shannon was born in Michigan in 1916. He grew up in a town of barely 3,000 people. There was inventing in the family blood. Thomas Edison was of distant relation. Shannon's grandfather was a farmer and inventor who designed an automatic washing machine. Claude built things with his hands almost compulsively from youth to old age. The ability to see clean and elegant solutions to complex problems distinguished Shannon throughout his life."
+    },
+    {
+      "timestamp": "00:04:50",
+      "text": "A little bit about his personality. He was a shy, courteous man, seemingly without envy, spite, or ambition. He did his best work alone. He slept when he felt like sleeping and would spend hours at the kitchen table thinking. So when I read that part, I had two thoughts. One, how often does that happen in modern life? Let me ask you the question. How much time do you spend just thinking? No input from anybody else but your own mind. And then the second thing I thought of was this echoes what we learned when we studied Thomas Watson,atson the founder of ibm and ibm's"
+    },
+    {
+      "timestamp": "00:05:26",
+      "text": "famous for having the the word think as one of their company mottos and in his biography he talks about like if he had something he couldn't figure out he wouldn't go to the office he would just sit at his kitchen table and think for several hours till he figured it out and then he would go and go about like continuous day i think they're that's severely missing from modern life i'm speaking my own self too. And something that I think is extremely valuable, just dedicating some time to see what your thoughts are actually are to like to download the computation that your brain is doing automatically. I think to do so you need, you know, some empty time where you're not having input from"
+    },
+    {
+      "timestamp": "00:06:02",
+      "text": "anybody else but your own mind. Okay, continuing back to Shannon, he would write eccentric memoranda to himself. One of the memos is a list of sometime passions. This gives you an idea that he was, some people say like he was hard to focus. It's not, I don't, I didn't take that. I think he just gave himself the freedom to focus on whatever was most interesting to him at that time. So the list of sometime passions, it says it includes chess, unicycles, juggling, the stock market, genealogy, running, and musical instruments. So fast-forwarding in his life, in 1936, he got his Bachelor of Science at the University of Michigan."
+    },
+    {
+      "timestamp": "00:06:39",
+      "text": "And the note out of myself was here is like, this guy's obviously genius, and even geniuses sometimes don't know what they want to do in life and right around the time he graduates college Claude Shannon was experiencing the same thing and he had a rather fortuitous event he had little notion of what he wanted to do next he happened to see a postcard on the wall saying that the Massachusetts Institute of Technology MIT needed someone to maintain its new computer. The differential analyzer, Shannon applied for the job. So this is a very important point in his life because this is going to be the beginning of information theory."
+    },
+    {
+      "timestamp": "00:07:12",
+      "text": "What Shannon discovers here creates the foundation for our modern life and that's not the only reason I'm telling you this, it also creates the foundation for his wild success that he has in investing. He'll talk about what he learned from developing information theory and how he studied the stock market. They were almost, I think he uses the word like they're almost inseparable. All right, so let's go first to before he develops that. So he says, Shannon understood that the differential analyzer was two machines in one."
+    },
+    {
+      "timestamp": "00:07:41",
+      "text": "It was a mechanical computer regulated by an electrical computer. Remember, there's really no such thing as what we feel is the modern computer at this time. Thinking about the machine convinced Shannon that electrical circuits could compute more efficiently than mechanical linkages. Shannon envisioned an ideal computer in which numbers would be represented by states of electrical circuits. So he is fantasizing about a world in which we live in right now. There would be nothing to lubricate and a lot less to break. As an undergraduate, Shannon learned Boolean algebra, an unusual subject for engineers. Boolean algebra deals in the simple notions like true or false"
+    },
+    {
+      "timestamp": "00:08:22",
+      "text": "and logical relationships such as and, or, not, and if. And why is that important? Because any logical relationship may be put together from a combination of these elements. Shannon posed himself the problem of encoding each of these logical ideas in an electrical circuit. To his delight, he succeeded. In effect effect so what was the result of all this work he proved that an electrical digital computer could compute anything so i want to take a small tangent here because there is cameos for all sorts of historical figures in this book and i'm only going to mention a few but like i said this is one of the most unique books I can definitely see why Charlie Munger recommends it and so I want to I think this story about this thing called Project X also illustrates like Shannon was just a very like he was a man of many talents and what"
+    },
+    {
+      "timestamp": "00:09:17",
+      "text": "I think he did a good job of of taking all the different experiences and things he learned in life and combining them together in unique ways later on so project x is an example of that so what is project x it says in the midst of shannon's personal crisis he was going to divorce at the time he was offered a job at bell labs um shannon accepted this is a this wasn't the first time he he was offered a job at bell labs uh people say bell labs because at the time AT&T had a majority, they call it like a benign monopoly, that it was a place for really smart people to be able to run experiments"
+    },
+    {
+      "timestamp": "00:09:53",
+      "text": "and never worry about running out of money. So Shannon's working there. A bunch of other smart people are there. But he accepted the job at this time. He says, and once again, Shannon turned his polymorphic genius to something completely different. It was called Project X. And at the time it was classified. The only reason we know about it is because it was declassified"
+    },
+    {
+      "timestamp": "00:10:09",
+      "text": "like two decades, three decades later in 1976. So what was Project X? Project X was a joint effort of Bell Labs and Britain's Government Code and Cipher School. It had a scientific pedigree rivaling that of the Manhattan Project. For the British-American team included not only Shannon, but also Alan Turing. So you've probably heard that name before. I'll tell you, you'll realize why in case you haven't heard of Alan Turing before,"
+    },
+    {
+      "timestamp": "00:10:34",
+      "text": "why he was important. I'll get there in one second. He says they were building a system known as SIGSALI, and that's an acronym. And that's how I pronounce it. I have no idea if that's how it's pronounced. SIGSALI was the first digitally scrambled wireless phone. This was also used during World War II, which is why the entire project exists. It says, Alan Turing cracked the German Enigma cipher,"
+    },
+    {
+      "timestamp": "00:10:56",
+      "text": "allowing the Allies to eavesdrop on the German command's messages, which also led to helping the Allies defeat the Nazis in World War II. The point of Six Sally was to ensure the Germans could not do the same. Part of Shannon's job was to prove that the system was indeed impossible for anyone lacking a key to crack. Now, this is the important part why I'm bringing this up because it ties to everything else that we're talking about today. Shannon later said that thinking about how to conceal messages with random noise motivated some of the insights of information theory. So we see this point,"
+    },
+    {
+      "timestamp": "00:11:31",
+      "text": "and I just want to stop here for a second, because I see this point over and over and over again when reading biographies. There's like past learnings and experiences wind up playing an unexpected role in your future. So what the lesson I've learned from all these biographies is like, you need to collect as much of these experiences and learnings as you can because it's unpredictable how you can apply them in the future."
+    },
+    {
+      "timestamp": "00:11:53",
+      "text": "And that can open up opportunities that are unavailable to anybody else that did not have that unique set of experiences or learnings. All right, so back to Shannon. A secrecy system is almost identical with a noisy communication system, he claimed. The two lines of inquiry were so close together that you couldn't separate them. Shannon informed Turing that he was working on a way of measuring information. And this is going to sound familiar to you because it's the world we live in. He used a unit called the bit. Bit was short for binary digit. So I'm going to, I'll go into more about"
+    },
+    {
+      "timestamp": "00:12:28",
+      "text": "information theory when I read Claude Shannon's biography in the next few weeks. So one thing I do, I'm going to skip all that part now because I got to get back to Ed Thorpe and the whole point of this book. But something I wanted to bring out, to point out to you right now is that it was, a lot of people criticize Shannon because you know he started this new field and kind of just abandoned it and this is Shannon there's two things that are going to happen to what I'm about to read to you too he explains why he did that and also talks about his other varied interests which kind of relate to his first point right so it says Shannon this was Shannon on his near abandonment"
+    },
+    {
+      "timestamp": "00:13:05",
+      "text": "of the field he created. And he says, I just developed different interests. As life goes on, you change your direction. This is another insight, in my opinion, of his personality. He allowed himself to work on and think about whatever"
+    },
+    {
+      "timestamp": "00:13:18",
+      "text": "that was most interesting to him at that time. Now, what is something else that he was interested in, and I'm currently going through so I consider podcasts, especially when you're learning learning, you're using them for education, like to me, they're just courses, right? So so founders is just a course in the history of entrepreneurship, right? And ours, the the foundation of this course we're using is biographies of entrepreneurs that kind of"
+    },
+    {
+      "timestamp": "00:13:44",
+      "text": "makes sense, right? I'm currently listening to and using lex friedman's course on our podcast on artificial intelligence as a course that i'm taking to learn more about artificial intelligence because i really like it it's talked about constantly it's used they're like there's no like concrete definition there's different like a lot of different opinions i'm like okay i don't know anything about this so what's a really effective way to learn about it rapidly? And my, like the outcome of my decision was like, well, let me just listen to and take notes on this, this, these podcasts. And the foundation of that podcast and that course is just interviews with people working in the field currently, right? So I'm interested in this because I'm learning about it right now, or attempting to learn about it, I should say. But what blew my mind when I read this book is Claude Shannon was interested in artificial intelligence 63 years ago, which is also why I think it's important to study because a lot of the things people say today are really just things that people were saying 60 years ago. So that's why I was like, oh, you know, when anytime you see that,"
+    },
+    {
+      "timestamp": "00:14:46",
+      "text": "that's a good indication that a lot of, there's a lot of mimicry and not as much learning. And so I think like I need to dive into that. But anyways, one of the interests that pulled Shannon away from information theory is artificial intelligence. And Shannon organized the first major academic conference on the subject in 1956. So this just blew my mind. All right,"
+    },
+    {
+      "timestamp": "00:15:06",
+      "text": "so now I want to switch back. I'm going to go back and forth, and I want to introduce you to Ed Thorpe. And like I said, next week, I'm currently, I've already started reading his biography, which is mind-blowing, and I'll cover that on next week's podcast. All right, so this is an intro into Ed Thorpe, a little bit about his personality, and a little bit about his early life. All right, so let's go to the book. One friend described Ed Thorpe, a little bit about his personality and a little bit about his early life. All right, so let's go to the book. One friend described Ed Thorpe as the most precise man I've ever met. This zeal for measurement was evident from his earliest youth. Ed did not utter his first words until he was nearly three. From that moment on, Ed conversed almost like an adult. So the first time his parents heard him speak was in a complete sentence, which is kind of mind-blowing."
+    },
+    {
+      "timestamp": "00:15:46",
+      "text": "So it says from that point forward, he conversed like an adult. Six months after that, after his first sentence, Ed knew how to count to a million. He could read and had a near photographic memory. Growing up in hard times, Ed turned his wits to making money. He bet a grocer he could total customers' bills in his head faster than the grocer could using an adding machine. Ed won, earning ice cream cones for his performance."
+    },
+    {
+      "timestamp": "00:16:13",
+      "text": "While both parents were working, Ed and his younger brother were latchkey kids. The absence of parental supervision facilitated an interest in blowing things up. Ed whacked homemade nitrocellulose, not sure if that's how you pronounce it, with a sledgehammer to blow holes in the sidewalk. He built pipe bombs to blow craters into cliffs. He built a gunpowder-propelled rocket car. Interesting enough, in his biography, he calls himself a misfit, which I love. In spring 1955, Thorpe was a physics undergraduate student at UCLA. He made due on a budget of $100 a month. His rent was $50 a month plus four hours of work per week."
+    },
+    {
+      "timestamp": "00:16:55",
+      "text": "Since time was money, Thorpe put in 50 to 60 hours a week of classes and study. He read books on psychology for tips on how to learn faster. So this is actually one of the, I've been not only reading his biography, but I've watched and taken notes on, I don't know, like three or four of his talks and they're on YouTube. And this is something I learned from Ed Thorpe. He was fascinated with increasing a skill per hour, which I've never thought about before. So he wanted like a, for his example, for example, he wanted to optimize things like how fast he could learn something per hour or how much money he could make per hour. Not just like, I'm not talking about, oh, this is like the salary they're"
+    },
+    {
+      "timestamp": "00:17:33",
+      "text": "offering me, literally taking how much money he tries to make it like in Las Vegas and dividing it on like a per hour basis. That's a really unique idea that I want to maintain in my own mind and kind of adopt to my own life. What's the fastest I can do something and still get the result I want from it? I think it's applicable to almost anything. All right, so he's a grad student. He's a physics grad student. And they're at a party, and they start having a conversation. And this is where Ed gets interested in trying to use math and physics"
+    },
+    {
+      "timestamp": "00:18:04",
+      "text": "to beat Las Vegas. And again, I have to set the foundation because the same ideas that he learns here, he applies to investing later on. All right, so the conversation turned to ways to make easy money. Someone mentioned roulette. The group was unanimous in the conviction that gambling systems are worthless, meaning there's no point in trying to figure out a way to beat them, to beat like a Las Vegas game."
+    },
+    {
+      "timestamp": "00:18:31",
+      "text": "The discussion had to do with physics. Are roulette wheels so perfect that predicting likely numbers is impossible? Thorpe, and most of them arrived at the conclusion that yes, that was the case. Thorpe had the most original argument. He said you could make money either way. If the wheels are physically perfect, simple physics can predict where the ball is going to go. If the wheels have flaws, some of the numbers ought to be favored. So he decides to try to solve this impossible, quote unquote, impossible problem. And this is interesting"
+    },
+    {
+      "timestamp": "00:19:01",
+      "text": "that he says that you can make money either way because he's famous for, he's like the father of quants, one of the first people to start a quantitative hedge fund. And he calls his hedge fund a market neutral hedge fund, which kind of echoes like what he's saying here about roulette, that you could figure out how to make money in any environment. So while he's studying, he's trying to figure out how he can apply physics and math to beating roulette. But while studying roulette, he comes across a paper that studies the odds of blackjack. He's like, oh, that's interesting. Like, I won't need it because he needs a machine. He winds up building one of the first portable computer devices, and he builds it to try"
+    },
+    {
+      "timestamp": "00:19:40",
+      "text": "to beat roulette. But he decides, hey, I could start studying to see if i can figure out a system to beat blackjack too um so it says until the computer and this this thought he has is going to lead his life into intersecting with claude shannon so he says until the computer age was impractical impractical to calculate the exact probabilities in blackjack and many other card games after a couple weeks he concluded the problem was too big to solve by hand. Then he realized that he might be able to do the computations on MIT's mainframe computer."
+    },
+    {
+      "timestamp": "00:20:10",
+      "text": "It was an IBM 704, a real programmable electronic computer. It had some free time during the summer break, meaning, remember, these were all shared. Like, you had to book time on it. So he's like, okay, I'll use that. But he didn't know how to use a computer, so he has to first teach himself how to program. So it says, Thorpe taught himself the Fortran programming language and programmed the computer himself."
+    },
+    {
+      "timestamp": "00:20:35",
+      "text": "Thorpe decided to publish his system. Okay, so he wants to write a paper. He wants to have it published by other academics. But there's a problem. And this is where Thorpe and Shannon are going to meet. Articles had to be submitted by a national academy member. And there was only one academy member at MIT who was a mathematician. That was the famous Claude Shannon."
+    },
+    {
+      "timestamp": "00:20:56",
+      "text": "So we're past the point where Shannon already invented information theory. He's obviously famous at this time. He's working on other things. So it says Thorpe called Shannon's secretary and made an appointment to meet him. Before Thorpe went in, the secretary warned him that Shannon had only a few minutes to spare. He did not spend time on subjects that did not interest him. And so Thorpe tells him about his paper on blackjack. Shannon and Thorpe are about to agree to work together. So Shannon agrees to submit the paper on blackjack."
+    },
+    {
+      "timestamp": "00:21:35",
+      "text": "Are you working on anything else in the gambling area, Shannon asked. Thorpe told Shannon about the roulette idea. Shannon was riveted. He was possibly more interested in the roulette scheme than the blackjack system because there was a gadget to build. They spoke for several hours. By the time they adjourned, Thorpe had inadvertently set one of the century's greatest minds on yet another tangent. It was agreed that Shannon and Thorpe would collaborate on building a roulette prediction machine. Let me back up."
+    },
+    {
+      "timestamp": "00:22:01",
+      "text": "What a great sentence. Thorpe had inadvertently set one of the century's great minds on yet another tangent. Shannon said the best place to work would be his home. The device they built was the size of a cigarette pack. It contained 12 transistors and slipped into a pocket. The user needed to measure the initial position and velocity of the two moving objects. And in the case of roulette, that was the ball on the rotor. It says to do that, the user mentally picked a reference point. When a point on the rotor passed this reference point,"
+    },
+    {
+      "timestamp": "00:22:36",
+      "text": "the user clicked a toe-operated switch concealed in his shoe. So this is like some Ocean's Eleven stuff. I mean, it's pretty crazy. They actually go to Vegas and test this out. And it's bananas. From this data, the device predicted the segment of the wheel in which the ball was most likely to land, hence where you should be betting, right? Now, this next section is going to give you an insight into how their minds worked and the level of thought that they put into this. So it says, the roulette computer was finished by late spring 1961. In a dry run lasting a few hours, Shannon and Thorpe multiplied a virtual bankroll of"
+    },
+    {
+      "timestamp": "00:23:09",
+      "text": "a few hundred into an impressive, though fictional, $24,000. Thorpe did a full dress rehearsal in Shannon's workshop. They used the finest wire practical, barely as thick as a hair, to connect the earphone to the pocket unit because it's going to play a series of musical notes in Thorpe's ear. Each note corresponds with a place on the roulette wheel and"
+    },
+    {
+      "timestamp": "00:23:35",
+      "text": "Thorpe then knows where to bet, where's the most likely part where the ball's going to land. It says, the wire was glued to his skin with gum. Then the wires were painted to match Thorpe's skin and hair. So they take this machine to Vegas. And keep in mind, this was really fascinating."
+    },
+    {
+      "timestamp": "00:23:53",
+      "text": "Now, because of the work of Thorpe and Shannon, there's actually laws passed in the 80s by Congress to outlaw what they're doing. But at this time, using a device to predict roulette was perfectly legal. Now, it's legal but part of the large part of this book is that a lot of these betting systems that people are trying to to uh to beat or you're not only like they're gangsters and mobsters and thugs that are trying"
+    },
+    {
+      "timestamp": "00:24:20",
+      "text": "to do this but also the people that own the casinos are also extremely violent people, which we'll get to in a minute. So it says, but the group knew well, even though it's legal, they knew well aware that the casino people would take a dim view on their experience, or on their experiment. Unlike the blackjack system, this scheme used a device, meaning the blackjack system, there's no way they could prove that you're counting cards, right? They'll just kick you out of the casino, which they do do later. But with the roulette system, like, you can't hide advice. If they capture you and search you, they're going to find it."
+    },
+    {
+      "timestamp": "00:24:50",
+      "text": "So there was no deniability. Claude stood by the wheel and recorded the numbers that came up on a piece of paper. This was a smoke screen. Claude was really timing the ball and rotor with his toe switches. So he's got switches in his feet that correspond and play that musical note in Thorpe's ear. The computer relayed its musical tone prediction to the better, who pretended not to know Claude. Here's the problem they ran into. The thin wires kept breaking. Every time that happened, they had to go back to their rooms for repair."
+    },
+    {
+      "timestamp": "00:25:20",
+      "text": "They brought soldering irons with them. These problems prevented any serious gambling. So it was actually unsuccessful. The collaboration between Shannon and Thorpe ended with this Las Vegas trip. That same month, Thorpe got a job offer from the mathematics department of New Mexico State University. So he winds up having to move across the country. So around this time, Thorpe's like, well, I just focus on my blackjack theory because then I don't have to worry about a machine. It's a lot easier. I can just do the math in my head. He's the one that is credited for inventing card counting. He wrote a best-selling book called Beat the Dealer that's back in the 60s that sold well over a million copies."
+    },
+    {
+      "timestamp": "00:25:59",
+      "text": "All right. So this is where Thorpe gets the idea like, let me test my blackjack theory, but I'm broke. I don't have any money. So he's at a conference. He says, Ed Thorpe gets the idea, like, let me test my blackjack theory, but I'm broke. I don't have any money. So he's at a conference. He says, Ed Thorpe is presenting a version of the paper Shannon submitted to the National Academy. Thorpe titled it Fortune's Formula, a winning strategy for blackjack. Now you see where the author Poundstone got his idea for his title of his book. And so he makes this speech."
+    },
+    {
+      "timestamp": "00:26:23",
+      "text": "It gets a lot of attention. He says, Ed decides to test his theory in a casino. He needs someone to bankroll him. Now, this is where I left a note to myself. What's fascinating to me is Ed Thorpe becomes an unbelievably wealthy man, right? But at this time, he doesn't even have any money. He's just an academic. He's not doing that well. He got a little bit of money from like an advance of the book or some royalty of the book it winds up selling a million over a million copies like years later it's popular at the time but people still buy it to this day is my point and what i found fascinating at this point is i just told you like he becomes one of the most successful investors ever right"
+    },
+    {
+      "timestamp": "00:27:01",
+      "text": "he was 32 years old before he ever he ever thought about finance to me that's knowing that is like really inspiring um and why is that inspiring because he wants to become one of the most successful investors of all time and he gets what many people would consider like a later start in life so um anyways as a result of this as a speech gamblers from all over the country began calling thorpe's hotel to ask for copies of his paper. Some wanted to finance Thorpe in the casinos for a share of the profit. Thorpe wanted to accept one of the offers. It would be fun to try the blackjack system out in a real casino."
+    },
+    {
+      "timestamp": "00:27:37",
+      "text": "Thorpe discussed the situation with Shannon. Now, this is another very important point of this entire book. Shannon suggested that Thorpe use Kelly's formula to decide how much to bet. So another person that worked at Bell Labs was this guy named John Kelly. And he's most famous for creating something called the Kelly formula, called the Kelly criterion. It has a bunch of names, right? But this is something that, let me just, it's a mathematical equation, right? And I'm obviously not going to explain that on the podcast. And to be frank, there's no way I even understand it. But the core of John Kelly's philosophy of risk can be stated without math. And it's as follows."
+    },
+    {
+      "timestamp": "00:28:20",
+      "text": "It is that even unlikely events must come to pass eventually. Therefore, anyone who accepts small risks of losing everything will lose everything sooner or later. This is important for investors, entrepreneurs, for everybody in life. The ultimate compound return rate is acutely sensitive to fat tails. Fat tails, just another way to state an unlikely event. Okay, so Shannon, Thorpe, it's rumored Buffett, Munger, a bunch of other people, Mark Spitznagel, who I did on a podcast on the Dow of Capital, they all use and know about Kelly's criterion. There's also a book Thorpe wrote about it if If you want to learn more, or you can just read the Wikipedia page too, but also I think I'm going to order the book because it's fascinating,"
+    },
+    {
+      "timestamp": "00:29:10",
+      "text": "but it's extremely important part of the entire book because the reason this book is important is because it's essentially like a book about the difference between entrepreneurs and academics. And the people that practice and live in the real world, entrepreneurship, And the people that practice and live in the real world, entrepreneurship, are the people that live in fantasy land, in theory, academics, right? And so on one side in this book, you have Shannon, Munger, Buffett, Thorpe."
+    },
+    {
+      "timestamp": "00:29:38",
+      "text": "And they're saying the idea, like, yes, you can gain an unusual advantage in life through unusual skill. On the other side, you have people like Paul Samuelson and other economists and academics who are saying, no, the market is perfectly efficient. No one can make more money. Like, you're an idiot for trying, right? And what the entrepreneurs, and it's really important how you apply this to your own life, is the reason that Buffett and Shannon and all these people wanted to being successful is because they understood the Kelly formula, the Kelly criterion, the fact that you are a fool if you accept any risk, however small you think it is, of losing everything. And I'm going to tell you"
+    },
+    {
+      "timestamp": "00:30:15",
+      "text": "later on, a lot of the academics that criticize Thorpe and Buffett and the rest of these guys wind up starting a hedge fund, long-term capital management, which is famous, and not understanding the Keller formula and blowing up and needing to be bailed out by the US treasury. So that I'm not really ruining the point of this podcast, but I think understanding that now is going to make sense why I'm tying all these things that seem to be unrelated together. That is a huge important part of understanding what we we're all trying to learn here that you are it is Unacceptable to accept even a tiny tiny tiny risk of losing everything to be a successful entrepreneur You have to first survive"
+    },
+    {
+      "timestamp": "00:30:56",
+      "text": "If your business blows up, you're done. You're out of the game That's that's so that's of course the very first thing that you should avoid That's what Shannon's avoiding with Thorpe's avoiding and see how they're that this is what's fascinating to me They're applying this to blackjack years before they apply it to the stock market So it's that same what I mentioned earlier how you need to collect all these learnings experiences in your life Because you never know what you could apply to later this idea They were just tinkering around with casino and casino games winds up making them wealthy. To Shannon's point, less wealthy because he has a fantastic rate of return, but he also didn't really care about accumulating wealth. He had a varied interest. So anyways, I'll get there. All right. So it says Thorpe decided that the best offer was"
+    },
+    {
+      "timestamp": "00:31:40",
+      "text": "the biggest one. A syndicate of two wealthy New Yorkers was offering $100,000. Now this is, would be over a million dollars today, to take on the Nevada casinos. Thorpe dialed the number on the letter and asked to speak to Emanuel Kimmel. So this is the only part of the podcast where I'm going to get into like all these underworld figures because it's fascinating. And if you're interested in that kind of stuff, I'd recommend reading the book. Again, don't even listen to me. Charlie Munger's telling you to read it. You should probably read it. So this is an intro to Manny Kimmel."
+    },
+    {
+      "timestamp": "00:32:09",
+      "text": "Emmanuel Kimmel is known as Manny Kimmel. And he's also tied to this other gangster. Literally, these are mafia guys. Zewillman. I don't know how to pronounce his name. But there's a reason I'm bringing that up. I'm not just doing it because I found it entertaining. All right."
+    },
+    {
+      "timestamp": "00:32:24",
+      "text": "So first, let's talk about manny because to understand thorpe and the wild crazy life he has you have to understand some of the people he associated with he didn't know they were mafia like he he was kind of he found out later and then he started he stopped associating with them obviously um but he was very much you know the land of horse betting and casinos and and market manipulation also the kind of crazy stuff, there's going to be a lot of organized crime in it. All right, so Manny Kimmel. Manny would bet on anything at any time"
+    },
+    {
+      "timestamp": "00:32:54",
+      "text": "as long as the odds were to his liking. Kimmel taught himself calculus, trigonometry, and probability theory, or at least he said he had, and I don't know if he ever did. Within his brain was a combination of street smarts and autodidactic book learning that could swiftly analyze propositions. He was, you know, rather smart though. I just don't know if he knew all the other stuff. He memorized sucker bets. One of his favorites was betting that two people in a group would have the same birthday. Kimmel's victims would take even money kimmel knew he had an edge"
+    },
+    {
+      "timestamp": "00:33:26",
+      "text": "whenever there were more than 22 people kimmel's edge was not always strictly mathematical and not always strictly ethical so let me go back to thorpe and kimmel kim will appear to be interested only in finding out whether thorpe's system worked. He showed no interest in Thorpe's paper, and as far as Thorpe could tell, the math was Greek to Kimmel. Kimmel demanded that they play each other. Thorpe flew to New York each Wednesday to play cards against Kimmel. He won regularly, convincing Kimmel of his playing skills and the merit of the counting system. Kimmel occasionally presented Thorpe with the gift of a salami. I just included that because when I read it, it made me laugh. Like, all right,"
+    },
+    {
+      "timestamp": "00:34:09",
+      "text": "thanks for beating me. Here's some salami. All right. Now, this is another, I keep saying this, how many crazy, surprising things there are in this book, but this is one, a really crazy one. So Kimmel is involved with this guy named Swillman. And he is definitely a mafia guy. And the reason I put this in the story is because Thorpe is going to run into some of these people. And I think just something you should learn in life that I think is obvious, like there are some people in life that you should just not mess with. And I always go back to like that book I did on Cornelius Vanderbilt, where, yeah, he's a businessman, he's an entrepreneur,"
+    },
+    {
+      "timestamp": "00:34:48",
+      "text": "he's the wealthiest person in the world at the time, but he also will break the law and try to have you killed if you go against him. If you remember what he did to, in the book, Tycoon's War, when somebody thought they had the good idea of confiscating some of the ships, he went and sent assassins and mercenaries and other countries' armies after him."
+    },
+    {
+      "timestamp": "00:35:11",
+      "text": "So you just have to understand that in life, there's just certain people that don't care about rules. And if you mess with them, you could have consequences, which is what makes what Thorpe is doing right now extremely dangerous. And this is an example of somebody. I'm going to call him Willman because it's Z- it's zwi we're going to call him willman um willman is he has a racket a numbers racket which is a way for people to gamble which is very popular at the time for for the way certain mafia figures make money so it says a minor thugug named Leo began roughing up Willman's numbers runners."
+    },
+    {
+      "timestamp": "00:35:46",
+      "text": "He was given a warning. Leo responded that he'd kick Willman in the balls to teach him a lesson. Willman insisted on handling this insult personally. He tracked Leo to a bar and shot him once in the testicles. So Willman has all these other, like, he's extremely wealthy. He made money like off prohibition running illegal liquor into the United States. He has a bunch of gambling businesses. He owns like part owner and like a bunch of parking lots, like all kinds of stuff. So, something happens where Willman dies and it looks like he committed suicide. Most likely he was murdered by other mafia members. Okay. Now the reason I'm bringing this up is because"
+    },
+    {
+      "timestamp": "00:36:30",
+      "text": "when Willman dies, Manny is then he's, he benefits from Willman's death. Well, let me just read it. Willman's death left Manny Kimmel holding a portfolio of businesses. Okay. Um, some legitimate and some not some owned by Kimmel and others apparently in partnership with Willman's estate and other murky entities. Willman had an idea for parlaying this wealth. That idea was to try to beat, to gamble in not only the Las Vegas casinos, but also the stock market. Now, the reason I bring this up is because this was one of the most surprising facts in the book, is that the businesses that Willman and Manny own together, it starts out as really successful. They own like 60-something parking lots in New York City, and I think the revenue on the parking lot is something like a million, over a million and a"
+    },
+    {
+      "timestamp": "00:37:19",
+      "text": "half dollars a day or something like that. In one of the strangest twists in life, that business winds up becoming Warner Communications, which is today known as Warner Media, which is a huge media conglomerate. That thing just blew my mind how these things could start as so unrelated and over time morph into something unpredictable. Okay, so back to Manny, that's the end of woman in the story. Let's go back to Manny and Thorpe. So they go to Vegas. Kim will pull out a lot of bills and counted out $10,000 for Thorpe. Thorpe started gambling. They won $500 in 15 minutes. And then the dealer pressed the second, the secret button on the floor. So I'm gonna skip over more major"
+    },
+    {
+      "timestamp": "00:38:04",
+      "text": "parts of the book, but what's happening here is they don't care if they can prove you're counting cards or if you have a system for beating blackjack. When you're too successful, especially at this time, they immediately start cheating or kicking you out of a casino or in some cases trying to kill you. So eventually they're all identified at all the casinos they go to. So they walk into a casino and they're all identified. They're identified at all the casinos they go to. So they walk into a casino and they're immediately pushed out. So they make money, though."
+    },
+    {
+      "timestamp": "00:38:36",
+      "text": "And again, Manny wanted to start with $100,000. Thorpe was the one that brought it down to $10,000. You can imagine how much money they would have made if they would have started with $100,000. So once they become too well-known in Vegas, it it terminates their experiment now here's the result of that by thorpe's estimation they had built ten thousand dollars into twenty one thousand dollars in about uh in about 30 in about 30 hours of play um had and that was after kimmel wasn't listening to thorpe and wind up burning to $11,000. He didn't know what he was doing. So essentially, it should have been $32,000, but they made $11,000. So this is how profitable – and then this is how Thorpe thinks about it."
+    },
+    {
+      "timestamp": "00:39:17",
+      "text": "He breaks it down profitable per hour. Thorpe's system, $11,000 profit in 30 hours is $366 per hour playing blackjack. If Manny didn't mess it up, they would have made $733 per hour. So it's safe to say that Eddorp has found a way to indeed beat the dealer. And not only is the system effective, but he's also using the Kelly system, the Kelly criterion, to figure out how much to bet. So I want to talk to you a little bit more about that real quick. And again, it just states that even in unlikely events must come to pass eventually."
+    },
+    {
+      "timestamp": "00:39:56",
+      "text": "So it says, given a favorable betting opportunity, the Kelly system promises maximum profit and protection against ruin. The reason I think this is important because according to Ed Thorpe and others, this is the single best system to build wealth, okay? All right, so given a favorable betting opportunity, the Kelly system promises maximum profit and protection against ruin. These goals may sound antithetical."
+    },
+    {
+      "timestamp": "00:40:18",
+      "text": "It is worth looking at how the Kelly formula works in a casino situation. The Kelly system avoids gambler's ruin quite simply. It is a proportional betting system. That means that each wager is scaled to the current size of the bankroll. Since you bet only a prescribed fraction of what you currently got, you can never run out of money. When you lose repeatedly, as will happen in any game of chance, bets scale down in proportion to your diminished wealth. The exponential growth of wealth in the Kelly system is also a consequence of proportional betting."
+    },
+    {
+      "timestamp": "00:40:54",
+      "text": "As the bankroll grows, you make larger bets. Assuming you have an edge, and that is the biggest, biggest, biggest part, one of the biggest parts. No, let me say it's the biggest part. Assuming you have an edge and that is the biggest biggest biggest part one of the biggest parts maybe no let me say it's the biggest part assuming you have an edge in the long run you will win more than you lose this is important to investors it's important to entrepreneurs there's no point in starting a business if you don't feel you have an edge buffett munger thorpe and shannon all agree if you don't have an edge you don't bet and you don't compete. Now, what's so special about the specific system that Kelly devised? The answer is simply that the Kelly system grows wealth faster than any other. All right. So let's go back to Ed Thorpe. At this point, it's funny to"
+    },
+    {
+      "timestamp": "00:41:38",
+      "text": "me because if you really think about the life story of Ed Thorpe, he's a kid that's born poor, and yet he goes on to learn and build more wealth than he could ever spend. And the reason he moves across the country and stops working with Shannon is because he needed the money. New Mexico State offered a salary of about 50% more"
+    },
+    {
+      "timestamp": "00:41:53",
+      "text": "than Thorpe was making. Living costs would be much less as well. The money weighed heavily on Thorpe as he and his wife were now raising a family. So Thorpe accepts the offer. Thorpe writes a best-selling book called Beat the Dealer,"
+    },
+    {
+      "timestamp": "00:42:04",
+      "text": "and then he starts using his counting system to make some side money. So now he's on his own. He's not with Manny and all these other mafia guys. He obviously realizes they're in a mafia by now. So as doing some press for Beat the Dealer, he gets profiled by a magazine. And it says the 1966 magazine profile on Thorpe contained probably the first mention of the Kelly system in a general publication. And he says, the 1966 magazine profile on Thorpe contained probably the first mention of the Kelly system in a general publication. And he says, one of the most ingenious aspects of Thorpe's strategy today involves his application of the Kelly system, a mathematical theory for the management of capital conceived by a Bell Labs research scientist."
+    },
+    {
+      "timestamp": "00:42:39",
+      "text": "That's John Kelly, who I mentioned earlier. It is this element of play which ensures him against going broke. The man or woman who constantly overbets, even in favorable situation, is certain to do so. So this is the problem, though. He's drawing a lot of attention to himself. So even if they don't, they're not recognizing him because he's walked into their casino before he starts they people obviously in the gambling industry are going to hear about his book and so even though thorpe is playing on his own the casinos fight back and this is what i mentioned earlier like there's no rule in life that's saying that other humans are going to play by the rules"
+    },
+    {
+      "timestamp": "00:43:17",
+      "text": "and if you don't understand that you could put yourself in a very dangerous situation and ed thorpe almost died doing so uh it says, no interference from casinos was becoming an unrealistic assumption. While playing at one casino, Thorpe was offered a drink. After drinking it, he noticed he had problems concentrating. Thorpe staggered up from the table and got to his room. His eyes were dilated. It took about eight hours for the effect to wear off. I know of three beatings, Thorpe said."
+    },
+    {
+      "timestamp": "00:43:44",
+      "text": "One was a well-known blackjack card counter, and he had a lot of his face caved in. Another guy I know had his arms held, and every time he tried to catch his breath, they'd punch him in the solar plexus. So he's like, all right, this is stupid. I've got to find a different way to do this. And he realizes this is where Shannon and Thorpe start applying what they learned from gambling to the stock market. And they believe that the idea that markets are perfectly efficient to be false."
+    },
+    {
+      "timestamp": "00:44:13",
+      "text": "Again, I've kind of talked about this a lot over the past few weeks because Buffett mentions it over and over again in his shareholder letters. Munger talks about it. And we'll get into it here. He says, I'd be a bum in the street with a tin cup if the markets were efficient, Warren Buffett once said."
+    },
+    {
+      "timestamp": "00:44:30",
+      "text": "Buffett had already made a name for himself with a successful hedge fund and had founded Berkshire Hathaway when Paul Samuelson, this is the guy that popularized efficient market theory, wrote that a loose version of the efficient market or random walk hypothesis accords with the facts of life."
+    },
+    {
+      "timestamp": "00:44:47",
+      "text": "The truth is, this is Paul Samuelson still talking, the truth is, this is what he thinks, he says, this truth, it must be emphasized, is a truth about New York, Chicago, and Omaha. Samuelson was apparently felt that Buffett's success was best filed with a small minority of unexplained cases. So this is my problem with Paul Samuelson was apparently felt that Buffett's success was best filed with a small minority of unexplained cases. So this is my problem with Paul Samuelson. The book says he had spirited advocacy for the efficient market hypothesis that swept the academic community in the 1960s and 70s. He winds up winning a Nobel Prize for this theory."
+    },
+    {
+      "timestamp": "00:45:20",
+      "text": "My problem is Samuelson was a liar. Because he's talking about, oh, he's very condescending to people that don't agree with it. He calls them fools and everything else. And yet he's talking about, like, this is stupid. Like, you're dumb for believing this. And he's preaching that you should just, you know, just you shouldn't even try. And so that's what he's saying with his mouth. But what is he doing with his actions?"
+    },
+    {
+      "timestamp": "00:45:42",
+      "text": "He's buying Berkshire Hathaway stock. So that tells you he doesn't believe what he's saying. It was interesting to me when I was reading his shareholder letters, Buffett kept mentioning a person who popularized EMT, which is Fisher Market Dairy, but who's also a Berkshire investor. It wasn't until I read Fortune's formula that I knew who he was referring to. And so that's something I hold dear in my life. And something that's helped me is I try not to pay attention to what people say. I try to pay attention to what they do. I think our actions reveal, it's the difference between revealed preference to stated preference. You just watch what they do and you'll see what they actually"
+    },
+    {
+      "timestamp": "00:46:23",
+      "text": "believe in. And so in his case, he obviously didn't believe that because he wouldn't think he could make above average market returns by investing in a single stock, which is what he was doing. I hate people like that. It bothers me. I consider it lying. All right. So let's go back to Shannon. So in the late 1950s, Shannon began an intensive study of the stock market that was motivated both by intellectual curiosity and a desire for gain. He filled three library shelves with something like a hundred books on economics and investing. At the time he was designing the roulette computer with Thorpe, Shannon kept notes in an MIT notebook."
+    },
+    {
+      "timestamp": "00:47:01",
+      "text": "Part of the notebook is devoted to a wildly disconnected set of stock market musings. Shannon wondered about the statistical structure of the market's random walk and whether information theory could provide useful insights. This is how he's applying something he learned two decades prior or a decade and a half earlier to what he's doing now."
+    },
+    {
+      "timestamp": "00:47:19",
+      "text": "He considered margin trading and short selling, stop loss orders and the effects of market panics, capital gain taxes and transaction costs. He notes such success stories as the lone wolf, who ran about $10,000 into a million in 10 years, and Hedy Green, the witch of Wall Street, who ran a million into 100 million in 30 years. This is Shannon specifically on the efficient market theory. You know the economists talk about the efficient market where everything is equalized out and nobody can make any money. Really, it's all luck and so on, Shannon once said. I don't believe that's true at all."
+    },
+    {
+      "timestamp": "00:47:55",
+      "text": "So Shannon starts to make a lot of money in the stock market, and now we're going to be introduced to another person who also is, who we've also, you might have heard the name from Charlie Munger and Warren Buffett, and that person is Henry Singleton, who we've also, you might've heard the name from Charlie Munger and Warren Buffett. And that person's Henry Singleton, who I'm also reading a book about and will appear on a future Founders episode. It says, in 1954, Charles Harrison, a Bell Labs scientist Shannon knew,"
+    },
+    {
+      "timestamp": "00:48:15",
+      "text": "started his own company. Harrison's laboratories made power supplies for the promising new field of color television. Shannon bought a block of stock. Harrison Labs is not a familiar name today because it was acquired by HP back in 1962. The stock's price zoomed, and Shannon got a handsome chunk"
+    },
+    {
+      "timestamp": "00:48:36",
+      "text": "of Hewlett-Packard's stock in the merger. The size of the paper profit convinced him there was real money to be made in stocks. So it continues, the experience with Harrison made Shannon receptive when another friend, Henry Singleton, spoke of starting his own company. By 1960, Singleton founded Teledyne, a defense contractor selling digital navigation systems to the Pentagon. Shannon bought a couple thousand shares"
+    },
+    {
+      "timestamp": "00:49:05",
+      "text": "at the initial price of a dollar a share. By 1967, it hit $24 a share. As the company shares skyrocketed, Singleton used that inflated market value to buy other companies. He bought about 130. Teledyne came to own insurance companies, offshore oil wells, and the manufacture of the Waterpik teeth cleaners. Ed Thorpe starts investing in stocks. Why does he do that? He says, I realized that if I pushed it, sooner or later, some unpleasant physical things would happen in Nevada. He decided to direct his talents toward the biggest casino of all, the stock market."
+    },
+    {
+      "timestamp": "00:49:53",
+      "text": "So he starts out, but he doesn't really know too much about investing. And he loses a large percentage of the little money he has speculating on silver, and he learns a very valuable lesson that kind of ties into Buffett's ideas, among others, about never betting or investing your time or money in an area where you have no edge. So Thorpe says, I learned an expensive lesson regarding all the money you lost in silver. And he says the lesson was you were unlikely to get an edge"
+    },
+    {
+      "timestamp": "00:50:24",
+      "text": "out of what you see in the news. So Thorpe decides, hey, I got to look where I have an edge. He has some unique insights on options and warrants. And at this point in his life, Ed Thorpe is going to move to Southern California and he's going to start his work on options. He switches schools to UC Irvine. So it says, summer of 1964 brought changes in Thorpe's life. The grant supporting his appointment at New Mexico State had run out. On Thorpe's first day at UC Irvine, he had happened to mention his interest in warrants to Julian Feldman, the head of the computer sciences department. Oh, Feldman said, we've got a guy who's doing the same thing. He was talking about"
+    },
+    {
+      "timestamp": "00:51:01",
+      "text": "the economist named Sheen Kassoff. Feldman introduced Thorpe to Kassoff, and they resolved to do a weekly research seminar on the subject. But there were no students. Thorpe and Kassoff simply met weekly to figure out how to get rich. Thorpe began trading warrants. His hedging system, and he calls this the Delta hedging system, his hedging system worked as he had hoped. By 1967, Thorpe had parlayed his original $40,000 into $100,000. So Thorpe writes a letter to Shannon, and he tells him, he's like, listen, after several false starts, I have finally hit pay dirt with the stock market."
+    },
+    {
+      "timestamp": "00:51:46",
+      "text": "I have constructed a complete mathematical model for a small section of the market. A major portion of my modest resources has been invested for several months. We set a tentative first goal of doubling the capital every two years. It isn't far away now. So Thor winds up being successful. He winds up wanting to run money for other people, for outside investors. So he writes a book, publishing his system. And then he's looking for partners. And you have to pick, lesson here is you have to pick the right business partners. And the reason Thorpe doesn't pick Kassoff because there's a philosophical"
+    },
+    {
+      "timestamp": "00:52:24",
+      "text": "difference. It says Kassoff because there's a philosophical difference. It says, Kassoff believed that he could sometimes predict in which direction certain stocks were going to move. Kassoff was willing to buy stocks he thought were going up and sell short stocks he thought were going down. Thorpe wasn't. He was unconvinced that Kassoff or anyone could predict the market that way."
+    },
+    {
+      "timestamp": "00:52:44",
+      "text": "So he winds up, I know I left myself, as Thorpe finds the right partner and starts a hedge fund. unconvinced that Kassoff or anyone could predict the market that way. So he winds up, I know I left myself, as Thorpe finds the right partner and starts a hedge fund. I find out later on that that may not have been the case. He definitely started a hedge fund. Not sure he found the right partner. But now this is the beginning of one of the most successful hedge funds of all time. And it's called Princeton Newport."
+    },
+    {
+      "timestamp": "00:53:05",
+      "text": "And Thorpe finds this guy named Reagan. And Thorpe lives in California. Reagan lives on the East Coast. And what blew my mind is Thorpe starts working remotely. And this is, I think, starting back in the 60s. All right. So this is Thorpe talking. He says, Reagan was a natural promoter and extrovert. He was going to do the things I didn't want to do, which were like interface with brokers, accounting, run around Wall Street getting information, that sort of thing. What I wanted to do was think, work out theories, and try to put them into action. We were actually happy being separate"
+    },
+    {
+      "timestamp": "00:53:36",
+      "text": "because we had different styles and very different personalities. Being separate was one of the oddest parts of this arrangement. So they're talking about the fact that this is a remote company. Thorpe did not want to give up his UC Irvine post or California. It's kind of crazy that he's running one of the most successful hedge funds, and then he finally quits years later. But this kind of shows you how cautious he is. It was agreed from the outset that it would be a bi-coastal partnership"
+    },
+    {
+      "timestamp": "00:54:01",
+      "text": "connected by a wire, a wire of phone and data lines. Thorpe and a staff would do the math in California, and they would transmit trade instructions to Regan and staff on the East Coast. The East Coast branch would handle the business end of things, including most of the recruitment of investors. Now, along this time, Thorpe is trying to get people to invest with him. One of them is a dean at UC Irvine, and this is what leads him to meet a young Warren Buffett. This is still in the 60s, so they're probably in the 30s."
+    },
+    {
+      "timestamp": "00:54:34",
+      "text": "Let's say late 30s maybe at this time. It says, before committing any money to Thorpe, this guy's name is Gerard, Gerard wanted his money manager to meet Thorpe and size him up. The manager was Warren Buffett. Thorpe and his wife met Buffett and his wife for a night of bridge. Thorpe was impressed with Buffett's breadth of interests. He believed that Buffett would one day become the richest man in America. Buffett's verdict on Thorpe was also positive."
+    },
+    {
+      "timestamp": "00:55:00",
+      "text": "Gerard, who had done quite well with Buffett, decided to invest with Thorpe. And so they're kind of bonding over the fact that they're Thorpe, Shannon, Buffett. They're the direct opposite of this idea that the market is efficient. And Thorpe says, the question wasn't, is the market efficient? But rather, how inefficient is the market? And how can we exploit this? So Thorpe's approach is completely different than others at this time And anytime you're going to do anything different"
+    },
+    {
+      "timestamp": "00:55:27",
+      "text": "You can be expected to be criticized and be told that you're wrong So not only is he applying math, but he's using computers And so the Wall Street Journal does a story on Thorpe And his new Princeton Newport hedge fund And it says, the journal writer was amazed At Thorpe's disregard of fundamental analysis and his reliance on computers. In 1974, the journal's average reader had as much hands-on experience with computers as with moon rockets. The whole computer model bit is ridiculous because the real investment world is too complicated to be reduced to a model,"
+    },
+    {
+      "timestamp": "00:56:02",
+      "text": "an unnamed mutual fund manager was quoted as saying. You can't replace the money manager using security analysis and market feel with a machine. Yet the journal reported that Thorpe's machine outperformed all but one of the 400 mutual funds tracked. This is Thorpe on it, on the one that beat him. He says the better one was one of those crazy funds that invested only in gold stocks. And so I'm going to fast forward a little bit here. Now, this is the update on the progress of Thorpe's first company."
+    },
+    {
+      "timestamp": "00:56:34",
+      "text": "I just want you to notice that I said first company. At the year end of 1982, Thorpe and Regan could boast that a dollar invested at the outset had grown to $6.61 in 13 years. By that time, Thorpe and Regan had turned a conviction that the market can be beaten into one of the most successful investment partnerships of all time. It was rare enough to achieve greater than market return over 13 consecutive years. Skept skeptical academics and some traders tended to judge such exceptional performance as a faustian bargain they said sooner or later they were going to lose big thorpe remember but what's going to prevent them from losing big the kelly criterion"
+    },
+    {
+      "timestamp": "00:57:19",
+      "text": "right thorpe was introspective approaching the challenges of his work as a scientist i think this is also a smart way for entrepreneurs to do so he measured his words like he measured everything else thorpe was careful to characterize his son's for his funds performance as getting rich slowly so what i mean about approaching things as a scientist is like he has a theory then he needs he needs to test that theory in the real world and as a result of testing your theories in the real world you're going to get unexpected results that's what what I meant about that. Okay. So it took him until 1982 until he quit his day job teaching at UC Irvine. So that's pretty crazy. That's what, close to 15 years. Thorpe was slow to display his now considerable wealth."
+    },
+    {
+      "timestamp": "00:58:01",
+      "text": "In the office, he dressed like a California professor on his day off in shirts and sandals. When the Thorpes finally decided it was time to buy a big house, they chose a hillside 10-bathroom home said to be the largest in Newport Beach. This kind of gives you an idea of how he's doing. I've seen the interviews. He won't tell how much money he's made. It had a fallout shelter with 16-inch thick concrete walls and steel doors. And why do I bring that up? Like, why am I including that part in the podcast? It's not just to talk about big houses."
+    },
+    {
+      "timestamp": "00:58:30",
+      "text": "It's because it gives you an insight into his mind. Ever mindful of the odds, Thorpe computed that it could withstand a one-megaton hydrogen bomb blast as close as a mile away. Neither Thorpe nor Regan could have imagined how soon it would all end or how. And there's going to be another... I feel like I keep saying that over and over again, but there's another insane story in the book, how their hedge fund winds up coming to an end."
+    },
+    {
+      "timestamp": "00:58:56",
+      "text": "So there's this illustration I really like, and it will tell you how the proponents of the Kelly side are thinking about things. So I'm just going to read it to you. The growth of dollars under various money management schemes may be compared objectively, like the growth of bacteria in petri dishes. Okay, so just think about it as a money management system."
+    },
+    {
+      "timestamp": "00:59:14",
+      "text": "The dollars subjected to the Kelly system survive and grow faster than those subjected to any other system. The experiment can be repeated as many times as it takes to convince the skeptic. And then you ask, which system would you prefer for your money? An acid test of Princeton Newport's market neutrality came in the form of the Black Monday crash in October 1987. The Dow Jones lost 23% of its value in a single day, the biggest single-day drop ever."
+    },
+    {
+      "timestamp": "00:59:47",
+      "text": "Princeton Newport's $600 million portfolio shed only about $2 million in the crash. Thorpe's computer immediately began alerting him to rich opportunities in the panic valuations. Princeton Newport closed October 1987 just about even for the month. Most mutual funds were down 20% or more. Princeton Newport's return for the year was an astonishing 34%. Black Monday was also a severe test to the efficient market hypothesis. It was difficult for many to see how a rational assessment of the market's value could have changed 23% in a single day. Black Monday caused, and this is the, I mean,"
+    },
+    {
+      "timestamp": "01:00:31",
+      "text": "I was going to say this is a surprising result, but kind of not surprising result when people identify themselves with their ideas. Like a good, good advice is like, you're not your ideas. You should like discard them when you find information that clearly contradicts them. Well, the economists didn't. Black Monday caused few economists to reject the efficient market hypothesis. All right, so now I got to tell you when Thorpe's hedge fund is rated. And you might be saying, the note I left myself is WTF? Like when I got to this part of the book, it's what are you talking about?"
+    },
+    {
+      "timestamp": "01:00:57",
+      "text": "What's going on here? All right, December 1987, vans pull up in front of Princeton Newport building. They contain 50 federal agents of the FBI, Treasury Department, and ATF. They were armed and wearing bulletproof vests. They went through the filing cabinets, packing documents into 300 boxes. They were under orders to look for audio tapes especially. So this is when Ed Thor heard the news, his initial reaction was that it was nonsense. He had followed the string of arrests on Wall Street like everybody else. This was happening at the time. The raid seemed to be some publicity stunt on the part of"
+    },
+    {
+      "timestamp": "01:01:28",
+      "text": "Rudy Giuliani. Rudy Giuliani is the prosecutor of the Southern District of New York, and a lot of people are saying he was doing this to get publicity for an eventual run at either Senate or governorship. Now, here's the problem, though. I said earlier it's important to pick the right business partners, and the minute I left myself, I was like, oh, did Thorpe actually have bad business, bad partner? Ominously, Reagan did not have much to enlighten Thorpe. Everybody lawyered up, explained Thorpe. Trying to run a partnership was very difficult under these circumstances. Action spoke louder than words."
+    },
+    {
+      "timestamp": "01:02:02",
+      "text": "Some of the East Coast partners took about $15 million out of the fund and replaced it under the names of their wives. So that looks real bad, doesn't it? It turned out that someone had saved some tapes from December 1984. This is three years earlier. Stock parking would normally take place at the end of the tax year. So that's what they're doing. At the time, Thorpe and his partner have one of their brokers is Michael Milken,"
+    },
+    {
+      "timestamp": "01:02:26",
+      "text": "the famous guy who ends up inventing junk bonds and going to jail for a few years. And Regan and some of the people in the office, well, I don't know if Regan was actually involved, but some traders in the office were doing this thing called stock parking, which they would basically two different companies are pretending to transfer assets to one another to avoid taxes. That's like an oversimplified way to think about it, right? But this is going on in the East Coast office. Thorpe didn't know what was going on. So Thorpe got one call from the prosecution team."
+    },
+    {
+      "timestamp": "01:02:54",
+      "text": "They wanted him to come and testify in New York. And he told them, if I do it, I'm going to take the fifth. The U.S. attorney's office took no further direction against Thorpe. So he was never even involved in all this. And he says, my theory on taking the fifth was I didn't know anything. So I had no upside in going in and plenty of downsides. That's another trait that I find constantly in these biographies is these people know how to limit, to cap their downside. The decision to testify was just a prudent calculation."
+    },
+    {
+      "timestamp": "01:03:29",
+      "text": "And here's the problem. It didn't matter that he didn't do anything because they were being charged. People thought they were guilty. And Giuliani is using the RICO Act, which is mainly used to fight organized crime. So this is the end of their hedge fund. With RICO's charges looming, the fund's investors wanted out. In 1988, Thorpe and Reagan dissolved the partnership. Positions were liquidated and the money returned to investors. He blames the situation on the dysfunctional partnership. We didn't really connect well as people, Thorpe said of himself and Reagan. That was probably the crack in the edifice. If I'd realized the actions were being taken that were more aggressively bold, closer to the line than I dare contemplate, the whole thing wouldn't have happened. And Ed was pretty mad about this because he's like, we had a great run"
+    },
+    {
+      "timestamp": "01:04:08",
+      "text": "and you're trying to save a little bit on taxes. So he says, this is the financial results of their partnership. To many portfolio managers today, the 19-year record of Princeton-Newport partners is the definitive home run. A dollar invested in the fund at the beginning would have been close to $15 by the time the fund ceased. Over 19 years, the compound return rate averaged 15.1% after fees. During that same time period, the S&P averaged 8%. So again, Samuelson and others say it's impossible to do and Thorpe doesn't care if you think it's impossible, he'll just go out and do it. And this is him on the end of the prince of newport regan and other prince of newport defendants appealed their cases all six convictions were overturned so they wind up not not even being able to convict them"
+    },
+    {
+      "timestamp": "01:04:53",
+      "text": "permanently uh thorpe came out unscathed from charges but what he's upset about is they interrupted their compounding so this is a destruction of wealth was huge, Thorpe observed. The partnership employed about 80 people on two coasts. They managed $272 million of other people's money. Together, Thorpe and Regan were collecting $16 million a year in general partner fees. This is in the 80s. Their own investments in the fund were compounding at an impressive rate. And what happens?"
+    },
+    {
+      "timestamp": "01:05:24",
+      "text": "You never interrupt compounding. And a RICO case is going to interrupt your compounding. So he's really upset about that. From there on in, he runs this thing called Edward Thorpe and Associates, like a series of hedge funds. I'm not sure if he invests other people money. I think he does. But I think mostly he's just running his own money too. And he's getting like 20 something percent returns. So that's what he's been doing from the point in the story to today. He's still alive. He's 87 years old, and he wrote his memoirs two years ago, and then he did a lot of publicity at 85 years old for the book."
+    },
+    {
+      "timestamp": "01:05:56",
+      "text": "I recommend you just putting in Edward Thorpe or Ed Thorpe into YouTube, and I've showed the video to three or four different people now. Everybody's like, how old's that guy? Tell me how old he is. They're like, I don't know, 60, 65. It's remarkable. I've never seen an 85-year-old person look as good as him. And then not only that, still be so on point mentally. It's remarkable. All right. So now I want to get to the point that now we know that Thorpe did well. I want to talk about the people that thought. So I want to talk about the idea that there's people that were not adhering to the Kelly criterion who wind up blowing up."
+    },
+    {
+      "timestamp": "01:06:35",
+      "text": "So Thorpe had a chance to invest in LTCM, which is long-term capital management, one of the most famous hedge funds to blow up ever. And he declines for obvious reasons. So it says, Ed Thorpe first heard of Merriweather. Merriweather is the person that begins LTCM. So he's first heard of Merriweather's fund through a mutual friend. It's going to be a great investment, Thorpe was told. And for $10 million, you can get into it. Like most of the new group of fund managers, Merriweather promised better than market returns through science and software. Merriweather did not himself possess a first-rate"
+    },
+    {
+      "timestamp": "01:07:10",
+      "text": "mathematical mind. Instead, he recruited the top academic talent. No finance professor was more respected than Robert C. Merton. So he recruits him. And his other greatest coup was recruiting Myron Scholes.es now here's the thing they also believe in um the efficient market hypothesis but they're saying is there's tiny tiny tiny parts temporarily where the market is not efficient and you can make like five cents so their point is they're going to use a massive amounts of leverage so they could pick up a bunch of nickels but what they're really doing is they're picking a bunch of nickels in front of a steamroller and they just don't know that they're really doing is they're picking up a bunch of nickels in front of a steamroller,"
+    },
+    {
+      "timestamp": "01:07:45",
+      "text": "and they just don't know that they're doing that yet. So it says, Thorpe decided not to put any money in his fund. He was concerned that Merton and Scholes had little experience investing other people's money, and it didn't help that Merton was a critic of the Kelly criterion. The general chatter was also that Merriweather was a high roller. The story was that if he got in a hole,"
+    },
+    {
+      "timestamp": "01:08:05",
+      "text": "if things went against him, he would bet more. If things still went against him, he'd bet even more. And this is what he winds up doing at LTCM. It's kind of the exact opposite of when I was describing the Kelly criterion to you earlier. It's a proportional betting system. As your bankroll goes up, you bet more. As it goes down, you bet less. What happens is LTC your bankroll goes up you bet more as it goes down you bet less what happens is ltcm starts blowing up and they bet more a larger percentage says ltcm trading secrets were secrets one thing was disclosed ltcm used a lot of leverage for every dollar invested investor money, the fund borrowed $29 more. So this is the definition of gambler's ruin."
+    },
+    {
+      "timestamp": "01:08:53",
+      "text": "This is also the way I want you to think about this is, this is what Thorpe and Shannon wisely avoided. And LTCM did not. One term for gambler's ruin among the traders is blowing up. To blow up an account is to lose everything in high-risk trades with borrowed money. A stellar career can end in a few miserable days or hours. And so there's a quote. If you listen to the podcast I did last week on Jim Clayton,"
+    },
+    {
+      "timestamp": "01:09:21",
+      "text": "that he compares, and we've talked about this a lot, right? The fact that starting a company, running a company, a lot of times it's counterintuitive, right? So the thing you think you should do is the exact opposite of what you should be doing. That's what makes it so difficult, right? And it's a complex adaptive system. It's not going to behave in ways that are predictable. So Jim compared that to flying because he's a pilot too. And he said something that I thought about and I've kept the note. He says, the thing you should do is the opposite. Like you can get yourself in a situation flying in a business where the thing you should do is the opposite of what you feel you should do."
+    },
+    {
+      "timestamp": "01:10:01",
+      "text": "So LTCM runs into the same thing. They're collapsing, and in the middle of the collapse, they do the exact opposite thing that they should. It says when they first started losing, obviously they had less discretionary wealth, so they should have pulled down their leverage multiple on a proportional basis, right? Instead, they allowed that leverage to drift up to like 60 times."
+    },
+    {
+      "timestamp": "01:10:25",
+      "text": "That was a horrible mistake. No Las Vegas gambler would ever make that mistake. No surviving one. And so that is almost the entire point of this podcast. You want to put yourself in a position, you cannot be successful if you don't survive. So therefore, never risk your survival. Ever. yourself in a position you cannot be successful you don't survive so therefore never risk your survival ever these guys didn't even understand that they came from a different world they thought oh we have it all figured out we're so smart and so i i want to read this quote uh well let me get to it warren buffett is gonna you know i don't even need to say it because warren buffett's quote"
+    },
+    {
+      "timestamp": "01:11:02",
+      "text": "here is amazing on it um and then this next part i'm going to read to you, when I read it, I left a note to myself. And it's that Steve Eisman quote, the guy from the Big Short who made over a billion dollars during the housing crisis and the financial crisis in 2008, 2009. And it's just amazing how many situations this quote applies to. And he says, the quote, he's like, they mistook leverage for genius. And Eisenman was talking about the late 2000s financial crisis. The same thing applies to what's happening in the end of the 90s and will apply in the future and 100 years in the future, 100 years ago. This is human nature and human nature does not change. So many of the partners had substantial fortunes before LTCM that they rolled over into the fund. One partner was said to be in tears in one meeting."
+    },
+    {
+      "timestamp": "01:11:53",
+      "text": "Why would you be in tears? Because he had taken out a personal loan of $24 million to increase his stake in the fund. What is he doing? He's using leverage to buy his own fund, which itself was operating at nosebleed leverage levels. His net worth went from something like over $100 million to negative $20 million. He requested that the bailout cover his personal debts. Remember, this is such a huge loss. The U.S. Treasury had to bail them out. The consortium said no."
+    },
+    {
+      "timestamp": "01:12:24",
+      "text": "And what a jerk. This guy wants the taxpayer to pay. I mean, why am I even surprised at something like this? Like, I should know better right now. He requested that the bailout cover his personal debts. Like, that's a terrible person. Now, this is what I was mentioning earlier. I love this."
+    },
+    {
+      "timestamp": "01:12:40",
+      "text": "Warren Buffett marveled at how 10 or 15 guys with an average iq of maybe 170 could get themselves into a position where they can lose all their money and that statement by warren buffett is really just echoing something a statement that was uh said 200 years uh uh in the past in 1738 by this guy named daniel bernoulli i don't know how to pronounce it he's credited with like being a you mean maybe maybe even the most pioneering work in probability and statistics. And this is what he wrote in 1730. A man who risks his entire fortune acts like a simpleton, however great may be the possible gain. They're telling you to avoid, you should avoid risk of ruin. You should avoid fat tails."
+    },
+    {
+      "timestamp": "01:13:23",
+      "text": "It says, now there this is thorpe on it linked the ltcm collapse to merton's trolls intellectual critique of the kelly kelly system so ed continues he says i could see that he didn't understand how it controlled the danger of extreme risk and the danger of fat tail distributions it came back to haunt them in a grand way estimates about market probabilities are always just going to be that, estimates. It is a good practice to have a sense of how far off these estimates may be. Margins of error are themselves estimates, and human nature often skews these estimates optimistically. A decade rarely passes without a market event that some respected economist claims,"
+    },
+    {
+      "timestamp": "01:14:03",
+      "text": "with a straight face, to be a perfect storm. A 10-sigma event or a catastrophe so fantastically improbable that it should not have been expected to occur in the entire history of the universe. If they keep happening, that means they should be expected, shouldn't they? That's obvious on its face. I don't understand how so-called smart people don't understand that. In a world where financial models can be so incredibly wrong, the extreme downside caution of Kelly betting"
+    },
+    {
+      "timestamp": "01:14:27",
+      "text": "is hardly out of place. All right, so now we're going to go back to Claude Shannon. This is Shannon's performance applying his ideas to the market. Now, this is just fantastic. In 1986, Barron's ran an article ranking the recent performance of 77 money managers. Claude Shannon, though not mentioned in the article, had done better than all but three of the pros. And he's basically doing it as part-time."
+    },
+    {
+      "timestamp": "01:14:56",
+      "text": "The Barron money managers were mostly firms with up to 100 people. Shannon worked with his wife and a decrepit Apple II computer. The August 11, 1986 Barron's reported on the recent performance of 1,026 mutual funds. Shannon achieved a higher return than 1,025 of them. When Warren Buffett bought Berkshire Hathaway in 1965, over 30 years, he had a return of 27%. By the late 50s through 1986, Shannon's return on his stock portfolio was 28%. It's also worth noting it's a little harder to do with larger amounts. Warren was working with larger amounts, but still, Shannon's record's amazing. Again, this is what I like about Shannon."
+    },
+    {
+      "timestamp": "01:15:42",
+      "text": "He had an idea, and he backed it up. He's like, no, I think efficient market theory is bullcrap. And I'm going to see if I can teach myself how to do this. And he did. Okay, so I want to, we're almost done, but I want to go over this. So this guy, a few years later, unfortunately, Claude Shannon winds up suffering from Alzheimer's disease. So they're writing, there's this guy named Hirschberg who was, he was writing an article on Shannon's portfolio, but he never published it. But Shannon's wife got a copy and gave it to, I think, I don't know if he gave it to this author or somebody."
+    },
+    {
+      "timestamp": "01:16:18",
+      "text": "Somehow William Poundstone got his hands on it. So it says, a draft of Hirschberg's article, along with Hirschberg's recollections, give the most complete view of how Shannon achieved these returns. It had nothing to do with arbitrage. Shannon was a buy and hold fundamental investor. Now here's what Shannon's going to tell Hirshberg. In a way, this is close to some of the work I'd done"
+    },
+    {
+      "timestamp": "01:16:40",
+      "text": "relating to communication and extraction of signals from noise. He said, Shannon, he said that a smart investor should understand where he has an edge and invest only in those opportunities. And I know I've said this before, but Buffett and Munger say the same thing over and over and over again in different ways throughout multiple decades. Only invest where you have an edge. Find your edge and invest in it. This is more on how Shannon thought about price and value and the methods he used to invest. In the early 1960s, Shannon had played around with technical analysis. He had rejected such systems. This is Shannon talking now. He says, I think that the technicians who work so much with price charts"
+    },
+    {
+      "timestamp": "01:17:26",
+      "text": "and head and shoulders formations and pledging necklines are working with what I call a very noisy reproduction of the important data Shannon emphasized what we can extrapolate about the growth of earnings in the next few years from our evaluation of the company management and the future demand for the company's products, stock prices will, in the long run, follow earnings growth. Therefore, he paid little attention to price momentum or volatility. The key data,"
+    },
+    {
+      "timestamp": "01:17:58",
+      "text": "in my view, this is Shanna talking, the key data is, in my view, not how much the stock price has changed in the past few days or months, but how the earnings have changed in the past few years. Shannon plotted company earnings on logarithmic graph paper and tried to draw a trend line into the future. He also tried to surmise what factors might cause the exponential trend to continue or sputter out. The Shannons would also visit startup technology companies and talk with the people running them shannon became a board member of teledyne he was not just a distinguished name in the annual report but was actively scouting potential acquisitions for ceo henry singleton in other words he had an edge he knew he he knew he, he had an edge. He knew. He had an understanding and access to information that other people did not."
+    },
+    {
+      "timestamp": "01:18:49",
+      "text": "And this also tells you why I'm going to be reading about Singleton soon. And it's going to be a podcast you're going to be able to listen to. Warren Buffett himself said that Singleton had the best operating and capital deployment record in American business. It is at least conceivable that Shannon's judgment played a supporting role in his success. And this next section, the note I left myself is this is also why for entrepreneurs that own a profitable private business, it makes sense to do what Warren Buffett advises, to treat your business as if it's the only asset your family has had for the next 50 years. If you do that, it causes you to focus, and you're focusing on an area where you have an edge. See how that kind of plays together?"
+    },
+    {
+      "timestamp": "01:19:31",
+      "text": "Shannon's portfolio would have appalled Harry Markowitz. Markowitz is the guy that created modern portfolio theory, which needless to say, people like Buffett and Munger criticize heavily. I think it's a twaddle. All right, so Shannon's portfolio would have appalled Harry Markowitz. By this point, nearly 81% of the portfolio was in a single stock, Teledyne. The three largest holdings consisted of 98% of the portfolio. Shannon says, we have not at any time in the past 30 years"
+    },
+    {
+      "timestamp": "01:20:00",
+      "text": "attempted to balance our portfolio. And what does this echo? This echoes what Carnegie said. Andrew Carnegie told us, study how the great fortunes are made. It's not a scattershot approach. It's putting all your eggs in one basket and watching that basket,"
+    },
+    {
+      "timestamp": "01:20:16",
+      "text": "which is what he did with his steel company. And I'll close on this. This is Thorpe's investment record. It says in May 1998, Thorpe reported that his investments had grown at an average of 20 annual return over 28 years to help persuade you that this may not be luck thorpe wrote i estimate that i have made 80 billion dollars worth of purchases and sales for my investors this breaks down into something like one in a quarter million individual bets averaging $65,000 each with on average hundreds of positions in place at any one time."
+    },
+    {
+      "timestamp": "01:20:56",
+      "text": "Overall, it would seem to be a moderately long run with a high probability that the excess performance is more than chance and i stop there because that last sentence i think is what we're all trying to do in our individual lives we're trying to have an i a high probability of excess performance that's more than chance so if you want to read the entire story which i'd obviously recommend doing i leave a link uh it's an amazon affiliate link which means if you buy using that link, it also supports the podcast. And you can also go to amazon.com forward slash shop forward slash founders podcast. And if you buy this book or any of the other books, I also receive a small percentage of that sale. And if you want to see what, I guess I already told you, I was gonna say if you're treating this podcast like a book club and you're going to read with me, when you go to amazon.com 4-shop 4-founders podcast, I always post the book"
+    },
+    {
+      "timestamp": "01:21:51",
+      "text": "I'm currently working on there so you can order it right away. If you can read it in a week, you've already read it by the time the podcast comes out. So it's kind of like this large book club, which is really cool."
+    },
+    {
+      "timestamp": "01:22:00",
+      "text": "And if you don't want to do that, you can go to founderspodcast.com and you can see all the books there as well. Thank you very much for the support. Thank you for listening. And I'll be back next week and we'll talk more about the wonderful life of Ed Thorpe."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:18:25.667Z"
+}

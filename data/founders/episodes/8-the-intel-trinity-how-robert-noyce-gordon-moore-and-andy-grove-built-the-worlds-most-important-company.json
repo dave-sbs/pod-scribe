@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "episodeNumber": 8,
+    "title": "The Intel Trinity: How Robert Noyce, Gordon Moore, and Andy Grove Built the World's Most Important Company",
+    "slug": "8-the-intel-trinity-how-robert-noyce-gordon-moore-and-andy-grove-built-the-worlds-most-important-company",
+    "url": "https://podscripts.co/podcasts/founders/8-the-intel-trinity-how-robert-noyce-gordon-moore-and-andy-grove-built-the-worlds-most-important-company",
+    "date": "June 20, 2017",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "So we're going to continue on this theme that we've talked about on past podcasts. And that's this idea that books are the original hyperlinks, that they lead you from one idea or one person to another, very much like the web does today. So the subject of today's podcast, Robert Noyce, I actually found out about him the same way I discovered Edwin Land. And that was through Isaacson's book on Steve Jobs. So after hearing how much Steve Jobs was influenced by Robert Noyce it made me want to learn more about who he was and and why he was so influential. So today we're gonna be learning about the life and career of Robert Noyce through the book The Intel Trinity How Robert Noyce, Gordon Moore, and Andy Grove Built the World's Most Important Company."
+    },
+    {
+      "timestamp": "00:00:46",
+      "text": "This book's by Michael Malone. So we're going to go a little bit out of order today. When I originally started reading this book and coming up with the idea for this podcast, I thought I was going to talk about both founders of Intel. So Intel was founded by Robert Noyce and Gordon Moore. So we're going to touch a little bit on Gordon Moore today, but after I was done reading and then I would review the notes and the outline that I put together for these podcasts, I realized that 90% of what I wanted to talk about was with Robert Noyce. So that's why this episode is just basically about"
+    },
+    {
+      "timestamp": "00:01:21",
+      "text": "him. Gordon Moore is obviously important. He's the one that Moore's Law is named after. He was an extremely important technologist. But a lot less is known about him because he never, he's still alive today, actually, but he never, he doesn't have an official biography. So all of the podcasts we do are based on a book, and usually it's a biography of the entrepreneur. And there's just a lot more information about noise in um out there online and in the book too and you'll see why"
+    },
+    {
+      "timestamp": "00:01:54",
+      "text": "as we continue here so um given the fact that i found out about robert noise due to um steve jobs i want to read a few paragraphs about their relationship before we get into anything else. And let's go to the book. A regular visitor to the Noyce household during this period was an intense and quixotic young man in the midst of a serious life crisis and desperate for help. Steve Jobs had been the most celebrated young entrepreneur of the age just a few years before. He made the cover of Time magazine before his older and more successful Silicon Valley counterparts. And with the Macintosh computer introduced in early 1984, Jobs had become something even more, the embodiment of a new generation."
+    },
+    {
+      "timestamp": "00:02:50",
+      "text": "Steve Jobs was driven out of the company he had co-founded and for which he was the most visible face. Jobs then founded a competing company, Next. And in case you don't know, I did a long episode on Steve Jobs based on his books. If you want to find out more, I'd recommend listening to that episode too. So Jobs founded a company called next but the company never really gained traction jobs was becoming a lost soul and at great risk of ending up while still under 30 a once famous but now largely forgotten valley figure so this is kind of surprising for for those of us in the modern age, at least around my age and arguably younger. The Steve Jobs we may be familiar with is the Steve Jobs after he came back to Apple in 97."
+    },
+    {
+      "timestamp": "00:03:33",
+      "text": "So I was born in the 80s. I knew about Apple, knew about Macintosh, but I wasn't using their computers because I was a baby. So I just found this part really interesting where even though he's hugely successful under 30, like if he didn't have another hit, he wouldn't be looked at the same way that we look at him now. So it was in this state of mind that Jobs went searching for a mentor, a father figure who not only knew what it was like to live at the top of the tech world and be under constant public scrutiny, but who, unlike him, had succeeded. It wasn't long before he found himself invited to dinner with the man he admired most. The relationship between Steve Jobs and Bob Noyce, as with most things in Jobs' life,"
+    },
+    {
+      "timestamp": "00:04:17",
+      "text": "was both curious and compelling. After all, Jobs' unforgivably selfish behavior towards his partner Steve Wozniak at the birth of Apple had meant that Apple could not use the Intel 880 and the 8086 in the Apple I and II, a combination that would have changed history. So they're referring to is at the time Intel's looked up to by all young technologists and Wozniak wanted to use a specific chip, and Jobs wouldn't let that happen. Indeed, Apple, and now Next, and Intel, had become competitors once removed."
+    },
+    {
+      "timestamp": "00:04:54",
+      "text": "Still, the ties to Apple during the company's early years were very strong. After all, the third founder, Apple chairman Mike Marcula, had been an Intel marketing executive. We're actually going to talk about the connection between Intel, Mike, and Apple a little later on too. Regis McKenna, Intel's agency publicist and marketing guru, was now enjoying even greater fame doing the same work with Apple. And of course, Ann Bowers had grown close to Jobs during the years the two shared Apple. Ann Bowers is Bob's wife. Bob himself would sometimes call Apple, and as Marcoula described it,"
+    },
+    {
+      "timestamp": "00:05:31",
+      "text": "come over to Apple and just hang around, go in the lab and talk to the guys about what they were doing. Still, Jobs was not the most welcome guest at the Noyce household. Noyce enjoyed the young man's company, perhaps because he was too smart, too old, and too famous to fall under the spell of Jobs' intensity and vaunted reality distortion zone. Looking back, Bowers would tell Leslie Berlin, that's Bob's biographer, that Bob treated Jobs like a kid, but not in a patronizing way. He would let him come and go, crash in the corner. We would feed him and bring him along to events and to ski in Aspen. Noyce even invited Jobs to join him on a"
+    },
+    {
+      "timestamp": "00:06:11",
+      "text": "flight in Bob's CBC plane. So Bob Noyce in his spare time was an avid pilot. A trip that almost ended in disaster when Noyce accidentally locked its wheels while landing on a lake. Later, when the pair attempted to land on a runway, the plane nearly flipped over. Only Noyce's superb piloting saved them from oblivion. As this was happening, Jobs would later say, I was picturing the headline, Bob Noyce and Steve Jobs killed in a fiery plane crash. But as Ann Bowers knew as much as anybody, being around Steve Jobs was thrilling but ultimately exhausting because the young man seemed to have no boundaries."
+    },
+    {
+      "timestamp": "00:06:52",
+      "text": "He showed up at the door unannounced, called at midnight over some notion that had just captured his fancy, and generally acted as if he had no appreciation of the personal lives of other people. Even Bob, late one night after getting off a call from Jobs, said to Ann, if he calls late again, I'm going to kill him. But he still took the next late night call from Steve Jobs. What Jobs seemed to want most was not specific advice from the older figure. Bob didn't know enough about personal computers to give it anyway. Jobs wanted a vision on how to live, how to succeed in the valley, and be beloved, not hated. To be the object of esteem, not ridicule. And this is a direct quote from Jobs."
+    },
+    {
+      "timestamp": "00:07:33",
+      "text": "Bob was the soul of Intel. I wanted to smell that wonderful second era of the valley, the semiconductor companies leading into the computer age. Bob Noyce now had a surrogate son, Steve Jobs, with whom, in many ways, he had a better relationship than with his own son, still bitter about his parents' divorce. So that's where I'm going to leave this section. But I think the most important part of it is that to understand why Steve might have wanted him as a mentor, Bob Noyce was not only hugely successful founding two fundamental companies, but he was also loved by everybody. He was successful without Steve Jobs' habit of basically tearing into people and not, you know, kind of being a jerk is, I guess, the nicest way to put it. Bob Noyce was, by all accounts, extremely nice, and it was important to him to be well-liked. So just another example. There's just many ways to succeed."
+    },
+    {
+      "timestamp": "00:08:43",
+      "text": "There's not just another example. There's just many ways to succeed. There's not just one way. So before I go back into Bob's life, I want to talk about – I obviously knew about Intel. Basically, everything that we're building and the technologies that we're enjoying today, the foundation was laid by people like Bob Noyce and Gordon Moore and the rest of the people that developed semiconductors and chips. And it's something that's not really talked about. So one thing I'd recommend if you read the book is reading the appendix, which is called a tutorial on technology, just because I don't know how many people actually understand how important this is. And let me just read, I'm going to start there real quick. Digital electronics can be confusing, not only to people outside the industry, but even to folks inside it. This has become increasingly the case as the"
+    },
+    {
+      "timestamp": "00:09:39",
+      "text": "years pass and even more new layers of products and services are piled atop the existing core. Ask someone who works in online gaming or social networking how an integrated circuit works, a component upon which that person's job, employer, and industry depends for survival, and you are likely to get a blank stare and perhaps something mumbled about silicon and semiconductor. This isn't surprising. After all, the worlds of social networks and code writing are six or seven levels removed from the largely chemical business of making computer chips. It would be like asking someone preparing a Big Mac at a McDonald's in Prague about"
+    },
+    {
+      "timestamp": "00:10:21",
+      "text": "cattle feed in Tulsa. This is also true in the media, even in the trade press. The reporter who writes incisively on, say, Apple and its next-generation iPhone may have little knowledge about the chips inside that device, other than perhaps the name of the manufacturer and its central processor and perhaps its memory chips. That's why you read very little these days other than financial news about the semiconductor industry. The men and women who once covered the business"
+    },
+    {
+      "timestamp": "00:10:50",
+      "text": "have mostly retired, and the new generation of technology and business reporters are much more comfortable writing about Twitter or Facebook. That's a pity. It is precisely because those companies and the thousands more like them depend for their existence upon the internet or cellular telephony, both of which rest upon semiconductor components, that the semiconductor industry is more important to the modern global economy than ever before. Okay, so now as we get into the story, it was a little difficult for me to figure out where I wanted to start."
+    },
+    {
+      "timestamp": "00:11:26",
+      "text": "This is a monster book. It's like 500. I have the hardcover version, and it's like 500 plus pages. It took me forever to read. But it's really, Malone does a really good job of breaking it up into these like really interesting stories. So Robert Noyce's life was just one success after another. He does have some trials and tribulations like we all do, but it was very difficult to figure out where I wanted to start. So, he's credited with inventing the integrated circuit."
+    },
+    {
+      "timestamp": "00:12:07",
+      "text": "He founded two extremely important companies, the first being Fairchild Semiconductor, and then the second being Intel. And so the beginning of the book goes into his early life, how he was recruited by one of the most famous scientists in the country at the time and a Nobel Prize winner, how the Nobel Prize winner was a terrible manager. So you might have heard of the Traders 8 that left Shockley Transistors. Bob Noyce was one of them. They founded a company called Fairchild Semiconductor. But I'm going to start the story when Bob decides to resign from Fairchild Semiconductor. So let's go to the book."
+    },
+    {
+      "timestamp": "00:12:39",
+      "text": "In his departure letter to the Fairchild board, Noyce opened his heart. This is a direct quote from him. The reason for my resignation is more basic. As Fairchild has, Noyce opened his heart. This is a direct quote from him. The reason for my resignation is more basic. As Fairchild has grown larger and larger, I have enjoyed my daily work less and less. Perhaps it is partly because I grew up in a small town, enjoying all the personal relationships of a small town. Now we employ twice the population of my hometown. More and more, I have looked with longing to the earlier"
+    },
+    {
+      "timestamp": "00:13:05",
+      "text": "days of Fairchild Semiconductor when there was less administrative work and more personal creative work in building a new product, a new technology, and a new organization. I want to stop real quick. This is something I've noticed a pattern in a lot of these books that I'm reading on entrepreneurs and founders is they always long for like if they ever look back and reminisce or have any sort of sense of nostalgia it's this era when you're first starting out when the company's small it's just you in a small group and you're building something that you're extremely passionate about and then of course the successful products take off and eventually they build these massive organizations around them. And then it becomes more of like a bureaucracy and more of like managing instead of innovating. This is also something I've noticed in interviews"
+    },
+    {
+      "timestamp": "00:13:55",
+      "text": "where people would sell their company and they'd be like, well, why'd you sell? And I'm like, well, the job I'm doing now is not the same job that I wanted to do and the one that I enjoyed. And that was the very beginning. So Bob continues here. My plans are indefinite, but after a vacation, I hope to join a small company in some area of high technology and to get close to advanced technology again in this manner. If I have not been away too long, the limited resources of any small company will be a handicap. But I have no large-scale ideas. I do not expect to join any company which is simply a manufacturer of semiconductors."
+    },
+    {
+      "timestamp": "00:14:37",
+      "text": "I would rather try to find some small company which is trying to develop some product or technology which no one has yet done. To stay independent and small, I might try to form a new company after a vacation. It was the end of the Fairchild Semiconductor of Legend, the greatest company that never was. This is back to the book now. The more than 100 companies that spun off from the mother firm would fill the valley with entrepreneurial fire and competitive fervor and would make the region the heartland of the digital age. It's argued that Fairchild Semiconductor had the largest concentration of talent in any history in Silicon Valley history."
+    },
+    {
+      "timestamp": "00:15:10",
+      "text": "It was also the start of another legend, this time of a very real company, the Intel Corporation. Intel would start with just the reputations of two men and within a generation sit at the center of the world's economy, the multi-billion dollar corporation on which the entire electronics revolution would rest. In the process, it would invent and then build, by the billions, the most complex products"
+    },
+    {
+      "timestamp": "00:15:35",
+      "text": "ever mass produced. And it would accomplish this with an almost pathological adherence to a pace of change established by one of its founders that had almost no precedent in human history. This relentless and unflagging pursuit and propulsion of the rapidly evolving world of digital technology at the most basic component level and a preservation of the law that the technology embodies has been the story of Intel for more than 40 years."
+    },
+    {
+      "timestamp": "00:16:14",
+      "text": "So I want to skip ahead like we normally do. I don't really have like reoccurring themes on these books, but if I do, it's definitely, I try to highlight as much as I can about the founder's personality. And so this section gives you a good idea of Bob's personality. Robert Noyce, a great man, but also a hugely complex, often contradictory personality. He was the smartest man in almost any room and even in middle age, the best athlete. He was, as everyone who ever met him, acknowledged, hugely charismatic, yet also distant, private, and largely unknowable. He dismissed celebrity but took every opportunity to seize the limelight. He dismissed hierarchies and titles but never forgot his position at the top of the pile. And oddest of them all, he chose a career, entrepreneur, that demanded a certain pragmatic ruthlessness"
+    },
+    {
+      "timestamp": "00:17:06",
+      "text": "in dealing with the careers of subordinates. Yet he so wanted to be loved and admired that he was all but incapable of firing even bad employees. Rather, he kept his hands clean, but then let first Charlie Spork and then Andy Grove do the dirty work, and then wasn't above treating them as corporate enforcers. So I tripped all over that, but Charlie Spork was basically the bad cop to his good cop at Fairchild Semiconductor, and then Andy Grove, who's famous in his own right, later the CEO of Intel, was the bad cop to Noyce's good cop. And Andy Grove, there's a lot of information about Andy Grove in this book. I've skipped over most of those parts because he wasn't technically a founder even though he's employee number one. But he's known basically"
+    },
+    {
+      "timestamp": "00:17:55",
+      "text": "more for management as opposed to being an entrepreneur. He has a bunch of books that if you're interested more in management, they come highly recommended. High Output Management is one and the other one I think is called Only the Paranoid Survive. And there's plenty of information out there if you want to look more into Andy Grove. Let's go back to Bob's personality. He was a great scientist. In fact, a strong case has been made that he should have won two Nobel Prizes, one for the integrated circuit and, one for the integrated"
+    },
+    {
+      "timestamp": "00:18:25",
+      "text": "circuit and the other for the tunnel diode. But he turned his back on research to become a businessman. And not least, though he always professed his yearning to work in a small boutique company where he could escape bureaucracies and focus on the work he wanted to pursue, he built two huge companies, one of them among the largest in the world, and would never show any inclination other than to grow them as big as they could get. Comparisons have been made between the experience of being around Robert Noyce and the even more famous reality distortion field said to have surrounded his greatest acolyte, Steve Jobs."
+    },
+    {
+      "timestamp": "00:19:03",
+      "text": "In truth, they were very different. Noyce's appeal was warm and visceral, Jobs cold and ethereal. Noyce made you feel that important vital things could be accomplished if everyone could just steal their courage, ignore the risks, and move forward together toward a difficult but achievable goal. Noyce made you feel that while he would be in the lead, it would only be because he was better suited for the job as you were to yours. Steve Jobs, by comparison, invited you to change the world, to accept his vision as your own, to join, if he deemed you worthy, to select for you creating a perfect, cool, new reality, with the knowledge that if you ever faltered, proved unworthy, or in some unknown"
+    },
+    {
+      "timestamp": "00:19:45",
+      "text": "way irritated Steve Jobs, that you would be jettisoned, shunned, and left behind. The difference of the two is best captured in the photos of Bob Noyce with his wide grin and Steve Jobs with his tiny knowing smile. Ironically, while Jobs' zone would come to accomplish billions of people, it was Noyce's vision that was far more sweeping. Jobs merely wanted the world to own his company's computers. Noyce wanted to usher in the digital age. In a legendary television interview about his invention of the integrated circuit, which Noyce called a challenge to the future, he unexpectedly turned to the camera as if directly addressing millions"
+    },
+    {
+      "timestamp": "00:20:25",
+      "text": "of people at home throughout the nation and said, now let's see if you can top that one, and smiled. From anyone else, it might have seemed arrogant, but coming from Bob Noyce, it was confidence, the friendly challenge of one competitor to another on the playing field, to top what he had just done. Bob Noyce was happy to beat the hell out of you. He lived for competition, so much that it often put both him and others at risk. But after he did, he helped you up, slapped you on the back, and told you how well you had done. Okay, so before we go a little deeper into Bob Noyce's personality, I want to talk about"
+    },
+    {
+      "timestamp": "00:21:07",
+      "text": "how his partner and co-founder created Moore's Law. So this is about Gordon Moore. As he would recall later, he pulled out a sheet of standard graph paper and plotted out the performance to price ratio of the last three generations of Fairchild integrated circuits. Even though he knew the specs on these devices, Moore was surprised to discover that the performance to price ratio of the last three generations of Fairchild integrated circuits. Even though he knew the specs on these devices, Moore was surprised to discover that the performance leaps between generations, especially from the third to the fourth, now in development of Fairchild, were so great and the hyperbolic curve they created were so vertical that he had already run out of paper. So he switched to logarithmic graph paper,"
+    },
+    {
+      "timestamp": "00:21:46",
+      "text": "and when he did, the data points neatly arrayed themselves into a straight line, as he wrote in the article. The complexity for minimum component costs has increased at a rate of roughly a factor of two per year. Certainly over the short term this rate can be expected to continue if not to increase. Over the longer term the rate of increase is a bit more uncertain although there is no reason to believe it will not remain nearly constant for at least ten years. This means by 1975 the number of components per integrated circuit for minimum cost will be 65,000. I believe that such a large circuit can be built on a single wafer."
+    },
+    {
+      "timestamp": "00:22:36",
+      "text": "It has been said that if in 1965 you had looked into the future using any traditional predictive tool, per capita income, life expectancy, demographics, geopolitical forces, etc., none would have been as effective a prognosticator, none a more accurate lens into the future than Moore's law. The trend Gordon Moore had identified was that the world of electronics, from computers to military and consumer products, was increasingly Okay, so let's go ahead and look at the results. answer with transistors at an exponential rate. No human invention had ever exhibited that rate of improvement. Okay, so let's skip ahead. I found this paragraph interesting. This is like a concise statement on Bob Noyce's management style. Bob operated on the principle that if you suggested to people what the right thing to do would be,"
+    },
+    {
+      "timestamp": "00:23:44",
+      "text": "they'd be smart enough to pick it up and do it. You didn't have to worry about following up or And I think he was able to have that perspective because Intel had an insane focus on talent and maintaining their culture. So a few pages later, it says, Intel has always recruited the best technical talent it can find, then dropped them into a work environment that has little pity for human weakness, much less failure. The operative word would be performance. If you screw up at National Semiconductor, you're on the street. Do the same thing at Hewlett Packard, and you're taken aside to a private conference room and told you're having a little problem fitting in. At Intel, you're screamed at for not exhibiting the proper level of performance and the next day you're back on the job working twice as hard as ever to regain"
+    },
+    {
+      "timestamp": "00:24:36",
+      "text": "the respect of your peers and the matter is never mentioned again.\" And then to me that last part relates to the structure and the hierarchy of Intel's management at the time. So let's learn a little bit about that. At Intel, Noyce decided to eliminate the notion of levels of management altogether. He and Moore ran the show, that much was clear. But below them were only the strategic business segments, as they called them. They were comparable to the major departments in an orthodox corporation, but they had far more autonomy. Each was run like a separate little corporation."
+    },
+    {
+      "timestamp": "00:25:15",
+      "text": "Middle managers at Intel had more responsibility than most vice presidents. They were also much younger and got lower back pain and migraines earlier. At Intel, if the marketing division had to make a major decision that would affect the engineering division, the problem was not routed up the hierarchy to a layer of executives who oversaw both departments. Instead, the councils, which were made up of people already working on the line in the divisions that were affected, would meet and work it out themselves. The councils moved horizontally from problem to problem."
+    },
+    {
+      "timestamp": "00:25:49",
+      "text": "They had no vested power. They were not governing bodies, but coordinating councils. I think that only works if you have a lot of smart, talented people. If you have a lot of smart, talented people, they're not going to want to be micromanaged. They're not going to want to move slowly. So having the structure and then making sure you're feeding that structure with the best talent, to me, is the only way Intel was able to keep this going."
+    },
+    {
+      "timestamp": "00:26:17",
+      "text": "So one of the things I like about focusing on founders and companies in history, as opposed to covering some modern day founders or companies. So far, we've only covered a few founders that are still active. So Elon Musk being one, Jeff Bezos being another. You can kind of see that no matter what happens, they're going to go down as some of the best entrepreneurs in history. So their place is already solidified. As opposed to, I see some of these other like podcasts that talk about entrepreneurship and founders."
+    },
+    {
+      "timestamp": "00:26:56",
+      "text": "And usually they have like an interview format and they cover like current companies. But then some of the companies they cover, it's not clear as if they're going to have an impact or they're out. They're not successful yet. Maybe they haven't IPO'd or maybe their product hasn't taken off, but there is definitely stuff to learn. But I think if you focus on history, history is important because you realize people don't change. So the technology changes, the company names changes, the people doing the work changes. But human nature doesn't change. And I think if you see these larger patterns of how humans react and how they respond to incentives, that's going to help you in your life going forward because you realize that,"
+    },
+    {
+      "timestamp": "00:27:40",
+      "text": "oh, I've seen this before. I've seen a similar situation, and it might give you some information to act differently. If you think about it, we've witnessed bubbles, let's say in the last 15 to 20 years, you had the internet bubble, the late 90s, early 2000s, you had the housing bubble, and let's say the 2007 to 2009 era. Some would say like higher education"
+    },
+    {
+      "timestamp": "00:28:02",
+      "text": "is going through a bubble in relation to cost and value. So what you realize is like, why are these bubbles constantly happening in different areas? And so this is a really funny, I shouldn't say funny, but a really interesting bubble that happened in the 1960s. And the note I wrote down was calculators as consumer tech bubbles. So see if you recognize some of this behavior in other bubbles. By the late 1960s, setting the precedent for many consumer tech booms that followed, the calculator business enjoyed almost vertical growth as prices held steady, performance improved, and retailers, then customers, flocked to this hot new home slash office appliance."
+    },
+    {
+      "timestamp": "00:28:48",
+      "text": "And again, setting the trend for future consumer tech bubbles, the calculator industry began to, first, attract scores of new competitors hoping to cash in on the big profits to be made, and second, segment into different sub-markets. There may have been more than 100 calculator companies by 1970. And while newcomers were rushing in to compete with cookie cutter four-function machines, the established and ambitious firms were already racing off to add more functions,"
+    },
+    {
+      "timestamp": "00:29:19",
+      "text": "make them small enough to be handheld, or drive manufacturing costs down so far as to commoditize their basic models and shrink profit margins. This would drive competitors from the field with massive investments in marketing and distribution. It was mostly American companies, especially HP, that took the first tack. American and the most veteran Japanese calculator companies like TI and Casio the second, and giant Japanese companies like Canon, the third. That left everyone else high and dry when the inevitable industry shakeout came."
+    },
+    {
+      "timestamp": "00:29:53",
+      "text": "So they're just describing typical human behavior in a bubble. Something starts working, a bunch of people jump onto it, then competition cuts the profit margins or they oversubscribe supply to demand. And then it pops. And most of these companies, there's a few that survived. There's maybe five or six out of over 100. So because the microprocessor was so important, it's such an important invention, the vast majority of this book covers intel after they invented the microprocessor um the first five to seven years of the company they made memory uh chips uh they hadn't yet invented the microprocessor which is what they became famous and so successful doing"
+    },
+    {
+      "timestamp": "00:30:36",
+      "text": "and so we have this this thing uh we've talked about on other podcasts which is this section that says uh critics don't know shit and And it's just funny, like somebody telling Sam Walton that he's not cut out to be a retailer, then winds up going on to be the most successful retailer in the world. Or Steve Ballmer saying that the iPhone's going to flop because no one's going to buy a $500 phone. And there's examples literally in every single book where at some point the, the founder had to believe in what they were doing because the outside world is telling them no, that it's not going to work out. And so I affectionately call that critics don't know shit. So sometimes the critics are in their own company. So this part stuck out to me."
+    },
+    {
+      "timestamp": "00:31:22",
+      "text": "They're at the time selling memory chips and they've invented the microprocessor. They're calling it a CPU on a chip at the time. And the inventors are wrong with noise, think it's going to be big. And other departments in Intel don't agree. So here's a sentence to you on that. Intel was a company that made memories."
+    },
+    {
+      "timestamp": "00:31:46",
+      "text": "These were custom chips. Marketing was very much afraid of the computer business and they came up with arguments as to why we shouldn't go into it. So this is probably the most important decision noise ever makes. The vast majority of the company, including the marketing department and a lot of managers, they don't want to, they're having a hard enough time succeeding in the memory business. They don't want to divide their attention on the resources for this one. Noyce overrules them all. And as a result, Intel takes the lead, and then they build up on that for the next 40 years. And while this is happening, they're having to go out and educate an entirely new market, like what the difference of the CPU on a chip would be."
+    },
+    {
+      "timestamp": "00:32:32",
+      "text": "And the note I wrote here is what new technology could do and the difference a chip would make. And this is basically the case that they're making. Because again, we take this technology for granted now. They're trying to look into the future and talk about the possibilities and the opportunities in this new market. And so one of the guys that is largely credited with the invention is this guy named Hoff. And we're going to jump into the story here. Unfortunately, Hoff wasn't just trying to sell a new product, but a whole new paradigm. And as is usually the case when you're trying to convince an audience to accept a radical innovation,"
+    },
+    {
+      "timestamp": "00:33:13",
+      "text": "almost by definition, the idea is so far from the status quo that many people simply cannot get their minds around it. And this is a direct quote from Hoff. People were so used to thinking of computers as these big expensive pieces of equipment that had to be protected and guarded and babied and to be used efficiently to be worthwhile and cost effective. So there was this built-in bias in people that any computer had to be treated that way. I remember one meeting in which there was all of this concern about repairing microprocessors, and I remember saying, a light bulb burns out, you unscrew it and throw it away, and you put another one in. And that's what you'll do with the microprocessors."
+    },
+    {
+      "timestamp": "00:33:57",
+      "text": "But they just couldn't accept doing that with a computer. But the biggest obstacle to the adoption of these new processors wasn't simply a failure of imagination by potential customers, one that wasn't helped by Intel's own indecisiveness. Computer scientists and programmers had spent their entire careers working on giant mainframes that required information to be loaded via cards, tapes, and eventually terminals and processed in large batches. The output typically was delivered via large, noisy printers that operated like giant typewriters. So again, this is in the 1960s, the time we're in, excuse me, 1970s. So to us in 2017, this doesn't, this seems like a fantasy, like as old as the Stone Age. But, I mean, just listen to what they're saying here. These mainframe computers with the size of studio apartments required their own climate-controlled rooms,"
+    },
+    {
+      "timestamp": "00:34:56",
+      "text": "cost millions of dollars, and required a team of operators. So everything they just described there, you have more power on the phone, your iPhone, that you're probably listening to this on. I mean, let's listen to that again. These mainframe computers with the size of studio apartments required their own climate-controlled rooms, cost millions of dollars, and required a team of operators. Just 15 years before, the biggest breakthrough in data storage, the one-ton IBM RAMAC, R-A-M-A-C, magnetic disk drive, I'm not sure how to pronounce that if I say the letters"
+    },
+    {
+      "timestamp": "00:35:33",
+      "text": "or say RAMAC, had to be delivered to customers. Oh, this is crazy. Let me start that part over. Just 15 years before, the biggest breakthrough in data storage, one-ton the one-ton ibm ramac magnetic disk drive had to be delivered to customers via specially equipped boeing 707 jet imagine building a product that you have to deliver on with a special specially designed airplane obviously these big computers have evolved over the previous two decades from slow giant monsters to somewhat smaller and fleeter early generation microcomputers the size of a couple refrigerators and they only cost a few hundred thousand dollars. How crazy is that?"
+    },
+    {
+      "timestamp": "00:36:15",
+      "text": "Computer scientists had anticipated this kind of evolution of power, size, and price and had updated their skills to keep up. But the devices that Ted Hoff described to them were so radically different in every way that if they had prefaced their presumptions by saying they had come from outer space, no one would have been surprised. After all, he could hold the four chips in the palm of his hand, and at 400 bucks per set, they still cost less than just one terminal for a mainframe computer. And there he was announcing that these little silicon caterpillars would soon replace the big iron to which they had long ago become accustomed."
+    },
+    {
+      "timestamp": "00:36:55",
+      "text": "On top of that, Hoff pointed out these chipsets also process data in real time so you could pour data in and draw results out 24 hours a day and not just inexpensive to run air-cooled processing centers but right out of the into the natural world and you could even use some of the established computer programming languages to make them work so i included that section because one before i read this book i didn't know anything about microprocessors or chips and i probably still don't know too much i know a little bit more after reading it, but I feel those few paragraphs gives us an idea of the, like they call it the paradigm shift, of what they were trying to sell. And it's not guaranteed that they were going to be able to convince people. It's a lot easier"
+    },
+    {
+      "timestamp": "00:37:40",
+      "text": "to convince younger people, but like they said, some of the people they're selling to had sent their entire careers working with these huge mainframe computers and are very accustomed to doing things that the way they were used to so when i thought about that more a little bit more i was like well thank god for their perseverance because now we're living in the digital age that these chips ushered in. To continue that thought about how unpredictable and massive this opportunity was going to be, I want to talk a little bit about the section where the fates and the paths of IBM, Intel, and Microsoft converge. At the time, IBM is famous for only building things in-house."
+    },
+    {
+      "timestamp": "00:38:31",
+      "text": "There's a salesman from Intel that finally convinces them to let Intel build for them. And before I get into the convergence of their paths, I wanted this section of how they used to work together, these two companies. They're both hugely secretive, IBM and Intel. And then we'll get into Microsoft in a minute. But this two paragraphs describes just the weirdness. My note here is what in capital letters with a bunch of question marks. So here's what they're working with. Everything was very secretive. When we went in to provide technical support,"
+    },
+    {
+      "timestamp": "00:39:10",
+      "text": "they'd have our technical people on one side of a black curtain and theirs on the other side with their prototype product. We'd ask questions, they'd tell us what was happening, and we'd have to try to solve the problem literally in the dark. If we were lucky, they'd let us reach a hand through the curtain and grope around a bit to try to figure out what the problem was."
+    },
+    {
+      "timestamp": "00:39:30",
+      "text": "As the world would learn two years later, this stealth project was the IBM PC personal computer, one of the most successful electronic products in history. I just thought that was really funny. The IBM PC was actually the first computer I used when I was about 12 years old. So I just mentioned the massive opportunity. And this is the Intel salesperson that convinced IBM to use Intel's chips. His name is Whetstone. And then as a result of IBM adopting Intel's chips"
+    },
+    {
+      "timestamp": "00:40:10",
+      "text": "and IBM adopting Microsoft's operating system, it's this great growth for Intel. So he talks about, he goes, a great account was that, a great account, he's a salesperson, so he's talking about getting an account. A great account was one that generated 10,000 units a year. Nobody comprehended the scale the PC business would grow into. Tens of millions per year. So he's trying to move 10,000 units a year, and the business grows into tens of millions per year. To understand why Intel's contract with IBM meant game over for everyone"
+    },
+    {
+      "timestamp": "00:40:46",
+      "text": "else, it's important to appreciate what happened next. With the Intel 8086, Estridge and his team in Boca had the box and the central processor, but they still needed the software to run them. Estridge works for IBM. He's working out of IBM's research facility in Boca Raton, Florida. So Esserge and his team in Boca had the box and the central processor, but they still needed the software to run them. That's when a third figure entered the story. Bill Gates had dropped out of Harvard and joined his friend Paul Allen to create Microsoft. IBM was interested in Microsoft's word processing software,"
+    },
+    {
+      "timestamp": "00:41:23",
+      "text": "which would later become Word. But more important, it was in desperate need of a good operating system. Gates recommended DR-DOS, created by Digital Research in Monterey, California. Big Blue followed his advice, but when negotiations there collapsed, IBM came back to Gates and asked Microsoft to develop a comparable operating system. Gates and Allen quickly snapped up a nearby Seattle company that had the right code, renamed it MS-DOS, and after a few generations of upgrades, Microsoft Windows, and delivered the product to a very happy IBM."
+    },
+    {
+      "timestamp": "00:42:01",
+      "text": "It was a brilliant stroke. Soon the market was filled with PC clones and the aisles of electronic retailers were dominated by endless shelves of Windows-compatible applications, and even more important, computer games. Furthermore, thanks to IBM's half-century as the world's dominant supplier of business machines, its PCs quickly found their way into corporate offices. Even more than Big Blue, that's obviously IBM's nickname in case you didn't know, the biggest beneficiaries of the IBM PC were Intel and Microsoft."
+    },
+    {
+      "timestamp": "00:42:33",
+      "text": "They sold not only to IBM, but to all of the other IBM clones out in the world and in time to makers of other window-based products, from game consoles to smartphones. So skipping ahead a little bit, this is a great synopsis of what this meant. Because right before this deal with IBM, there's constant booms and busts in the microprocessor industry. And they were going through a bust."
+    },
+    {
+      "timestamp": "00:43:01",
+      "text": "And they needed, they noise corralled the entire group and set insanely high sales and production goals, something that was completely unrealistic. And yet this luck, this lucky stroke with IBM and then Microsoft, they far supersede their sales goals and basically never look back. And here's the synopsis I liked. That's how you come back a winner. And Intel has done it again and again throughout its story."
+    },
+    {
+      "timestamp": "00:43:35",
+      "text": "It is in the company's DNA. You can hate Intel for its sometimes hardball and borderline illegal tactics. You can resent the company for its arrogance as the high priesthood of Moore's law, and you can complain about its consistently high-handed treatment of customers and every other stakeholder. But in the end, even competitors admit that this is a company that placed itself at the center of the global economy, assumed the toughest and most unforgiving role in the business world, clawed its way to the top and remained there for decades through all the vast changes that took place in high tech and the world around it, and never once took its task lightly, never shrinked its immense responsibility, and always looked"
+    },
+    {
+      "timestamp": "00:44:14",
+      "text": "seriously towards its stewardship of Moore's Law. Intel, and this is I think the most important part, Intel had learned to learn. That ability would save the company many times in the year ahead, even as other companies succumb to their mistakes. So I think that's the reason we read books. That's the reason we listen to podcasts is because we're obsessed with learning. And I think if you have one meta skill in life, in addition to building good habits is learning to learn and solve problems. There's just a few other highlights of the book that I want to cover."
+    },
+    {
+      "timestamp": "00:44:51",
+      "text": "This is a great anecdote on entrepreneurial personalities. Rarely discussed in studies of entrepreneurial startups is just how lonely it can be out there with a revolutionary new product, no competition, and a market that doesn't seem to get what you are doing. That echoes back to what we were just talking about, how they were trying to sell the microprocessors. You can try to hide in the echo chamber of your own team, telling yourselves that what you've got is really great, but eventually you've got to go outside and deal with investors,"
+    },
+    {
+      "timestamp": "00:45:14",
+      "text": "analysts, reporters, and potential customers. And when all of them are skeptical, even dismissive about your product or service, it becomes increasingly difficult to retain the supreme confidence you need to keep going. That's why many of the great entrepreneurs are arrogant and obsessive to the point of megalomania. They sometimes have to be to make their solitary vision to take their solitary vision and make it real. Skipping ahead, I found this part about the connection between the IPO of Intel and the seed money for Apple."
+    },
+    {
+      "timestamp": "00:45:48",
+      "text": "So if you remember back in the Steve Jobs podcast, we talked about Mike Markkula, who was I think the third employee at Apple, but he was the one that basically gave them the money to put their first computer into production. Well, here's how that relates to Intel. Mike Marcullo was a brilliant investment manager. From the moment he was eligible, Marcullo purchased every Intel stock option he could get his hands on. And by the time of the IPO, he was in a position to convert those shares into more than $1 million, a considerable fortune in the early 1970s. He was just 33 years old. He wrote a check for $250,000, the money Apple needed to launch its new computer and get into production."
+    },
+    {
+      "timestamp": "00:46:33",
+      "text": "The arrival of Markkula made him the new third man at Apple. Steve Wozniak would say that he thought Mike's contribution to Apple was even greater than his own. An extraordinary comment given that Wozniak invented Apple's earth-shaking first two products. But Wozniak understood that without Markkula's business experience, his network of valley contacts, these are mostly Intel people and Fairchild people, and frankly, just the fact that he was a responsible adult turned Apple from a garage-based maker of semi-custom hobby machines to a world-class manufacturer of the most influential consumer electronic products in history. So this next part, just to give you some context into the difference that 10 years in a microprocessor industry can make to Intel."
+    },
+    {
+      "timestamp": "00:47:26",
+      "text": "Total annual revenues in 1970 were $4.2 million. Losses were $970,000. And the company had 200 employees, nearly all of them in Intel's rented offices in Mountain View. Ten years later, Intel had grown into a global company with five factories in the United States and Singapore and 87 sales offices in 17 countries. The company's annual revenues in 1979 were $633 million. Profits were $78 million and it had 14,000 employees, a majority of them working"
+    },
+    {
+      "timestamp": "00:48:01",
+      "text": "at Intel's big new headquarters in Santa Clara. It had, against all odds, carried the torch of Moore's law and had been rewarded with growth over the decade that almost tracked the law's exponential curve. So to go from 4.2 million and a $970,000 loss to 633 million and a profit of 78 million in nine years. So this might seem like a random anecdote, but it's about never underestimating your competition and a great story on learning and arrogance. So just a little background before I read it is the Americans were way ahead in the semiconductor industry, but the Japanese were constantly studying and learning,"
+    },
+    {
+      "timestamp": "00:48:48",
+      "text": "and eventually they overtook their American counterparts. So let's go to the story. Back in the 1960s, we used to laugh at the Japanese. Usually several hundred technical papers were delivered at U.S. semiconductor industry technical conferences of the era. Of these, the Japanese electronic companies might contribute only one or two, and even these were of minimal importance. Not only was the technical content of these papers of little significance,"
+    },
+    {
+      "timestamp": "00:49:18",
+      "text": "but the limited English of the presenters made them all but unintelligible. It really didn't matter, as the paper said little of value anyway. It wasn't until years later, when our smugness gave way to fear and awe, that we realized that the Japanese hadn't come to talk, they came to listen and to photograph. Every time a slide would go up, all of these Japanese cameras in the room would go off all at once. We Americans even had a joke about it. You know what that sound is every time a new slide goes up? It's the Japanese cameras going crick crick. That was more than a decade ago. We don't laugh anymore. Oh, and I think this part is really, really important."
+    },
+    {
+      "timestamp": "00:50:06",
+      "text": "It's the juxtaposition between outside success and inner depression. And this has to do with Bob Noyce. So Intel's management structure was interesting where Noyce would leave the company, then he would step down and Gordon Moore took over the company. Then Gordon Moore decided to hand the CEO reins over to Andy Grove. And during this time, this is right before Noyce is going to resign as CEO, he's deeply depressed. So it says, during this time, Noyce was also exhibiting signs of deep depression. Not only had the previous decade at Intel taken its toll on his emotional state, but even more so his divorce and his impact on his children. Two of his children had gotten involved with drugs. One was diagnosed with bipolar"
+    },
+    {
+      "timestamp": "00:50:51",
+      "text": "disorder and hospitalized, and another, one of his daughters, was hit by a car and was in a coma for six months. On the outside, Bob dealt with these events with his usual denial, but inside there was no denying that something had gone terribly wrong with his family and that he was part of the cause. As reported by his biographer, Leslie Berlin, at a dinner for one of the recipients of an investment by Noyce's angel fund, Bob unburdened himself in a way he rarely allowed. This is a quote. After the dishes had been cleared and the children sent to bed, Noyce listened as the company founder explained that someday, if the business did well, he would like to move"
+    },
+    {
+      "timestamp": "00:51:34",
+      "text": "his family into a bigger, nicer house. Noyce looked up at him and said very quietly, you've got a nice family. I screwed up mine. Just stay where you are. 25 years and a successful company later, the entrepreneur had not moved. Robert Noyce had pioneered the integrated circuit. He founded Fairchild Semiconductor and Intel Corporation, and to boot, is a pilot and champion skier. Not only that, he has just become only one of 130 people in the U.S. history to receive the National Science Medal. So he is extremely depressed on the inside,"
+    },
+    {
+      "timestamp": "00:52:17",
+      "text": "and yet look at the list of accomplishments that I just rattled off there. Anybody from the outside, I think anybody that doesn't know any better, from the outside, would assume that, what does this guy have to write? What could he possibly be upset about? And I mean, listen to that resume. Very few people in the world will ever come close to accomplishing anything like that."
+    },
+    {
+      "timestamp": "00:52:37",
+      "text": "The invention of the integrated circuit, founding two multi-billion dollar companies, a champion skier, a pilot, receiving National science medal, only 130 people in history to do so. And he's still depressed. So I know this has been talked about, especially in the last couple of years. And even in the book, it talks about how being a founder, being an entrepreneur can be extremely lonely and having people doubt you all the time and you still believing it's really hard to talk to other people about that but I include that because I think it's important it's important"
+    },
+    {
+      "timestamp": "00:53:08",
+      "text": "for us to like to understand that having goals and and wanting to create companies and products is a great thing but not at at the at at the expense of your mental health and your the enjoyment of like the one life that you have. And I'll just, I'll just leave it there. Okay. So we're almost done. This is a story again about human behavior during booms and bubbles. So the, just a note, obviously the point of these podcasts is not to summarize the book. I'm just sharing interesting parts, things I think I learned from, and hopefully you might learn something from. Obviously, the book's 500 pages. There's just no way I could summarize this."
+    },
+    {
+      "timestamp": "00:53:50",
+      "text": "The podcast would be 20 hours long. But throughout the book, and I skipped over a bunch of these parts, there's just a constant cycle of booms and busts, right? And I said a little earlier that we still see this behavior today, and I don't think it's something that ever is going to stop. I mean, you go back hundreds of years to the to the tulip bubble um it's just something that humans do but i did think this was um just like it just stuck out it was like it's a i wrote down crazy story about human human behavior during during booms and busts um and so this is a gold rush and a bubble forming,"
+    },
+    {
+      "timestamp": "00:54:28",
+      "text": "and it has to do with memory chips. So let's just go into this because you're reading this book, and then all of a sudden the author hits you with these three or four crazy paragraphs. You're going to see why here. It wasn't long before scrap memory chips were being stolen off the valley's loading docks, sometimes with the help of hookers to create a distraction. Employees with gambling debts were being blackmailed to leave back doors unlocked during night shifts. And various other stratagems were used to separate chip companies from their production. So what's going on here is they're producing chips. They're such a high demand,"
+    },
+    {
+      "timestamp": "00:55:02",
+      "text": "they can't get them out fast enough, so people are going crazy. At least one local low-grade criminal was murdered over a busted chip deal. Meanwhile, the memory chip drought began to take its toll in the Far East, where the young consumer electronic business was a huge consumer of memory chips. So it wasn't long before Asian businessmen carrying briefcases full of cash began arriving at San Francisco airport with orders to find chips at any price. This led to some odd moments such as the time when a chip seller and buyer having taken adjoining rooms opened the adjoining doors and tried to hand the money and goods to each other only neither was willing to let go first. The result was slapstick in which the two parties, each gripping both briefcases through the partially open doors, played a desperate tug of war while trying to hide their faces from each other. This"
+    },
+    {
+      "timestamp": "00:55:56",
+      "text": "is like a scene out of Scarface you would expect, not makers of chip technology. Tech booms with their prospect of overnight riches almost always produce a certain amount of chip technology. Tech booms, with their prospect of overnight riches, almost always produce a certain amount of criminality. Witness the dot-com bubble of the late 1990s. But it has never been as bad as it was during the boom between 1979 and 1981. Not only was there gray-black market surrounding chips, but the speeded- up production and increased quotas led to an epidemic of amphetamine abuse"
+    },
+    {
+      "timestamp": "00:56:29",
+      "text": "as fab and assembly line workers tried to keep up with the amped up pace. Drug dealers openly worked out of trunks of their cars in the vast national semiconductor parking lot and took orders from Intel employees among others. Meanwhile, the japanese had their listening posts and were ramping up to an all-out industrial espionage and a half dozen half dozen nations had spies in the valley some of them like the russians hoping to steal the technology"
+    },
+    {
+      "timestamp": "00:56:58",
+      "text": "they would put in the nose in the nose cones of icbmss that are aimed right back at Silicon Valley. Humans, we are a strange bunch. I mean, you're talking about three paragraphs. They talk about what looks like a drug deal, hookers, murder, multi-country espionage, and amphetamine abuse. That just blew my mind. So now I want to skip towards the end of the book. Noyce is"
+    },
+    {
+      "timestamp": "00:57:34",
+      "text": "he stepped down from Intel. He's still highly involved. He's in his early 60s and he's doing this joint venture with the government where the government's investing a couple hundred million dollars in this technology because the Americans are still having this battle with Japanese. Japanese are being helped greatly by their government and so there's this coalition of technologists and Noyce is leading them and I'm just going to read these few paragraphs. It was a great and if largely unrecognized victory for Bob Noyce, but it came at a great cost. He often spent the work week in Austin and then flew back to Los Altos to preside over various Valley events and fundraisers."
+    },
+    {
+      "timestamp": "00:58:15",
+      "text": "But there was little time now for his usual outlets of skiing and flying his planes, though he did swim almost daily at his Austin home. Unfortunately, the stress of the job had brought back his old chain smoking. On one of those trips back to the Bay Area, in which he gave a speech on Sematex, Sematex's joint venture between the government, he took the time to be interviewed on a locally produced but nationally syndicated television show. Before the cameras rolled, he sat back in his chair and told the host, whom he knew very well, that he was happy to be back in the valley, even if it was only for a couple of days. He joked about being a Texas cowboy, saying that he had to scrape the shit"
+    },
+    {
+      "timestamp": "00:58:55",
+      "text": "off my boots before landing back in the Bay Area. He was proud of what he had accomplished with Semitech, he took enormous pride in what Intel had become, and he was obviously beginning to ponder the next chapter in his life. Steve Jobs heard he was in town and, anxious for Bob to meet and approve his fiancée, invited Noyce to his house for dinner. They stayed up talking till 3 am. Like any group of employees who had ever worked with Bob Noyce, the people at Sematech adored him, and when an article appeared in the San Jose Mercury during his visit that quoted a semiconductor equipment company executive as saying that Americans needed to change their idols and then nominated Noyce for that pedestal, those employees decided to greet Bob on his return with a party, complete with t-shirts that featured that quote, Bob's photograph, and the line, Bob Noyce, Teen Idol. Sematech officially declared that day, June 1, 1990, as Bob Noyce Day. By all accounts, Noyce was surprised and flattered by the event, not least the posing for photographs with pretty female staffers."
+    },
+    {
+      "timestamp": "01:00:09",
+      "text": "That was Friday. On Saturday, he held some business meetings at home to catch up on what he had missed, and on Sunday, he took his usual morning swim. Then, feeling tired, he went inside, laid down on the couch, and died. And I'll wrap right here. Apple Computer's official comment, no doubt influenced by Steve Jobs, may have been the most powerful of all. He was one of the giants in this valley who provided the model and inspiration"
+    },
+    {
+      "timestamp": "01:00:44",
+      "text": "for everything we wanted to become. He was the ultimate inventor giants in this valley who provided the model and inspiration for everything we wanted to become He was the ultimate inventor the ultimate rebel the ultimate entrepreneur"
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:30:04.627Z"
+}

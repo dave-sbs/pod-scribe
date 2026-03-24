@@ -1,0 +1,501 @@
+{
+  "metadata": {
+    "episodeNumber": 24,
+    "title": "No Better Time: The Brief, Remarkable Life of Danny Lewin, the Genius Who Transformed the Internet",
+    "slug": "24-no-better-time-the-brief-remarkable-life-of-danny-lewin-the-genius-who-transformed-the-internet",
+    "url": "https://podscripts.co/podcasts/founders/24-no-better-time-the-brief-remarkable-life-of-danny-lewin-the-genius-who-transformed-the-internet",
+    "date": "April 15, 2018",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "In the spring of 2011, a friend asked if I was interested in a job co-producing an independent film tribute for the anniversary of the 9-11 attacks. The subject, he explained, was a passenger on the first plane to crash into the North Tower of the World Trade Center. From there, the story took on a life of its own. It is the story of Danny Lewin, who was almost certainly the first victim of the 9-11 attacks. It's the story of an extraordinary gifted young man who believed anything was possible and let nothing stand in his way. Of an all-American kid who moved to Israel against his will, ended up falling hopelessly in"
+    },
+    {
+      "timestamp": "00:00:36",
+      "text": "love with the country, and served as an officer in the most elite unit of the Israeli army. Of a young soldier who trained to hunt and kill terrorists and who, in a tragic twist of irony, later died at their hands. Of a loud, irreverent computer science student who formed a beautiful friendship with a soft-spoken, reserved professor. Of a husband and a father who spent years struggling to make ends meet and became a billionaire almost overnight. Of a theoretical mathematician who wrote a set of algorithms that would change the internet forever. So that's from the preface of the book, No Better Time, The Brief Remarkable Life of Danny Lewin, The Genius Who Transformed the Internet by Molly Knight Raskin. That one paragraph is a great description, I guess, of why I think this book is important"
+    },
+    {
+      "timestamp": "00:01:29",
+      "text": "and why I wanted to cover it on the podcast. In his short 31-year life, he winds up becoming an elite officer, let's say in the Israeli version of kind of like the Navy SEAL equivalent of what we have in America, and becomes an extremely talented computer science student, and then founds a company and becomes a billionaire. So he got a lot done in a short time here. Okay, so let's jump right into the book. This is a part I found interesting where Danny's future co-founder, Professor Leighton, is describing Danny's personality. So it says he, which is Danny, who's referring to, he was immediately assigned to Professor Leighton, first as his teaching assistant, then as his research assistant."
+    },
+    {
+      "timestamp": "00:02:15",
+      "text": "Professor Leighton was at that time the head of the algorithms group at LCS. When they refer to LCS throughout the book, that's the laboratory, that's MIT's Laboratory of Computer Science. So Professor Leighton's heading the algorithms group at LCS, and he strikes up and starts to build a relationship with Danny. And it says, Leighton soon found himself looking forward to Lewin, that's Danny's last name, to Lewin's visits, which punctuated his typically quiet, serious academic life with bursts of exuberance. And it wasn't just the student's gusto that intrigued Leighton. When he spoke about topics that energized him, which seemed to include almost everything, Lewin became so animated, arms gesticulating, eyes ablaze, that his enthusiasm was infectious. We're going to come back to his enthusiasm, his passion over and over again in the book too. What stood out to me was how engaging he was, almost like this live wire. When Danny"
+    },
+    {
+      "timestamp": "00:03:09",
+      "text": "was excited about something, you couldn't help but get excited too. A few paragraphs down, it says, in the cluttered, unkept halls of LCS, over over desk piled high with papers and textbooks are crossing the campus quads Lewin and Leighton spent hours absorbed in mind-bending conversations about math and computer science I felt like I was talking to an equal we called Leighton he'd think of clever ways to take an idea in some new direction Lewin joined Leighton's Algorithms Group, which is grappling with a challenging set of problems centered on this new mode of communication, the internet, and some barriers to its growth. The reason this is important,"
+    },
+    {
+      "timestamp": "00:03:54",
+      "text": "well, let me give some context first. If you listened to last week's podcast, the events in No Better Time take place around the same time as the events in the new new thing. So we're talking late 90s, 2000 and this sentence right here which says the algorithm group is meeting and they're grappling with the challenging set of problems centered on this new mode of communication the internet and some of"
+    },
+    {
+      "timestamp": "00:04:16",
+      "text": "the barriers to its growth that is the fundamental problem they're solving which and their solution is founding the company of Akamai. And we'll see how they get there in a second. So let's skip ahead a little bit. Oh, and it's something I don't want to confuse you, but the book doesn't go in chronological order. Sometimes it goes back and forth. So even though I'm moving chronologically through the book with my notes and highlights, that part that I just read, this is after – so Danny's – he's already served time in the Israeli army, right? Then he graduated from college, and now he got accepted to MIT to become a graduate student. So that's when he meets Leighton."
+    },
+    {
+      "timestamp": "00:05:03",
+      "text": "He read a book back in Israel that Leighton wrote, and Danny decided he had to work with graduate student. So that's when he meets Leighton. He read a book back in Israel that Leighton wrote, and Danny decided he had to work with this guy. And he didn't expect to found a company with him, which that's obviously what happened. He just wanted to learn from him because Danny wanted to be an academic. Okay, so let's skip ahead. Hopefully this is making sense to you. Oh, so I was listening to this next note I left for myself."
+    },
+    {
+      "timestamp": "00:05:29",
+      "text": "I was listening to the podcast. It's NPR's podcast, How I Built This. So if you're listening to this podcast, you'll probably be interested in that one as well, where they do interviews with people that build companies as opposed to me reading books about people that build companies. But the guy that founded Atari and also also found a chuck e cheese i just did an episode on him his name is nolan brush bushnell uh brush now i'm not entirely sure how to pronounce his last name but i've been interested in him before and i'm uh i've even researched and looked"
+    },
+    {
+      "timestamp": "00:05:59",
+      "text": "up some books uh that were written about atari that i might include on the podcast in the future but he had this uh one of the interesting stories, the reason I know about Nolan, going back to this idea that books are the original hyperlinks and they kind of lead us from one idea to another. I became aware of Nolan. I was obviously aware of the two brands he built, Atari and Chuck E. Cheese, but I didn't know who the founder was. Well, in the two books I read and covered on this podcast about Steve Jobs, they mentioned that Jobs used to work for Nolan at Atari. And in the How I Built This podcast, there was a sentence, a quote that Nolan said that stuck out of my mind. And I wrote it down here when I got to this section in No Better Time. And it said, Steve Jobs had one speed,"
+    },
+    {
+      "timestamp": "00:06:44",
+      "text": "go. So we're going to see Danny has a little bit of that in him as well. So let's go to this section in No Better Time, and it said Steve Jobs had one speed, go. So we're going to see Danny has a little bit of that in him as well. So let's go to this book. Oftentimes ideas made their way into his dreams, jolting him out of sleep at odd hours. The same was true for Lewin, who was known to fire off lengthy, thoughtful email missives in the middle of the night. It's like working on a crossword puzzle. You get stuck and you put it away. Then you won't think about it for a"
+    },
+    {
+      "timestamp": "00:07:09",
+      "text": "while and suddenly bang you have the answer because the brain works even when you're not aware of it. That's what happens with math. So remember there's still at this point they're still rooted in trying to find trying to see if there's an algorithmic solution to the congestion issues of the early internet any of you that are old enough that remember using the internet maybe in the late 90s remember terms like worldwide weight because there's certain websites that would just the more people try to access them they would just crash or just wouldn't work. This is largely something of the past due in part to companies like Akamai. All right, so let's go back into this quote."
+    },
+    {
+      "timestamp": "00:07:55",
+      "text": "With Lewin in lockstep, Leighton's life began to move just a bit faster. Even Bonnie Berger, this is Leighton's wife. So I hate introducing all these names because I know even like when I'm reading a book and they have a bunch of names and then they reference the last name like a couple pages later. Like, wait, who's that guy? So let's just say this is Danny's co-founder's wife. Okay, her name is Bonnie. Even Bonnie said she couldn't help but poke her head in her husband's office when she heard Lewin stop by. It was quite a circus when Danny arrived, recalled Bonnie. He just was the most energetic force that you can imagine. It was hard to ignore. I'd come in and listen and he would be jumping"
+    },
+    {
+      "timestamp": "00:08:36",
+      "text": "around the whiteboard with this muscular physical power. So already we've seen a few references to Danny's energy He had basically one speed as well And that was like a frantic energetic pace forward She said something there at the end I want to bring up though Because parts of this that she's referencing I skip over More than a few people that meet Danny are surprised She says he's jumping around the whiteboard with this muscular physical power. So Danny kind of, if you ever see pictures of him,"
+    },
+    {
+      "timestamp": "00:09:10",
+      "text": "he doesn't look like the typical academic or the typical computer science student. Obviously, he was in supreme physical shape, really, really strong, kind of built like a stocky tank. They talk about in the book how when he was in the Army or when he was in what they called a unit, and we'll get there in a minute, they would have to do like 24-hour rucks, which is basically just a 24-hour march with a heavy pack on their back and gear. So he spent the majority of his adolescence, in addition to being really, really good at school, building up his physical endurance and his strength training. So he's kind of an outlier there. Let's skip ahead again"
+    },
+    {
+      "timestamp": "00:10:05",
+      "text": "okay actually this worked out perfectly because this is the note that i that i left it's called the unit um and it talks about okay so it's the israeli army has a reputation for military strikes on some of the world's most dangerous terrorist organization if there's one unit of the idf which is israeli defense force i think responsible for these daring exploits it's okay now you can see why i call this a unit because um it's say your ret matcal also known as the general staff reconnaissance unit or simply the unit so we're just i'm just gonna i'm not even trying to pronounce that word again we're just gonna call it the unit uh okay so it says it's often the unit is often compared to the american navy seals and britain's special"
+    },
+    {
+      "timestamp": "00:10:56",
+      "text": "air service uh let's see skip uh it says okay the commanders of the unit were not looking for... So the author here is quoting another book called The Elite, which the author of The Elite is defining the type of warrior that the early leaders of the unit recruited, a tradition that still holds true today. So this is the quote from the book. The commanders of the unit were not looking for cold-blooded killers, nor did they seek"
+    },
+    {
+      "timestamp": "00:11:25",
+      "text": "robots who would follow orders blindly they sought innovative men who could like spies work alone behind enemy lines and like guerrillas improvise with skill determination and well-directed fire power when operating in hostile surroundings the soldiers in the brigade must also possess above average intelligence and technological savvy. So the reason I highlighted that is because if you take the combat and the war out of that, those are traits that I would say that would serve most founders well. So not robots who'd follow orders blindly okay check uh they sought innovative men who could who could like spies work alone behind enemy lines check like gorillas improvise with skill determination and well-directed firepower when operating hostile"
+    },
+    {
+      "timestamp": "00:12:19",
+      "text": "surroundings check check check the soldiers in the brigade must also possess above average intelligence technological savvy uh i don't think you need above average intelligence to be a founder although it's probably helpful and technological savvy is uh probably also helpful and at this point almost necessary um so we're going to see kind of uh uncommon person that danny was from the tens of thousands who try out, the IDF selects a few thousand recruits who are eligible to participate in a one-day test camp. This is the process at which they're whittling down"
+    },
+    {
+      "timestamp": "00:12:53",
+      "text": "the people that actually get to go to the unit. So from 10,000, they get a few thousand recruits who are eligible to participate in a one-day test camp. Those who pass proceed to a five day test camp this camp is so grueling that doctors and psychologists constantly monitor the recruits throughout the process which involves long stretches without sleep and repetitive exhausting physical and mental tasks the purpose of this test is to weed out those who lack the mental toughness to withstand the pressures and potential perils of a highly secretive mission. From this test, anywhere from 20 to 40 men are selected for the unit."
+    },
+    {
+      "timestamp": "00:13:37",
+      "text": "Of those chosen, only one is promoted to the rank of officer. So the funnel goes from 10,000 to a few thousand to 20 to 40 to one. Okay, so here, I'm not going to go too much into detail of their training. I think it's very similar to like Bud's training for Navy SEALs, which if you're really interested, you can find tons of information on the internet. You can listen to Jocko's podcast, or you could Google this guy named David Goggins. Both of those are former Navy SEALs."
+    },
+    {
+      "timestamp": "00:14:15",
+      "text": "Both are really disciplined and driven people, kind of motivating if you like that kind of thing. So there is something that they have to do I'm not gonna read all I don't want to read all this but they do have to do this non-stop march of about 75 miles And it says the March is one of the most important accomplishments both physically and psychologically for soldiers and special forces I don't know if it um Okay. Yeah, so let's let's it goes into more detail here actually i highlighted uh a passage on the next page and i'm not gonna his name's not important he's a friend who served with lewin in the unit and later worked with him remembered his surprise when he passed lewin during a training session involving a 10 mile hilly walk weighted down with full gear of about"
+    },
+    {
+      "timestamp": "00:15:02",
+      "text": "50 pounds now you're gonna see why i included this sections tells us more about Lewin's personality Lewin was known as a strong Walker in these types of exercises rarely showing any visible signs of fatigue on this particular walk although he completed it on time Lewin seemed to be struggling often couching down to rest and catch his breath. When asked to explain, Lewin confessed that he had voluntarily doubled his load of gear to prove to himself that he has almost what I would classify like a psychotic drive, which we're going to see serves him very well when he's building Akamai. So the chapter I'm still reading from – okay. So this is how Danny – this is what I mean when they go out of chronological order, but it's probably not important. Okay, so how, it's probably not important that it go out of chronological order, that is."
+    },
+    {
+      "timestamp": "00:16:10",
+      "text": "How Danny became, so this is how Danny becomes aware of his co-founder. So we're going back in time now. He was in the unit and then he requests leave because he wants to complete his college degree. So let me just read this. Months later, Lewin requested leave from the IDF to attend the Israel Institute of Technology. He and Anne, that is his wife, he married early, were expecting their first son, Ethan. And Anne was eager to relocate to the quiet, scenic city of Haifa. I don't know how to pronounce that."
+    },
+    {
+      "timestamp": "00:16:45",
+      "text": "To begin their life together. But even Haifa couldn't slow Lewin down. About two years into his studies at the Israeli Institute of Technology, they're calling it by its name, but I don't know how to pronounce it. So we're just gonna call it IIT. Lewin came across a textbook at the library"
+    },
+    {
+      "timestamp": "00:16:59",
+      "text": "on the topic of parallel algorithms. He was so moved by its depth and beauty that he brought it home, pulling it out of his backpack and telling Ann that he'd never seen such an incredible research. Lewin became fixated on the book and its author, MIT professor Tom Layton. Inspired solely on what he'd learned from the pages of this massive tome, he told Anne that he was determined to meet Leighton. At that time, Lewin's pursuit of the MIT professor must have sounded a bit outlandish to family or friends. For Lewin, however, it was nothing but sincere. He applied to and was accepted to MIT,"
+    },
+    {
+      "timestamp": "00:17:40",
+      "text": "and after less than four years in Haifa, the young family was packing for Cambridge. and was pregnant with their second son. So the importance of books, which is how they can change your life. While he's studying, Danny just randomly finds this book. He becomes so enthralled with the ideas in it that he seeks out the person that wrote it. Turns out the person that wrote it is a professor at MIT. So Danny's like, all right, well, fuck it. I got to go to MIT then."
+    },
+    {
+      "timestamp": "00:18:09",
+      "text": "And he moves his entire family halfway around the world. So I say the power of books. It's really the power of ideas. But in this case, it was just in book form. And I'm partial to books and reading. I mean, I am doing a podcast on books, right? Let's see. Skipping ahead."
+    },
+    {
+      "timestamp": "00:18:32",
+      "text": "And I know sometimes I listen to these back, especially when I'm editing them, and there's some pauses, and then you can hear me kind of like rifling through the pages of the book. I don't really edit that out. I've said before on many podcasts, I really want this to be like an informal recording, almost like if we were sitting down together as friends and I was just telling you the ideas I liked in the book. So I try not to, I mean, I don't want to leave large pauses, but I do, I don't want it to see, seem like I just sit down and I can just rattle all this off. Like there's a lot of pauses but I do I don't want it to see seem like I just sit down and I could just rattle all this off like there's a lot of pauses there's a lot of me mess"
+    },
+    {
+      "timestamp": "00:19:07",
+      "text": "messing up there's a lot of me trying to find notes most of the work of the podcast obviously happens been reading the books because it takes hours and then making the notes so once I'm done with that I just try to immediately record while the ideas still fresh in my mind. Let's see. So there's some interesting things. There's a quote I like, some insights to how Danny parents and his potential. And this all happens on almost the same page."
+    },
+    {
+      "timestamp": "00:19:40",
+      "text": "So this quote, he said, life is too short to be bored. Only boring people are bored. That I also don't understand when people are like, oh, I'm bored. It's like you live in the information age. There's tons of stuff to occupy your – tons of stuff to work on. This is him in parenting. In an interview for a documentary tribute to Danny, Ann – remember, that's his wife – recalled the thrill the boys got out of Lewin's word games."
+    },
+    {
+      "timestamp": "00:20:00",
+      "text": "Every week, he would comb the dictionary for the quirkiest, strangest-sounding word he could find, write its definition on an index card, and pin it to the fridge. Obstreperous became one of his favorite words, an ironic choice considering it used to describe someone who was stubborn, resistant to control, and noisy. Tongue-in-cheek, Lewin used it to describe others not himself namely anyone who would got who got in his way later he transformed it into a catchphrase among his co-workers when referring to competitors or naysayers this is the part on Danny's potential despite the financial stress"
+    },
+    {
+      "timestamp": "00:20:41",
+      "text": "so they're talking about the fact that they're a young couple, two kids, Danny's not making much money because he's a full-time academic and is working as well and taking care of the kids. So they're struggling right now. Despite the financial stress Danny and Ann faced, Ann never lost confidence in Danny's potential for success. She didn't know anything about algorithms or computer science, but she did know her husband was brilliant and determined. In a documentary tribute to Danny, Anne recalled a conversation she once had with him in their apartment in Haifa, where Danny kept a big, bulky personal computer that he loved to program. At the time, the World Wide Web had just made its debut,"
+    },
+    {
+      "timestamp": "00:21:26",
+      "text": "and it was unclear to most people what the impact of this newfangled technology would be. But Ann said Danny had a clear idea of its potential, explaining excitedly that the internet would allow her to use a computer in Israel to access information from a library at Harvard University. Anne said she expressed her amazement, but added it sounded complicated. Danny replied, it is complicated, but can you imagine the possibilities? Can you imagine what we'll be able to do if someone makes it easy? Okay, so the very next page, we're going to see that Akamai, the idea for Akamai actually comes from a class project. Because remember, Danny's goal is to become an academic. He just wants to spend his time doing math and computer science and I guess envisioned a life of a 10-year professor for himself."
+    },
+    {
+      "timestamp": "00:22:24",
+      "text": "So publish or perish, it is a well-known saying that the nation's best universities, ones that sum up the fear among research-oriented graduate students, that failure to publish in scholarly journals means academic doom. By late fall, so that's what he's working on, by late fall, Lewin was beginning to feel the pressure. There's two names here that are not important. They're his classmates. These two guys had already produced and published an impressive paper. But Lewin and his three writing partners, Eric, Rina, and Matthew, were stuck."
+    },
+    {
+      "timestamp": "00:22:56",
+      "text": "We didn't feel like we were having much success. Their focus was still, this is the important part, their focus was still on using math to relieve the congestion plaguing the complex architecture of the internet specifically they were still searching for a solution to the problem of the world wide weight i think the worldwide weight was like uh was i think that term was coined by tim berners-lee and it just refers like i said earlier to the congestion that a popular website could have and then it causes to load slowly or not at all. So we're continuing"
+    },
+    {
+      "timestamp": "00:23:31",
+      "text": "this so they're like hey what the heck how can we figure how can we find a solution to the congestion of the complex architecture that is the internet and uh Lou and Danny's been thinking about it and he's going to share an idea he has and And he's not sure of the idea, though. So he's talking to one of his writing partners, Eric. So it says, Eric distinctly recalled the day Lewin shared the new idea with him and just how insecure he was about its potential. We were walking together across campus, and Danny was kind of down on his research. He told me about consistent hashing."
+    },
+    {
+      "timestamp": "00:24:02",
+      "text": "And I'll never forget it because he said, consistent hashing is a pathetic idea, but it's my idea. According to Eric, Danny originally thought his idea of consistent hashing was simplistic and impractical. He was worried it was small and worthless, just something cute. To clarify, in mathematical jargon, cute means the work looks good on the surface, but lacks utility and mathematical sophistication. Danny and Eric thought that they had a cute idea to work with, but they knew they needed to improve it somehow. Eric, though, was uncertain of this could be done. Honestly, this is a quote from Eric,"
+    },
+    {
+      "timestamp": "00:24:45",
+      "text": "honestly, we didn't know very much about how the internet worked at the time, and we were struggling with how to convert this real-world problem of file storage into a mathematical model. On paper, our mathematical model didn't seem that realistic, so the whole thing seemed kind of shaky to me. However pathetic Danny himself felt it to be, however, he did believe consistent hashing might have some practical utility in that same conversation in which he called it pathetic"
+    },
+    {
+      "timestamp": "00:25:12",
+      "text": "i remember danny saying he really he really thought something like this could exist okay so they're they're they have an idea they're not sure So they're like, hey, let's go meet with Tom, which is the professor that Danny wanted to go to MIT to work with. By the time Danny and Eric arranged a meeting with Tom, they hadn't gained a great deal of confidence in consistent hashing. Leighton, that's Tom's last name, Leighton remembered the two of them appearing slightly embarrassed when they approached him for feedback. They presented it almost as an afterthought, Layton said. They told me about the concept in what was an apologetic way. Almost instantly, however, Layton saw something significant. I thought, oh my goodness, because they had a whole bunch of stuff."
+    },
+    {
+      "timestamp": "00:25:59",
+      "text": "Proof of this, proof of that, all these things. I said, wow, that's a gem. That's really cool. And you wouldn't expect you could do this. Leighton had never thought about hashing the way Lewin and Lehman, that's Eric's last name, presented it. In fact, their approach seemed almost impossible. But there it was in front of him, stapled neatly and sitting on his desk. Lewin didn't yet have the deep proofs, but he had something, and to Leighton, it was beautiful. I remember being struck, Leighton confessed. It wasn't a tour de force technically, and mathematics, you often want to have that kind of thing,"
+    },
+    {
+      "timestamp": "00:26:36",
+      "text": "but it was just, I thought it was elegant and fundamental, and I remember just appreciating the beauty, the elegance, of what I thought was going to be the importance of it. According to Leighton, the potential power of consistent hashing was rooted in its simplicity. This is, I think, the most important sentence of this paragraph. Lewin had taken a succinct problem, one that was easy to state but seemingly impossible to solve, and created a solution so simple and elegant it was almost obvious. Mathematics has a lot of examples like this, where you could take a thousand people and they wouldn't be able to solve the problem, but they could all quickly agree when you show them the solution that it's easy. It's a weird thing to be convinced that a solution works and is much different than coming up with"
+    },
+    {
+      "timestamp": "00:27:21",
+      "text": "one. At the time, Leightton looked at Lewin and Lehman and exclaimed you've done it this is really important and you've got to give it a name and state the definition of the problem because this sounds useful it was the beginning of the end of the world wide wait skipping ahead a little bit here's some quotes from Danny's co-founder about, well, first about himself. So this is Tom talking. He said, I might have been the most unlikely person in the world to start a company. I included a quote in there, and I've done this on many podcasts just to kind of push against this idea that only young people can start companies."
+    },
+    {
+      "timestamp": "00:28:02",
+      "text": "When he says, I might have been the most unlikely person in the world to start a company, Tom is already in his 40s, and he has a very successful career as an author and an academic. And he just had no idea that he'd ever go into business. And then this is a quote that Tom has on Danny, and then I want to tell you why I included this. It was through that process that I really got the impression that Danny had tremendous drive and no fear. If he didn't know something, he'd go to learn it. So he talks about his tremendous drive. Later in the book, there's a story,"
+    },
+    {
+      "timestamp": "00:28:35",
+      "text": "and I don't think it's going to be included in the podcast, but Akamai's already found it, and Danny's doing sales calls, and he goes to a company's office and he winds up having to get physically escorted out of the office by security because he refused to take no for an answer and wouldn't um wouldn't leave and uh so he gets kicked out by arms by security and shows up the next day and does it all over again. So I don't know if he ever got that, these people as a client, but he's obviously psychotic, maybe in a good way. I don't know."
+    },
+    {
+      "timestamp": "00:29:15",
+      "text": "Okay, skipping ahead a little bit. So there's a bunch of the book I'm going to skip ahead. Even though the book's relatively short it's like 250 pages probably takes like maybe seven eight hours to read uh they're just obviously for brevity's sake i can't include all of it on the podcast but uh they tom professor tom loves the idea right and so they're they're like thinking hey uh there might be like a commercial application to this idea uh and they start to assemble but they don't know so again they're not thinking about starting a company yet but at the same time danny's doing really poorly"
+    },
+    {
+      "timestamp": "00:30:01",
+      "text": "financially he needs money so he hears about this competition called like the 50K, and it's a business plan, like a business plan competition, I guess you would call it, at MIT. And they decide, hey, why don't we assemble a group using like other MIT students, and we'll just act like we're going to do this company. Basically, they're trying to give external validation for their idea. So why don't we enter this contest with the desire to win,"
+    },
+    {
+      "timestamp": "00:30:36",
+      "text": "because if they win, they get $50,000. And Danny at the time thought they got the money, and they just keep it, but you're supposed to use it to start the company. So they find that out later. So over the next few months, they wind up building an impressive team. They practice their pitch on what their solution is for the problem of the worldwide weight. And they wind up losing the competition."
+    },
+    {
+      "timestamp": "00:31:02",
+      "text": "I think they wind up coming in fifth place. They went like $1,000 or something like that. And a lot of the team after they lost kind of gave up on the idea. And Danny and Tom do not though. So this is an email where we're going to get into an email that, well, let me just read it. And it's about building a company the quote-unquote the right way a week after the 50k loss on his 28th birthday lewin sent greenberg a contemplative email from toronto where he was presenting research on probable probable probabilistically checkable proofs at an academic conference and here's the start of danny's email Greenberg. Silicon Valley makes money on air."
+    },
+    {
+      "timestamp": "00:31:46",
+      "text": "There are many in the business who become horrendously wealthy, and they don't even have a product or client. You may say, so what? That is great. You do nothing and become a zillionaire. Unfortunately, this is not the case. The main thing you have to do is to dedicate yourself to telling lies for a number of years and to spreading bullshit for many, many years. Some people are comfortable with this as"
+    },
+    {
+      "timestamp": "00:32:10",
+      "text": "long as the payoff at the end is high enough. I am not. The plan is to become a successful company in the right way. That is, have a product, have a market, and have customers who are buying your product. In order to do this well, we have to focus on building the technology and not on fundraising. Toward the close of the email, Lewin also expressed hope that once he got the company off the ground, venture capitalists would take over the bulk of the work. Quote, this will allow me to return to my family life and to see my wonderful kids and wife, he wrote. That's something far more valuable than millions. Lewin didn't need millions, but he desperately needed some money in the bank. The financial woes he and Ann faced were only worsening."
+    },
+    {
+      "timestamp": "00:32:56",
+      "text": "They were close to broke. Lewin had his long-term hopes pinned on Akamai, but the company still existed only on paper. So I'm going to skip ahead. They wind up building, instead of, they realize, hey, we can't just, previously, keep in mind, this is during the dot-com bubble. They were, basically had like a white paper maybe a deck and they had a theory on a technology that is proved like mathematically proficient but they didn't have an actual product so as you can see from that email Dan is like no we need to build natural products so they build an actual product"
+    },
+    {
+      "timestamp": "00:33:39",
+      "text": "they tested technology they run like a basically a beta test, and they're doing it in LCS at MIT. Well, let me just read that part. So this is where they start testing technology to see if the math is actually going to work in real life. So they test it. It winds up working, and it goes, The biggest victory was demonstrating the system's fault tolerance. If they shut down one machine, the system would rebalance the data load and avert a crash."
+    },
+    {
+      "timestamp": "00:34:13",
+      "text": "As the students increased the flow of traffic on the prototype, they were stunned to see it continue to run smoothly and efficiently. The more content they loaded into it, the better it performed, even under peak load. The students they're referencing there is Tom and Danny have a bunch of MIT computer science students helping them program and test and build their prototype. The remaining critical question before Danny and Tom was their business model. How would they deliver this service? What would they charge?"
+    },
+    {
+      "timestamp": "00:34:46",
+      "text": "Even by mid-summer, it was clear that no internet service providers were willing to take a chance on Akamai. At first they thought, okay, we won't sell this to consumer market. Our market is just selling directly to internet service providers. And they were saying no."
+    },
+    {
+      "timestamp": "00:35:01",
+      "text": "If they wanted to make the company work, they had only one choice build the technology themselves we ran out of options explained layton but a clear business plan was still eluding them for help they turned to dot to todd daggers a shrewd boston-based venture capitalist at battery ventures what daggers knew well was how to take a great idea and turn it into a living, breathing business. So this is where they're coming up with a business model for Akamai. Over time, then I'm talking about Todd, Dagris. Over time, he began to convince Danny and Tom that building and selling software wasn't going to work. Instead, Dagris was convinced they should offer a service on their own."
+    },
+    {
+      "timestamp": "00:35:48",
+      "text": "I thought they had something special and something they could use to build a recurring business. To him, the company's real powerhouse could be found in its algorithms. They were proprietary and so sophisticated they could almost be impossible for any competitor to replicate. Instead of giving other guys the software or Akamai's secret sauce and letting them skim the cream off the market, I thought Akamai should be the cream by building an annuity business with a big margin on this unique software."
+    },
+    {
+      "timestamp": "00:36:16",
+      "text": "So they stumbled onto the business model. Once they stumbled onto the business model, they decided, OK, let's just take the risk. Tom goes on sabbatical from his professorship, and in September of 1998, they rent office space. And Akamai Technologies was officially co-founded in, looks like, yeah, that same month. So real quick, and then I'm going to wrap up this chapter before we move on. And it says,"
+    },
+    {
+      "timestamp": "00:36:50",
+      "text": "Leighton still recalled an afternoon that fall when he and Lewin were walking from LCS to their new office, and Danny used the occasion for an impromptu pep talk, offering up all the reasons he believed Akamai would succeed. He told Leighton that it wasn't just their great technology, smart staff, or exemplary business plan that would guarantee success. He said, we had all those things, of course, but that wasn't why we're going to succeed. Instead, Lewin told him, we're going to succeed because we're tenacious as hell. Despite Lewin's bravado, he and Leighton felt some ambivalence."
+    },
+    {
+      "timestamp": "00:37:25",
+      "text": "It didn't take rigorous math to understand that the odds were against them. That might be the one time where being really skilled at mathematics is probably not good for you, realizing once you do the math in your head. According to the rule of venture capital, only one out of every 60 new businesses succeeds."
+    },
+    {
+      "timestamp": "00:37:43",
+      "text": "It was scary, recalled Layton. Danny was worried about it and I was worried for him. But in 1998, if you didn't move fast, you'd miss the moment. You'd just be another smart entrepreneur with a great idea left standing in the wake of the dot-com boom. Danny charged forward at full speed. Okay. charged forward at full speed. OK. OK, so this part, I think I'm going to include because it's really important."
+    },
+    {
+      "timestamp": "00:38:22",
+      "text": "As logical, I think, as sometimes founders try to be, there is some kind of, there is value in abstract human emotion. So the note I left for myself is passion is worth half a million dollars. So at this time, Akamai is found, they've already been founded. They're going around and meeting with angels and venture capitalists,"
+    },
+    {
+      "timestamp": "00:38:46",
+      "text": "and they're raising money, and we're going to stumble upon one of Danny's greatest strengths. In that meeting with Akamai, Friesen, this is an angel investor. Okay, so let me do that over again. In that meeting with Akamai, Friesen became one of the first members of what had become a de facto fan club of Lewin and his performance in front of a whiteboard."
+    },
+    {
+      "timestamp": "00:39:12",
+      "text": "In many ways, it was his canvas. With a pen in hand, he could stand in front of it for hours at a time and cover it with academic ideas, strings of sometimes incomprehensible math or business strategies. And when he did, his presentations could only be described as theatrical. The more he talked and scrawled, the more animated he became, hopping around and grinning from ear to ear as his ideas came to life on its smooth, white surface. As if on cue, he would intermittently turn and look out at his audience,"
+    },
+    {
+      "timestamp": "00:39:44",
+      "text": "gauging their interest and level of understanding. Friends likened Lewin's theatrics at the whiteboard to a freight train gathering steam until the stopping point when nearly everyone in the room sat silently wondering what exactly had just hit them. It was one of Lewin's most effective weapons. Stunned by what he saw in Lewin at the whiteboard, Friesen said he felt a familiar sensation, the same one he experienced when he watched some of his top musical talents at the start of their careers."
+    },
+    {
+      "timestamp": "00:40:16",
+      "text": "So Friesen's just this rich, successful businessman in the entertainment industry. So that's what he's talking about. He's like, oh, I'm getting excited. Like I'm watching top musical talents at the start of their careers. Danny was like ambition and intellect on steroids, Friesen said. His belief in the thing was so profoundly convincing. This is the most important part."
+    },
+    {
+      "timestamp": "00:40:37",
+      "text": "So let me start it over. His belief in this thing was so profoundly convincing that I believe too. On the spot, Friesen pulled out his checkbook and handed them a check for half a million dollars. This is a great part though. I didn't highlight it, but I just read it in the second. I remember walking out of the building and thinking, what have you done? He said. When people ask me, what exactly does Akamai do? I say, I don't know. But the thing I did"
+    },
+    {
+      "timestamp": "00:41:05",
+      "text": "know when I made that commitment was that Danny Lewin was a star. Okay, so at the end of this chapter, they convince two venture capital firms to invest $4 million each. One of them wires to 4 million. The other one backs out at the last minute. So let's use this paragraph as an entry into our reoccurring critics don't know shit segment on the Founders Podcast. After the deal was signed, everyone went home to celebrate for the holiday."
+    },
+    {
+      "timestamp": "00:41:39",
+      "text": "As for Venrock, these are the people that backed out. As for Venrock's last minute decision, the true cause leaked later. The deal fell through not because Venrock lost faith in Akamai, but because a senior partner in the firm's New York office had butted heads with Lewin. He thought Danny was arrogant and didn't like his demeanor. Venrock's decision to pass on the deal proved costly. If the firm had taken a 10% stake in Akamai for $10 million, it would have been worth $2 billion less than a year later."
+    },
+    {
+      "timestamp": "00:42:12",
+      "text": "Dagris said it went down as one of the dumbest venture moves in history. Okay, so let's skip ahead. I still have a lot of notes to cover, and I've been recording for quite a while. All right. This is their actual first product. So what does Akamai do? What are they going to sell? And it's this product they call FreeFlow."
+    },
+    {
+      "timestamp": "00:42:32",
+      "text": "With FreeFlow, Akamai created its own private path across the public Internet. Built entirely on software, it was a virtual road, one that took advantage of the Internet's architecture without relying on it. This enabled Akamai to offer its customers a number of benefits, chiefly fault tolerance. If one of Akamai's servers went down, the others in the network automatically picked up its workload until its service was restored. Another benefit to Akamai was ease of installation. To Akamai's quote unquote their website, content providers followed relatively simple step-by-step instructions to launch the FreeFlow software, which tagged the content or pages to be served by Akamai with an Akamai resource locator, an ARL, Akamai's version of a URL or web address."
+    },
+    {
+      "timestamp": "00:43:20",
+      "text": "The value of FreeFlow went beyond the speed and efficiency of content delivery. Another benefit was maintenance. Customers didn't have to install or maintain any hardware, a major draw for the engineers who would otherwise have to spend time, money, and energy on finding a good fix when their sites reached peak traffic. Akamai also offered what it called proof of performance. The guarantee that if FreeFlow failed to deliver a customer content at any time or failed to deliver it faster than customer's own service, Akamai's would issue a refund. So that is FreeFlow. Oh, I like this. This is random, but it's the no left."
+    },
+    {
+      "timestamp": "00:44:05",
+      "text": "Just keep it simple. They have to hire, at this time, they're hiring public relations firms because they're trying to get the word out about the technology. And I love that the guy they hired, which is that Greenberg guy that Danny was emailing from Toronto a few minutes ago on the podcast. He figured out, I just like the sentence from him because it's really smart, especially when you're talking about how confusing Akamai's technology could be. He goes, my goal was to express it in layman's terms so that your grandmother could understand it, and my grandmother could."
+    },
+    {
+      "timestamp": "00:44:48",
+      "text": "He was skilled at translating what Akamai did into something that sounded simple and impressive to a Main Street audience. That's probably valuable to anybody offering any kind of product or service. This is also interesting. We understood what business model they're using, right? But they can't figure out pricing, something everybody, I think, struggles with when they're creating something. And so this is how they find the right price and model."
+    },
+    {
+      "timestamp": "00:45:16",
+      "text": "So they hire this guy, Gallagher. Okay, so it says, At age 39, Gallagher became Akamai's vice president of sales. One of Gallagher's first tasks was to help Akamai set a pricing plan. At the time, the content delivery network, the CDN, that doesn't sound, okay, let me read that sentence again. At the time, the content delivery network business, oh my goodness. Let's do this again. At the time, the content delivery network business model was so new that there was no industry standard. Akamai had a rough plan in place, one that would charge customers around $800 per megabit of data delivered per second."
+    },
+    {
+      "timestamp": "00:45:59",
+      "text": "Gallagher insisted the price was far too low. They were looking at it mathematically, said Gallagher, but I was looking at it in terms of what the market would bear. Gallagher suggested that more than doubling the price to what he believed was the magic number, $1,995 per megabit per second. Everyone scoffed at me, recalled Gallagher, and I told them, you know what? I'll fucking prove to you that I can sell it at this price. And he did. When the company finally landed a full price contract with Discovery Channel, it came in at $1,995."
+    },
+    {
+      "timestamp": "00:46:39",
+      "text": "From that moment on, Akamai had in place a straightforward, service-based revenue plan, charging clients an even $2,000 per megabit per second per month. The pricing was based on each client's peak usage, which meant that if it reached 5 megabits per second at any time during one month, Akamai would receive $10,000 for that month. Going back to the importance of passion. So I was listening to a podcast and this guy who I think is really interesting, has a lot of interesting philosophies on life. It's the founder of AngelList. His name is Naval Rabakant. He was talking to somebody, and unfortunately I don't remember who or what podcast but uh they talked about if you were like what do you think are the skills are essential like what skills would you teach"
+    },
+    {
+      "timestamp": "00:47:34",
+      "text": "your kids if you could be in charge of like schooling and he said uh sales and coding and there's other things you could add on to that and other things maybe you could take away but i think sales everybody should learn i do think it is uh has universal value in almost anything that you could possibly do and this note is about danny was the best salesperson so we've already seen kind of uh hints in this when when he was able just in one meeting to convince this guy to hand over $500,000. So that's obviously sale because he's fundraising. But let's go into this part of the book. It quickly became apparent that when it came to sales, Lewin was the company's most powerful weapon, capable of turning skeptics into true believers. A lot of meetings would begin"
+    },
+    {
+      "timestamp": "00:48:24",
+      "text": "with some decision maker saying, thanks for coming to Seattle, but I've only got 20 minutes. My boss told me I had to take this meeting, so sit down and tell me what you have to say. Two hours later, Danny would still be at the whiteboard in full throttle with a room full of technology staff and rapt attention. Danny was so focused on getting everyone in the room to experience this euphoric passion, one that made them believe, I don't know exactly what this is, but I need to have this and I need to have it now. Once he got the customer to this frothy pitch, once he got the customer to this frothy pitch level of excitement, he'd basically leave the room and I'd close the deal. This is"
+    },
+    {
+      "timestamp": "00:49:01",
+      "text": "Gallagher. That was a quote from Gallagher, the VP of sales. Gallagher continues, the fact was these customers had a need and they weren't aware that it was possible to solve it our way because nothing else like Akamai existed. The persona of Danny rapidly created a market perception that we were intensely smart and what we were doing was highly relevant."
+    },
+    {
+      "timestamp": "00:49:32",
+      "text": "Oh, so this is interesting here. So they have a bunch of companies. At this time, they have a bunch of companies signed up, and they're running trials. And then if it works over the term of the trial, then the companies have agreed to, like, they'll become paying customers, right? So they needed some kind of, well, let me just read this. Akamai needed to prove itself. The trial tests were running better than expected,"
+    },
+    {
+      "timestamp": "00:50:03",
+      "text": "but the company was still selling a vision. The promise of a service so powerful, it could keep the most popular websites online during unprecedented crush of traffic. For Akamai to fulfill that promise in real time, live on the internet, they needed to test their software during a naturally occurring high traffic surge."
+    },
+    {
+      "timestamp": "00:50:21",
+      "text": "And as good luck would have it, two traffic surges happened soon thereafter so the first one was March Madness they're doing they're hosting ESPN's website and I think Sports Illustrated and our sports line and they wind up doing really well and the second part I found really interesting so he said that night Akamai was hosting a small gathering of investors for the screening of a trailer for the highly anticipated Star Wars film, Episode I, The Phantom Menace, which was premiering in theaters nationwide a week later. Earlier in the month, someone at Paramount's Entertainment Tonight show had contacted Akamai asking if the company could deliver the trailer for its website on the night of its release."
+    },
+    {
+      "timestamp": "00:51:03",
+      "text": "An agreement was signed. Unbeknownst to anyone at Akamai, Star Wars producer and director George Lucas had struck a deal with Steve Jobs, interim CEO at Apple, for a blockbuster release of the trailer on Apple.com and Lucas's StarWars.com. They were using Apple's new QuickTime 3 video player technology. Around 9 p.m. that night, a room full of Akamai employees and investors tuned into the live stream of the trailer on the FreeFlow-enabled website of Entertainment Tonight, which went out, which, oh my goodness, I cannot speak today. Sorry, guys. Which went off without a hitch. Okay, so a lot of people are watching the Entertainment Tonight website. It's using FreeFlow. It works."
+    },
+    {
+      "timestamp": "00:51:50",
+      "text": "So check this out, though. Shortly after the screening, someone at Akamai burst in the room with breaking news. Apple's website had crashed. So had a handful of other websites that had attempted to stream bootleg copies of the Star Wars trailer to more than 20 million viewers worldwide. The only sites that remained live streaming the trailer without any outages or delays were Paramount.com and Entertainment Tonight. Akamai's free flow handled up to 3,000 hits per second for the two sites, 250 million hits in total, and the system never exceeded even 1% of its capacity."
+    },
+    {
+      "timestamp": "00:52:29",
+      "text": "In fact, as the download frenzy overwhelmed other sites, Akamai picked up the slack. Before long, Akamai became the exclusive distributor of all Phantom Menace Quicktimes, serving both StarWars. comm and apple.com it was another victory for Akamai one so significant that news of it quickly made its way through the industry allowing the company to approach more choice customers with greater credibility the first of these names were a crazy sounding business out of Stanford called Yahoo so I have to skip over, for time's sake, a bunch of stuff about Akamai,"
+    },
+    {
+      "timestamp": "00:53:09",
+      "text": "it's building its business. But I do want to include this one anecdote. It's a Steve Jobs anecdote. How could you not include it on the Founders Podcast? He's the only person that created the most successful consumer product of all time. And he's hilarious. And we're going to see this here."
+    },
+    {
+      "timestamp": "00:53:26",
+      "text": "On April 1st, 1999, Sagan, this is a guy working at Akamai who's running the company, part of it. I think he's a COO at the time. On April 1st, 1999, Sagan arrived to work early to meet with advisory board member Art Bilger. Just as he sat down at his desk, the phone rang. Sagan answered, and the voice on the other end said, Hi, this is Steve Jobs, and I want to buy your company. For a second, Sagan was speechless. His first thought was that the caller was his brother, Alex, playing a prank on him for April Fool's Day. I almost said, fuck you, Alex, and hung up the phone."
+    },
+    {
+      "timestamp": "00:54:14",
+      "text": "Instead, he replied, Steve, nice to meet you. Our company is not for sale, but we'd love to be partners. The call began three months of tough negotiations with Jobs, who initially offered up $16 million in cash to purchase Akamai. They wind up not selling to him, obviously, especially not for $16 million. But the reason I put that in there is because one of the biggest things, ethos of the Apple way of doing things is to keep things incredibly simple, right? Which in consumer markets is incredibly important. And I've read a lot of other correspondence"
+    },
+    {
+      "timestamp": "00:54:48",
+      "text": "when it talks about like the Snapchat book, How Do I Turn Down A Billion Dollars? They show emails of like Mark Zuckerberg trying to meet up. Like we know what he wants. Like why is he meeting with Snapchat? He wants to buy them, but he doesn't ever say that"
+    },
+    {
+      "timestamp": "00:55:02",
+      "text": "until like they meet in person. Then there's a couple offers. But reading through those emails and seeing other documentation, other books, I've never seen somebody so like Steve Jobs cuts right to the point. I love that. Hi, this is Steve Jobs and I want to buy your company. One, two sentences instead of going back and emailing and just bullshitting and doing all the other stuff like he just didn't waste time So, I don't know. I just Find it fascinating. I've been also watching So if you're listening to this I'm recording this in early 2018 and it's all this like public attention right now having to do with"
+    },
+    {
+      "timestamp": "00:55:41",
+      "text": "Like what are technology companies responsibilities in terms of privacy is that even something consumers want etc etc and that led me down a rabbit hole watching old steve jobs uh videos some including the last uh interview he ever did publicly uh but but more so ones where he it was after he was kicked out of Apple before he went back. I don't know. He just has a – especially when he wasn't like – he has a reputation for being like a dick. But I would say that based on what I've read and seen, it's like that was – he was 22 years old worth $400 – what? $300 million or something like that."
+    },
+    {
+      "timestamp": "00:56:22",
+      "text": "Like it's going to be really hard to stay humble. But I think what happened is, yeah, he was certainly a dick, but a lot of those stories took place when he was way earlier in his career, as opposed to like the last 10 years of his life. And I would say the last 10, 12 years of his life is when he did the most important work. But anyways, I don't know. I'm just fascinated by the way his mind thinks and the way he communicates. And he communicates extremely, extremely clearly. Something I would love to be able to do on this podcast, but I'm working on it. Okay. We're skipping ahead."
+    },
+    {
+      "timestamp": "00:56:49",
+      "text": "And then we're going to get, I'm going to cover a couple more personality traits with Danny because I think understanding the personalities, the founders that we're covering on the podcast is extremely important. But then I want to get to the, there's a serious part at the end that's, you know, almost like tear-inducing."
+    },
+    {
+      "timestamp": "00:57:09",
+      "text": "Okay, so this part is just a graduate student, and I just included this part because I thought it was an amazing sentence given exactly where he found himself in his life at this time. Although they spent the better part of two years building Akamai, Leighton and Lewin still harbored similar long-term life plans of a quiet, cerebral career in academia."
+    },
+    {
+      "timestamp": "00:57:41",
+      "text": "Suddenly, though, they were at the helm of a breakout company moving at breakneck pace. And both of them, despite the confidence they exuded, were in over their heads. It's kind of like when a lobster gets boiled, explained Leighton. You don't realize what's happening to you. You don't look in from the outside and think, oh, my life has really changed. I was too immersed and drawn in by the task at hand. Lewin told the Jerusalem Post. Guys, I have to record this today because I don't have much time on my schedule, but I cannot talk today. All right. Lewin told the Jerusalem Report."
+    },
+    {
+      "timestamp": "00:58:26",
+      "text": "It's frightening. I have this company of 110 people headed by one of the biggest businessmen around with lots of money in the bank, and I'm just a graduate student. This is my post IPO quote. In less than one year, a tiny startup out of MIT had grown to a company with a market valuation greater than that of General Motors. So the IPO makes them obviously really, really, really wealthy. But it also, let me read another sentence to you. I'm trying to find it right now, where it talks about the craziness of this time. So they're wealthy, but check this out. Okay, here it is."
+    },
+    {
+      "timestamp": "00:59:10",
+      "text": "So they're doing really well for the IPO, but remember, Danny dies on September 11, 2001. So the last, unfortunately, the last year and a half of his life, it's not good. Let's check this out. With Akamai stock down from $327 just 18 months ago to $7.60. Okay. So Akamai shot up like a rocket. Then the bubble starts bursting. A lot of their customers are other startups. And what happens when the startups go bust they lose their customers so now they went from 327 down to seven okay so not only is uh and we're about to get to the end and this is going to be the longest section i read and uh i don't know it's it's just it's tough man it sucks um where was I going with that? So, okay. So not only is his company went from $327,"
+    },
+    {
+      "timestamp": "01:00:09",
+      "text": "$300, you know, multibillion dollar market cap. I think now they're down to like a $200 million market cap, something like that. And they're doing layoffs. They're just not doing well. Danny and his wife get divorced. Or excuse me, separated. They're never divorced."
+    },
+    {
+      "timestamp": "01:00:24",
+      "text": "But Danny's living in a house His own he buys his own house So he's dealing with the the breakup of his family and his business is on the verge of collapse and We're gonna see How he spends? His last day. And that's what this is."
+    },
+    {
+      "timestamp": "01:00:52",
+      "text": "This is now we're going to get to the, the, the, I mean, the reason probably the book is written. Definitely the reason the book was written, given the introduction that the author wrote. So I think this is going to be the last section I include in the podcast. So let's go ahead and let's go into this and see if I can make this make sense for you."
+    },
+    {
+      "timestamp": "01:01:10",
+      "text": "Okay. It might have been the fight to keep Akamai alive, or maybe it was just some strange, inexplicable combination of circumstances that collided sometime late that summer. But Lewin gained a much greater perspective on his life outside Akamai. First came a visit from his mother and father the first one charles had made since danny and the boys left israel five years earlier okay charles is his dad give you some background uh they're living in denver danny's 14 years old uh charles gets into uh something called zionism which I guess is like part of his religious beliefs"
+    },
+    {
+      "timestamp": "01:01:49",
+      "text": "means that he should go back to the Holy Land and live there. So he just picks up his entire family, his wife and three kids, and forces them to live in Israel. And he gets like really pissed at his son for leaving Israel, which again is really weird. Like I know it's something like something I told you, like, as you know, I have a daughter and I try to think of like when I'm parenting, I'm like, listen, there's certain things that I may want for you or I may want for her life, but it's her life. And at the end of the day, she's got to do it. Charles didn't really look at it that way. Charles looked at it like Danny was disrespecting him and like,"
+    },
+    {
+      "timestamp": "01:02:30",
+      "text": "he should have stayed in Israel. So this is really important because this is happening the week before September 11th. So hopefully this gives you a little more context. So let's go back to that. So Charles is Danny's dad. First came a visit from his mother and father. The first one Charles had made since Danny and the boys had left Israel five years earlier. When asked why he didn't visit more often, Charles Lewin said very little, noting his decision was rooted in quote unquote principle. Gross. Friends of Danny speculated that to leave, it's not gross to have principles. That's not what I'm saying, but that's your son. Get over your religion, get over your other stuff and go spend time with him man it's like okay friends of danny speculated that to leave israel to him would be to leave the life he created for his family when he made the bold decision to make is i think this is a hebrew"
+    },
+    {
+      "timestamp": "01:03:17",
+      "text": "world it looks like aliyah the singer but it's aliha aliy? Which I think is the holy pilgrimage back home, maybe. Hopefully. I don't know. He didn't, and this is the part that really bothers me. He didn't want to endorse a life for Danny of some big money businessman trapped in the culture of wealth that exploded in the dot-com boom. But what if Danny wants that for his own life? Shouldn't Danny get to choose? Right?"
+    },
+    {
+      "timestamp": "01:03:48",
+      "text": "Okay, so of course, Peggy Lewin, Danny's mom, who often visited Cambridge, disagreed, calling Charles' decision one made out of stubbornness. Danny had made several trips to Israel that year to see his family, but friends say he desperately wanted his father to come to Cambridge. This is important. This is what I'm talking about, why his dad was kind of a dick for doing this. But friends say he desperately wanted his father to come to Cambridge and see what he had built."
+    },
+    {
+      "timestamp": "01:04:17",
+      "text": "He wanted him to be proud. Peggy didn't know exactly why Charles changed his mind, nor, for that matter, did Charles. In the first week of September 2001, Charles and Peggy arrived in Boston for a long weekend. They toured Akamai, walked around Cambridge, and talked over a lot of what life had thrown at them over the course of five years. Looking back on the visit, Charles said, this is dad talking now, things occur that we don't understand in the usual frame of our understandings. And my going there was one of them. It was something, and then he says this Hebrew word and it translates to, it was something"
+    },
+    {
+      "timestamp": "01:04:58",
+      "text": "with the help of heaven. I'm going to skip over this part, but one evening that same week, Lewin stops by his friend's house. He hasn't seen his friend in a while. At 10 p.m., they play a game of pool and have a beer, and he's just saying, hey, I've been a bad friend. I've been busy. And he's telling his friend that he's been working things out with Ann. They've been seeing each other again, and he wants to basically go back to it."
+    },
+    {
+      "timestamp": "01:05:24",
+      "text": "He wants to make his marriage work and spend more time with his sons, okay? With more layoffs ahead it was a terrible week for Akamai But Lewin approached the tumult with his usual cheer and buoyancy He was scared the stock had plummeted and a few of Akamai's customers were on the verge of collapse on September 10th, okay, so this is his last full day alive. On September 10th, Lewin called a meeting at Akamai for more than a dozen employees. In a conference room, Lewin offered up a new vision for the company. One that was clear and well-planned. Danny was very focused, observed Julia Austin, who was still in charge of the engineering team."
+    },
+    {
+      "timestamp": "01:06:06",
+      "text": "He told us that we were going to shift direction and talked about where we were going next as a company. At the end of the meeting, which lasted well over eight hours, Austin and her co-workers, somewhat daunted by the task at hand, tried to convince Lewin to change his plan to travel to Los Angeles the next day and stay in cambridge to shepherd the layoffs and restructuring this is a really crazy part lewin opened his blackberry and for a moment seemed to consider it but then said he couldn't, you guys will be fine. Such is the craziness of life, that one decision, and he could still very well be alive. Later that evening, Leighton and Lewin got together for the grim task of eliminating approximately 500 of the company's 1,500 employees. Both of them knew it was just the first round."
+    },
+    {
+      "timestamp": "01:07:07",
+      "text": "By their estimates, Akamai would have to downsize at least 500 more for any chance of survival. Then they'd have to handle the issue of morale. They'd have to convince those who remained that the ship wasn't sinking. I remember that night distinctly it was a horrible horrible night Leighton said we recruited these people they were our friends and we all worked so hard together Leighton said Lewin was emotionally drained by the layoffs he had personally hired so many staffers and he'd agonized over the decisions of whom to let go Leighton and Lewin worked through the night, and as the hours ticked by, they talked not just as business partners, but also as friends. It was not until 2 or 3 a.m. on September 10th that Lewin and Leighton wrapped up their"
+    },
+    {
+      "timestamp": "01:08:03",
+      "text": "work. Lewin had a flight to catch in California in just a few hours. So actually the book's wrong. It's 2 a.m. September 11th. So it says Lewin and Layton wrapped up their work. Lewin had a flight to catch to California in just a few hours. So he said goodbye to Layton. Late that night, Lewin chose to return to the home he shared with Anne and the boys. In the weeks prior to this, he and Anne had begun to reconcile and just recently decided to give their marriage another chance."
+    },
+    {
+      "timestamp": "01:08:34",
+      "text": "The two of them hoped, Anne said, to remain together for the rest of their lives. Okay, here we go. Early on the morning of September 11, 2001, Lewin kissed Anne goodbye and drove from his home to Boston's Logan International Airport. He arrived just in time to catch American Airlines Flight 11, scheduled for departure at 8 a.m., and bound nonstop for Los Angeles. It was a trip he had taken so many times,"
+    },
+    {
+      "timestamp": "01:09:08",
+      "text": "more than 30 in the past year, that he knew the flight crew by name, the numbers of the most comfortable seats, and the makes and models of the aircraft. The plane was partially full, 81 passengers, nine crew members, and 2 pilots. Like Lewin, many of the passengers seated in business class were traveling for work on their daily scheduled flight. A television producer, actress, photographer, and several businessmen. But Lewin was a standout among them, dressed more like a college kid in his gap blue jeans, t-shirt, and gray Nike sneakers. Lewin settled into his seat, 9B, and pulled out his BlackBerry to make a phone call before departure. Co-workers say Lewin almost always made calls up until the moment one of the flight attendants reprimanded him for failing to shut down his device."
+    },
+    {
+      "timestamp": "01:10:13",
+      "text": "Around 7.30 a.m., with the plane still sitting on the runway, he called Occam's in-house attorney, David Judson. Lewin knew Judson was an early riser and often one of the first to arrive at the office. He wanted to check on some paperwork Judson had been preparing for an upcoming deal. Judson said Lewin sounded full of energy, despite the sleepless night and looming layoffs. They spoke for about 15 minutes until Lewin abruptly ended the call in preparation for takeoff. I've got to go, Lewin told Judson, to telling me I have to hang up my phone. American Airlines Flight 11 took off from Logan on schedule at 7.59 a.m. The plane headed due west and held on course for 16 minutes until it passed Worcester, Massachusetts. Then, instead of taking a southerly turn, it suddenly swung up to"
+    },
+    {
+      "timestamp": "01:11:00",
+      "text": "the north. Just before 8.14 a.m., the plane failed to climb to its assigned cruising altitude of 29,000 feet. At this point, it's possible Lewin suspected, perhaps before anyone else on the flight, that something terrible was about to happen. Having trained in the IDF's most elite counterterrorism unit, he had learned to identify signs of attacks well before they were carried out. He also knew conversational Arabic, enough to have picked up on verbal cues if the five Middle Eastern passengers gave any. At around 8.15 a.m., a bloody hijacking began on board. Five terrorists, all of them wielding box cutters and knives, rose from their seats in business class and began to threaten passengers and the crew. Most of what we know about the hijacking comes from reports by two flight attendants in the"
+    },
+    {
+      "timestamp": "01:11:53",
+      "text": "coach cabin, Betty Ong and Madeline Sweeney, who calmly and courageously relayed details of the hijacking as it unfolded to authorities on the ground. At 8.19 a.m., Ong told flight control, the cockpit is not answering. Somebody stabbed in business class, and I think there's mace. We can't breathe. I don't know. I think we're getting hijacked. In a separate call, Sweeney reported the plane had been hijacked and two flight attendants had been stabbed Sweeney also confirmed that a passenger that a passenger in business class had been stabbed to death his throat slashed by one of the terrorists that passengers he said was sitting in 9b the seat assigned to Danny Lewin."
+    },
+    {
+      "timestamp": "01:12:49",
+      "text": "Based on the evidence gathered from the phone calls and authorities on the ground, the 9-11 commission report concluded that in those first 20 minutes of the flight, Mohammed Atta, the only terrorist on board trained to fly a jet, probably moved to the cockpit from his business class seat, located within arm's reach of Lewin's seat, possibly accompanied by Abdullah, I don't care about his name, fuck him. As this was happening, according to the report, Lewin, who was seated in the row just behind Atta and Amari, was stabbed in the neck by one of the hijackers, who was seated directly behind Lewin out of view. Between 825 and 832, in accordance with the FAA protocol, Boston Center managers started"
+    },
+    {
+      "timestamp": "01:13:33",
+      "text": "notifying their chain of command that Flight 11 had been hijacked and was heading towards New York Center's airspace. At 844, Sweeney made her last call to ground control. Something is wrong. We are in rapid descent. We are flying low. We are flying very, very low. We are flying way too low. Seconds later, Sweeney said, oh my god, we are way too low. Silence. At 846, the Boeing 767 slammed into the North Tower of the World Trade Center, killing everyone on board. Usually not And I usually don't end These notes on a somber There's not a somber ending"
+    },
+    {
+      "timestamp": "01:14:33",
+      "text": "But I don't know This is a really emotional book That part especially When I read it for the first time Just I just He's 31 years old He's got two kids"
+    },
+    {
+      "timestamp": "01:14:44",
+      "text": "I mean Do you think about it When he hung up the phone at 7.59 When he was talking to time. He's 31 years old. He's got two kids. I mean, do you think about it? When he hung up the phone at 759, when he was talking to the in-house counsel, do you think he'd be dead 15 minutes later? And if you did think he had a chance to die, you wouldn't think it, maybe playing from, you wouldn't think it's from having your throat slashed."
+    },
+    {
+      "timestamp": "01:15:03",
+      "text": "So, getting, having your throat slashed. Um, so. If you want the full story, buy the book."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:27:51.751Z"
+}

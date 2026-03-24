@@ -1,0 +1,497 @@
+{
+  "metadata": {
+    "episodeNumber": 166,
+    "title": "Robert Noyce (Intel)",
+    "slug": "166-robert-noyce-intel",
+    "url": "https://podscripts.co/podcasts/founders/166-robert-noyce-intel",
+    "date": "February 8, 2021",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "Bob Noyce took me under his wing, Steve Jobs said. I was young, in my 20s, and he was in his early 50s. He tried to give me the lay of the land, to give me a perspective that I could only partially understand. You can't really understand what is going on now unless you understand what came before, Jobs said. Before Intel and Google, before Microsoft and Apple and Pixar and stock option millionaires and billionaire venture capitalists, there was a group of eight young men, six of them with PhDs,"
+    },
+    {
+      "timestamp": "00:00:34",
+      "text": "none of them over 32, who disliked their boss and decided to start their own transistor company. It was 1957. Leading the group of eight was an Iowa-born physicist named Robert Noyce, a minister's son and former champion diver with a doctorate from MIT and a mind so quick that his friends called him Rapid Robert. Over the next decade, Noyce managed that company, called Fairchild Semiconductor, by teaching himself business skills as he went along. In 1968, Noyce and his Fairchild co-founder, Gordon Moore, launched their own new venture, a tiny company they called Intel. Noyce believed that big was bad, or if not downright bad, at least not as much fun as small companies in which everyone works much harder and cooperates more."
+    },
+    {
+      "timestamp": "00:01:26",
+      "text": "When he left daily management at Intel in 1975, he turned his attention to the next generation of high-tech entrepreneurs. That's how he met Jobs. And that's how he came to serve on the boards of a half a dozen startup companies and informally provide seed money to many more. He strongly believed he was doing his part, as he put it, to restock the stream I've fished from. He always threw himself entirely into the activity at hand."
+    },
+    {
+      "timestamp": "00:01:54",
+      "text": "In whatever he did, he tried to excel. His powers of persuasion were legendary. He inspired in nearly everyone whom he encountered a sense that the future had no limits, and that together they could, as he liked to say, go off and do something wonderful. He was like the Pied Piper. If Bob wanted you to do something, you did it. His was not a simple personality."
+    },
+    {
+      "timestamp": "00:02:21",
+      "text": "He was a small-town boy suspicious of large bureaucracies, yet he built two companies that between them employed tens of thousands of people. He was a preacher's son who rejected organized religion, an outstanding athlete who chain-smoked, and an intensely competitive man who was greatly concerned that people like him. His favorite ski jacket featured a patch that declared, no guts, no glory. And it was a fitting motto for a man who flew his own airplanes and chartered helicopters to drop him off on mountaintops so he could ski down through the trees. He was worth tens of millions and owned several planes and houses, but nonetheless somehow maintained a just folks sort of charm. Warren Buffett,"
+    },
+    {
+      "timestamp": "00:03:07",
+      "text": "who served on a college board with Noyce for several years, said everybody liked Bob. He was an extraordinary smart guy who didn't need to let you know he was that smart. He could be your neighbor, but he had lots of machinery in his head. His mother described him best when she said that he liked to do a lot of things and do them well. That was an excerpt from the book that I'm going to talk to you about today, which is The Man Behind the Microchip, Robert Noyce and the Invention of Silicon Valley, and it was written by Leslie Berlin. Okay, so all the way back on Founders number eight, I read the book The Intel Trinity and focused mainly on Bob Noyce. And I discovered Bob Noyce by reading a biography of Steve Jobs."
+    },
+    {
+      "timestamp": "00:03:50",
+      "text": "And Steve Jobs talks about at length how important and how important Bob Noyce was as a mentor and how much he learned from him. So that's how I found that book. Now, I think it's another great time to dedicate an entire podcast to Bob Noyce because last week and I consider this part two from last week's podcast, okay? And William Shockley and Bob Noyce both worked in the same industry. Bob Noyce used to work for William Shockley. Let's say they even have the same level of intelligence and similar skills. Yet why was William Shockley at the end of his life such a failure that his wife couldn't even have a funeral for him because no one would go. And yet Bob Noyce had thousands of people at his funeral, wind up achieving all the dreams of starting companies and directing technology and building wealth that William Shockley had, but failed to achieve. So I think of William Shockley as a perfect example of what not to do."
+    },
+    {
+      "timestamp": "00:04:41",
+      "text": "And Bob Noyce is a perfect example of what to do. And so the good way to think about Bob Noyce is he's the anti-Shockley. And that term will come up several times today. I want to go right into the beginning of his early life, though. I was reading over the highlights that I had just now, and I was surprised, not surprised, but I think the part of this book that I found most interesting was actually his time at Fairchild Semiconductor. He's in his early 30s, and it's because we see him struggle with self-doubt and how he overcame that and not let that get in the way of actually building what winds up being one of the fastest growing companies in the history of American business, which is Fairchild Semiconductor. And then not only be able to do that, but to do it twice and do it again when he's in his 40s and do it with intel that I found very interesting. So first, before I get there, let me tell you a little bit about his personality and his early childhood."
+    },
+    {
+      "timestamp": "00:05:33",
+      "text": "So he was competitive from day one. He's very charismatic, very soft spoken. You heard Warren Buffett say, you know, he's very he didn't even you knew he was intelligent by talking to him, but he did not show it to you. He wasn't aggressive in any means. But that did not mean that he did not have an internal desire, a very strong desire within him to be the best at whatever he was doing. So this is Bob Noyce's earliest childhood memory involves beating his father at ping pong and feeling absolutely devastated when his mother's reaction to this was, hey, wasn't that nice that daddy let you win? Even at age five, Noyce was offended by the notion of intentionally losing at anything. That's not the game, he said. If you're going to play, you play to win. And one of, I think, the early motivating factors for Robert Noyce is why not only was he driven as a young boy, but he grew up during the Depression. And the Depression was"
+    },
+    {
+      "timestamp": "00:06:23",
+      "text": "having a devastating effect to his family's finances. His father is a minister. Bob, at this point, is just a little kid. And his father's name is Ralph. His Ralph's salary was once $2,400 a year, and it now plummeted. In 1934, he was paid only $1,200 a year, so he's already down 50%. It gets worse the next year. By mid-1935, the church was five months in arrears."
+    },
+    {
+      "timestamp": "00:06:46",
+      "text": "So now he's not even getting paid. Often he was given a wagon load of corn cobs or ham in lieu of pay. And this causes his dad to have to find other means of employment. He was they had four boys. He was there constantly when the kids were little. But because he needed to find a new job, now he's got to travel all over the country. And in his father's absence, he starts to have this early rebellious, like misfit streak. So it says in a single year, Ralph had to drive more than 25,000 miles of twisting rural roads and addressed 110 different audiences. His boys felt lucky if he made it home for Sunday dinner once every six weeks. His mother called these years mothering with a daddy on the road. And this is where we"
+    },
+    {
+      "timestamp": "00:07:31",
+      "text": "start to see that he starts, he gets into this early misfit behavior. Harriet, that's his mom, had her hands full. We called a neighbor. These boys, especially Bob, were into devilment. What a great word, by the way. Bob started smoking cigarettes, and he and his friends enjoyed tipping over outhouses on nearby farms. So this rebellious streak that he's exhibiting when he's a young boy, he brings with him to college. And he talks about one of the most important lessons that he learned was in college, he winds up stealing, him and a group of his fellow classmates"
+    },
+    {
+      "timestamp": "00:08:05",
+      "text": "of college. They wind up stealing as a prank, stealing a pig from a farmer. And he's going to this college called Grinnell. It's in a tiny, tiny little town. And Bob had the bad luck that the person he stole, the farmer that he stole the pig from winds up being the mayor of the town and wants to press charges. And he becomes very close to being expelled from college and at that time if you got expelled from one college other colleges wouldn't accept you uh so he talks about how being so close to his entire life because he what he was passionate about was studying physics to being derailed by one stupid mistake which is the lesson he took away it's like one bad decision can ruin your life uh we're not there yet, but this is how a friend of his in high school"
+    },
+    {
+      "timestamp": "00:08:47",
+      "text": "described Bob when he was in high school. It seemed like he was always in a hurry to get somewhere, and he got there. He starts taking college-level physics courses. And this is an insight into the brilliant mind that everybody said was very apparent when he got older, a sign that this was there even when he was a young person. And he meets probably the most important teacher that he ever has. And he winds up maintaining a relationship with this teacher for his entire life. And his teacher's always constantly, not only is he proud of Bob's achievements later on, but he's always checking"
+    },
+    {
+      "timestamp": "00:09:17",
+      "text": "up on him. In fact, when Bob goes to MIT, this teacher, his last name is Gail, was worried because he himself didn't have a PhD. He's like, maybe I was his teacher. Maybe I wasn't qualified. What if I sent him off to go from a tiny little town to now the quote-unquote big leagues in MIT? What if he's not ready? So that just gives you an insight. He winds up writing to the college and be like, please tell me, give me updates on Noyce's progress. This is somebody that cared deeply about teaching, cared deeply about the people,"
+    },
+    {
+      "timestamp": "00:09:48",
+      "text": "and I think I can't overstate that effect, the effect that knowing somebody that cares that much about you as a young person has. And Noyce never, he never forgets that, and he always tries to repay that. So anyways, we're not there yet. In his introductory course, Gale focused on demonstrating the relevance of physics to daily life. This is just a smart way to teach. He eschewed note-taking. He said that's what textbooks are for, in favor of real-life demonstrations."
+    },
+    {
+      "timestamp": "00:10:13",
+      "text": "And he did not make the demonstration theoretical. He tried to focus on practical knowledge. So he says, with what force did the snowballs he hurled against the side of a science building hit the bricks? Why did a skater spin faster when she pulled her arms to her side? Nice skater. Why could you fill a drinking straw with water, seal the top of your finger, and lift the straw without spilling the water? How could you prove your answers to these questions? His stock of aphorisms was legendary."
+    },
+    {
+      "timestamp": "00:10:46",
+      "text": "And this is advice he's giving a young Bob Noyce. Have the courage of your convictions, he would urge, a student hesitating to guess an answer. Be brave. When a student with real promise began to ramble, Gale would gently admonish, if you can't divine it in one sentence, you probably don't understand it. around this time his older brothers he felt he lived in their shadow they were extremely smart uh extremely accomplished and so he's he's hearing he's getting letters and he's hearing about everything they're accomplishing and the note left myself is man you're going to do so much more than this just wait and really the lesson to this this short paragraph is we really can't predict how far we're going to go what we'll experience"
+    },
+    {
+      "timestamp": "00:11:22",
+      "text": "if as long as we don't give up so it says he listened attentively to his brother's stories about his trip to New York City. Remember, this is a small town farm boy, right? He listened attentively to his brother's stories about his trip to New York City with the mixture of envy and insecurity. That was his typical response to any of his brother's accomplishments. He wrote to his parents. So he, meaning his brother, had seen this, has seen the Statue of Liberty. Wow. Someday I may get to as well. I hope. I'd better not stop dreaming. So even in that paragraph, we're seeing that little glimmer of insecurities, what the author described it as. Keep in mind that that was temporary. He did have a lot of confidence in himself. And I really feel this next paragraph is just a great mindset to adapt."
+    },
+    {
+      "timestamp": "00:12:07",
+      "text": "So this is Noyce was slowly gathering experiences that would anchor his adult approach to life, which is not so much an approach as a headlong rush into any challenge with the unshakable assumption that he would emerge not only successful, but triumphant. It was a risk for him to jump from his job in Philadelphia to go work, to move across the country to work with Shockley. When he realized Shockley's crazy and a terrible manager, it was a risk for him to try to jump to Fairchild Semiconductor, which he was one of the founders of. Then after realizing, hey, this has grown too much. I'm not enjoying the managerial part of this job. I want to go back to the beginning of working in the lab and actually building the technology. It was a risk for him to jump to Intel. And so we see this over and over again that, you know, there's many times in his life that he said, OK, maybe he said, oh, wait, that's, you know, that's too much bigger risk. I'm just going to stay here. I'm going to settle. And if you do"
+    },
+    {
+      "timestamp": "00:12:56",
+      "text": "that, you snuff out your own potential. So you've got to have this mindset. It's like, you know what? I may not have the skills yet, but guess what? I know how to learn. I can learn these mindsets. I can learn the skills I need to do whatever, to tackle any problem that's in front of me. And Bob has, through experience, he's got a lot of ideas that he's going to tell us about, like not only management, but just risk-taking, just the way he thinks. He's got a beautiful, beautiful mind. As much as I hate Shockley, and Shockley may have been the most distasteful person I've ever, out of all the, you know, 160 something biographies I've read for the podcast,"
+    },
+    {
+      "timestamp": "00:13:28",
+      "text": "Shockley's probably the one I dislike the most. On the other end of the spectrum, like I really do admire Noyce. He's not perfect. He's going to make a lot of mistakes with his family, which he talks about and he advises younger entrepreneurs not to. But he's extremely likable and intelligent person. And I think my life's better by reading his biography and by learning of his existence. All right, we're not there yet, though. This is his father's description of Bob, which is a perfect way to describe him. Bob thrived on adrenaline and gasoline. Now, while he's in college, he packs his days and he does this for the rest of his life. He packs his days full of interesting things. He's not the kind of person that's just going to sit around and loaf around."
+    },
+    {
+      "timestamp": "00:14:06",
+      "text": "And something he did in addition to his rigorous physics course load is he got interested in diving. And so he wound up competing in diving. And this is where what he's doing here before diving competitions is, I think, a good idea to to apply to whatever goal that you happen to have right in front of you. And that's envisioning"
+    },
+    {
+      "timestamp": "00:14:30",
+      "text": "yourself at the next level. And it says every night before he fell asleep, Noyce would mentally rehearse each of his dives in slow motion until he could see himself executing them perfectly. He called this habit envisioning myself at the next level, and he carried it with him throughout Now, when I read that, there's a lot of ideas that are expressed by different people through different times in history that maybe not even knew each other. Right. But they have different ways of saying similar ideas. And when I read what he's talking, what Bob Noyce is calling, envisioning myself at the next level, it made me think of this quote by Marc Andreessen,"
+    },
+    {
+      "timestamp": "00:15:13",
+      "text": "who is full of quotes. If you go back to Founders number 50, I read the P. Marka, his blog archive, which you could actually, if you Google, I think if you go back in the show notes of Founders 50, I included the link, because anybody can download this for free. I think it's like 200 and something pages. I highly recommend reading it and obviously listening to the podcast I did on it because Mark's a really brilliant guy, but he's also got great quotes and aphorisms that he's just got a"
+    },
+    {
+      "timestamp": "00:15:37",
+      "text": "great way to communicate that stick with you forever. I haven't read it in what, two years, something like that, and I always think about it it so when Bob is talking about envisioning yourself at the next level this is I feel a similar idea and it's Mark Andreessen's idea about how malleable the that the world around us is that we may not even know that so he says the world is a very malleable place if you know what you want and you go for it with maximum energy and drive and passion the world will often reconfigure itself around you much more quickly and easily than you would think. Bob is doing the same thing. He's just doing it in his mind. He's going after this with energy, drive, passion."
+    },
+    {
+      "timestamp": "00:16:15",
+      "text": "And this is what I want the end goal is. I want the world to reconfigure around me. So I'm executing these dives perfectly. He also applies this to he invents the integrated circuit the founding of his two companies the uh he any kind of skill he wants to learn how to be a pilot he winds up learning how to fly jets and it's this whole thing is just like putting all your focus and energy into what do i want my life to be you're not a bystander you're the main character act like it uh noise was fascinated by the transistor this is where he comes to idolize Shockley before he meets him, because Shockley, of"
+    },
+    {
+      "timestamp": "00:16:48",
+      "text": "course, invented the transistor. Well, that's debatable, but he was at least on the team that invented the transistor, okay? So he's, Bob's young. He's 21 years old when he first hears about the transistor, but he immediately grabs him. And it says, it is impressive that Noyce at 21 was able to understand the Bell Labs report describing these events. They're talking about, obviously, we know from last week that the transistor was invented within Bell Labs."
+    },
+    {
+      "timestamp": "00:17:10",
+      "text": "It says the report had been written by Ph.D. scientists for senior electronic researchers, not for undergraduates. Yet Gail, going back to his the most important teacher in his life, yet Gail insists that when it came to trans transistors it would be a gross overstatement to suggest that i taught bob much we learned about them together that that makes me think of uh bill gates when we read the book the hard drive i think was founders number 140 and he bill was like what is eighth grade ninth grade something like that when he discovers computers at lakeside and his teacher says something that's hilarious he's like i knew more about computers than bill gates on the first day but not after that because he just said bill just stayed in there and absorbed all the information he possibly could so it was funny to see the echo here between gail and noise the information that noise absorbed about the"
+    },
+    {
+      "timestamp": "00:17:57",
+      "text": "transistor in his last months at grinnell inspired him noise graduated a double major in math and physics he also received an honor from his classmates. This was hilarious. The Brown Derby Prize, which recognized the senior man who earned the best grades with the least amount of work. That's not the funny part. The funny part is how he describes that to his parents. Or as Noyce preferred to explain to his parents, the recipient was the man who got the best returns on his time spent studying. Okay, so at this point, Bob goes off and he's at MIT. He's doing his graduate work."
+    },
+    {
+      "timestamp": "00:18:28",
+      "text": "He's studying physics. And he goes and visits his brother again. And he leaves that meeting. And he's depressed. And he's insecure. He doubts the path of his life, the direction of his life. And the reason I include this is because, one, I think most people would be surprised. It's in almost every single book that we study here. Um, so that tells you like everybody goes through this. A"
+    },
+    {
+      "timestamp": "00:18:48",
+      "text": "lot of people go through this, they, they get scared of that feeling and they quit or they stop or they go to comfort, but that's not the right move. You got to push through it. Just like, okay, this is normal. Everybody's going to feel this. It's temporary. I may feel like this for a few days, maybe a few weeks, whatever it is, but I'm going to keep going forward. Um, I always think about what using Bill Gates, another example, you know, he's very cocky when he's younger. He's like, I'm, I'll be a millionaire by 30. He winds up under, he was worth like 350 million by the time he was 30. So he's rather wrong about that. He says, I'll be a millionaire by 30. I just don't know how. But then he also talks about having periods of intense doubt where he, I think the"
+    },
+    {
+      "timestamp": "00:19:22",
+      "text": "quote was, he was a philosophically depressed guy, just laying about not knowing the direction of his life. More recently, Dr. Seuss goes to dinner with friends after college. And he's like, what is going on? I'm the only one out of my college group of friends that doesn't know what he's doing in his life. And so this is what Noyce is happening to Noyce. So again, when you feel like this, just remind yourself it's normal and just keep pushing. His own life struck him as so bleak that for one of the few times in his life bob noyce openly questioned what he was doing the whole of the visit to my brother served to point out to me how misdirected i am and think about how absurd he is he's studying he's in graduate school at mit like you're you're doing okay man don't worry about it but again our mind can play tricks on us"
+    },
+    {
+      "timestamp": "00:20:02",
+      "text": "these people have some worthwhile goals in life. It doesn't seem to me that I have. And now we got to the part. My note on this is very simple. Reading this made me happy. This guy cares about noise. And this is, again, invaluable to us. At the end of Noyce's first year of graduate school, Nathaniel Frank, that's somebody at MIT, replied to Gale's letter requesting information about Noyce's performance. Mr. Noyce has been an outstanding student in all respects. We are sufficiently impressed with his potential that we have nominated him for a fellowship in physics for the next academic year,"
+    },
+    {
+      "timestamp": "00:20:32",
+      "text": "and he has received this fellowship. You are to be congratulated on the excellence of the training which he has had, and we look forward to an outstanding performance by Mr. Noyce. Grant Gale kept this letter for the rest of his life. So it's around this time that Noyce develops his lifelong love of skiing. And this is how Noyce learned to ski. But really, that's not the point. The point I'm bringing this to your attention is because everything he does is like this. Remember, his nickname was Rapid Robert. So he's like, OK, I'm not going to start on the bunny slopes. I'm going to go right to the hard part, and I'm going to put myself in uncomfortable positions and force myself to learn."
+    },
+    {
+      "timestamp": "00:21:07",
+      "text": "Noyce apparently started on the intermediate runs, on the assumptions that since she would end up there soon enough, why not just skip the bunny slopes and aim high? This is how his brother described it this time. Bob was not the type to slow down for much of anything. Now, it was interesting to me at this point, Bob is going to describe one of his professors. And this is a first example of him being the anti Shockley. Noyce was interested in other people. Shockley was not. Noyce, who had a profound distrust of people, he thought overly he had a he had a profound distrust of people he thought overly cerebral. He once described his professor's mind as perverted, too much wrapped up in his own field"
+    },
+    {
+      "timestamp": "00:21:46",
+      "text": "and closed to anything else. He would sit in silence rather than talk about anything but math. Go back to the story of Shockley, which I found one of the most disgusting things he ever did. He's got an adult son. His son buys a magazine because he knows his father likes electronics and physics. They're in New York and he's talking to him about it on the first day. The second day, he's like, okay, well, I've had enough about physics. Can we go? Let's go drink a beer, Dad. Let's go watch a movie. Let's go do some father and son bonding. And Shockley's response is, I like to teach physics."
+    },
+    {
+      "timestamp": "00:22:17",
+      "text": "If you want to learn physics, I'll stay. If not, I'm going back to California. Leaves the next day and never speaks to his son again. Terrible person. This is Noyce at 28 years old. He's graduated. He took a job at this company called Philco. And remember this part, at 28, now in five years, his life is not going to be like this. At 20 years old, it says in August 1955, Noyce noted, my current assets are, I have household furnishings for an apartment. I have a car valued at $700. I have $300 in the bank."
+    },
+    {
+      "timestamp": "00:22:46",
+      "text": "I have stocks about $650, and I have a $20,000 life insurance policy. My current liabilities, other than household running expenses of about $400, are debts to the extent of $500. My wife and children live with me and are wholly dependent on me for their support. Remember, that's him at 28. Essentially, he doesn't have much. His net worth is very close to zero. He does have a job, and he is supporting his two, I think he's got one child and a baby on the way,"
+    },
+    {
+      "timestamp": "00:23:13",
+      "text": "and then he's married as well at times. And this is where his life starts to intersect with Shockley. So it says on January 19, 1956, Noyce answered his telephone. The man at the other end of the line greeted him with two words. Shockley here. William Shockley, the inventor of the transistor, assumed Noyce knew who he was and he was right. It was like picking up the phone and talking to God, Noyce recalled later. He wanted Noyce to work for him in California. So we obviously know he picks up off the East Coast, moves his entire family against his wife's wishes, by the way. Her family's from New England. She wanted to stay in that area. And he takes this giant risk. It's like, hey, entire family at the against his wife's wishes by the way uh her family's from uh new england she"
+    },
+    {
+      "timestamp": "00:23:45",
+      "text": "wanted to stay in that area and he takes this giant risk it's like hey this guy is the most important person in the transistor field this is what i'm passionate about i have to pursue this opportunity and this is where we're really going to dig into uh the difference between shockley and noise this is a description of shockley's management style he made it clear to his young team that he would assign them to projects of his choosing to be done as he directed. Shockley's view was that unless your thoughts were better than his, you have to do it his way. So I didn't know this. I don't think I knew how close"
+    },
+    {
+      "timestamp": "00:24:18",
+      "text": "Shockley and Noyce were. Noyce was essentially Shockley's right-hand man, even though he's much older than noice while they're working a shockley semiconductor noice becomes the de facto leader and the problem is shockley's deficient on a trait that noice has an abundance and that's charisma and so it says many of noice's peers felt they learned more from him him than they did from shockley shockley strongly adhered to the belief that in almost every aspect of life, there should be what but one winner. And he wanted to be it. So this is what they talked to us like. It's very bizarre that you're you're competing with your own team."
+    },
+    {
+      "timestamp": "00:24:52",
+      "text": "You're going to alienate them if you do that. This is a great way to think about Shockley's the culture under Shockley. And again, this is going to be the exact opposite for the companies that Noyce builds. Shockley's behavior deteriorated to the point that the lab came to resemble a big psychiatric institute. So Shockley's company lasts less than a year and a half. I covered that last week, so I'm not going to I'm going to skip ahead to where Noyce finally makes a decision to jump. This is his financial situation at the beginning of Fairchild Semiconductor. Noyce had had no savings this proved to be a problem when arthur rock and bud coil these are the people helping him uh launch fairchild semiconductor i also went into last week uh told the group of"
+    },
+    {
+      "timestamp": "00:25:32",
+      "text": "eight that they needed that they each needed to pay five hundred dollars for an ownership stake in the new company noice asked his parents to inquire if his grandmother the only member of his family with any financial reserves could lend him the money. He promised to repay her with interest. And think about that. So not only do they not have an abundance of money, right? But this is truly remarkable when you think about, I mean, you can't have a lot of experience in the transistor industry. They didn't have that. That's my point. Because it's a brand new industry. So it says, before joining Shockley, the group of eight had between them three years of transistor experience and that's the part they knew the product what they were going to do they were going to build transistors they had three years of transistor experience and"
+    },
+    {
+      "timestamp": "00:26:12",
+      "text": "all that experience resided in bob noyce none of them uh at the time transistors were made out of geranium i think it's how you pronounce it and they had the idea hey silicon silicon silicon uh as much is a better better route to take here. So it says none of them have ever had ever worked with silicon. After less than 18 months with Shockley, however, the eight were sufficiently competent to start a company that within the space of a decade. This is the punchline here that within a space of a decade sold hundreds of millions of dollars of silicon semiconductor devices. And let me quote Marc andreessen if you don't mind again one of my favorite quotes of his i'm a firm believer that most people who do great"
+    },
+    {
+      "timestamp": "00:26:51",
+      "text": "things are doing them for the first time they had no money no experience brand new industry and after 18 months of shockley because i hit this the wrong way within a decade they're going to sell hundreds of millions of dollars of this brand new device. This is actually a great summary of what happened to Shockley and why, again, I find him so disgusting of a person. In 1963, Shockley left industry to join the faculty at Stanford, where he taught for the next two decades. As he aged, bitterness and paranoia came to dominate his once brilliant mind. He became an outspoken eugenicist who donated. This is come on, man. Who are we dealing with here? He became an outspoken eugenicist who donated his sperm"
+    },
+    {
+      "timestamp": "00:27:30",
+      "text": "with the stipulation it be supplied only to women who were members of Mensa. So I forgot. That's also in last week's book. There's a chapter on there's a guy that thought similar. Shockley. It's like we have to save the human race by only letting smart people reproduce. We need to not euthanize. That's the wrong word. We need to make sure that essentially dumber people can't out-produce, make more children than smarter people. And so the guy, I think, that started the sperm bank wound up siring like 200-something children. So anyway, it was just another bizarre thought by Shockley."
+    },
+    {
+      "timestamp": "00:28:08",
+      "text": "So anyways, you know, donating my sperm with this stipulation and only be a supply to women who were of Mensa. While his protege achieved his goal of earning millions of dollars and seeing their names in the business press, Shockley rarely left his Stanford home where he wrote articles on the intellectual inferiority of blacks to whites and the need to institute birth control measures. This is what I was trying to say for people with low IQ scores. Small wonder Shockley had been called the Moses of Silicon Valley. He brought people to the promised land, but he himself was denied entrance. OK, so let's go back to noise. This is another thing that's really important. So the traitorous eight, as the people that left Shockley Semiconductor and founded Fairchild Semiconductor, were called the traitorous eight. They de facto thought of Bob, even though they were equal founders, as the leader. Now, he is unsure. He wants to do scientific"
+    },
+    {
+      "timestamp": "00:29:00",
+      "text": "work. He does not want to be a leader of people. doesn't he's unsure if he can manage so this is an example of i don't i think i have the skills i'm unsure but i'm going to go ahead anyways which is really important noice was tempted but he feared him ill prepared to oversee an entire company moreover the prospect of having the final say over the many employees he could one he could imagine one day working for fairchild semiconductor frightened himctor frightened him. He is scared. He's insecure. He goes forward anyway. And so something Noyce was also a fan of. He wasn't. He was the anti-Shokley because Shokley wanted hierarchy. And, you know, all the ideas come from me, genius Shokley, and you guys do the work. Noyce, he didn't want any hierarchy. This is something he keeps for his entire life."
+    },
+    {
+      "timestamp": "00:29:40",
+      "text": "And normally when the company grows to a size where hierarchies may be necessary, he usually becomes disinterested or transitions or promotes somebody else that can actually enforce that and manage the people. But in the early days of Fairchild, the hierarchy was flat. This reminded me of Microsoft. If you read the book Hard Drive, Founders number 140, if you haven't, it's the first 30. No, it's not the first 30. It's the history of Microsoft up until the IPO, which is, I thought, the most interesting part. But what I was surprised to learn when I read that book is Microsoft had a similar flat hierarchy. For their first 30 employees, it was Bill, who was essentially"
+    },
+    {
+      "timestamp": "00:30:14",
+      "text": "the head guy and salesperson, which was surprising. Bill, a secretary and 28 programmers. We see a very similar arrangement in the early days of Fairchild Semiconductor. For their founders, it was a very egalitarian arrangement. That's still not, you know the word. Noyce was the technical head of the lab, and that was it for organizational structure. The rest of us were pretty much on equal footing. Everybody wore as many hats as possible. And this is what many people believe the best years of their life. And we see this over and over again, the very beginning of something, when it's small, when you know everybody. Eventually, you know, you have a lot of success. It grows. And then once the company grows, you know, people look back ruefully like, wow, I missed a good old date."
+    },
+    {
+      "timestamp": "00:30:58",
+      "text": "So this is them having the time of their lives. The rapport of the eight of the eight men, the rapport that the eight men shared was dynamic. They worked together 10 or 12 hours a day, not counting the trips to the bar where they like to go for drinks in the evening. They often found themselves standing in a circle when they were together, their shoulders nearly touching each man holding one conversation with the man on his left and a different one with the man on his right. Noyce loved these moments, loved the buzz of talk and the smell of cigarettes, many of them held between their lips. A formal photo from the founding period hit hints at this rapport."
+    },
+    {
+      "timestamp": "00:31:30",
+      "text": "The eight founders sit around a table. They are seated in a circle with Noyce, as always, front and center. Every man wears a smile big enough to be called a grin. They are clearly having the times of their lives okay now here we get to a idea uh you can read between the lines of what noise is doing and really the the lesson here is you should do what you're good at and outsource the rest they're brutally methodical labor of science that is the careful working and recording of one's way through experiment after experiment each one only slightly different from the iteration that preceded it interested noise far less than the moments when a new idea came to him. At his core,"
+    },
+    {
+      "timestamp": "00:32:10",
+      "text": "Noyce was an almost compulsive idea generator, a mental perpetual motion machine. Thomas Edison famously declared genius to be 99% perspiration and 1% inspiration but noise preferred to spend as much time as possible in the inspiration stage but he's also smart later on when he leaves fairchild semiconductor he decides uh him and gordon moore and gordon moore is famous in his own right of course now he's a founder co-founder fairchild intel just like noise but he's also the inventor of moore's law um he says hey i don't want to be at head at the head anymore. So me and you, Gordon, are going to run the company together. And then eventually they have to bring in Andy Grove and realize, hey, he's the one that actually is many people credit with the growth after the founding of Intel with the actual growth of Intel into the giant company it became because"
+    },
+    {
+      "timestamp": "00:32:59",
+      "text": "he's the administrator. He's the one that can manage and push the ideas. He's the 99 percent perspiration guy, if you want to think about it in terms of Edison's famous quote. This is Noyce's approach to inventing. His approach, Noyce once told a friend, was to know the science cold and then forget about it. He did not slog or grind his way to ideas. He felt they just came to him. When he heard, this is such a great line, when he heard Picasso's famous line about artistic creativity, I do not seek, I find, Noyce said that he invented the same way. Think about this next paragraph as a good prompt for your thinking."
+    },
+    {
+      "timestamp": "00:33:38",
+      "text": "In Noyce's opinion, there were only two relevant questions in the earliest stages of scientific innovation. And I don't think that this applies to more than just scientific innovation. One, why won't this work? And two, what fundamental laws will it violate? If an idea seen within the realm of physical possibility, then, I almost called him Royce, then Noyce deemed it worthy of exploration. Conventional wisdom on the topic be damned. This is more on how Noyce worked, and it is very similar. If you've listened to the two podcasts I've done on Edison, I have another biography of Edison that'll be coming next few weeks, maybe next few months. This echoes Edison, though. The Fairchild researchers did not"
+    },
+    {
+      "timestamp": "00:34:17",
+      "text": "understand precisely why this innovation worked. I've omitted what they're working on because it's not important. Here's the main lesson. In an academic environment, this question would have been paramount. We want to know why it works, right? At Fairchild Semiconductor, why something work was far less important than the fact that it did. In a newborn company with only one customer of any significance, this is IBM at the time, pursuing science for its own sake was an ill-afforded luxury. don't they don't have giant resources they will one day but they don't at this stage you can't do that thus early research in a fairchild semiconductor was almost all process oriented with building a sellable product the fundamental goal if you studied edison you know that's exactly that he could have said that it's exactly how he went"
+    },
+    {
+      "timestamp": "00:34:58",
+      "text": "about it noice believed that the only thing that's technologically exciting is something that has a need for it another way ed Edison could have easily said that. For some reason, when I read this section, it made me think of, I've told you before, I have all these quotes in this folder on my phone that I just go through and they spur thoughts, right? And one of it was a tweet, and it says, Business is like nature. It doesn't care if you arrive at the right answer from the wrong reasoning."
+    },
+    {
+      "timestamp": "00:35:24",
+      "text": "Evolution demands survival. It doesn't ask you to show your work. This is more on how Noyce worked. He talks about, you know, there's not like, it's not like, I don't have a eureka moment. It's all iterative. I don't have any recollection of a boom. There it is, the light bulb going off, Noyce later said of his ideas. Instead, he conceived of the integrated circuit in an iterative method. I thought, let's see if we could do this. OK, we can do that. If we can do that, then we can do this. It was a logical sequence."
+    },
+    {
+      "timestamp": "00:35:55",
+      "text": "If I hit a wall, I'd back up and then find a path conceptually all the way through to the end. Once you have that path, you can come back and start refining. Thinking in little, this is the main point, his punchline right here, thinking in little steps will take you there. Now this is more on the anti-shock. It's funny in my notes throughout the entire book, I'm constantly writing down anti-shockly, anti-shockly, anti-shockly. And then later on, the author, Leslie, actually actually used that term so i felt a little bit of vindication there he had not changed his managerial approach since his days at shockley he still displayed the same tendencies to make suggestions this is again how smart are you if you don't"
+    },
+    {
+      "timestamp": "00:36:35",
+      "text": "understand that if you were going to accomplish anything great you're gonna have to work with other people so that means you have to learn the people skills right go back to the very end of the book i don't know when i did it. Maybe in the 30s. Ed Catmull, co-founder of Pixar, wrote this great book, Creativity, Inc. He's the person that worked the longest with Steve Jobs. At the end of that book, he has an entire epilogue chapter called The Steve We Knew. And it talks about this common perception that Steve was just this infant dictator or something like that. When you hear descriptions, yes, Steve could be a jerk a jerk and ass whatever you want to call it of course but a lot of the stories you hear is from when he was younger he's like when we saw him grow in the"
+    },
+    {
+      "timestamp": "00:37:13",
+      "text": "26 years that i worked with steve jobs he didn't have people skills when he was younger he got kicked out of apple because he didn't have people skills but he learned them he matured as he got older and so that's why i have so much beef with shockley it's because like how smart are you really if you never actually learn that you have to deal with people bob noyce was gifted had a gifted way with people his entire life steve jobs did not he had to learn how to do that all right so it says um he's and this is again more about the just things i want to to copy about. He had not changed his managerial approach since his days at Shockley. He still displayed the same tendency to make suggestions."
+    },
+    {
+      "timestamp": "00:37:49",
+      "text": "So he'd say, why don't you try or have you considered rather than issue commands, which is what Shockley did. He led the weekly lab meeting, but to outward appearances, the meetings ran themselves. Bob reviewed monthly progress reports for each of his half dozen research groups and determined which innovations were sufficiently novel and potentially lucrative enough to merit his attorney's fees and hours of work necessary to patent them. But he did all of this in such close consultation with his subordinates that they felt they worked with him, not for him. There's many examples of the same thing, the same idea in the book. Noyce believed that people given enough freedom will choose to do the right thing. This is more ideas on management and more anti-Schockley. Noyce was a very good supervisor of technical people, precisely because he was casual and didn't"
+    },
+    {
+      "timestamp": "00:38:36",
+      "text": "interfere with his researchers' work. Creative freedom and collaboration, which proved crucial to the young company's technical success, blossomed under Noyce's laissez-faire management of the lab. We're still in the Fairchild Semiconductor days, but he does the same thing at Intel. So as the company starts growing, it's one of the fastest companies ever in American business. And so the people that own the company, because remember, it's a small company within a larger company of Sherman Fairchild's empire. They're like they keep pushing Bob, like Bob come more into the management aspect. And again, he's reluctant to move into the executive side of things. It was with a great deal of a fear of inadequacy. Listen to the words that he's using"
+    },
+    {
+      "timestamp": "00:39:14",
+      "text": "there. It was a, with a great deal of fear of inadequacy that I got into an administrative role. So much fear, in fact, that he would agree only to a six month trial run as a general manager. They're trying to promote him. He's like, no, stop. I don't want to do this. Okay, I'll do it. But for six months, after which he planned to return to the lab, he does not return to the lab. More anti-shockley. And it's a powerful idea. I'm really, it's an illustrate. Last week was an illustration of this idea you and I talked about over and over again. Learn how to do something by seeing it done the wrong way. Study, I think it was chapter nine in that book. I think the title is Peculiar Ideas of Managing People or Motivating People. I don't have it in front of"
+    },
+    {
+      "timestamp": "00:39:55",
+      "text": "me, but if you listened to last week, you know what it is. Read that chapter and then do the opposite. It's very powerful. Noyce's top objective was to keep fairchild from becoming shockley semiconductor labs a place he called the model of what not to do noise explained how he loathed shockley's mind games his top-down approach to management and his habit of playing one employee off another above all noise wanted to lead not through command and control methods but by inspiring the voluntary cooperation of motivated people uh So within, remember, I asked you to think about his financial situation and the state of his life at 28. This is at 33."
+    },
+    {
+      "timestamp": "00:40:31",
+      "text": "Because Shockley had this, not Shockley, Sherman Fairchild had this stipulation in the contract that says, hey, if things are going well, I can buy out the founders and own 100% of this company that I'm kind of incubating. And they do that. So remember, he couldn't, he had to borrow 500 bucks from his grandmother to start the company winds up selling partial interest to like, like $300,000. This happens within the first three years. So it says at 33, noise now had more money than he or anyone else in his family had ever possessed."
+    },
+    {
+      "timestamp": "00:41:01",
+      "text": "More money than he could ever imagine spending. It's funny that he thought about that at that age uh and no real failures uh and no real failures to make him caution so again a lot can change in five years uh just some random ideas that i thought was really interesting and something that really his main point here absent the religious part is what founders is all about it's a celebration of unique individuals and the power that one person can have. Noyce did not talk much about religion, even though he was a minister's son, though he did on one occasion point out that the on. This is such a unique way. I've never heard this described Christianity described like this, though he did on one occasion point out the entrepreneurial and motivational messages latent in the Christmas story, which he appreciated as a reminder that one event or one man can substantially change the course of history. Going back more to this idea about being the anti-Shokley, people love Noyce. That's why he was able to, because of the way he treated them, he got more out of them, right? Noyce once said that the job of the manager is an enabling, not a directive job."
+    },
+    {
+      "timestamp": "00:42:08",
+      "text": "He says it's to enable them. Isn't that interesting? Coaching and not direction is the first quality of leadership. These are all quotes from Noyce. Get the barriers out of the way to let people do things they do well. He had adopted this approach when he ran the lab, and as general manager, he continued it. He wrote personal, and this is the main point of why I'm telling you this section. He wrote personal notes to researchers whose work impressed him."
+    },
+    {
+      "timestamp": "00:42:32",
+      "text": "He poked his head into employees offices to thank them for their work and said it sincerely enough that one man so complex complimented compared the experience to a hundred percent raise yes money motivates people absolutely but noise understood humans on a fundamental level being valued part being realizing that what you do is value to the people you work with is more meaningful that doesn't mean you skimp on the pay it just means that humans over the long term, there's a diminishing return on finances, right? There's not a diminishing return on appreciation. Another lesson here. If you hired smart people, why are you not listening to them? This is more anti-shockley behavior."
+    },
+    {
+      "timestamp": "00:43:13",
+      "text": "Noyce would wander through the main semiconductor building, admiring aloud the family photos that employees had on their desks. He would stop to talk to anyone about anything and knew many details of his employees personal lives noice like to gather a group of informed people in a room listen to their opinions and ideally get a broad acceptance on the next steps before he made a decision he talks about like the direction your company should be directed by the people are most knowledgeable not just the senior people it's not high art he says it's not an issue of hierarchy it's an issue of knowledge. One of my favorite quotes from Edwin Land. Obviously, I've done five podcasts on Edwin Land. I still make the argument he's one of the most important entrepreneurs in history, even though he would describe himself as a scientist,"
+    },
+    {
+      "timestamp": "00:43:55",
+      "text": "not an entrepreneur. He says, optimism is a moral duty. I'm attracted to optimism and passion, and I don't think I'm alone in that. And it's an example of that. Uh, he, um, noise had both optimism, uh, and passion. He says, well, he would start meetings or an interaction with somebody who says, Hey, what's new and exciting today. Noise forever look to the future and its technical promise in 1965, for example, this is crazy because in 1965, he's, he's predicting the world that we live in now, right? In 1965, for example, this is crazy because in 1965, he's predicting the world that we live in now, right? In 1965, for example, he told a gathering of financial analysts that he expected one day to see integrated circuits inside of portable telephones, personal paging systems, and palm-sized TVs. That's a smartphone. Noyce's focus on the future and innovation appealed to the creative instincts of many Fairchild semiconductor employees and permeated"
+    },
+    {
+      "timestamp": "00:44:45",
+      "text": "the company. In the mid-1960s, Fairchild Semiconductor was not a typical semiconductor company. Andy Grove's already working with them. He's obviously going to go to Intel as well. He says, Andy Grove once described Fairchild as a strange little upstart, a phrase that captures the essence of the organization. Norris's unorthodox management style was just one innovation launched at Fairchild. In the lab, informal company policy allowed PhDs to play with their ideas for about a year before expecting results. If an idea appealed to a researcher, for whatever reason, he was free to pursue it. This rather loose definition of relevance led Fairchild's researchers to they developed one-sixth of all major integrated circuit innovations during the technology's first two decades. The best way, this is a quote from"
+    },
+    {
+      "timestamp": "00:45:31",
+      "text": "Noyce, the best way to get something done is to have enough confidence in yourself and your men to do it. Another advice, a young organization, especially in the electronics industry, has to be fast moving. Now, this is Noe subscribing to Time at Fairchild. We were a hard, young, hungry group. Our attitude was, we don't give a damn what money you have to offer, buddy. We're going to do it ourselves. And this is the result. By 1968, Fairchild employed some 4,000 people in 140,000 square feet of plant space outside the United States."
+    },
+    {
+      "timestamp": "00:46:08",
+      "text": "40 times more people and 11 times more building space than they had in five years. That's crazy. 40 times more people in five years, 11 times more space in five years. That's an example of the quote I always say. Again, quoting Marc Andreessen a lot today, a great market pulls the product out of you. He makes the counterintuitive assertion that most people think the team is most important. The product is most important. He says you can choose between product, team or market, which is most important for success. Marc's saying that market is most important. A great market pulls the product out of you."
+    },
+    {
+      "timestamp": "00:46:40",
+      "text": "More on the management culture that Noyce created. The management culture Noyce inspired provided rich sustenance for the young, bright, self-motivated types that a fair-trout semiconductor courted. For these men, fresh out of school and eager to make their mark, the freedom to do their jobs in a way that they believed best was a fantastic reward. To have Noyce, the head of the company, listen carefully to their ideas was exciting in itself. One of my favorite quotes out of any book that I read was this guy named Henry Kaiser. And he wound up finding over 100 companies, helped build the Hoover Dam. I'm currently listening to the audio book, and it'll eventually be a podcast on the Founders Postscript feed that Patrickrick collison of stripe uh recommended patrick collison's just crazy thinking i know he's just very anytime i hear him speak he's really unique thought thinker and so when he recommends a book i think it's a good idea that i should read it but anyways i'm"
+    },
+    {
+      "timestamp": "00:47:34",
+      "text": "into this book and there's a bunch of people that have already done podcasts on because it's about how did u.s industry cooperation between academia, industry, and government produce all the necessary material to help win World War II. And anyways, Kaiser's in this book. That's why I was thinking of him. But he says something that's fabulous. And he says, problems are just opportunities in work clothes. And so this is what I'm about to read you. I feel Noyce would agree with that sentiment."
+    },
+    {
+      "timestamp": "00:48:04",
+      "text": "So problem are just opportunities and workloads. What are you panicking for? As a manager, Noyce remained calm in the face of potential disasters that had others panicking. I remember we lost a process at the diode plant, said one employee. We simply lost it. I mean, like all of a sudden. It just didn't work anymore. I said to Bob, my God, this is terrifying."
+    },
+    {
+      "timestamp": "00:48:22",
+      "text": "Oh my God, oh my God, we're going to die. He said, oh no, we'll figure it out. He was completely relaxed about it. It was wonderful and calming to me. Noyce could also be brutally competitive. He repeatedly sought out Shockley, out the Shockley booth at an industry trade show so that he could tell his former boss,"
+    },
+    {
+      "timestamp": "00:48:40",
+      "text": "we at Fairchild Semiconductor are going to bury you. But for the people on his team this was an asset Noyce's greatest strength as a manager was that he gave people confidence in themselves partly this came from his undeniable evidence of his own success a technical man who made it big on the strength of raw intelligence and unusual ideas and this is one of his unusual ideas and I would I think many people, Gordon Moore, it's really who I'm stealing this sentiment from, would say it's one of Noyce's best ideas. All right. So it says, the selling of new ideas is really an engineering problem, Noyce once said. To him, it was obvious that despite their other purported concerns about"
+    },
+    {
+      "timestamp": "00:49:20",
+      "text": "the integrated circuit, customers' primary objective to the new technology was its cost, had not every other issue been handled. So we also see as he goes through, he's like, why aren't these selling yet? Okay. And he goes through like, these are all these other possible reasons that they're not selling. And then he eliminates them one by one and realizes, hey, it's the cost and this is what he does about it. A glitzier marketing program would not turn more customers to the integrated circuit. The buyers were extremely technically sophisticated. If their technical objections had been met and they were still not buying, the problem had to be the price tag."
+    },
+    {
+      "timestamp": "00:49:57",
+      "text": "Accordingly, Noyce made a little discussed but absolutely critical decision. Fairchild would sell its low-end integrated circuits for less than it would cost a customer to buy the individual components and connect them themselves. And, this is the important part, less than it was costing Fairchild to build the device. So you're going to sell something for less than it costs you to make. Why? Gordon Moore calls this move Bob's unheralded contribution to the semiconductor industry. Notice he did not say to Fairchild. He said to the entire industry. When a Fairchild distributor asked Noyce if combining the function of several transistors on one integrated circuit and then selling that integrated circuit"
+    },
+    {
+      "timestamp": "00:50:33",
+      "text": "for less than any one of the individual transistors was a sure path to corporate suicide, Noyce simply smiled in a way that made it clear he did not think so. In effect, Noyce was betting Fairchild's bottom line against two hunches. One, he suspected that if integrated circuits could make their way into the market, customers would prefer them to discrete components and would begin designing their products around his new device. Two, he also calculated that as Fairchild built more and more, experience curves and economies of scale would enable the company eventually to build the"
+    },
+    {
+      "timestamp": "00:51:13",
+      "text": "circuits for so little that it would be possible to make a profit even on the seemingly ridiculously low price. Gordon Moore, this is the most important part of the section, Gordon Moore has said that Noyce's decision to lower prices to stimulate demand so that the production volume could grow and the cost of production be decreased accordingly was as important an invention for the industry as the integrated circuit itself. It established a new technology for the semiconductor industry that holds true till today, Gordon explained. Whenever there's a problem, you lower the price. This was as revolutionary a concept to people within Fairchild as it was to their customers. So at this point, Fairchild is one of the fastest growing companies in the country."
+    },
+    {
+      "timestamp": "00:51:59",
+      "text": "And this is like the fifth time. How many times am I going to quote this guy? Another quote from Mark Andreessen that's in, I think it's in Ben Horowitz's book, The Hard Thing About Hard Things. Andreessen says what he likes most about startups is that in a startup, you only experience two emotions, euphoria and fear. He's also telling you that it's perfectly normal if you're feeling that way. For Noyce, the energy and growth were incredibly seductive. Piloting Fairchild through its acceleration, Noyce told a"
+    },
+    {
+      "timestamp": "00:52:25",
+      "text": "friend, was a bit like riding a fast horse. The same combination of exhilaration and fear. So he's using the words exhilaration and fear. Marc Andreessen is using euphoria and fear. Same idea. And teetering on the edge of losing control, but never quite doing so. Now what's interesting though, again, he's a very unique person, but nobody's perfect. He's experiencing simultaneous, unprecedented career success and an unhappy home life. His marriage, he's got a he's been married almost 20 years at this point and he's got four kids and his marriage is falling apart. Noyce was powerful, attractive and unhappy at home. He was a risk taker who believed in grabbing as much from life as he could."
+    },
+    {
+      "timestamp": "00:53:05",
+      "text": "And he was in regular contact with other women. He had casual affairs. Noyce knew that he was becoming a stranger to his own family. He said he envied people out in the machine shop who could go home at night and sleep with no concern. He was appalled to discover that the longer he stayed at Fairchild, the less he had any interest in doing anything except business. What are you as a person when that happens, he asked. Then he answered his own question."
+    },
+    {
+      "timestamp": "00:53:28",
+      "text": "You're nothing. And he goes through this for several years until he eventually gets divorced. He does wind up getting remarried, and he stays with his second wife until he dies. But this is something that he looks at as like a personal failure in his life, and you'll see based on the advice that he gives to other people later on. At this point in the story, I'm fast forwarding. He leaves Intel. And this is where another idea is. It's very smart to know your weaknesses. And this is why Andy Grove was so important at Intel. One thing I learned at Fairchild is that"
+    },
+    {
+      "timestamp": "00:53:58",
+      "text": "I don't run large organizations as well. I don't have the discipline to do that. I don't have the follow through. My interests and skills are in a different place. It's getting people together to do something, but that only works for me in a smaller group. So this is not only was Andy Grove important, but really he picked the best partner. And that's a really good idea. Him and Gordon Moore were in many respects, perfect complements of one another. And so this is a little bit about that. They had worked together productively for more than a decade, thanks to their remarkably complementary skills. Where Noyce saw the big picture, Moore could discern detail."
+    },
+    {
+      "timestamp": "00:54:30",
+      "text": "When Noyce had honed his abilities to construct strong connections between Fairchild and various outside constituencies the press, the board, customers, suppliers, and so on, Moore had become an expert leader within the company itself. Noyce rarely set foot in the lab after 1965, but Moore"
+    },
+    {
+      "timestamp": "00:54:47",
+      "text": "had an intensely loyal following in R&D. And so Moore was responsible for bringing Grove over. So you cannot understate the impact and the importance Moore was. Noyce gets all the attention, but Moore was very, very important to the success En success and so had and fairchild and for all the different uh and all their apparent differences excuse me noise and more shared one key trait a burning competitive desire to do something extraordinary well extraordinarily well this is andy grove on bob noise at the beginning because again this is no one's perfect and he's going to show us a lot of the traits that he felt Noyce was lacking in. Grove alone among the group planning to leave Fairchild with Noyce and Moore"
+    },
+    {
+      "timestamp": "00:55:30",
+      "text": "had serious doubts about its leadership. He did not like Bob Noyce. Grove, who had attended Noyce's staff meetings, was shocked to see how Noyce let people bite into each other like rabid dogs. Bob just sat there at his meetings. He wore a pained expression and a slight, somewhat inappropriate smile."
+    },
+    {
+      "timestamp": "00:56:05",
+      "text": "His look said either, children, would you please behave? Or I want to be anywhere but here. Noyce refused to take charge, irritated Grove, who, this is why I think is even if I really feel one of the best books I've read for the podcast is Andy Grove's memoir, Swimming Across. It only talks about the first 20 years of his life. And it's just a wonderfully, it's an unbelievable story and just wonderful writing. But we get a summary here. Grove, by the time he was 20 years old, had hidden in a cellar to elude the Nazis, fled the communist takeover of Hungary, and crossed the Atlantic to the United States, where a few years later, he graduated first in engineering class, despite having begun his coursework without knowing how to say horizontal or vertical in English. Grove had little respect for a man who, in his estimation, did not argue but just suffered. Now, here's something remarkable for you."
+    },
+    {
+      "timestamp": "00:56:34",
+      "text": "Even after all the success, he founded and piloted one of the fastest growing companies in America, in American history, right? He still has lingering doubts at the beginning of Intel. And here's what his mindset was. Several of the fair children, that's what everybody, so a bunch of people left Fairchild Semiconductor and started companies. They traced like 65, something like that. Companies direct from direct descendants of that one company. Several of the fair children had, had failed rather spectacularly. And Hoff, this is a guy that Noyce is trying to recruit, who's younger than him, and Hoff wanted to know why this venture would not follow suit."
+    },
+    {
+      "timestamp": "00:57:11",
+      "text": "Noyce had asked himself that same question. He had briefly wondered if he and Moore were too old. Noyce was 40 and Moore was 39 to start a company. Moreover, as much as Noyce longed to get close to advanced technology again, he was concerned that perhaps he had been away too long to jump back in the game. After a bit of thought, however, he decided that his and Moore's age, if reconsidered his experience, was an asset. As he put it, the semiconductor business hadn't existed longer than we had been in it. There wasn't anybody who knew the business better than we did. So he's raising money for Intel, which is relatively easy. He wanted the board, his former"
+    },
+    {
+      "timestamp": "00:57:44",
+      "text": "college, to invest Warren Buffett's on the board as well. This was surprising. Even Warren Buffett, who joined the Grinnell board shortly before the decision to invest in Intel was made, was willing to abandon one of his fundamental rules of investing. Only put money into things you understand. For this particular instance, as Buffett put it, we were betting on the jockey, not the horse. This is another example. We saw this too. Just, you know, don't, if you have some kind of advantage, don't go blabbering your mouth. Don't tell people what your strategy is if them knowing a strategy would help them. So it says Intel was going to try to build semiconductors not of the types of integrated circuits now on the market. And that Intel would seek to extend the technology to higher levels of integration. The word memory, which is what they were doing, never appeared in the plan. Frankly, said Noyce, we didn't want people to know what we were going to be doing. We thought it would attract too many competitors too soon."
+    },
+    {
+      "timestamp": "00:58:40",
+      "text": "Secrecy was essential for Noyce's and Moore's plan to work. Intel scientists did not give talks that would benefit competitors. That's essentially the main point. Don't say something. Keep your mouth shut if it's going to benefit your competitors. I reduced this. I compressed this into an aphorism, bad boys move in silence, which is not my aphorism."
+    },
+    {
+      "timestamp": "00:58:58",
+      "text": "I'm pretty sure I stole that from Biggie Smalls, the rapper. But that's a good way to think about this. This is also something that was similar in Founders Number 110 on Henry Singleton. Claude Shannon, who was on the board of Teledyne, was talking about the fact that Henry shut up. That we did not go around blabbing, giving our competitors information just because it strokes our ego or we get attention in the press. He says, this is Claude Shannon talking about how Henry Singleton ran his company. He always tries to work out the best moves. And maybe he doesn't like to talk too much."
+    },
+    {
+      "timestamp": "00:59:29",
+      "text": "Because when you're playing a game, you don't tell anyone else what your strategy is. So what Claude Shannon and Henry Singleton are doing at Teledyne, you see Bob Noyce and Gordon Moore doing the same thing at Intel. And so one of the reasons they wanted to leave Fairchild too is because they started to get input for the people that ran the main Fairchild company, not just a semiconductor part of it, and it started to slow things down, and so Bob's going to give us some great advice here, but I don't think it's just about work. I think this is great life advice, actually, and he says, where Fairchild had lumbered in the last few years, Noyce and Moore wanted Intel to race. This is what he said. Use money to buy time because money is"
+    },
+    {
+      "timestamp": "01:00:13",
+      "text": "cheaper than time. That can be applied to many different things. And it made me think of this quote from Naval Ravikant, who's the founder of AngelList. Some of you might know who he is. And he says, guard your time. It's all you have. Money has a discount rate. As you get older, that discount rate goes up. When you're about to die, the discount rate may be 100%. Most people would give up everything for one more week or one more year. And this last sentence is the most important part. Live accordingly. So I love that. Let's go back to what Neusche told us. Use money to buy time because money is cheaper than time. And this is a great metaphor by Gordon Moore that I came across."
+    },
+    {
+      "timestamp": "01:00:53",
+      "text": "Being first to market and also indicates why they had to be one, be quiet and to move fast, right? Being first to market would put Intel in the position of what Gordon Moore called a rifleman who shoots at a blank wall, finds the bullet hole, and then paints the target around it. The first company in the market always hits the bullseye because that company can draw the target around its own shot. Doesn't mean it's always going to be the winner, right? Any late arrivals find the target already in place, the market defined by someone else. More on moving, the importance of moving quickly. And I just love this idea. After observing William Shockley's methods of using simplifying assumptions to speed up his company's research, Noyce had come to believe that scientists"
+    },
+    {
+      "timestamp": "01:01:34",
+      "text": "could approach their work in two very different ways. So researchers could adopt the pretty approach in which they devote a great deal of time and effort to developing a technique or machine that will allow them to test their ideas with exact measurements that yield final, definitive answers. Or, and this is his route, a researcher could try the quick and dirty way. Moving forward with an idea as soon as rather rudimentary test indicates it will probably work. Go back to that. What award did he win in high school? The person that got the best grades in the least amount of time. Okay."
+    },
+    {
+      "timestamp": "01:02:18",
+      "text": "He disdained the pretty method as a bit like telling a soccer player never to kick the ball until you have an idea shot all so you have an idea shot all carefully lined up and know exactly how hard and and you know exactly how hard to kick the ball 90 minutes may be over before you locate that opportunity and he's going to extend this later on in the book and i summarize this is don't over plan steer the boat a little every day i don't get my kicks out of seeing things run at the highest level of efficiency with the greatest degree of control he said control immediately means a loss of personal freedom for either the people in the factory or for the management once you've got once you've set down the ground rules for return on investment or earnings before taxes you're suddenly cut off from some of the choices you could have made so he's not again if you take"
+    },
+    {
+      "timestamp": "01:03:04",
+      "text": "that right you're not optimizing for optionality. I guess what I'm saying is that the venture part of management rather than the control part of management is more fun to me. He added another point. This immature, what he's calling immature management, has been much more successful for him than the mature management that tried to get into the semiconductor business."
+    },
+    {
+      "timestamp": "01:03:24",
+      "text": "Let me quote the great Henry Singleton again. This is from the book Disenforce, which I covered in Founders Number 110. Once criticized for not having a business plan, Henry replied that he knew that a lot of people running companies had very definitive plans they followed assiduously, but we're subject to a great number of outside influences on our businesses, and most of them can't be predicted. So my plan is to stay flexible. That's all Bob is saying. My only plan is to keep coming to work every day. I like to steer the boat each day rather than plan way ahead into the future."
+    },
+    {
+      "timestamp": "01:03:57",
+      "text": "Okay, so here's another great idea from Steve Jobs, and it relates to Intel just had a major technological breakthrough. They're calling it 1103. It's brand to Intel just had a major technological breakthrough. They're calling the 1103. It's brand new, but it's not working well. So it's not a perfect product. It fails from time to time, but it was a technological breakthrough. Okay. That's what you need to understand to understand what Jobs is going to say here. And so Steve Jobs perfectly describes the expected human reaction to an imperfect new technology. Right. Even with its problems, the 1103 represented a real technological breakthrough. This is what Steve Jobs says. As Steve Jobs once said, when the light bulb was invented, people did not complain that it was too dim."
+    },
+    {
+      "timestamp": "01:04:39",
+      "text": "I referenced this idea earlier that any sort of hierarchy, but especially one that placed noise at the top, made him nervous. And he wants to optimize for knowledge over hierarchy. At Intel, noise spoke of hierarchy power and knowledge power and firmly believed that when it came to technical decisions, the word of the person with the most knowledge ought to trump the opinions of the one with the higher title. Shockley believed the opposite, or maybe he didn't believe the opposite. He thought, okay, if I'm at the top of hierarchy hierarchy that means i have the top of the knowledge and we know that's obviously not true another great idea own up to your mistakes accept your blame and then fix it uh mike marcula who ends up owning 30 of apple or something like that uh joined intel's marketing"
+    },
+    {
+      "timestamp": "01:05:17",
+      "text": "group recalls how noise often diffused problems bob was just so straightforward and didn't try to sweep things under the carpet he'd say So he's talking about problems with customers, right? He'd say, we know what the problem is. We're fixing it. Here's when we'll get it fixed. We're doing everything humanly possible to meet your requirements. And yes, we goofed up. You know, when you're that honest and that straightforward, it's hard for the customer to continue to be angry."
+    },
+    {
+      "timestamp": "01:05:42",
+      "text": "I want to go back right before his divorce. I want to go back to the you know this idea things are not always as they appear intel's going well bob is admired and respected his industry he's richer than he ever thought possible he just went the intel went public in his divorce his wife's gonna get like 25 million dollars it gives you an idea of how substantial his his net worth had grown um but even that, even though everything is going right, his marriage is difficult and happy. And listen to what he says about it."
+    },
+    {
+      "timestamp": "01:06:09",
+      "text": "Staring straight ahead, Noyce said almost to himself, boy, sometimes it's simpler to get on a plane to New York than to go home. He later told his daughter that he used to sit in the Intel parking lot for five or 10 minutes every evening, idling the motor and wishing there was somewhere he could go that was not his house."
+    },
+    {
+      "timestamp": "01:06:26",
+      "text": "So eventually he's going to get to the point where Intel is growing. And this is where Moore is going to take over a CR role. Grove's going to come in. Eventually Grove takes over that role as well. And I think one thing is you have to know who you are. And Noyce understood what he loved most. And when his companies grew out of that stage where he thought he was most effective and he wasn't happy anymore, he moved on. And that happens at Intel, too. Noyce had been an ideal founding president for Intel because he was, at his core, what Moore called a wild expansionist. The job Noyce enjoyed and excelled at were plotting new products, brainstorming new ideas, establishing a market from thin air, meshed perfectly with Intel's needs as a young company."
+    },
+    {
+      "timestamp": "01:07:05",
+      "text": "He loved, he said, leading a company, walking the thin line next to the cliff of disaster, his eyes always scanning for the next opportunity. And I got to draw your attention because I don't know if you know this, but Noyce died rather young. He died unexpectedly at 62 and he smoked cigarettes since he was a kid, and he had a lifelong two-pack-a-day habit. And this is another example that smart people are capable of doing dumb things. This is on his inability to quit smoking. Several people, including one of Noyce's daughters, have said that somewhere deep within himself, Noyce thought he was immortal. Noyce never stopped at the edge of a precipice, but instead ran at full speed right over the edge and into the unknown this had been his approach with ideas with companies with skiing with driving with women"
+    },
+    {
+      "timestamp": "01:07:50",
+      "text": "and with inventing how on earth could something as mundane and trivial as a cigarette kill someone like him so after intel he starts doing a lot of investing and restocking the stream, which he fished from, as he put it. And this is a summary of Bob's angel investing. He says, that's an impossible task. Let's do it. Noyce liked to say, you can only lose 100%, but the multiples on the upside are fantastic. So that's a very quick two sentences. And what he's telling you is cap your downside, right?"
+    },
+    {
+      "timestamp": "01:08:23",
+      "text": "But leave your upside uncapped. This is another example of a similar idea. This is not a unique idea by any means, but it is a very valuable idea. Jeff Bezos has his own idea about this. And he uses this at Amazon. He says, listen, the difference between baseball and business is that baseball has a truncated outcome distribution. When you swing, no matter how well you connect with the ball, the most runs you can get is four. So what he's saying is the upside is capped. In business, every once in a while, when you step up to the plate, you can score a thousand runs. And this is when, as he's advising these new entrepreneurs, trying to help the community that he benefited from, we get advice from an older, wiser Bob Noyce."
+    },
+    {
+      "timestamp": "01:09:02",
+      "text": "I've read the same paragraph in so many different places, and it's very important so i'm going to include it again here in 1979 noise was invited to dinner at the home of an entrepreneur whose company his fund had supported after the dishes had been cleared and the children were sent to bed noise listened as the company founder explained that someday if the business did well he would like to move his family into a bigger, nicer house. Noyce looked up at him and said very quietly, you've got a nice family. I screwed up mine. Just stay where you are. 25 years later and a successful company later, the entrepreneur had not moved. And this next part, I don't know if he knew this explicitly, but I definitely think we do."
+    },
+    {
+      "timestamp": "01:09:52",
+      "text": "This is extremely important. His financial success directly benefited the entrepreneurs whose companies he funded. But the stories about Noyce's success inspired many more. I mean, I highlight this part. Yes, exactly. One entrepreneur put it this way. Why do we love this dynamic environment? I'll tell you why. Because we have seen what Steve Jobs, Bob Noyce, Nolan Bushnell, and many others have done. And we know it can and will happen many times again. In other words, if they could do it, why can we such rationale function as a self-fulfilling prophecy"
+    },
+    {
+      "timestamp": "01:10:26",
+      "text": "propelling the region forward on a self-perpetuating cycle of entrepreneurship and wealth and so this is what he was doing he was also working in this this collaboration with the government and other semiconductor um companies to try to save the semiconductor industry from foreign um competition i omitted that whole part he was doing a job he didn't really want to do companies to try to save the semiconductor industry from foreign competition. I omitted that whole part. He was doing a job he didn't really want to do. And unfortunately, that's what he was working on when he died unexpectedly. And this is just a reminder that we don't know how much time we have."
+    },
+    {
+      "timestamp": "01:10:56",
+      "text": "So we got to go. We got to do what we want to do. Two days after the photo was taken, they held like a Bob Noyce Day at this company that he was working with, you know, to celebrate him. Two days after the photo was taken, he laid down for a rest after his regular morning swim as he slept he suffered a massive heart attack that took his life the date was june 3rd 1990 and noyce was 62 years old and before i close this is the eulogy issued from apple obviously apple couldn't have existed without all the people that benefited, not only Noyce, but a bunch of people that worked at Intel."
+    },
+    {
+      "timestamp": "01:11:30",
+      "text": "Fairchild Semiconductor helped Apple in the early days. And this is their eulogy for Bob Noyce, which I thought was a great summary of the man. And it said, he was one of the giants in this valley who provided the model and inspiration for everything we wanted to become. He was the ultimate inventor. The ultimate rebel. The ultimate entrepreneur. And this is where I'll close. Noyce's most enduring legacy cannot be measured in buildings, accolades, awards, honors. Not in dollars earned or given away."
+    },
+    {
+      "timestamp": "01:12:03",
+      "text": "Not in stock price or market share. It cannot be etched in silicon or printed on microchips. There is an informal sort of generational succession in Silicon Valley that places Noyce near the top of the family tree. And even when there is no such explicit tie back to Noyce, even if the latest generation of entrepreneurs don't know his name. His influence endures in a set of ideals that have become an indelible part of American high-tech culture. His spirit quietly urging anyone who might listen to go off and do something wonderful. To get the full story, I highly recommend reading this book."
+    },
+    {
+      "timestamp": "01:12:45",
+      "text": "If you buy the book using the link that's in your show notes, you'll be supporting the podcast at the same time. That is 166 books down, 1,000 to go. And I'll talk to you again soon."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:08:09.650Z"
+}

@@ -1,0 +1,605 @@
+{
+  "metadata": {
+    "episodeNumber": 27,
+    "title": "A Truck Full of Money: Coding, Mania, Love, Genius: The Life of an American Entrepreneur",
+    "slug": "27-a-truck-full-of-money-coding-mania-love-genius-the-life-of-an-american-entrepreneur",
+    "url": "https://podscripts.co/podcasts/founders/27-a-truck-full-of-money-coding-mania-love-genius-the-life-of-an-american-entrepreneur",
+    "date": "June 15, 2018",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "The voice from the podium called him back. Over the next six years, one in three of them would flunk out, the headmaster said. They might be the top seventh graders in Boston, but this was a school where even the best had to work hard. And that meant homework. Four to six hours of homework a night, said the headmaster. Paul stared at the man. In his mind, he spoke to him."
+    },
+    {
+      "timestamp": "00:00:23",
+      "text": "Fuck you. I will never do homework. There were things he would do, though, because he wanted to do them. He tried off with a school band and made the cut, and he also decided to check out the computer club. It had a faculty advisor and, for a clubhouse, a windowless room down in the basement equipped with six terminals. They looked like TVs, but they had keyboards in front of them, which meant you could tell these TVs what to do, and that made all the difference. Paul had never liked TV. He called it the stupid box. He would watch his father watching the evening news after a day at Boston Gas. His father would sit in his easy chair with a box of Cheez-Its"
+    },
+    {
+      "timestamp": "00:01:04",
+      "text": "and his Manhattan, looking at pictures of car crashes and murder victims. His father would sit in his easy chair with a box of Cheez-Its and his Manhattan, looking at pictures of car crashes and murder victims. And Paul would wonder to himself why his dad would just want to sit and look at what somebody else wanted him to see and listen to strangers tell him what he should buy. So that is from the introduction of the book that I want to talk to you about today, which is A Truck Full of Money, Coding, Mania, Love, Genius, The Life of an American Entrepreneur. And it's about Paul English, who is, I would say, best well-known or best well-known? No, most well-known for being a co-founder of Kayak, the travel search engine. And before I get into the rest of the highlights that I found interesting when reading this book, there's an, like most books, they have an author's note at the beginning. And I was struck by the uniqueness of this one. So this is the author Tracy Kidder talking."
+    },
+    {
+      "timestamp": "00:02:03",
+      "text": "And I just want to read this little section to you real quick. So she's talking about Paul and she goes, I had never heard him speak about his day job, but I knew it had to do with software and that he was successful at it. So I asked him to show me around. After a while, I began to feel that my guide should become my subject. What I actually said was, why don't I write about you? And this is the really interesting part. It was sometime, was, why don't I write about you? And this is"
+    },
+    {
+      "timestamp": "00:02:25",
+      "text": "the really interesting part. It was sometime, months, I think, before he answered. I remember the moment well. He agreed with a proviso that I had never heard before in my years as a reporter and writer. You have to promise not to make me look better than I am, he said. So the reason I wanted to point that out is because this is a little different from some of the other books that I featured on this podcast in the past. And one of the reasons I love doing this podcast and reading these books is because, so we all know the names of like Henry Ford, Jeff Bezos, Elon Musk, all these people after the fact, after they were successful."
+    },
+    {
+      "timestamp": "00:03:02",
+      "text": "But when you're reading biographies of them, you realize that they were just relatively normal people. And they all started from vastly different points, but you got to see them way before they were who we think of them now. And what I like about this book is, I would say almost half the book, so like in the title says, uh, mania, what they're talking about there is, uh, he's a diagnosed, he's Paul's diagnosis, bipolar disorder. And so when he, he adds that little caveat at the beginning, it's like, okay, you can write about me,"
+    },
+    {
+      "timestamp": "00:03:37",
+      "text": "but you have to promise not to make me look better than who I am. Because there's a lot of stuff in this book that you realize even it it's really good, I think, for everybody to understand that successful people are still just people. And a lot of them can be fucked up just like you or I. And in his case, you see him struggling with bipolar disorder for 30 years. You see some of the results of his grandiose statements, some you know don't make him look that good and yet he still sold was able to found a company was acquired by Priceline for 1.8 billion dollars and he walked away with 120 million so I just want you to keep that in mind as we go through this book now another thing as I always do I go I'm reading the highlights and the stuff that that's interesting to me just to give you an idea of why you might be interested in reading the book"
+    },
+    {
+      "timestamp": "00:04:24",
+      "text": "and I do try to read them in chronological order, but this book starts, it weaves back and forth throughout time. So just another, you know, I say this all the time, but it's not meant to summarize the entire book. These are just the parts that spoke to me. If you read it, different things might speak to you. But it might get a little confusing if you think it's in chronological because we start right at the beginning with, well, I'm going to read from the introduction. So I'm going to tell you about his first job, which is I always find interesting when I'm reading biographies of company builders. But then we're going to jump to like present day, which is like the day he makes the announcement of the sale. And you go back and forth weaving and kind of trying to tell his life story through"
+    },
+    {
+      "timestamp": "00:05:01",
+      "text": "all these like anecdotes and uh and store and like memories that he has but they are not taking place obviously now so this is his first first job and it kind of uh builds on what he was just saying that you know like most of the people that are on the podcast and most people that are feel they're like born to be founders or entrepreneurs you know they don't really like they have a problem with authority and they want to do what they want to do. And when they find something they want to do, they can be somewhat obsessive at it. And that doesn't mean like taking up all your time, but you want to be good at it. So he's definitely the same way."
+    },
+    {
+      "timestamp": "00:05:37",
+      "text": "So he's saying, hey, I'm not going to do homework. Forget that. But that doesn't mean he's a slacker. So let's go to the book for that. Paul was industrious outside of school. In seventh grade, his first year at Latin, that's Boston Latin, the school he's go to the book for that. Paul was industrious outside of school. In seventh grade, his first year at Latin, that's Boston Latin, the school he's going to, he took $10 off of his paper route earnings and bought a dime bag of pot from the same man in the north end who sold the boys fireworks. Paul sold the dime bag bit by bit and with the astonishing profit bought an ounce."
+    },
+    {
+      "timestamp": "00:06:04",
+      "text": "Remember, he's in seventh grade doing this. In a corner of the attic, he found a small munitions box that his father had brought home from World War II. He broke off the lock and bought a replacement at the drugstore, and he stored his drugs inside, mostly marijuana and also some mescaline. I'm not familiar with that drug, so I don't know if I'm pronouncing that correctly. He hid the box in the eaves of the attic near his mattress. He never came close to getting caught. No one in the family knew except for Danny, this is his brother, who didn't get involved and didn't"
+    },
+    {
+      "timestamp": "00:06:34",
+      "text": "tell, of course. Paul quit that business after about a year. He could have bought, this is the most fascinating part, considering this is now happening when he's in eighth grade, he could have bought several used cars with his profit had he been old enough to get his driver's license so now we're going to jump ahead to the first chapter and it starts like i said with he's making an announcement he said uh we've actually agreed to merge with priceline he's talking to his uh the whole company kayak now um it says uh the crowd turned into ooh they said price line was a large holding company of online travel agencies and kayak was a small and unusual but very profitable travel site and the very profitable part is very"
+    },
+    {
+      "timestamp": "00:07:13",
+      "text": "fascinating to me and I'm gonna get into that next might be the most fascinating part of this entire book it's like two paragraphs until recently it had done now to talk about kayak until recently it had done no booking rather it was a comprehensive search engine for travel often described as a Google for finding flights and hotels and rental cars. Paul and a young businessman named Steve Hafner had founded Kayak nine years ago in 2004. Since then, many companies had offered to buy them out, but Paul told The Room Priceline's offer was the only one with the right ingredients. First of all, the purchase price is $1.8 billion. He made the translation. Kayak's stock was now worth $40 a share, $14 more than when the company"
+    },
+    {
+      "timestamp": "00:07:53",
+      "text": "had gone public just four months ago, and $10 more than the current price. Paul didn't say this, but about half of the people on his team own stock now worth at least $1 million, and some own considerably more. Paul's was the largest take, some $120 million. So let's skip ahead. This is the part I really liked where it goes into the details because I knew, obviously, of Kayak, the business. I didn't know how they made money or anything like that. So he's talking about the office and their office is somewhere."
+    },
+    {
+      "timestamp": "00:08:28",
+      "text": "I think it's called Concord, Massachusetts. So let's go into this. Concord belonged to what was now a mighty segment of new American industry, mighty and yet utterly unmuscular looking. A stranger walking into this office, a stranger who, like most of humanity, knew little about software, would have to wonder what these eccentric looking kids could possibly be doing to generate any money at all, let alone a fortune. Not for the stranger, but for his team, Paul had tried to offer an answer. Programmers are always in danger of becoming happily abstracted from the consequences of their work. Paul had arranged to show his crew the fruits of their labor, a representation of the product's achievement, a representation in numbers, and an abstraction itself. A screen hung on the far walls of the second floor."
+    },
+    {
+      "timestamp": "00:09:16",
+      "text": "One screen was large, big enough for an art house cinema. If you had looked up from your desk, say at 3.32 on the afternoon of November 7, 2012, the day before the kayak sale was announced, you would have seen in bold type at the center of the screen this number. 2,737,926. Digits changed at stopwatch speed. Two seconds later, the display read 2,738,816. No explanation was provided, but everyone who worked here knew that this number represented the day's running tally of travel searches. The searches, that is, that visitors had made between one midnight and the next on the kayak website and the kayak mobile application. Now Now this is the really interesting part. There's only a few more"
+    },
+    {
+      "timestamp": "00:10:05",
+      "text": "paragraphs. As the search grew, let me do that over. As the search grew on the screen, you also began to understand Kayak's purchase price. The business worked this way. A user goes to the Kayak website, finds a desirable flight or hotel room or rental car, and then is sent to the website of an airline or hotel chain or car rental company or to one of the online travel agencies such as Expedia or Orbitz. Kayak receives a fee from those other companies just for the referral. 75 cents for a flight and two dollars for a hotel and considerably more if the user books the car or the room or the flight through one of those other companies. So every number added to the tally of searches conducted on Kayak"
+    },
+    {
+      "timestamp": "00:10:46",
+      "text": "was like a sale rung up on a cash register. Advertisements on the site, demurred by industry standards, added more. Now this is, I love this because they're actually sharing numbers. In the course of the fiscal year 2012, Kayak's users made 1.2 billion searches. These brought commissions and ad revenues amounting to $292 million and profits of $65.8 million. This is the most fascinating part to me too. Remarkable figures, not for their size, but because only 205 employees had been required to produce them. In 2012, Kayak's revenues came to nearly $1.5 million per employee,"
+    },
+    {
+      "timestamp": "00:11:28",
+      "text": "one of the highest ratio among all publicly traded companies. So I found that really interesting. $1.5 million in revenue for each employee. So some of this is just I'm going to pull out, obviously, like I've done in podcasts past, just little interesting ideas that maybe only last a paragraph that I think are interesting and might be helpful to you and I. Okay, so this is Paul on meetings. Paul had made it a habit to glance now and then through the transparent walls of Kayak's conference rooms and spotting meetings that he thought were too large and too long."
+    },
+    {
+      "timestamp": "00:12:04",
+      "text": "He would poke his head in this door or in door, and with a smile, always a smile, say he was sure that three of the dozen people in there were smart enough to solve the problem in half the time they'd already spent. He also bought a tally clicker, a device that nightclub bouncers use to keep count of patrons, and hung it outside the door of the main conference room. This, by way of saying, quote, used to keep count of patrons and hung it outside the door of the main conference room. This by way of saying, quote, I'm paying attention. I want meetings of three people, not 10."
+    },
+    {
+      "timestamp": "00:12:35",
+      "text": "And that's something we've seen from other entrepreneurs past. The one that jumps out of my mind, it was when we talked about Jeff Bezos and his whole idea of keeping teams where you can feed them with two pizzas and no larger. Let's see. Okay, so this is actually going to – I'm going to skip over. This is taking place over three different pages but only a few paragraphs on each just because I want to tell you. So I found this. I guess let me back up. So a lot of the books I find through like recommendations of like other founders or"
+    },
+    {
+      "timestamp": "00:13:11",
+      "text": "entrepreneurs or just Twitter or podcasts or anything like this. This is one of the first books that I actually found just because I'd bought, you know, I buy a bunch of these books, all of my books on Amazon and Amazon recommended it to me. And I'm like, it's, you know, kind of a clickbaity title, which I think is the whole point where it's like a truck full of money. Like what the hell does that mean? Because I never even heard of Paul English before this. So I want to tell you how the title came to be because I think it's actually really funny. Okay, so they're talking about, just to give you some context here, he's worked now at Kayak."
+    },
+    {
+      "timestamp": "00:13:44",
+      "text": "He's in his 40s right but he's been starting companies for 15 15 years at this point and already sold a company previously so he had a group of people that he'd work with constantly and they'd work on a project and then maybe that project would end or in a failure or on a sale or something like that and then go their separate ways and eventually paul would have another idea and he'd recruit him back and back and this whole cycle went over a couple decades so. So they're talking about how with Kayak, he basically set up his two lieutenants, Billow and Schwenk, to make sure that they were going to be financially independent. So it says, Paul had made sure that both owned Kayak stocks in amounts commensurate with"
+    },
+    {
+      "timestamp": "00:14:18",
+      "text": "need to have status. Stock now worth nearly $20 million for each. Billow had prophesied something like this back in 1997, so now we're going to get to the title, in the aftermath of the misadventure that Paul had led him on with the startup company Netcentric. And of course, a lot of, like anything, Paul may have had two or three hits, but he probably had 50 different ideas. And maybe out of those 50 different ideas, maybe 15 or 20 actually started, whether they're an app, a division of a company, whatever the case is. And I think this is the most common thing that people that don't start companies"
+    },
+    {
+      "timestamp": "00:14:50",
+      "text": "don't understand. That it's not about, I forgot how you put it. It's not like your batting percentage or slugging percentage, but basically like one or two successful ideas can pay for a lifetime of other failures. All right, so let's go back to this. So he's saying Paul had let him down on the startup Netcentric, so they lost their butt on that. Schrenk had also followed Paul to Netcentric, and like Billo, he had soon quit. Then the two of them had started their own little software company along with an extraordinary programmer named Jeff, Jeff Rago."
+    },
+    {
+      "timestamp": "00:15:26",
+      "text": "But things hadn't gone much better with that enterprise than they had at Netcentric. Their idea was to build internet connected jukeboxes that would serve as advertising devices. The technology they created was first rate, but it didn't sell. And then one day in 1998, Paul walked in. He was starting a new company, he told them, something called Boston Light Software. At this time, Paul's in his early 30s. Paul pitched the idea with his usual speed, his usual vigor, and certainty. They'd build a website for building websites."
+    },
+    {
+      "timestamp": "00:16:00",
+      "text": "He had, again, another thing I think's a really helpful for me reading all these books Did you realize that the ideas that are really successful like think about WordPress and Squarespace now how successful those companies are like their ideas You see so many other people had the same idea, but they might have been 10 or 15 or 20 years too early So he's actually gonna be somewhat successful in the Boston lights offer because he winds up selling the company At the top of the the dot-com boot boom, but I just think it's funny that we're reading in a book that in 98, he's like, all right, I'm going to start a company that's going to be a website for building websites, because we have several examples of successful companies that have done just that now. He had a client already, and he was assembling a team of"
+    },
+    {
+      "timestamp": "00:16:36",
+      "text": "old colleagues, getting the gang back together. Billo didn't say much, but as he listened, he thought, this is going to work. After Paul left, Billo told Schrenk and Laragu, look, this thing's not going anywhere. We should go work at Paul's company. They said they wanted to go on with their startup. I feel bad for leaving you guys, Billo said, but he was going to follow Paul. 15 years later, he remembered his words exactly. Someday, this boy's going to get hit by a truck full of money, and I'm going to be standing beside him. Schrenk and Rago had soon followed Billo and Paul to Boston Light,"
+    },
+    {
+      "timestamp": "00:17:13",
+      "text": "and about a year later in 1999, Paul sold the company. He gave half of his own proceeds to his team and still came away with about $8 million. Paul was only in his mid-30s then. This idea of giving proceeds away and splitting up half the money, it's really interesting to me because there's kind of a juxtaposition or a dichotomy. I don't know the correct word I'm looking for. But basically, Paul is very good at creating software companies and making a lot of money,"
+    },
+    {
+      "timestamp": "00:17:47",
+      "text": "but he's very uncomfortable with being successful. And there's a lot of his ideas comes from the fact that he came from a family of seven kids and they were told that, you know, no one's ever supposed to be special, that you're all the same. So he kind of has like this residual guilt of being so successful. And so he has like a very strong like communist streak in him. So he's like capitalist by day. And then once he's successful as a capitalist, he takes the proceeds and he doesn't believe like hoarding money is that smart. So he gives a lot of it away. In the book, it goes into detail and I'm not going to talk about it too much, but he develops a very strong relationship"
+    },
+    {
+      "timestamp": "00:18:17",
+      "text": "with a guy that was very successful and who has an interesting life story in his own right, fought in World War I, came back to Boston, transformed his family's construction company into like this massive multiple hundred million dollar company and then spends, lives to 90 and basically with the goal of dying broke. So he donates tons of money to Haiti and all this other stuff. So Paul does this too."
+    },
+    {
+      "timestamp": "00:18:39",
+      "text": "Like the book talks about all the stuff he gives, helps people with and including homeless in Boston and charities in Haiti and all kinds of other stuff. But you kind of see that even in his 30s. He kind of, you know, he has a, I don't know if guilt is the right word. Like, I mean, I guess it is kind of guilt. And we're going to realize that a lot of the stuff that Paul does is not really easy to explain because, you know, he is, he suffers from mental illness. So I want to actually touch on that. And I'm not going to touch on too much of that because like I said, a lot of the book is, is written about showing the bad, you know, the bad sides that even a guy with bipolar"
+    },
+    {
+      "timestamp": "00:19:19",
+      "text": "disorder, and we're going to read some of that. I'm'm gonna read you some of the like how that manifests in Paul's life But even people like that Like as long as they they're still capable of building companies and being successful in doing this So, I don't know like especially I've been thinking about this lately We're like you see like one of my favorite people just committed suicide and you look at like Anthony the life of Anthony Bourdain You're just like how is this possible and you just realize that this this problem of mental illness is is everywhere and it's hidden for most for most parts so that's kind of why I selected this book now there's a series of other books that I'm going to be doing on the podcast too I guess I could"
+    },
+    {
+      "timestamp": "00:20:01",
+      "text": "have done them first but um that normally I don't give a shit about like celebrities. I'm not into like celebrity worship. I think it's a downside to culture, human culture in general. But for some reason, like I woke up to a text and my friends, like, you know, Anthony Bourdain hung himself and it just hit me a lot harder because, you know, I've been following that guy's work. I read his book, Kitchen Confidential is one of my favorite books I've ever read. Watch all his shows back from like 2006 on the Travel Channel. And it just hit me a lot harder because, you know, I've been following that guy's work. I read his book, Kitchen Confidential is one of my favorite books I've ever read. I watched all his shows back from like 2006 on the Travel Channel. And it's just like I wasn't expecting to deal with this emotion. It made me think about like how many other people are, you know, because you ask anybody what kind of life you want to live."
+    },
+    {
+      "timestamp": "00:20:40",
+      "text": "Like, you know, he got to travel the world, make great content, meet interesting people, eat great food. Like he was loved by millions of people. and it's just that none of that matters it matters how like how you feel about yourself and he was deeply obviously deeply oppressed and you know he had he'd been open about he'd been talking about like uh i remember reading one of the quotes he's like i never knew anybody else that wanted to die as much as i'd have like um so i think this this is appropriate because I think people in general struggle with it, but I'm sure founders do. You always hear like, no, I don't always hear, but you hear some of these examples of like, you know, like the pressure to like, act like"
+    },
+    {
+      "timestamp": "00:21:14",
+      "text": "everything's always going well. And some people like live, feel they're living two different lives. And I've even read stories of, you know, people that their businesses fail. And so they kill themselves. And you also saw that in different cultures, like the finance industry, like when you have crashes like Black Friday or whatever the case is, people jumping off buildings. And so I think that's a big problem. I don't think you, I think you,"
+    },
+    {
+      "timestamp": "00:21:36",
+      "text": "we have to do whatever we can to disassociate like how we feel about ourselves for like whatever is going on in your professional life, even though they kind of, it's really hard to like, based on like, I just, all the entrepreneurs I know feel like it's part of your identity, you know, as opposed to most people have a job. It's like, oh, I go to my job and it's like, there's no, it's like a clear cut. If you have a job, you go home and you're doing hobbies or you're spending the weekend"
+    },
+    {
+      "timestamp": "00:22:00",
+      "text": "doing whatever you want. Like, I don't know if founders have that. So they might be more prone to it. So if you are like struggling with any of this kind of stuff, I definitely read this book because there is a happy ending here. And so I rambled enough and I wasn't expecting to even say that,"
+    },
+    {
+      "timestamp": "00:22:16",
+      "text": "but I saw my note and it just, that thought popped in my head. So this is a description of Paul's illness. And this hyperactivity is called hypomania, I think. I don't know if I'm pronouncing it correctly, but we're going to talk about that too. Hyperactivity was likely just a symptom of his deeper problems, his bipolar disorder."
+    },
+    {
+      "timestamp": "00:22:35",
+      "text": "The general term denotes what used to be called manic depressive illness, now broadened to include intermittent, alternating, and sometimes mixed states of depression and mania. Mania, man mania mania varying wildly in kind and severity in the pot in the past paul had suffered from near immobilizing depression but not from the psychotic states of full-fledged mania so what they're saying here is suffering from near immobilizing depression there's a lot of times like this is interesting where what triggers this to where he was just wake up."
+    },
+    {
+      "timestamp": "00:23:08",
+      "text": "He can't sleep for like two hours and then he just stares out the window till the sun rises so he can get his day going. And sometimes this is happening when he's having like, he's having like trouble in his professional life. But more interesting is the sale of kayak and that huge success being written about in the Boston globe the next day triggers him to go into like a D. He spent a weekend basically not moving, not being able to sleep, which is, again, I think from the outside looking in, which is a very inaccurate way to look at things, unfortunately, most people would probably think, oh, this guy must be on cloud nine. And in reality, he's at his lowest point. Okay. Okay. So he suffered from near immobilizing depression, but not from the"
+    },
+    {
+      "timestamp": "00:23:51",
+      "text": "psychotic states of full-fledged mania in which one is consumed by delusions. He was subject instead to the oddly vaguely named hypomania, which means less than full-fledged mania. The labels are kind of dumb and meaningless because no one really knows how the mind works, Paul once said. What's really important is what are the symptoms you're having and are they that bad? And then what things can we do to make those symptoms be less? He called his current psychiatrist and found a drug, an epileptic called Lamictal, that had kept Paul's depression mostly at bay for a decade and with minimal side effects but his bouts of hypomania his highs recurred so I just want to interject real quick"
+    },
+    {
+      "timestamp": "00:24:32",
+      "text": "before I go back to the book so they name I I don't I'm not going to read them all to you but there's probably a dozen different medications throughout his life that he's on and they talk about the side effects in the book too which is i i've never taken any of that i try to like live clean as much as i can um and definitely nothing like pills like i'm just not into that shit but um i obviously i've never been you know clinically oppressed i'm not trying to make light of that i'm just saying that like it it was jaw-dropping to me because i've never had to been put on medication and what even like he talks about what like five milligrams can do to him it's pretty crazy so again if you're interested in that buy the book but his bouts of hypomania has high and his highs recurred at their apex now this is interesting when he felt on fire he was prone to"
+    },
+    {
+      "timestamp": "00:25:21",
+      "text": "what psychiatrists and therapists called grandiosity. Then everything seemed possible when he's, they're talking about when he's on fire, then everything seemed possible for him and the success of every new venture assured. A hypomanic high could also be lonely and irritable state as when everyone seemed too slow to understand him, he'd stare at people who were talking to him, straining to be polite. That's pretty funny, he would say, while thinking, you just made my blood pressure go up because I just lost three seconds that I'm going to beg for on my deathbed. Often during highs, he gave away a lot of money."
+    },
+    {
+      "timestamp": "00:25:55",
+      "text": "More important, he scarcely rested and sometimes used alcohol to calm himself. And that's, again, going back to what he said, don't make me look better than I am. He drinks throughout this entire time, and almost every single drug that's, again, going back to what he said, don't make me look better than I am. He drinks throughout this entire time and almost every single drug that he's on, you're not supposed to mix with alcohol. So again, he's not really hiding his flaws from you. This book definitely isn't. Okay. So he's scarcely rested and sometimes use alcohol to calm himself. And a high could lead to his sleeping with someone he later felt he shouldn't have. When he returned to a quieter state, his fires banked for a while. These risks were clear. It's bad for money and sex and for drinking. But as a rule, hypomania took away his ability to"
+    },
+    {
+      "timestamp": "00:26:37",
+      "text": "resist it, even when he was aware of being in its grip and mindful of the risks. In Paul, the highs tended to build in intensity, sometimes over hours, sometimes, it seemed, over months. Usually, a set of physical sensations told him the full-blown thing was arriving. Now, this is going into his actual effects and the description of the physical manifestations of his illness. He would feel a tingling in his arms and hands, then blood racing through his arteries and veins. The colors around him changed. physical manifestations of his illness. around accidents soon subsided. These lasted for hours, sometimes for days, rising and ebbing and"
+    },
+    {
+      "timestamp": "00:27:26",
+      "text": "rising again. The overall feeling struck him as bizarre, as something that his body wasn't meant to feel. An uncomfortable state when he had first experienced it years before. Now when he sensed it coming, he felt both a little frightened and thoroughly exhilarated. In one email he wrote, adrenaline, period, hard to sit, period, mind racing, period, thrill, period. It feels good. In another, if someone invented a drug, this is a quote from him, if someone invented a drug that normal people could take to feel like I feel this morning, the inventor would be a billionaire. On one occasion he said, I love the highs. I can feel the blood racing through my veins and I get a lot done. In the midst of a high, he was apt to wonder what it was that needed to be cured. He knew this in his"
+    },
+    {
+      "timestamp": "00:28:16",
+      "text": "quieter times. Another quote from him. It's a funny thing about mania. It feels so good that when it is with us, we feel cured feel cured perfect and we don't want the meds anymore what he's speaking to there is uh not only was prescribed a bunch of different medications he routinely just jumps on and off of them as well so i'm going to skip over the chapter that i'm in currently goes keeps building on that, but I think that's a good highlight to give you an understanding of what he's going through. Okay. So this is now the jump forward in the timeline again a little bit. And now we're kind of seeing the downside of even though the sale to Kayak goes through, he makes $120 million. This is the note I left for myself."
+    },
+    {
+      "timestamp": "00:29:16",
+      "text": "It's tomorrow morning when I wake up, I'm now an employee. This is a direct quote from Paul. As of tomorrow morning when I wake up, I'm now an employee. Since then, he had given some burst of energy to this new role, but it had been weeks since he had talked about finding a new office in Cambridge for Kayak or about the video wall or about much of anything else to do with Kayak except to say, I have to show my face there once in a while. So the new office and the video wall, he had all these ideas."
+    },
+    {
+      "timestamp": "00:29:42",
+      "text": "He has constant ideas. They list probably 100 of them in the um in the book and uh it's a way to like get him excited and keep forward momentum but he's kind of getting a little depressed here then one morning he drove out to concord to give one of kayak's vice presidents a routine quarterly evaluation then the vp asked paul can i give you some feedback? Sure, Paul said. How many hours a week do you work a kayak lately? I don't know, said Paul. 20?"
+    },
+    {
+      "timestamp": "00:30:13",
+      "text": "Try three, said the vice president. Paul didn't believe it, not at first. But when he looked around the office, he realized to his dismay that there were now new young people there whom he didn't know, whose names he didn't even know. When and how could have this happened? It took him three weeks to act. So we kind of see he's very excited to be running kayak, gave kayak nine years. Once the sale goes through and he's just an employee, he's not meant to be an employee."
+    },
+    {
+      "timestamp": "00:30:41",
+      "text": "And he completely becomes disinterested. And in this case, he's working about three hours a week. So he makes a change. Okay, so now I've skipped ahead a little bit. And this page, it's about a page long, I found really interesting because it's the economics of games, video games. So his older brother becomes a computer programmer and a game designer. And I love that book that we talked about on the podcast the master of doom john carmack and john romero and the beginning of doom and then what i loved about the book is also the the like they go over you know how much money the games were making and"
+    },
+    {
+      "timestamp": "00:31:16",
+      "text": "it's just a really interesting uh for me the most interesting part one of the most interesting parts so this is the economic of games and i think this is I want to say this is in the 80s, this is all happening, somewhere around that time. So let's just, let me just go into it. During Paul's senior year at Latin, his brother Ed became a celebrity in the world of electronic games. Ed had left home and spent a year writing a chess playing computer program for a company in Florida. It was a hit, and Parker Brothers had brought him back to New England and given him the task of converting a Japanese arcade game called Frogger into one that could be played at home on the Atari 2600 video game console. A difficult assignment, first of all, because Atari didn't want other companies producing games for its device,"
+    },
+    {
+      "timestamp": "00:32:02",
+      "text": "which meant that Ed, with the help of a colleague, had to reverse-engineer the Atari console to figure out exactly how it worked. More daunting, Ed had to reproduce Frogger in a program that would occupy only a smidgen of memory. He pulled it off in just six weeks. His version of Frogger was the first electronic game accompanied by two-part harmony music. He called the experience an Olympic trial for game-making and the finished product by Mona Lisa. Parker Brothers priced Ed's version of the game at $20 per cassette"
+    },
+    {
+      "timestamp": "00:32:37",
+      "text": "and was already shipping 4 million copies. Let me read that part again because I'm reading it as a run-on sentence. It's not. Parker Brothers priced Ed's version of the game at $20 per cassette and was already shipping 4 million copies to retailers when Ed bought a cassette over to Perham Street to show his masterpiece to the family. So I guess that's the street they lived on. He set up the equipment on the kitchen table and everything was going well"
+    },
+    {
+      "timestamp": "00:33:09",
+      "text": "until Paul started fiddling with the controls. The next thing Ed knew, the game went haywire. What's more, Paul was able to make it malfunction again and again. Here was Ed's baby's brother, whom Ed had only known distantly and mainly from from conscientious games of from contentious sorry games of chess which ed to his chagrin had usually lost and now this teenage version of that irritating prodigy have found a bug in ed's mona lisa ed was furious i could have killed him he said and then he scared. The code for the game was contained in ROM, read-only memory chips, which could not be reprogrammed."
+    },
+    {
+      "timestamp": "00:33:50",
+      "text": "For some time, Ed waited to hear that others had found the bug and were returning their cassettes, but no one ever did. Parker Brothers, having sold all four million of those cassettes in a year, offered to pay Ed $50,000 for every game he programmed thereafter. Instead, he does a smart thing here, Ed quit and started his own gaming company and soon afterward brought a brand new Porsche and a house on the waterfront south of Boston. So what I really found interesting about that is not only that Paul was able to find a bug no one else did. But look at the why you, if you can at all possibility work for yourself is they're selling 4 million copies,"
+    },
+    {
+      "timestamp": "00:34:30",
+      "text": "$20 a pop, right? And that's, my math is 80 million on that. Okay, so $80 million and they give, they offer Ed, the guy that created what they sold for 80 million, $50,000. That just blows my mind. All right, skipping ahead."
+    },
+    {
+      "timestamp": "00:34:56",
+      "text": "Here's just a great quote. As I've said before, I'm a sucker for aphorisms and pithy little quotes and just general truths that can kind of be expressed in, you know, sentences or two. So this is one I highlighted. One rather curious thing I've noticed about aesthetic satisfaction is that our pleasure is significantly enhanced when we accomplish something with limited tools. Okay, and on the very next page, we find out why Paul falls in love with programming."
+    },
+    {
+      "timestamp": "00:35:27",
+      "text": "He learned how to program when he was really, really young. I think seventh or eighth grade, and then kind of just forgot about it for a few years. And so this is, he picks it back up. He was witnessing amazing things and also making them happen. Now and then he would hear sounds of the life, the sounds of the life, the sounds of the life of the house. Remember he lives in a house with seven kids. The pipes to the water heater would start thumping or there would be footsteps in the kitchen overhead. Upstairs, all the emotions of a big family were swirling around. Arguments, many competing sorrows, and there was nothing he could do up there to change what worried and upset"
+    },
+    {
+      "timestamp": "00:36:03",
+      "text": "him. But he could always figure out how to tell the computer to do what he wanted and it didn't argue back or ignore him in his basement room it could be of any time of day or night and when he was coding or watching a message being painted on his screen he felt as though there was no other time than now and no other place but the small universe he was creating in his current program a place where he was in charge a refuge inside a refuge skipping ahead this is actually really interesting i highlighted it um and then you realize it's how he learns how to negotiate from his dad. You've got to remember this part because at the end, it comes back. And it's just fascinating."
+    },
+    {
+      "timestamp": "00:36:52",
+      "text": "Well, let me just read it to you. By the time Paul became a regular on the buying trips, his dad was mainly dealing in window-mounted air conditioners, much easier for a man with an aging back to lift and put in the car. So his dad would never sit still, worked very hard. And so he finds a side hustle. He has a really successful job at Boston Gas, climbs the ranks. And on the weekends, he goes to garage sales and the like"
+    },
+    {
+      "timestamp": "00:37:16",
+      "text": "and picks up things that he can fix because he didn't believe in ever letting anybody else do anything for him and then resales. So we're going to see why this is important now. His dad's general scheme was to buy the ACs in the late fall or winter, repair them when he had the time, and wait until the hot days of summer to sell them. He made many of his purchases at yard sales. Paul studied his techniques, saying his dad liked the looks of an air conditioning unit on sale for $100. He'd go up to the owner and he'd start by cracking a joke. Maybe the seller would say, by way of claiming that the AC unit in question was virtually brand new,"
+    },
+    {
+      "timestamp": "00:37:52",
+      "text": "I bought it for my aunt and she passed away. Paul's dad would smile. Well, she probably needs air conditioning where she is now. Paul imagined the other party thinking, who is this guy? His dad was trying to catch the seller off guard, Paul thought. Then right away, his dad would name a price, always a crazy number. I'll give you $3 for this piece of junk. And surprisingly often, the seller would say, oh, I guess."
+    },
+    {
+      "timestamp": "00:38:20",
+      "text": "To Paul, it seemed as if having been thrown off balance, the seller needed something tangible, like a number, to get steadied. Okay, so before, when he's in college, he doesn't think he's going to be a programmer. He just, something he does. He thinks he's going think he's gonna be a programmer. He just something he does he thought he he thoughts He thinks he's gonna be a musician. So this is the transition From how he gets from musician to programmer and this is when he's in college at the next session"
+    },
+    {
+      "timestamp": "00:38:54",
+      "text": "The instructor unveiled his code writing it out boldly on the board Peering from his bat his seat far back in the room Paul saw that his own algorithm was shorter than the professor's it would do It would do the job faster, he thought. He was surprised and he was pleased. I'm way smarter than this guy, he thought. And then he thought, I could do pretty well at this stuff. He took most of his classes at night and many in computer science as he was allowed. During the days, he worked full-time at a string of programming jobs seven years long. Soon enough, he realized that in spite of his first impressions, the computer science faculty at lowly UMass Boston deserved his respect."
+    },
+    {
+      "timestamp": "00:39:34",
+      "text": "Some were still in the midst of distinguished careers, and most had practical experience at companies. Unlike many computer science programs, theirs focused not on theory, but on the actual engineering of software. Paul's day jobs added up to a supplemental course, like clinical rotations in medical school. In his first programming job, Paul was hired as a temp doing menial chores, but ended up rewriting the company's administrative software. He had wanted to learn what office work was like. menial chores but ended up rewriting the company's administrative software he had wanted to learn what off what office work was like after about six months he"
+    },
+    {
+      "timestamp": "00:40:10",
+      "text": "quit and signed on at a medical device company where he wrote a program to control a centrifuge he also spent a year and a half with a defense contractor writing software to control high speed a high-speed camera in an Air Force spy plane and a user user manual to go along with it. Remember, he's doing all this while he's taking a full course load at night. And another year and a half at the mini-computer company Data General, where he performed coding jobs for a team of computer scientists with PhDs. So he winds up realizing, hey, I'm really good at this."
+    },
+    {
+      "timestamp": "00:40:41",
+      "text": "I'm going to do this for work. He gets his PhD. He's still working. He's getting his PhD in computer science, and he goes to work for an old colleague at this place called Interleaf. I don't know if I even talk much about that. I don't think I do, but he has a bunch of successes not only as a founder but before that as a – he works his way up the ladder and becomes a programmer and executive, et cetera. So, uh, this part though, I'm going to skip ahead. And it's interesting because, uh, it's a description of the work. And I think why he realized he was drawn to it. What he later called the social niceties didn't come easily to him, but that didn't matter with"
+    },
+    {
+      "timestamp": "00:41:24",
+      "text": "computers. Exploring them didn't require that he deal with other people and their complexities. Writing software seemed to occupy a place between pure mathematics and the experimental of something, quote, notional slash fictional slash imaginary, end quote, that nonetheless had tangible effects. Coding was infinitely precise and yet imperfectible. Programs got written and revised until they did their jobs as well as possible. It was a field for people who liked the idea of good enough instead of perfect. The idea of play around in your head instead of play around in the mud. If your program failed, it was because you hadn't tried hard enough, not because information was withheld or missing. Programming computers felt like entering a universe unto itself. So now skipping ahead, I mentioned earlier that Tom becomes friendly with this guy who's much older than him."
+    },
+    {
+      "timestamp": "00:42:39",
+      "text": "Or excuse me, Paul becomes friends with this guy named Tom, who's much older than him, and he's the one that came back from the war. He builds up this super successful construction company and then decides to give away all his money, right? So there's this part where the book spends a good amount of time talking about Tom because he's fascinating in his own right. And so Tom grew up in Boston. He went to Harvard in the 1930s, and he talked about like he was from like a real blue collar background and he had, I guess they had like a section of Harvard at the time where like people that were not like blue blood or whatever you want to call it basically hung out."
+    },
+    {
+      "timestamp": "00:43:16",
+      "text": "And so back in the 30s, he felt like, you know, less than. He felt that even if he was as smart as some of the people there because he didn didn't have their upbringing, that he was somewhat inferior. So in the section I'm about to read to you, Tom is talking about running into a Harvard classmate of him, and now they're way older. So I think they're 70s or 80s or something like that, maybe 90s. And, well, let me just read it and then i'll get to why i included this so tom's talking about this guy named sandy sandy was a class of 1932 at harvard handsome guy a real brahmin just like the cab cabots and lowells they spoke only to god i guess that means coming from like prestigious families. The last time Tom ran into"
+    },
+    {
+      "timestamp": "00:44:06",
+      "text": "Forbes, because that's Sandy's last name, the man was pushing 90. He said to Tom, quote, things change as you go through life and we don't feel about you people the way we used to, end quote. You people. By then, Tom wrote, he felt only amusement. One can overstate the exclusionary power exercised by Boston's Anglo-Saxon elite. There had long been ways for a young Irish Catholic to rise. Tom had found one in construction. In my business, he liked to say, all you had to do was be the low bidder. There was politics, of course, and thanks to recent economic history, there was another and broadening route up, the technological exception. You could have the wrong accent and no table manners and be possessed by psychological oddities or worse, so long as you belong amongst Newt's 2%."
+    },
+    {
+      "timestamp": "00:45:07",
+      "text": "He's referring to Donald Newt. Maybe his last name is spelled K-N-U-T-H. They also talk about him a lot in the book. I don't know how to pronounce his name, but he has a theory that only about 2% of humans are actually born to program computers because you need what he's called psychological oddities. So he says, as long as you belong to Newt's 2%,"
+    },
+    {
+      "timestamp": "00:45:25",
+      "text": "born to program computers, enthusiasts imagined the digital technologies would serve as a great democratizing, equalizing force. And that's the last part I highlighted. And when I read that section, it made me think to this tweet I saw on Twitter by this guy named Naval Ravikant, who's a really interesting thinker,"
+    },
+    {
+      "timestamp": "00:45:44",
+      "text": "and I think a lot of people know him because he's the founder of AngelList. And this is his tweet. And I just want to read it to you. So the Internet has massively broadened the possible space of careers. Most people haven't figured this out yet. And I think to people that are interested in technology or in general think that, you know, it's really widespread, but a lot of people don't even think that. And I kind of agree. I do agree with what Naval is saying. It's like the possibility of jobs and things you can do and things you can create."
+    },
+    {
+      "timestamp": "00:46:14",
+      "text": "It's just so much broader than if you look at this, they thought the only way to succeed in Boston was coming from a right family, going to, you know, going, basically doing the same careers, going to the same schools. And you see this, this like this upbeatness which is so stupid to me it's like oh you know things change you go through life we don't feel about you people the way we used to it's like you people like this guy served he won a bunch of honors in uh world war one builds this giant massively successful company gives all his money away like i don't give a shit if you're from some blue blood family, like what they're like, you didn't do that. Like, I, it's so weird to me how people are like proud of things they had no control over, you know? Um, it's like where, where you have to create something to help"
+    },
+    {
+      "timestamp": "00:46:56",
+      "text": "people or you build a company, something you actually did. And that's where they're being proud, being proud because you were born into like a royal family, like that's pure luck. Like I don't understand why you would be proud of that. So and I just like the fact that we're alive in a time where I do agree with this. Like enthusiasts imagine that digital technologies would serve as a great democratizing, equalizing force. And you're kind of seeing like the balance of power and wealth and not even at the highest levels, like just being able to provide for your family or enjoy what you do all day. Like the internet made this all possible in a way that if we were born 50 or 75 years ago, the route, our route would be vastly"
+    },
+    {
+      "timestamp": "00:47:34",
+      "text": "different. Um, and I don't know, I find that really inspiring and if I just, I don't know, I love that idea. Um, okay. So we're, I'm going'm gonna talk skip ahead now Okay, so this is how he becomes diagnosed as bipolar disorder and again The the book is going forward and backwards do through flashbacks and memories and then bringing to present day and kind of pushing the story Forward but since I'm not reading in The entire book it may be a little confusing. So we're going to go back to when he is now at Interleave. So he's already got his PhD."
+    },
+    {
+      "timestamp": "00:48:10",
+      "text": "He's probably, what, in his 20s now? You'd figure maybe early to late 20s. But before he starts Boston Light, which is his first successful company. And this is how he figures out that he's diagnosed with bipolar disorder. And again, because I think this is important, just more of the details."
+    },
+    {
+      "timestamp": "00:48:26",
+      "text": "There were days and parts of days where he had to struggle for civility. This happened most often when he had to go to meetings. There would be five people in the room, and he would try to explain what he was doing with his code, and no one would understand. He'd think, what are they, stupid? How much do I have to spell this out? They can't go from A to C? Some of those times, he felt as if he were back in elementary school. Teachers asking him, would he please explain how he'd come up with the answer"
+    },
+    {
+      "timestamp": "00:48:49",
+      "text": "to a math problem so quickly? And feeling both irritated and puzzled, he would reply, it's obvious. Sometimes in the meeting rooms at Interleaf, this is the company he's working for, it seemed as if the uncomprehending others were ganging up on him and what he felt then was anger sometimes he let it show and this is quote and again this i think this goes back to like what the author's note said that he's not trying to make himself seem perfect uh sometimes he let it show quote do i have to explain every step here end quote after about six months of wild coding paul forced himself toward clarity something was happening to him and he didn't understand it was a weekend at this time he's married he asked his wife to take him to the nearest big hospital he didn't"
+    },
+    {
+      "timestamp": "00:49:37",
+      "text": "dare drive himself the neurology resident told paul that he had bipolar that he had bipolar disorder paul didn't want to believe it. But when he returned for a second opinion, the chief of neurology confirmed the diagnosis and prescribed lithium. That's another drug he starts to get on. The drug left a bad taste in Paul's mouth, as if he'd been sucking on pennies. And taking the drug meant acknowledging that he had this thing,"
+    },
+    {
+      "timestamp": "00:50:03",
+      "text": "this disorder inside him. He told no one at work. He stayed on lithium for several months, just long enough, almost, to forget how he had felt before. A friend came by his cubicle and asked, what's wrong with you? Nothing, Paul replied. You've lost all your energy, his friend said. You sure you're not depressed? Actually, I feel pretty flat, said Paul"
+    },
+    {
+      "timestamp": "00:50:28",
+      "text": "Like, I feel safe But afterward, he thought, I don't want to lose my energy He could deal with anything but that He quit lithium at once So this is what I think many people might consider a mistake The note I left is leaving a million dollars behind So this is what I think many people might consider a mistake. The note I left is leaving a million dollars behind. But again, we're going to see the difference of people, even if they're succeeding at a job, if they feel they're meant to run their own work for themselves,"
+    },
+    {
+      "timestamp": "00:50:55",
+      "text": "then they're going to do that even to drastic measures. So to give you some context, Interleaf, he's doing really well still. He negotiates, he winds up being promoted really high up, and it's a large company, large stable company at the time, and he's got a fat salary and millions of dollars of options, some of which have invested, but he decides to take a leap. Paul saw unbounded promise in it and in the growing host of new online technologies. They're talking about the internet. So he was disposed to listen when in 1995, the founder of a local internet related startup began recruiting him."
+    },
+    {
+      "timestamp": "00:51:30",
+      "text": "This was that fledgling company, Netcentric. The founder pitched it as a 21st century phone company. Its first product facilities. Now check out this this idea for the product. Its first product product facilitates faxing over the internet. Businesses and law firms all relied on faxing for the rapid exchange of documents, but they were obliged to use telephone lines, and the rates, especially for long-distance transmission, were still high."
+    },
+    {
+      "timestamp": "00:51:56",
+      "text": "In principle, Netcentric could offer them a much better deal because faxes could travel over the internet for free. Two reputable venture capital firms in Boston had already bet $5 million in the new company. Paul was offered the job of running engineering in return for a substantial share of the company's stock. Only half of his Interleaf stock options had vested. Quitting Interleaf now meant leaving a million dollars behind. He didn't care. The move looked like a sensible step into the future."
+    },
+    {
+      "timestamp": "00:52:28",
+      "text": "So again, in hindsight, it could look like a mistake, but leaving his comfortable job at Interleaf, going to a startup, having that startup fail, and then eventually leads him to being able to to start his own company and that one actually succeeds so this section is called three years of depression and starting a new company he builds at this time that centric after he leaves interleaved that such fails so he builds this um this it's like this game I don't shang chi so he builds he learns this like I guess like kind of like Asian it's like this game, I don't, Shang-Zhi. So he builds, he learns this like,"
+    },
+    {
+      "timestamp": "00:53:09",
+      "text": "I guess like kind of like Asian chess. I don't even know how to describe it because I've never played the game. So he builds a forum. It becomes really popular. Yahoo makes him an offer for the website. He declines it because they insist that he moves from California. He doesn't want to leave his family in Boston."
+    },
+    {
+      "timestamp": "00:53:24",
+      "text": "So he's still really depressed. He's working. He saved up a bunch of money so he could get through this time, but he's running out of money, and he's working, like, part-time as a programmer earning, like, $80 an hour. And he gets, you know, he's just down on himself. But he kind of programs his way out of depression. But his gloom didn't last long."
+    },
+    {
+      "timestamp": "00:53:45",
+      "text": "Soon after he turned down Yahoo, he had a chance encounter on a Massachusetts golf course of all places where he met a man who was working for the Boston Globe, managing the paper's online store. Soon afterward, Paul had a deal to improve the Globe's website to make it a place where visitors could easily buy all sorts of Boston-related stuff, such as T-shirts and snow"
+    },
+    {
+      "timestamp": "00:54:05",
+      "text": "globes and sports team paraphernalia. The contract was for $50,000, a contract for a product before Paul had a company to build it. He had a name though, Boston Light Software. If all went well, he'd assemble a great team and they'd build Boston Light into a website creator that would serve all sorts of giants corporations once they'd done their first job for the globe. He had taken a step back to a former self. He had programmed his way out of depression. Now it was time to go back to work. Paul founded Boston Light in 1998, three years after he quit Interleave. Okay, so I'm going to skip ahead. This is after he found Boston Light Software. And do you remember that part where I said, remember when Paul goes, when he's a kid and he goes with his dad on these buying trips and learns how to negotiate. So this is him using,"
+    },
+    {
+      "timestamp": "00:55:00",
+      "text": "applying the lessons he learned from watching his dad negotiate to sell the company. The Intuit team, this is the Intuit company that's still around today, the Intuit team was suitably impressed enough that Intuit invested about $2 million in Boston Light and soon afterward decided to buy it. But what was the market value of a company only a little more than six months old with 15 employees and an unfinished first product. Paul heard that another old colleague from Interleaf had just negotiated the sale of a small new company. Paul called him for advice. The old friend asked him how much he planned to ask."
+    },
+    {
+      "timestamp": "00:55:35",
+      "text": "Paul said he wasn't sure. Maybe $20 million? Ask for $40, his friend said. $40, Paul said. Boston Light didn't have any revenues, said Paul, except for the $50,000 from. Boston Light didn't have any revenues, said Paul, except for the 50 grand from the Boston Globe. His friend said to ask for $40 million anyway. The Intuit negotiator was a woman."
+    },
+    {
+      "timestamp": "00:55:55",
+      "text": "Paul liked her. He considered her a formidable adversary. He thought of her as, quote, a cigar-smoking, whiskey-drinking, he thought of her as cigar-smoking, whiskey-drinking tough. As Paul remembered, she said, are you fucking kidding me? 40 million for that piece of shit? She hung up on him. Paul called her back. 40, that's crazy, she said. He said, I agree. I'm probably worth 100,000, but the market thinks I'm worth more, and I'm negotiating right now with four other companies. Skipping ahead a little bit. Intuit's agreed. He's telling the"
+    },
+    {
+      "timestamp": "00:56:30",
+      "text": "people that work at Boston Light now. Intuit's agreed to acquire us for $33.5 million, said Paul. Skipping ahead to the next page, continuing the story, he goes to visit his dad. It was evening, and his father was sitting on the porch, taking in the sea air, facing out across the water toward Boston. He was an old man now, white haired and quite unlike his once forceful self, a bit fearful of the world. Paul had always felt wary of seeming boastful around him, but he simply had to tell him what he'd done. I sold my company, dad. His father smiled. But when Paul told him the price, $33.5 million, dad, the old man's smile vanished. He quickly glanced from one side to another."
+    },
+    {
+      "timestamp": "00:57:22",
+      "text": "This was the man who once prided himself on never seeming fazed. Who negotiated for you? His father asked. I did, said Paul. You didn't have a lawyer do it? No. How do you know about negotiating? His father said. Dad, it's exactly what I saw you do at yard sales. I just love that part. Skipping ahead a little bit, there's not too many more highlights left. This is a short, really easy read. It's like 240 pages in the paperback version. So I highlighted this part because it made me think of the podcast I did on Danny Lewin, No Better Time."
+    },
+    {
+      "timestamp": "00:58:05",
+      "text": "And it turns out Paul was actually booked on the same flight that Danny died on. Paul's greatest luck, his purest, in which he had no hand at all, came on September 11, 2001. He and some colleagues had booked the doomed flight from Boston to Los Angeles, but at the last minute, they switched to a less expensive itinerary. And this is another random part I loved. It's the ice entrepreneur. I never heard of this before, and I love this."
+    },
+    {
+      "timestamp": "00:58:32",
+      "text": "Paul's place by the pond had a curious history. The land and the oldest section of his house were once part of the estate of a 19th century magnate named Addison Gage, an entrepreneur of ice. He harvested ice from Spy Pond and other locales and shipped it far and wide to America's warm southern states and also, according to one local chronicle, to the East and West Indies, to China, to India, and South America, and even Australia. Paul knew some of the history and would entertain guests with it, drawing a moral. No matter how wacky an idea can succeed if it aims at a big market, all those hot places without refrigeration, and if there are technologies to execute it, special saws, sawdust in the holds of sailing ships, insulated buildings."
+    },
+    {
+      "timestamp": "00:59:24",
+      "text": "What vision the ice barons of New England must have had to look at the ice on Spy Pond and think, I could send this to India. That just takes a lot of knowledge in that paragraph there. Skipping ahead. So after the sale of Boston Light, after sale of Kayak, the book spends a great deal of time on all these other ideas that Paul has. I'm not going to spend any time on it, most of which obviously don't work out, but there's probably one chapter where he lists like 10 or 15 different ideas, and each one has a paragraph. And I wrote a little note to myself that I like this idea. So it's just a paragraph real quick."
+    },
+    {
+      "timestamp": "01:00:11",
+      "text": "There was good enough software, a nod to the way his father had of pounding in a nail and saying, that's good enough. The idea sprang from irritation. This is Paul talking now. Microsoft keeps releasing a new version of Office every year. Who needs all those bullshit features? I would take the 10 most successful software apps and strip them down to the 20% most people use. And the last from the book that I want to read, which I think is interesting. So this idea of the new economy, I think it echoes back to the podcast on the Michael Lewis book on The New New Thing, which is about Jim Clark. And he was very much a creature of the new economy and like a new growth."
+    },
+    {
+      "timestamp": "01:00:53",
+      "text": "I think it was new growth theory. It was like a linchpin of the way he thought. So – and they're going to use the word like American. And I think that it's not just Americans that have this trait, but I just want to read this last paragraph to you. Paul was a creature of the new economy, but he was also an old American. He was a carrier of strain in the American character that refuses to be encumbered by the past. It's an ethos that says you don't have to do what your father did, that indeed you don't have to do what yourself were doing six months ago or even yesterday."
+    },
+    {
+      "timestamp": "01:01:30",
+      "text": "Consistency doesn't matter. Only invention matters. And I'm going to leave it there. If you want to get the full story, I'd recommend reading the book. Obviously, that's why I did a podcast on it. A Truck Full of Money, Coding Mania, Love Genius, The Life of an American Entrepreneur. The great thing is,"
+    },
+    {
+      "timestamp": "01:01:50",
+      "text": "is if you want to read the book and support the podcast at the same time, you'll see in the podcast description and on founderspodcast.com. So what I do is after I'm done recording these podcasts, I obviously go back. Like I said before, it's just a one-minute show. I pick out the books I'm done recording these podcasts, I obviously go back. Like I said before, it's just a one-man show. I pick out the books I'm going to read."
+    },
+    {
+      "timestamp": "01:02:08",
+      "text": "I read the books. I do the highlights, record, edit, do all that other stuff myself. And what I do to make it easy because I also, in addition to reading a lot of books, I listen to a lot of podcasts. And I leave, like, timestamps. So I go back through after I'm done editing, and anything that, like, pops out to me, I try to leave, like, a timestamps. So I go back through after I'm done editing and anything that pops out to me, I try to leave a timestamp. So if you see the full description in your podcast player, you'll see. It says two minutes and this is what I'm discussing in two minutes or ten minutes, whatever it is. So below all that, I put links to the book I've covered on this podcast and every single other book that I've covered so far."
+    },
+    {
+      "timestamp": "01:02:44",
+      "text": "And so I keep adding to that list as the more podcasts I make. So if you want to support the podcast, if you like what I'm doing here, I don't really have, I don't interrupt it with any advertising. So at the end of every podcast, I obviously will tell you ways to support the podcast and if you want to help it out. And the best way, honestly, is just buy the books. I'm doing this podcast because I think uh reading People read more like their lives are like it's just a way to improve your life I feel like when you're focused on a story, especially when it could last you know from"
+    },
+    {
+      "timestamp": "01:03:17",
+      "text": "5 to 20 hours Just completely uh different than I feel like these little hits of dopamine we get with all these social apps and and staring at phone all the time. So it's kind of like, it's a way, it's like my own, not anecdote, an anecdote, you know, I can't pronounce any words. So the one where if you get bit by a snake, what is that called? Anecdote. All right. I think you know what I mean. It's my anecdote. Hopefully that's the right word to that's the right word, to the hyperactivity we have with our phones. When I'm reading a book, I feel like I'm paying attention, I'm in the moment, and just spending a lot longer on a subject, it feels helpful for my mind,"
+    },
+    {
+      "timestamp": "01:03:58",
+      "text": "especially helpful if you need to take a long-term view of building a product or a service or whatever it is that you're working on or want to work on in the future. So if you want to take a long-term view of building a product or service or whatever it is that you you're working on or want to work on in the future so if you want to support the podcast click use buy the book using those links there's amazon affiliate links which means amazon gives me a small percentage of the sale at no additional cost to you so i think each book i get like 80 cents or something like that and a bunch of you guys do this so i really appreciate it it's a great way to get yourself a book to read, which is the whole point of the podcast, and to support founders and help me do more of these."
+    },
+    {
+      "timestamp": "01:04:31",
+      "text": "So I'd recommend doing this, but honestly, buy them all. You don't have to just buy this one. Buy a bunch of them if you want. The more books you buy, the more support you're giving. And again, have you ever bought a book and regretted spending $10 or $15 on it, I just think it's a bargain for any book. Like I was"
+    },
+    {
+      "timestamp": "01:04:50",
+      "text": "thinking about, so I do mostly shorter books. I try to do mostly shorter books for this podcast because you know, a lot of these longer books that are 800 pages or something, they just, I feel like there's just too much fluff in there. But one book where that, that is a exception to the rules, that book Titan on John D Rockefeller that I i covered which is probably 700 800 pages but it's like a 25 hour read and you know i think you can get it for like 14 something like that like where are you gonna get 25 hours of entertainment plus valuable like information um there's a quote in there i kind of wanted to make a shirt uh that it stuck with me. And I think about it all the time when I'm in my own day to day. And it's like, it's describing, it's the author"
+    },
+    {
+      "timestamp": "01:05:29",
+      "text": "describing John D. Rockefeller. And he's like, he was not one to persist in a flawed situation. And it makes me analyze and be like, all right, no matter how hard I work or how many hours I work, if I'm working on the wrong thing, it's a flawed situation and you shouldn't persist in it. And that just sticks with me. And that alone was worth all the time, but the stories in there are just amazing. So buy this book, buy any book that seems interesting to you. Using the Amazon links obviously will help me out very much and I appreciate it. If you do like and you get value out of what I'm doing here. Another way you can support the podcast is telling your friends about it. So I see, I get some at mentions"
+    },
+    {
+      "timestamp": "01:06:07",
+      "text": "if you want to follow us on Twitter or interact or send me like a book that you think I should do. Best way to do that right now is just tweet at me. It's at Founders Podcast. And just say, hey, this book might be good or whatever. But a lot of you guys also, you know, recommend the podcast to your followers. So that's super helpful because as the weeks go by, the downloads keep going up and more"
+    },
+    {
+      "timestamp": "01:06:32",
+      "text": "people are finding out about this. One way is because listeners and people are fans are emailing the link or tweeting the link or sharing it wherever they spend time. And another way is because we keep getting I keep getting reviews I think I have a five-star average which is fantastic which means you guys are enjoying it I also read them I tried to avoid internet comments but I do think that they're funny and there's some good like it's interesting because this is you know something I've created I kind of like everybody's been nice so far and I hope that trend continues,"
+    },
+    {
+      "timestamp": "01:07:06",
+      "text": "but the reviews specifically on Apple Podcasts and iTunes, I do read, so you can also, if you want to leave a review there, make it five stars, you can also recommend other books, I'll read it, and you can send a message that way, but what I'm saying is, even if you don't want to buy the books, you can help by not spending another dollar, because I know everybody, you know, if I know everybody – what I always say is I like to keep the podcast free for everybody. That's why I changed my mind on the whole Patreon thing because everybody is in a different situation. So if your budget allows you to buy books, then buy books. If it doesn't, then you can still help out if you want to spread this message, and the best way to do that is to leave reviews. I'm sure you've seen just like I have, even though I have three different podcast apps"
+    },
+    {
+      "timestamp": "01:07:45",
+      "text": "installed on my phone and I do this to torment myself apparently, Apple is really, it seems like they're getting more involved. They realize that they have the single largest podcast app with the most listeners and so now I'm seeing like it's easier to leave a review. They're starting to say,"
+    },
+    {
+      "timestamp": "01:08:04",
+      "text": "they're starting to like suggest different podcasts based on your listening experience and i got to take some time to read about this and i i can't believe i haven't yet but just the actual uh inner the actual experience of the app is greatly changed and they do seem to be like for lack of a word giving a shit since they do have you know the largest podcast audience and i use overcast which i love and breaker uh which i also love parts of overcast i think is the single best um podcast app built and i like that it's just one dude doing it um breaker has interesting features i don't like the whole social like liking things or like i don't think everything has to have a comment to."
+    },
+    {
+      "timestamp": "01:08:48",
+      "text": "I think internet comments are probably the bane of our existence. Yeah, there's some good ones, but you have to go through probably a thousand comments to get to one good one. If you're talking about just random comments on the internet as opposed to people you seek out. But Breaker is very helpful because it has this whole, I can see an entire history of what I listen to, which I really like because I listen to podcasts over and over again because I use podcasts primarily as like a tool for learning. And they let me leave notes. Now, I leave notes on the podcast like I leave highlights in a book, which means quotes at a specific timestamp so I know what's taking place in that. I see other people like commenting on it. Like, I don't think that's a good idea. But it's not my app. They get to do whatever they want. I use all three of them. Point being is whatever you use, recommend it, even Stitcher, anywhere you use, if you want to give reviews,"
+    },
+    {
+      "timestamp": "01:09:38",
+      "text": "that's really the best thing. I really appreciate you guys taking the time and doing that so far. And for the nice words, it's not necessary and very much appreciated Um the second one, so i'm going to ramble a little bit At the end of every podcast about how you can support the podcast and it's not just like me reading ads because i'd be boring It's me like talking about thoughts that I can't really include in the podcast So hopefully entices you to stick around if you don't want to you don't have to but um, you know There's just some ideas. But there's just some ideas. So there's two other ideas I want to talk about."
+    },
+    {
+      "timestamp": "01:10:08",
+      "text": "They're both tied to other ways to support the podcast too. So I've talked about the app. Another way you could support this podcast is by subscribing to Blinkist. So if you go to blinkist.com forward slash founders, right? You can go to that URL or like I said, everything I talk about, links are always at founderspodcast.com. And I also include them in the podcast player app, so you never have to go to another website, but you can find them anywhere. So you can also find this link, blinkist.com forward slash founders."
+    },
+    {
+      "timestamp": "01:10:32",
+      "text": "You get 20% off of a yearly subscription to Blinkist, and I think now they do monthly. But when I bought the app and I first knew about it, I did the yearly. I think their feature request was like, hey, let's do this monthly. But I think yearly is probably the best way to go. You save more money. But anyways, Blinkist is basically like the whole thing, in my opinion, is like in the information age, there's like an abundance of information and we can't keep track of it all."
+    },
+    {
+      "timestamp": "01:10:57",
+      "text": "Everything has to be shorter, more concise, more to the point. You know, I don't want when I'm trying to pick out the highlights, I try not to waste your time. You know, so maybe I read almost all the highlights I do, but sometimes I reread it. I'm like, this isn't interesting in retrospect. So I try not to waste any time. So what Blinkist is good at is saving time. So they basically provide 15 minute summaries to over like 2000 nonfiction books, right? So I think there's a lot of value in reading biographies because you understand the person and we're all people and we understand those messages. They can be like kind of mentors to us throughout time, you know? Some cases like the book on Henry Ford I did, that book was written"
+    },
+    {
+      "timestamp": "01:11:33",
+      "text": "over 100 years ago, yet that knowledge is still can affect my life now as I record this in 2018. So Blinkist helps with this because there's a lot of nonfiction books that just, they're just too, they're just, they're just too long. I almost said too fucking long. That really is what it is. They're just too goddamn long. And they have an interesting idea, but you can't, you know, maybe you can explain that interesting idea in a few paragraphs,"
+    },
+    {
+      "timestamp": "01:11:57",
+      "text": "but you can't really sell a few paragraphs, you know. So they wrap it up in this book. So I use Blinkist two ways. One, I find new books through it because I have the Blinkist account where you can listen. There's two different prices. One, you can just read the 15-minute summaries, but I like to listen to them just like I listen to podcasts. So I listen to it, and it's usually even less time than 15 minutes, by the way. It gives me a good idea of what the main point is, and if I like the point, I'll read the entire book. But some cases, I'm like, okay, that's an interesting thought."
+    },
+    {
+      "timestamp": "01:12:25",
+      "text": "I don't need to go any deeper. I'll just retain that thought. So what I want to share with you here is I'm going to read some parts from this blink on this book I read a few years ago. So I've talked about it on the podcast before. I have a really weird obsession with efficiency and trying to get as much leverage out of my time. And like, like there's like a deep streak of like minimalism in me too, because I just want to focus on things that like,"
+    },
+    {
+      "timestamp": "01:12:53",
+      "text": "that are important to me and spend a lot of time doing that and hopefully get good at it and spend literally zero time on anything else. So what essentialism is, the subtitle is The Discipline Pursuit of Less. So it was a good book. It's 200 and something pages. I probably have, I don't know, 15, 20 different highlights in there. Interesting topography because some pages are just one giant quote. And I think the guy's idea is really important. But let me show you, I probably could have got most of that with just reading the Blink. So here's some parts directly from Blinkist. This is their words. Essentialism, which is the main idea in the book, focuses on four main points."
+    },
+    {
+      "timestamp": "01:13:35",
+      "text": "One, do less but do it better. Number two, reject the notion that we should accomplish everything. Three, constantly question yourself and update your plans accordingly. And I put in quotation marks, a summary of that summary is be an editor. And then four, once the tasks have been reduced from the trivial many to the essential, ensure that the changes you've made have put into place. So right there in maybe what, 25 words, whatever that is, that's the main thesis of the book. Now there's some deeper dives I found interesting. They're also in the Blink. That's what the Blink is called,"
+    },
+    {
+      "timestamp": "01:14:07",
+      "text": "so a little summaries. Be ruthless in cutting away things that are not essential. And this is distilled. They distill that thought down to one sentence. If it isn't a clear yes, it's a clear no. When I read that, that made me think of one of my favorite, I guess a blogger used to be an entrepreneur."
+    },
+    {
+      "timestamp": "01:14:25",
+      "text": "I don't know how to describe him, but it's this guy named Derek Sivers. You've probably seen him, heard him on podcasts and stuff. But Derek Sivers has a version of this where if it's not a clear yes, it's a clear no. He says a great way to decide on what you're doing is if it's when somebody asks you to do something or you ask yourself, it's either hell yes, like I'm super excited, I want to do this, or it's no. A lot of times we have this thing where like we say yes to be polite, or like we haven't, like oh I don't know if I like that, maybe I'll go, and like that's, time is all you have, so if you're wasting that, like you're going to be frivolous on other areas of your life, so when I try to figure out what I want to do, it's like yes, I absolutely want to do that, or the answer is no, and for most things,"
+    },
+    {
+      "timestamp": "01:15:02",
+      "text": "you know, I'm passionate about starting companies, I'm passionate about being a good husband, a good father to my daughter, working out, being like physically healthy. So I'll spend time doing that, reading, listening to podcasts and dinners, long dinners with old friends. And other than that, I'd say no to almost everything else because that's what I get the most satisfaction out of life is so that's kind of how i applied that um and all those things i say a clear like a clear hell yes i want to do that um and i was listening to the jocko podcast and he made this good point how like we just complain too much and he's just like why don't you just be excited you get to wake up and improve tomorrow you know like so when i get up in the morning like wow i get to like make something better myself better a product or a service or"
+    },
+    {
+      "timestamp": "01:15:45",
+      "text": "And it's just uh, that's a really good benefit of eliminating a bunch of shit from your life because without all that crap Like distracting you you focus on things you really love and you're like super amped up for what you're doing And realizing that yeah, there's gonna be bad times, but like stop being negative like you have a chance to be better That's amazing. You know how many people like the idea of like, if you were on your deathbed, what you would give for that time back. And we're kind of wasting it complaining or being sad when, you know, we just need a different perspective to, to, um perspective to operate from. And so when I read that blink, again, I try to collect all this stuff and kind of tie all this information together. And so I've talked about ad nauseum on this podcast, like one of my favorite writers is Nassim Taleb."
+    },
+    {
+      "timestamp": "01:16:45",
+      "text": "And he has similar thoughts with his concept of via negativa, right? So I saw a tweet describing via negativa without having to read some of, like, as much detail as Taleb goes into, even though I definitely recommend reading his books because they're fantastic. So this tweet says, via negativa, apply to your life. So it's all about subtracting, which is what essentialism is, right? So I saw this tweet. Via negativa, apply to your life. When it's all about subtracting, which is what essentialism is, right? So I saw this tweet. Via negativa, apply to your life. When things are not adding up in your life, it's time to start subtracting. When you stop doing the wrong things, you give the right things a chance to catch up with you. So remember that when I talked to you about a book I read in a few minutes from now, okay? And then finally, the end of the"
+    },
+    {
+      "timestamp": "01:17:25",
+      "text": "blinks usually end with like a key message and they try to distill it down even further. And it said the key message of this book talking about essentialism in spite of how it might seem, only a few things are actually vital to our goals and wellbeing and everything else is unimportant by focusing on these few essential things and learning to do better by doing less. We can craft a life that is more productive and fulfilling. So right there, I spent 10 minutes, I spent hours reading the book. Based on reading the book, I'm telling you, you got 90% of the important parts in 10 minutes and the blinks. That's why I think this is so important because if you calculate, okay, maybe you read 10 books every year and maybe you're 30 years old, you can expect to live another 50 years. Well, well that's only 500 more books that's not actually a lot considering there's"
+    },
+    {
+      "timestamp": "01:18:07",
+      "text": "millions hundreds of millions of books out there so we have to be really smart about how we apply our time and the reason i recommend this app is because that's what it does it saves time and there's nothing better than buying time because when you're when you when you run out at the end of your life you would give everything you own for more time. Okay. So if you're interested in that and you want to support the podcast, go to Blinkist.com forward slash founders. They give you 20% off and it's a great way to support the podcast and get you something that's actually useful and something actually used. So last way you could support the podcast and then I will leave you for this podcast until we meet again is audibletrial.com forward slash founders audibletrial.com forward slash founders"
+    },
+    {
+      "timestamp": "01:18:50",
+      "text": "you you're familiar with audible if you don't have an audible subscription it's it's it's a no-brainer to me um so audible here let me just go to the to the actual URL real quick. So Audible, Charles, Ford, and Founders, they give you a free audio book. You sign in with your Amazon account. You get 30 days free. You can cancel anytime you want. And you get to keep the book even if you cancel before your 30 days is up"
+    },
+    {
+      "timestamp": "01:19:17",
+      "text": "or after your 30 days is up for that matter. You get to keep your books. Audible to me is just like podcasts. I use podcasts and books mainly for learning and for keeping my mind healthy and interested. And there's just times when I'm driving or walking or doing other things where I'm not gonna be able to stare at a screen or a book. And Audible is just a no brainer. Now what I would recommend, so let me just read the stuff you get in case you don't know. So you get 30 days membership free, plus a book to get you started. You get one month of credit after trial. So you get one book every month, good for any book,"
+    },
+    {
+      "timestamp": "01:19:50",
+      "text": "regardless of price. It's how, I don't know if your social circle is like this, but I feel like more of my friends are listening to audibles than they are even reading books now. I still prefer reading books first, but audible supplements that to me, like I said, in the times where I can't read books and I've kind of gotten away from reading books like i own a lot of the kindle versions as well as the paperback or hardcover versions so i'll buy multiple copies the same book because if i travel or something i like to read it on my iphone but i just i fell in love with reading actual physical books and i love this this technology has been around for 5,000 years. And that's my first choice. But supplemental to that, I listen to at least one book a month too."
+    },
+    {
+      "timestamp": "01:20:32",
+      "text": "And it's just like listening to a really long podcast. I mean, that's basically what it is. So the reason I said remember, the last few weeks I've been reading other books that are not biographies. This is why it's also taken me so long to get this episode out. So I just finished Nassim Taleb's newest book. It's called Skin in the Game, Hidden Asymmetries in Daily Life. I thought it was fantastic. It's book five and what he calls the inserto. And so what the inserto is, is his ideas on probability. And it starts with Fool by Randomness is the first book. So each book is a standalone book, but it's"
+    },
+    {
+      "timestamp": "01:21:04",
+      "text": "also in a collection of this idea that he's been expounding on for now over 20 years. So it goes Fool by Randomness, Black Swan, The Bed of Procrustes, Anti-Fragile, and now Skin in the Game. I've read all of them. I recommend. So I got a text from a friend."
+    },
+    {
+      "timestamp": "01:21:17",
+      "text": "Let me see if I can find it the other day. And he is one of these guys that only reads like audible stuff or only, I guess, reads, listens, whatever you want to put it, say there. But he texts me with, and I have to scroll back now, but it was funny because I got this text when I woke up in the morning. Skin in the game and then the emoji for the thumbs up or thumbs down. And I was like, are you asking my opinion? Yes. And I was like, are you asking my opinion? Yes. And I respond, I recommend everyone read every single word in the inserto."
+    },
+    {
+      "timestamp": "01:21:51",
+      "text": "So yes, read the fucking book. And he said, fucking wasn't necessary, but will do. And I was like, listen, I'm passionate for his writing. So obviously don't mean to just have gratuitous vulgarity there, but in some cases, it's definitely deserved. So you get one credit a month after trial. Good for any book regardless of price. It's ad-free, premium audio. You can listen to offline, no interruptions."
+    },
+    {
+      "timestamp": "01:22:18",
+      "text": "That's huge. Your own amazing library. Keep every book even if you cancel. You also get 30% discount for member member only savings if you want to buy more than one book a month and one of the coolest features is easy exchanges if you don't love the book you swap it out for free anytime so support the podcast go to audible trial comm for such founders you get one free book sign up with your Amazon account it takes two seconds and um if you want to read"
+    },
+    {
+      "timestamp": "01:22:46",
+      "text": "one of the books i've covered in the past i would recommend that if you don't want to i'd recommend skin in the game listen to it unfortunately to lab doesn't narrate it but it's his still his writing so uh and it's worth your time and it's not that long um i think this is out of all his some of his books are monsters like the worth but I think I got the hardcover version and it's sitting in front of me. It's 200 and what is that? 224, something like that. Yeah."
+    },
+    {
+      "timestamp": "01:23:15",
+      "text": "Two, two 30, something like that. So audible trial.com four slash founders that will give you a free book. And it's a great way to support this podcast. I've taken up enough of your time. Thank you for listening this long. I appreciate everything that you're doing."
+    },
+    {
+      "timestamp": "01:23:28",
+      "text": "I appreciate this very unique experience. Just going back to that Naval quote that I shared earlier, that the Internet has broadened the amount of things that we can do, career-wise or career-otherwise. The Internet and the iPod and now the Apple iPhone and the rest of these smart devices have made it possible for me to have basically a one-on-one conversation with people all over the world and one to many. So I look at the metrics and I'm just like, I just cannot believe how many people in all kinds of countries, Japan, everywhere um listen to this because i think that there is a"
+    },
+    {
+      "timestamp": "01:24:07",
+      "text": "a small percentage of us that are extremely passionate about building companies and couldn't imagine doing anything else and then there's other people that listen to this that aren't there yet and they they want to be there so um i don't know this is just a really cool experience and i always kick myself in the butt when i i like sometimes i take too long to put that aren't there yet and they want to be there. So I don't know. This is just a really cool experience. And I always kick myself in the butt when I, like, sometimes I take too long to put on another podcast or I get distracted or whatever the case. Now, keep in mind, sometimes I have to read books that I'm not,"
+    },
+    {
+      "timestamp": "01:24:36",
+      "text": "like I read books and I'm like, there's no way I'm going to recommend this. So it takes a little while because, you know, I have these little mini failures in between. But what I'm saying is I'm really appreciative. This is, I'm just in love with doing this. And I'd just be talking to no one if you didn't listen. So I appreciate you. Have a great day."
+    },
+    {
+      "timestamp": "01:24:52",
+      "text": "Talk to you soon."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:27:26.755Z"
+}

@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "episodeNumber": 12,
+    "title": "Elon Musk & How Tesla Will Change The World",
+    "slug": "12-elon-musk-how-tesla-will-change-the-world",
+    "url": "https://podscripts.co/podcasts/founders/12-elon-musk-how-tesla-will-change-the-world",
+    "date": "August 20, 2017",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "So I want to continue what we were talking about last week. And this podcast will be part two of, I think, what's going to wind up being a three-part series covering the Wait But Why Elon Musk blog post series. So normally, if you've heard Founders before, you know that every week I read a biography of a different entrepreneur or founder and then share with you some key insights or parts of the book that I found interesting and I learned something from. So this podcast and the last podcast, the first time we've ever done a blog, covering a blog post. And to call it a blog post really doesn't do it justice."
+    },
+    {
+      "timestamp": "00:00:38",
+      "text": "He, the writer of Wait But Why, his name is Tim Urban, he wrote something like 90,000 words of this series. So it's actually available in Kindle format. So I originally stumbled upon it and I read it online, which was like a Herculean effort. Because like the post we're talking about today, it's about it takes about an hour and a half to read. So obviously, we're not going to cover all of it. But the entire series, according to the Kindle version, takes about seven to seven and a half hours to read. So without further ado, let's go ahead and jump into the post. I'm going to start, the beginning of the post is really interesting because if you're familiar with WeiboY, he starts at a foundational level and then builds up from there. So he talks"
+    },
+    {
+      "timestamp": "00:01:18",
+      "text": "about how energy is produced and consumed on the planet. He goes into the early production of gasoline engines and how that came about. For the purpose of our podcast, I'm going to just focus on the parts specifically about Tesla, their strategy, and then Elon Musk's ideas on how to organize and run a business because I think that's what's most interesting to you. All right, so let's go ahead and jump in. Christy Nicholson remembers meeting Elon Musk for the first time at a party back in 1989. I believe the second sentence out of his mouth was, I think a lot about electric cars. And then he turned to me and said, do you think about electric cars? And just so you know, if you want to follow along, I'm in the part three, the story of Tesla. And again, that's available at"
+    },
+    {
+      "timestamp": "00:02:08",
+      "text": "weightbuttwhy.com. When he decided in 2003 to stop thinking about electric cars and start making them, the odds weren't in Musk's favor. There were the high barriers to entry that had prevented any startup car company from succeeding in almost a century. There was the unaccounted for cost of carbon emissions, which made starting an EV company like trying to stand out on a basketball court as a rookie when all the players except you can foul with no penalty. And then there was a gargantuan oil industry, which would do everything in its power to stomp on every effort to make it obsolete. On top of that, the EV was a new kind of car whose development had essentially been on pause ever since EV makers threw in the towel a century earlier,"
+    },
+    {
+      "timestamp": "00:02:52",
+      "text": "and a daunting and costly catch-up process would lay ahead. The three concerns listed above would all need to somehow be addressed for this to have a chance. The overarching question was, had electric cars never had their day because of irreconcilable issues or had the right person, the Henry Ford of EVs, just not come along yet? So there's going to be a lot of references"
+    },
+    {
+      "timestamp": "00:03:15",
+      "text": "to Henry Ford in this post and on this podcast. Somebody that Elon Musk very much admired. If you want to learn more about him, I did two podcasts on Henry Ford. One about his autobiography and one about a biography written by somebody else called I Invented the Modern Age. You can find them both at FondersPodcast.com. Let's go back to the post. Car companies aren't supposed to start in Silicon Valley."
+    },
+    {
+      "timestamp": "00:03:41",
+      "text": "In Silicon Valley, startups aren't supposed to make cars. But the electric car industry is not your grandfather's car industry. And in 2003, it wasn't anyone's car industry. After the brief bubble of new electric cars in California in the 1990s, between the year that the state passed the zero emissions vehicle mandate and the year they were bullied into repealing it, the electric car industry had withered into the oblivion of the scattered California garages and tech labs of car geeks. And just as a side note, if you want to learn more about that time period,"
+    },
+    {
+      "timestamp": "00:04:14",
+      "text": "there's a great documentary. I watched it on Netflix. It might still be there. It's called Who Killed the Electric Car? It's definitely worth checking out. It ends with the cars being forcibly repossessed and crushed, and then the owners of the cars actually had a candlelight vigil for their cars. Big things have emerged out of small groups of cutting-edge geek labs. Apple, Microsoft, Google."
+    },
+    {
+      "timestamp": "00:04:37",
+      "text": "So why not the modern electric car industry? One of these little car technology companies was AC Propulsion. And while carmakers in Detroit, Tokyo, and Munich continued to not realize that electric cars were clearly the future, the guys at AC Propulsion were experimenting away, quietly making one giant EV breakthrough after another. One day last week, I cold-called AC Propulsion and accosted their CTO, Paul Carosa, who had been there since the beginning. He was too polite to figure out how to get off the phone with me, so he told me about those years in the late 90s and early 2000s when they created their fanciest car to date,"
+    },
+    {
+      "timestamp": "00:05:16",
+      "text": "the T-Zero. AC Propulsion had figured out two huge things. So this is the precursor, obviously, to Tesla Motors. First, the T0 was fast. It went 0 to 60 in 4.9 seconds, which was crazy fast for an electric car and put it on par with the fast gas cars. Second, they had made big progress"
+    },
+    {
+      "timestamp": "00:05:39",
+      "text": "on an enormous EV shortcoming by getting innovative with the battery. Previous EVs had used lead-acid batteries which were heavy and limited. AC propulsion realized that the laptop and mobile phone industry had been pouring development into making small lithium-ion batteries increasingly efficient and that those batteries had gotten really advanced. The batteries looked like AA batteries, which might seem like an odd match for a car, but by lining up a few thousand of them in a big battery case, they had just created, by far,"
+    },
+    {
+      "timestamp": "00:06:15",
+      "text": "the world's best ever car battery. EVs had also been limited to a 60 or 80 or maybe 120 mile range. The T-Zero could go 250 miles on a single charge. So this is where we're going to meet one of the original founders of Tesla Motors. In 2003, a California engineer named J.B. Straubel was then tinkering around with EVs himself. He met Musk to ask for funding for a car project he was working on. Soon after that, Straubel brought Musk by the AC propulsion office to see the T-Zero. Musk was blown away. Musk had suspected for a while that EVs were the way of the future,"
+    },
+    {
+      "timestamp": "00:06:56",
+      "text": "and now he saw the possibilities with his own eyes. He was convinced. At the time, he was already running SpaceX and trying to colonize Mars. Remember, this is in the early 2000s. So launching a startup car company wasn't something he could really fit into his calendar. He really wanted the world to see the T-Zero because he was sure it would excite people and help to stoke a new wave of EV interest. And he tried to convince the AC propulsion guys to bring the T-Zero to market with his funding, but they didn't want to deal with it because it sounded icky."
+    },
+    {
+      "timestamp": "00:07:34",
+      "text": "Instead, AC Propulsion introduced Musk to a group of three other entrepreneurs who had also recently approached them with a similar idea and had also been rebuffed. Those three guys, who included Martin Eberhard and Mark Tarpenning had come up with the idea of licensing AC Propulsion technology and bringing it to market themselves as a new company called Tesla Motors. But to make any of this real, they needed money. It was a perfect match, so they decided to make a run at it together. Musk, who could only dedicate part-time to the project, could fund the effort, become chairman, and maintain a strong influence. But by making Eberhard CEO he could focus on SpaceX with the bulk of his time. And now Tesla was on its way. The group formed a team and started figuring out how to be a car company. One big problem they had was that this was new technology,"
+    },
+    {
+      "timestamp": "00:08:28",
+      "text": "and the R&D costs early on for a new technology drive up the price of the product. That's the same reason the very first cell phones and computers started out really expensive. Except in those cases, they were the first of their kind, so the product could be super expensive and still sell. Because perfectly good affordable gas cars already exist, it wouldn't work to come out with the equivalent quality of a $25,000 gas car for $100,000. So this became the business plan. And if you remember the podcast I did on the very first Founders Podcast, actually, it was on Ashley Vance's book on Elon Musk. And you might have also heard the three-step plan because it's published to this day on Tesla's"
+    },
+    {
+      "timestamp": "00:09:12",
+      "text": "website. In fact, Elon did a three-part plan, part two, I think he called it. And I think that came up about six to 12 months. If you just Google it, you can find it and read it for free. But here's a summary from Tim's post. So this became the business plan. Step one, high price, low volume car for the super rich. Come out with the expensive first product, but make the car so fancy that it's worth that price. I.e. just make it a legit Ferrari competitor and it's okay to charge over $100,000 for it. Step two, mid-priced, mid-volume car for the pretty rich. Use the profits from step one to develop the step two car. It would still be expensive,"
+    },
+    {
+      "timestamp": "00:09:53",
+      "text": "but more like a $75,000 Mercedes or BMW competitor instead of a Ferrari. And step three, low-priced, high-volume car for the masses. Use the profits from step two to develop a $35,000-ish car that after the government's $7,500 EV tax credit and the savings on gas would be affordable to the middle class. So keep in mind, I just want So now, since I'm recording this in 2017, we see that Tesla's already on step three. We saw that they have 400,000 to 500,000 pre-orders of the low-priced, high-volume car that he's referencing here. But Tim didn't have this information at the time."
+    },
+    {
+      "timestamp": "00:10:40",
+      "text": "So back to the post. The overarching mission wasn't to build the biggest car company in the world. It was to solve a bunch of longstanding EV shortcomings and build such an insanely great car that it could change everyone's perception of what an EV could be and force the world's big car companies to have to develop their own line of great EVs. It's interesting because if you're if i think i mentioned this on the podcast before but volvo just came out and said that they're going to be switching to evs and we're already starting to see part some of this uh happen um and we're going to get to the idea see i didn't know like i'd read obviously the elon's biography and i followed tesla pretty closely um i actually sat in a roadster so i live in South Florida and one of the first Tesla stores was in"
+    },
+    {
+      "timestamp": "00:11:28",
+      "text": "the middle of nowhere in this place called Dania Beach and it was like a like a 1500 square foot like warehouse in the middle of nowhere and at the time they didn't have the Model S they didn't have anything they just had the roadster so I went to go check out the store and I walked inside and they had one it was like 150 000 obviously i wasn't trying to buy it but they would let you sit in it right and you could drive it i'm not kidding you could pull it you could drive it forward like a few feet and then drive it back a few feet and that's all that's all you could do now you go to that same store today and they took over like almost the entire block."
+    },
+    {
+      "timestamp": "00:12:05",
+      "text": "It's one of the largest volume Tesla dealerships in the world now. I mean, there's just, I actually went there, a friend of mine works there. And I actually test drove the top of the line X, the Model X P100D that they just got in. This was probably like a few months ago. So big, big changes, needless to say. But I've been fascinated by Tesla for a very long time. I actually sat in the first Model S back in 2012. So I just realized I went on a tangent"
+    },
+    {
+      "timestamp": "00:12:35",
+      "text": "and didn't tell you the point. So what I thought the point of Tesla was just to be a car company and to dominate the luxury car market. And as I learned through Elon's own words and then Tim's post, it's like, no, the larger influence that Tesla will have, because even if they sell a couple million cars a year, if they can get to that point, it's still such a tiny percent of the overall market. The whole idea is to infect other car companies with seeing once they see that somebody else can build an electric car, a"
+    },
+    {
+      "timestamp": "00:13:06",
+      "text": "beautiful electric car that people actually want, which we're starting to see now. They're a bunch of me too companies, which is what Elon says that their derivatives, I think is the word he uses, that they want to see it work first before they'll do it. And we're already starting to see that now. So back to the post, their end goal. And this is what I was talking about here. And the company's official mission was to accelerate the advent of sustainable transport by bringing compelling mass-market electric cars to market as soon as possible."
+    },
+    {
+      "timestamp": "00:13:33",
+      "text": "In other words, EVs are going to happen, but we're going to make them happen a lot sooner. Sooner, in this case, is important because it means carbon emissions decrease earlier and the long-term effects of them are much less damaging. So they got working and four years later they had their step one car, the Roadster. With the Roadster, Tesla wasn't trying to make their long-term car. One Tesla employee told me that from the beginning, Musk would make sure everyone knew that the company's long-term mission, and this is a direct quote from us, was not to make toys for rich people. They just wanted to build something awesome to A, show the world how great an EV could be,"
+    },
+    {
+      "timestamp": "00:14:11",
+      "text": "and B, generate revenue to develop their step two car. So they didn't start from scratch on the body design. Instead, they based it on the Lotus Elise. The Roadster didn't change the world. No $110,000 car ever could. But it sent a message to the industry that tesla was for real and if i'm not mistaken i think i read somewhere that they only sold i think a couple thousand roadsters maybe 2500 maybe 5000 somewhere in that range so there's very few of them you may have not heard of the roadster when it was announced in 2006 or when"
+    },
+    {
+      "timestamp": "00:14:41",
+      "text": "it was started shipping in 2008 but some of the major car companies took notice nissan soon launched the all-electric leaf and gm launched the plug-in electric chevy volt soon after the roadster's appearance bob lutz who was chairman of gm at the time openly credits tesla for their decision to make the volt saying that after the roadster unveiling unveiling he went to the gm board and, if a little company in California can do this, why can't we? But there were some pretty big problems with the first product. Finishing the car was taking way longer than anyone planned. The cost of making each roadster was higher than anyone planned, and the early shipments often had defects. This made Musk sad. So he and the board fired Eberhardt as CEO, which made Eberhardt sad. Just as this was going down, the most inconvenient thing ever happened,"
+    },
+    {
+      "timestamp": "00:15:35",
+      "text": "the 2008 recession, which made the entire car industry sad, but especially Tesla, who didn't yet have brand recognition and wasn't yet profitable because of all the upfront investment they had been pouring in. So let me just interject. If you are familiar with the Wait But Why blog, you realize that it's extremely dense and informative, but Tim is funny. He's really funny. So he's obviously trying to be or is funny here. I don't know if it's coming off when I'm reading what he wrote,"
+    },
+    {
+      "timestamp": "00:16:02",
+      "text": "but definitely when I read this section for the first time, I laughed. Obviously, Eberhard's going to be sad at CEO. Obviously, when he's fired at CEO, obviously the 2008 recession made people sad. I went into more detail on that on the previous Elon Musk podcast, but it's in Ashley Vance's book, which I would definitely recommend reading, and it goes into way more detail. It wasn't sad. It was all hell. So I just don't know. Again, I don't know how that sounds to you if you've never read Tim's blog. Also, you have to check out Tim's blog just because the drawings that he makes for all these posts too. I don't know. I recommend it to every single person I know. It's just that good. All right. So back to the post. A crippling recession is never helpful, but it was really, really bad timing for Tesla."
+    },
+    {
+      "timestamp": "00:16:46",
+      "text": "Musk had hired a second CEO, but a year in, in late 2008, the company was in one of those movie scenes where the person's been badly wounded and clearly about to die. And there's this dramatic dialogue scene and the dying person is saying some last words. And every time they pause for a second the audience is like is that it are they dead oh no they just talked again i guess there's one more line musk who wasn't enjoying the drama of the scene finally was like pause the movie quick quickly pause it pause it and took over as ceo going into full adrenaline mode to keep the company alive and again he's using humor which I think which I think is in line with with the writing of WeepoY and I personally enjoy it but if you but if you really"
+    },
+    {
+      "timestamp": "00:17:33",
+      "text": "want to go deeper I'd read the Elon's biography just because this part is expounded on quite a bit in the book and it's just I don't know it's I think once you read it and realized how they got to the other side, you probably have more respect for what Tesla and what Elon's doing. All right, so going back here. And as mentioned in the last post, SpaceX was in the same movie at the same time playing the same role. So we talked about that before too, that he had a decision. He was down."
+    },
+    {
+      "timestamp": "00:18:01",
+      "text": "He blew through. He put $100 million into SpaceX, $70 million into Tesla, $10 million into SolarCity. So that was his $180 million that he had after taxes after he sold PayPal. So going back to the post, but enough people had been impressed enough by Tesla that a couple of key investments at critical moments came in and kept the company alive. And at the end of the whole mess, Tesla was now a new company. Musk was CEO and the Jonathan Ivey of the car industry, star car designer, Franz von Holohassen. Oh, I don't know. This is tough for me, guys. Holohassen, sorry for any of my German friends that are listening who had been the design director at gm and then mods Mazda had had decided to bet his career on the barely standing tesla and became their chief designer"
+    },
+    {
+      "timestamp": "00:18:52",
+      "text": "So this is a guy who actually helps uh works with musta design the model s but I just want to uh Again, this is just one paragraph. I want to go back and expound on that just a little bit Because it says uh, but enough people had been impressed enough by tesla that a couple key investments at critical moments came in and kept the company alive again that there's so much more to that story and i know tim's uh goal here wasn't to go into too much detail the post is already an hour and a half long but what happens there is no one's willing to invest in um like the the the already existing investors in Tesla are telling Elon no. So he's like, you know what?"
+    },
+    {
+      "timestamp": "00:19:28",
+      "text": "Fuck it. I think it was 20, might've been 40 million. He's like, I'll put in the 20 or 40 million. Like basically he was trying to raise another round and no one would do it. So he's like, all right, I'll just put up all the money myself and own more of the company. And when they realized he bluffed, because I don't even think he had all that money. When they realized, oh shit, like he believes in it that much that we're going to miss out on this investment, they wound up splitting."
+    },
+    {
+      "timestamp": "00:19:49",
+      "text": "So I think he put in 20 and the other company put in 20, but I talked about it, I think, on the other podcast, and it's in the book too. Again, a really amazing story, especially in hindsight. Okay, so back to now we're in with what Tim is calling the Jonathan Ivy of the car industry, and it's France. I'm just going to call him France because I'm destroying his last name. So now we're going to go back to the post when Tim meets France."
+    },
+    {
+      "timestamp": "00:20:14",
+      "text": "France, France, France. A few weeks ago when I stepped into the Tesla design studio to meet France, I was excited to meet the uber flamboyant diva celebrity car designer, just hoping I would understand what he was saying through his unbelievably thick German accent. And I was horribly disappointed to meet an extremely normal acting American man. I asked him what it was like to come to Tesla after having spent years at more established car companies. He described the difference like this. Now, this is a direct quote from Franz. A company like GM is a finance-driven company"
+    },
+    {
+      "timestamp": "00:20:51",
+      "text": "who always has to live up to financial expectations. Here, we look at it the other way around. The product is successful when it's great, and the company becomes great because of that. This mirrored what Musk had told me earlier in the day, direct quote from Elon coming up, the moment the person leading a company thinks numbers have value in themselves, the company's done. The moment the CFO becomes CEO, it's done, game over, end of the quote. Franz went on saying saying another difference is that other car companies"
+    },
+    {
+      "timestamp": "00:21:25",
+      "text": "engineering comes first a design package is prescribed on the on the designer and they're told to make it beautiful at tesla design and engineering are assigned equal value and elon keeps them opposed to each other now that franz had gotten used to his freedom to be obsessed with the product with the product of Tesla, he says he would dread to go back to prehistoric ways. Franz's first mission at Tesla was to design their Step 2 car, the mid-priced, mid-volume one that would be called the Model S. The Roadster was based on an existing design and was a springboard for the company, more than"
+    },
+    {
+      "timestamp": "00:22:06",
+      "text": "a long-term product. The Model S would be Tesla's first flagship product, and it was their chance to reinvent the concept of a car from scratch. Okay, so I'm going to interject again here. So when I read that, so last week, remember, I'm doing these posts semi out of order. The cook and the chef, which we talked about last week, that comes at the very end of the post I thought it's to me the most important part of all these posts and that's why I wanted to share with you first and when they're here when when Tim's talking about that they were able to design the the Model S from scratch I think if you take two things first of all if you haven't listened to last week's podcast go back and listen to it and if you only take two things away from that entire podcast I think if you take two things, first of all, if you haven't listened to the last week's podcast, go back and listen to it. And if you only take two things away from that entire podcast,"
+    },
+    {
+      "timestamp": "00:22:47",
+      "text": "I think the two most important things is when Elon's talking about that he feels all his competition with SpaceX and Tesla are trapped, his direct quote is trapped in their own history, meaning that they're just building upon things they already did and they're not looking at a problem. And the second thing I would say, they're not looking at a problem from first principles. So when you listen to last week's podcast, you realize that a huge advantage that Elon has over most people is that he tries to approach problems from first principles. Breaking it down to its most fundamental truth and then building up from there instead of what he calls reasoning by analogy. Most of these car companies they're competing with reason by analogy. So when I read this part where it's like, oh, Franz is excited"
+    },
+    {
+      "timestamp": "00:23:28",
+      "text": "because this is their chance to reinvent the concept of a car starting from scratch, to me that's a blank sheet of paper working from first principles and not being trapped in your own history. Tesla didn't have a history. There's nothing to be trapped in. The Roadster was built on the chassis and the frame of a Lotus. They didn't even design that. So they just made it electric. So I think that, again, if you take anything out of these podcasts, I think those two are the most important things, at least to me. It's really what stuck"
+    },
+    {
+      "timestamp": "00:23:55",
+      "text": "with me. So now we're going back. Fran said, when we started the Model S, it was a clean sheet of paper. This all sounded uncannily similar to how steve jobs had done things at apple he obsessed over making insanely great products and he never paid attention to what other companies were doing always coming at things from a clean sheet of paper perspective again not being trapped in their own history and we talked about last on the podcast last week that when you design the iphone they designed it from first principles as opposed to, oh, like people seem like a Blackberry. They should make another better Blackberry. They thought they could build a better phone and they obviously were right."
+    },
+    {
+      "timestamp": "00:24:34",
+      "text": "When Apple decided to make a phone, oh, here we go. I just stepped over my own post or Tim's post. When Apple decided to make a phone, they didn't try to make a better Blackberry. They asked, what should a mobile phone be? Over time, big industries tend to get flabby and uncreative and risk-adversed. And if the right outsider company has the means and creativity to come at the industry with a fresh perspective and rethink the whole thing, there's often a huge opportunity there. When the iPhone came out, it turned the phone industry on its head. So should we be surprised that when the Tesla Model S came out, consumer reports anointed it"
+    },
+    {
+      "timestamp": "00:25:12",
+      "text": "the best car that had ever been made with an unheard of 99 to 100 rating and that Tesla owners are across the board obsessed with the car? No, because it's like the iPhone. It's a 15-year leap into the future. The Model S is the fastest four-door sedan in history with a 3.2 second zero to 60 time. And that's even old now because keep in mind when you buy a Model S, not only are they making the batteries larger, so like the P100D didn't exist when Tim's writing this post but through software updates they make the car faster so i think with ludicrous mode it goes zero to 60 now down to like 2.6 seconds maybe even uh maybe even shorter and again i've driven that car i've done it in ludicrous mode it's like riding a roller coaster um all right let's go back to the post it saves battery power by being insanely"
+    },
+    {
+      "timestamp": "00:26:01",
+      "text": "aerodynamic with the industry's lowest drag coefficient the drag coefficient is a 0.24 in case you're taking notes at home a bunch of engineering innovations have combined it to give it the highest nhtsa safety rating of any car ever tested by the u.s government 5.4 stars so that line right there i think is most important especially if you have children the reason i recommend people buy teslas is yeah the technology is cool it can drive itself it's electric it's better for the environment uh you get software updates it's a beautiful all the other stuff that you like with tesla i think especially for people who have kids if i'm not mistaken the the number one uh cause of death for kids under the age of like 20 is car accidents and the model s has the highest rating of a car ever tested by the u.S. government. Back to the post."
+    },
+    {
+      "timestamp": "00:26:45",
+      "text": "The Model S is already driving itself soon, and soon it will be able to drive itself to meet you in the driveway in the morning with the temperature already set and the right music on. You'll be able to pull up to the house at night and just get out of the car, and the car will park itself in the garage and plug itself in. The plug's not there. They do have a prototype. If you want to see it, go to YouTube and just put in like tesla like robotic plug it looks like this like chrome"
+    },
+    {
+      "timestamp": "00:27:12",
+      "text": "snake that senses the cars there and then plugs itself in it's really interesting to see they did away with the model years i.e the 2014 toyota camry the 2015 toyota camry etc so instead of holding all the year's new features until the new release, they just put features in as they go. That's what I meant about the software updates. Somewhere who buys a Tesla today might have a slightly different car than someone who brought one two weeks ago, and they're constantly rolling out fixes and new features through automatic Wi-Fi software updates. Owners often wake up in the morning to discover the car has a new capability. In a bunch of cases,"
+    },
+    {
+      "timestamp": "00:27:48",
+      "text": "Tesla had wanted to do something that wasn't technically possible with the current world or industry limitations. So they build what they needed to build to change those limitations. That's confusing, but this will make sense right here. The Tesla battery is heavy, and they wanted to make the body super light to offset some of that weight. So they turned to SpaceX and used its advanced rocket technology to make Tesla the only North American car with an all-aluminum body. Musk and Frans' team had spent all this time perfecting the design of the car before it was time to put the door handles on, and they got really used to it that way. This is interesting, I didn't know this is how the design of the door handles came about when it was time for handles they"
+    },
+    {
+      "timestamp": "00:28:28",
+      "text": "didn't want to ruin how it was so they figured out how to make the handles lay flush with the door they didn't like the dealership model and wanted to sell directly to customers but many states don't allow that so one by one they're fighting the states that won't and slowly overturning direct car sales bans. And to me, this is, again, we talk about on the podcast a lot that I just have a strong distaste for crony capitalism and regulatory capture and all these perversions of free market and this is one of the things i thought was so dumb how tesla's been sued non-stop because there's a lot of laws in the books that if you make a car you're not allowed to sell it directly to consumers that you must first sell it to a dealership and then the dealership will will go directly to the consumer um when you realize that the fact that tesla and spacex are able to drop costs so low because they're they're way more vertically integrated than other companies in in their respective industries why the would a politician pass a law"
+    },
+    {
+      "timestamp": "00:29:31",
+      "text": "like that it's clearly not for the benefit of the consumer like you're adding a whole another company that needs a whole another profit motive on top in between the producer of the the manufacturer of the car and the the end recipient You're just doing that because you were paid off by the union of dealerships. And that's what you see. The good news is they wind up losing the dealer. I don't know if it's a union or whatever it is, but these dealers that are suing Tesla"
+    },
+    {
+      "timestamp": "00:29:56",
+      "text": "wind up losing, I think, in almost every single case. And again, I'm sure almost everybody listening to this podcast had an experience of going to the dealer and having to deal, even if you're trying to buy a used car from them. It's hell. It takes hours. When you do it with Tesla, you do it online. It takes no time, and they deliver it to you. It just boggles my mind."
+    },
+    {
+      "timestamp": "00:30:18",
+      "text": "It really, really bothers me, too. Okay, so they didn't like the dealership model and wanted to sell it directly to customers. No shit. Why wouldn't you? But many states don't allow that. So one by one, they're fighting the states that won't and slowly overturning direct car sale bans. And then this is the end of the Tesla section before we get to the actual, like how to change"
+    },
+    {
+      "timestamp": "00:30:38",
+      "text": "the world. They wanted to get rid of buttons altogether and have all the controls on a huge 17-inch touchscreen. But when their first car came out, there was no iPad yet, and 17-inch touchscreens suitable for a car didn't exist. So they built their own. Again, just another example of starting from first principles and making sure you're not a derivative of just another car company. So I'm going to skip ahead because if you remember, the name of the post is how Tesla will change the world. And this is the section towards the end where it's called how to change the world."
+    },
+    {
+      "timestamp": "00:31:13",
+      "text": "And this is going to go more into like the philosophy of Tesla as opposed to like the design. And I think this is actually the most important part of Tim's post before he ends it. A study of Tesla isn't about a car or a car company. It's about how change happens and about why it often doesn't happen. Our intuition tells us that technology, social norms, movements, and ideas just move forward through time. And if forward progress is a river and those things are on a raft gliding through. We so associate the passage of time with progress that we use the term the future to refer to a better, more advanced version of our present world."
+    },
+    {
+      "timestamp": "00:31:58",
+      "text": "In reality, if a more advanced future does happen, it's because that future was willed into our lives by a few brave people. The present isn't welcoming of an advanced future because the present is run by a thick canopy made up of the ideas, norms, and technologies of the past. There'll be incremental tweaks and slight iterations on proven-to-work concepts, which may seem to us like moving into the future. But it really is just a polishing up of the past. Interject before I go more into this post. Next week's podcast is the last podcast about this series, and it's about SpaceX."
+    },
+    {
+      "timestamp": "00:32:43",
+      "text": "And what he's talking about here is way more evident in spacex uh than it is in tesla um because if you think about it like from a u.s perspective the u.s space program had far more capabilities in the 1960s and early 70s than it does in 2011 or 2011 was the end of the space shuttle program. So from there, we lost the ability to even fly our own astronauts into space, which I didn't know until I read Tim's post that now it's contracted with, I think, the Russian space program. Again, I'll save that for next week. I'll go into more detail then."
+    },
+    {
+      "timestamp": "00:33:19",
+      "text": "In reality, if a far more advanced future happens, oops, I read that part, so let's skip ahead. When the real change arrives, you know you're seeing it. It's a distinct and exhilarating feeling when you witness a disrupting innovator ram its way through the canopy. I had that feeling when I watched Steve Jobs introduce the iPhone in 2007. Before that moment, I had assumed that the ubiquitous Blackberries and Okias and Razors"
+    },
+    {
+      "timestamp": "00:33:43",
+      "text": "of the world were cutting edge technology. But that keyboard was an epiphany about how buried in the past those phones actually were. So this part of the post I'm not reading to you, and he does this really good job. I encourage you obviously to go back and read it. That's why I'm doing a podcast on it but he has this um analogy of like a rainforest canopy and the already successful incumbents basically taking up all the busting through the canopy taking up all the sun for survival and then startups and and people having to flank their way through to bust through the canopy as well so he goes into more detail and and that's why you're hearing him use words like the canopy and stuff like that. You don't realize your BlackBerry sucks until the iPhone exists. The feeling I had watching that keynote is the same feeling I had when I was six and I saw someone type on a computer word processor for the first time and the last word on the line would magically"
+    },
+    {
+      "timestamp": "00:34:42",
+      "text": "jump to the line below when it would hit the edge. Typewriters, which had seemed normal that morning, were suddenly ancient. The same thing happened when I saw the first iPod and became instantly disgusted with my horribly clunky and inefficient big booklet of CDs. I don't know. I'm definitely of the age when I remember having a big, clunky, inefficient, big booklet of CDs in my car. Like, oh yeah, you guys want to listen to something else? Hold on. And having to flip through. Oh man. I hope you're old enough to know that feeling."
+    },
+    {
+      "timestamp": "00:35:16",
+      "text": "If you are, you know how amazing things like Apple Music, Spotify, and Tidal are. I had this feeling again last month when I test drove a Tesla Model S. I had driven to the Tesla factory that morning in what had felt like a brand new rental car. And I left the factory in the same car, now feeling like a 1982 model. I get now why Matthew calls his Model S a magical space car, because that's how it felt. That's how a new revolutionary technology always feels. Our modern world becomes as advanced as it is not by floating up an inevitable advancement river, but because of a collection of moments over time when a person or company has done something that makes everyone's jaw drop. But those world-changing moments don't just smoothly glide into the world."
+    },
+    {
+      "timestamp": "00:36:09",
+      "text": "These leaps into the future usually have to jam themselves through the canopy and then battle to keep themselves there. The past, which likes to loiter casually in our present world, that's just really good writing to me, which likes to loiter casually in our present world, hates when a piece of the future bursts onto the scene because that exposes the past for being what it really is, the past. So a new and disruptive technology is often met with hostility as it emerges, as the existing"
+    },
+    {
+      "timestamp": "00:36:39",
+      "text": "canopy does whatever it can to squash the potential disruptor out of existence before it can gain momentum and start to spread. The old guard knows that once a disruptor gets a foothold and starts quickly spreading its ideas, the entire game changes. And once that balance tips, now instead of trying to squash the disruptor, everyone has to scramble to try to emulate it. What Tesla is doing right now is an up-close example of how that kind of change happens. The idea to change the car industry started as brainwaves zipping around Elon Musk's"
+    },
+    {
+      "timestamp": "00:37:17",
+      "text": "head, but Musk couldn't do much about it on his own. To make the idea real, he had to scale those brainwaves up, and he did that by building Tesla. That brought a new player into the car industry, run by a collective superbrain made up of 11,000 Tesla employees who also happened to think a lot about electric cars. Change doesn't happen on a familiar landscape. Change has to construct the landscape itself. This is part of the reason that the challenges of Tesla has taken on are so enormous. Henry Ford didn't just build a car. He built a landscape, defining what a car was. Since then, car companies have worked within Ford's landscape. Bringing back what Musk said about Ford, that he was the kind of guy that when something was in his way he found a way around it and he just got it done. He was really"
+    },
+    {
+      "timestamp": "00:38:15",
+      "text": "focused on what the customer needed even when the customer didn't know what they needed. It's clear now that this is exactly what Musk and Tesla are doing. If there aren't enough charging stations for long trips, build an energy network of superchargers. If scalability is held back by the high prices of lithium-ion batteries, build a factory that doubles the world's supply of them to bring the price down. Just get it done. But with a goal as ambitious as accelerating the advent of sustainable transport and a victory condition as far-reaching as half of the new cars being electric,"
+    },
+    {
+      "timestamp": "00:38:51",
+      "text": "building one great car company isn't enough. This is what I was referencing earlier. To bring Musk's original idea to the next level, Tesla would need to scale itself. To do that, Tesla is building a line of cars so stellar that it's going to change the public's expectations of what a car should be, and the whole industry will have to adjust to that new expectation. And by solving so many EV problems for its own cars, it's forging the path to an EV-dominated world for all the other car companies too."
+    },
+    {
+      "timestamp": "00:39:24",
+      "text": "A company trying to rise to the top of their industry would hold their innovation secrets close, but because Tesla's goal is to transform the industry, Tesla made all of their patents available to whomever wanted them. Other companies are critical to the mission because Tesla's goal is to ramp production up to 500,000 cars which is only around half a percent of the total cars made each year. Musk explained the impact that Tesla will have is fairly small in and of itself. It will change people's perceptions perhaps but it will not in and of itself change the world. But if large numbers of people are choosing to buy the Model 3 and the car companies see that there's no excuse"
+    },
+    {
+      "timestamp": "00:40:10",
+      "text": "left anymore because the car's long range and cars handling and acceleration is better in every way than a gasoline car and it's affordable and people are pretty sure that this is what they want to buy, then that's what will prompt car companies to invest real money into electric vehicle programs of their own. And indirectly, by spurring competition, Tesla can be the catalyst for a multi-order of magnitude shift of the entire industry towards electric. That part blew my mind when I read it. That's how to spread the brainwaves of a single person throughout a huge industry and the global public."
+    },
+    {
+      "timestamp": "00:40:46",
+      "text": "And by the time it's done, everyone will think a lot about electric cars. Maybe I'm wrong about something, or maybe something unexpected happens. But from what I've seen and talked about, it really seems like Tesla is going to fulfill its mission and change the world. Meanwhile, this is what Musk spends two days of his week on. With the rest of his time, he's trying to make humanity a multi-planetary species, a goal that makes his Tesla mission seem like starting a grapefruit stand. We'll get into all that in the next post."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:29:31.448Z"
+}

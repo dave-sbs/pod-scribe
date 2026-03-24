@@ -1,0 +1,489 @@
+{
+  "metadata": {
+    "episodeNumber": 159,
+    "title": "Andy Grove (Intel)",
+    "slug": "159-andy-grove-intel",
+    "url": "https://podscripts.co/podcasts/founders/159-andy-grove-intel",
+    "date": "December 21, 2020",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "I was born in Budapest, Hungary in 1936. By the time I was 20, I had lived through a Hungarian fascist dictatorship, German military occupation, the Nazis' final solution, the siege of Budapest by the Soviet Red Army, a period of chaotic democracy in the years immediately after the war, a variety of repressive communist regimes, and a popular uprising that was put down at gunpoint."
+    },
+    {
+      "timestamp": "00:00:28",
+      "text": "This is the story of that time and what happened to my family and me. Before I tell my story, it may be helpful to provide some historical context. When I was born, Hungary was governed by the right-wing dictatorship aligned with Nazi Germany. During the early years of World War II, Hungary maintained a policy of armed neutrality. However, when Hitler's Germany attacked the Soviet Union in June 1941, Hungary abandoned that policy and declared war against the Allies. For all intents and purposes, this meant declaring war against the Soviet Union. By 1943, the Soviet army had the Germans and their"
+    },
+    {
+      "timestamp": "00:01:06",
+      "text": "Hungarian allies in retreat, and the front began to work its way through Hungary toward the capital, Budapest. The Germans occupied Hungary in March 1944, and in October installed an extreme fascist government. Gestapo official Adolf Eichmann, who oversaw the implementation of the Nazis' final solution, took personal charge of the deportation and extermination of Hungarian Jews. Within four months, virtually all Hungarian Jews living outside of Budapest had been deported. The great majority of them were killed in concentration camps. Before the process could be extended to Budapest, the rapidly deteriorating military situation – the Soviet forces were advancing on Budapest and the Western Allies had successfully landed in Normandy and Italy – forced a halt to the deportations."
+    },
+    {
+      "timestamp": "00:02:01",
+      "text": "In January 1945, after street-to-street and house-to-house fighting, the Soviet army pushed the Germans out of Budapest and by mid-April out of the rest of Hungary as well. Instead of a German occupation army, there was now a Soviet occupation army. The Communist Party gained more and more influence and finally consolidated its position in 1948. Persecution intensified during the last few years of the life of the leader of the Soviet Union, Joseph Stalin, with purges, arrests, imprisonment, and deportation affecting the lives of broader and broader circles of people. Stalin died in March 1953, and a gradual relaxation of totalitarian controls took place. Over the next few years, this process accelerated until it culminated in a rebellion against the communist government, which was known as the Hungarian Revolution of October 1956."
+    },
+    {
+      "timestamp": "00:03:01",
+      "text": "That revolt lasted for 13 days and was then put down by Soviet armed forces. Many young people were killed. Some 200,000 Hungarians escaped to the West. I was one of them. That was an excerpt from the book I'm going to talk to you about today, which is the autobiography of Andy Grove, and it's called Swimming Across. So over the years, several listeners have recommended this book to me. A few weeks ago, I was reading Walter Isaacson's book, The Innovators, and Andy Grove is one of the characters in that book. And he quotes, Isaacson quotes from the"
+    },
+    {
+      "timestamp": "00:03:34",
+      "text": "opening of this autobiography where Andy is detailing all the different regime changes that he lived through for his first 20 years of life. So I immediately ordered the book and I'm glad I did. It's one of the best books I have ever read. I stayed up late because I didn't want to go to bed without knowing what happened. I woke up early to try to finish the book. It was absolutely amazing. So let me go ahead and jump into it. I want to fast forward. He's five years, five to six years old. It's going to be 1942. And this is where his father is forced to go serve in the army. And the result is the community in Budapest that Andy lives in is left with little kids, the women, moms, grandmas, and old men. And so we see it says in 1942, when I was five years old, my father was"
+    },
+    {
+      "timestamp": "00:04:25",
+      "text": "called up into the army. He was not really a soldier. He and other Jewish men were conscripted to serve in labor battalions, clearing roads, building fortifications and the like. He had been called up for short periods of time before. And each time he came home in a few days or at most a few weeks. This time, though, he was it was going to be different. When he came home in a few days or at most a few weeks. This time though, it was going to be different. When he came home with the news, he was trying to smile, but there was something wrong with his smile. His unit was to leave for the Russian front and he would not come back anytime soon. So later in the book, Andy reveals to us that 90% of the Jewish people called up to serve on the Russian front do not return. This is how Andy remembers the aftermath of all the men leaving."
+    },
+    {
+      "timestamp": "00:05:13",
+      "text": "The woman would stay up late until the afternoon, talking and drinking, talking and drinking, and chain-smoking until the air in the room was hazy from their cigarettes. Visitors had often smoked, but I didn't remember anyone ever drinking at our house before. The mood was different. Instead of the laughter and animated conversation that I'd been used to, everyone seemed preoccupied. I noticed that my mother drank more than the other women. After they left, she often continued to smoke and drink by herself as the light dimmed in the room. It seemed as though her thoughts were very far away. I knew she was thinking about my father. The letters had stopped coming shortly"
+    },
+    {
+      "timestamp": "00:05:51",
+      "text": "after he was taken away. Then in the spring of 1943, my mother got an official notification saying that my father had disappeared at the front. I didn't know what that meant. I didn't know how people could disappear. And it was during some of these conversations that they talked about what they thought was going to be the eventual, what was eventually going to happen. And that was that the Germans were going to round up and put Jews in the ghetto. And this is how, this is Andy in kindergarten. This, this part is wild. Once my, my, my Once when my mother was talking with the other war wives, I overheard a phrase that intrigued me. The phrase was, they will put the Jews in a ghetto."
+    },
+    {
+      "timestamp": "00:06:31",
+      "text": "I had no idea what a ghetto was, but for some reason the phrase stayed with me. One day I dragged some of the kindergarten tables and chairs over to the wall to make an enclosure. This is at school. I declared that this was the ghetto and that we would put all the Jews inside it. A few of my playmates and I started chanting, they will put the Jews in the ghetto. They will put the Jews in the ghetto. We grabbed some of the other kids and dragged them inside the enclosure. Pretty soon, we were all chanting in unison. They will put the Jews in the ghetto. They will put the Jews in the ghetto. And a year later, the bombing of Budapest starts."
+    },
+    {
+      "timestamp": "00:07:08",
+      "text": "So it says, of the sirens as I came awake. Other people streamed out of their apartments, hurrying downstairs to the cellar too. Everyone filled into the room and took their places. Nobody talked much. We never did get hit, but an apartment half a dozen blocks from us did. It looked like a big knife had sliced off the front half of every floor. You could see into the apartments on all four stories, like a dollhouse. In the back part of each room, the furniture was still in place and the pictures were still on the walls. The front part had fallen off into a big heap of brick stones and unidentifiable rubble, which is really crazy about how extreme experiences Andy Grove had to endure early in life. Actually, one of the New York Times book review of this book was really interesting. It says, it's a subtle and compelling commentary on the power to endure. The power to endure is a"
+    },
+    {
+      "timestamp": "00:08:17",
+      "text": "great way to think about this book. But about, let's say, 14 years after Andy's experiencing this he escapes to New York City and he's on a boat and arrives off the shore of New York City and he's looking at all the buildings and the first thought he remembers having is wow these buildings don't know what it's like to be hit by bombs. So at this point in the story the Germans have fully occupied Budapest they're about to start killing Hungarian Jews and this is what Andy remembers. That spring, we had many thunderstorms. There's a feeling before a storm breaks that the weather's about to change. You know something is going to happen. The wind stops, the temperature drops, the air gets more humid. Something is going to burst out. That's the kind of feeling there was in the air that spring. Even on clear days, I didn't know what was different."
+    },
+    {
+      "timestamp": "00:09:05",
+      "text": "I just knew that something was. So his mom is becoming more and more concerned. She's all alone. She sends her only son. She's worried about the Germans killing Jews in Budapest. She sends Andy out into the countryside to stay with friends and relatives. And then it turns out that winds up being a bad idea because they start killing people in the countryside first and then they move to the cities. So she sends another relative to go get him."
+    },
+    {
+      "timestamp": "00:09:34",
+      "text": "And they're talking to Andy about, hey, I think he's been there for one or two weeks, something like that. You've got to come back to your mom. He says she explained that the Jewish people were going to be taken away. So they start doing the removal and forcing the Jews from the countryside into the concentration camps. The strength. One thing that if you read this book, you'll be struck by is how strong and resilient his mother is. Wait till I have to read to you some of the horrifying things that she had to endure. In fact, he dedicates this book to his mom. It says, to my mother who gave me the gift of life more than once. That is not an understatement."
+    },
+    {
+      "timestamp": "00:10:12",
+      "text": "So now he's back in Budapest with his mother. It says, before that summer, listening to the radio was an occasional thing. Now friends came over almost every evening to listen. People started paying a lot more attention to the radio than they had before. He talks about the only way to get information was from newspapers, which printed a lot of lies, and the radio, which also telling people lies. And so a lot of it was just rumor and talking to other people. So it says, but at the same time, my mother didn't want anyone outside our apartment to hear us listening to it. She would pull down the blinds and draw the curtains then turn the radio on at a"
+    },
+    {
+      "timestamp": "00:10:45",
+      "text": "very low volume she and her friends would huddle around it with a very serious expression so that's actually a good point now that i'm rereading this after i finish the book there's many instances regardless of whether the germans are in charge or the russians are in charge um where andy felt like you have to hide how you really think and how you really feel. Just like his mom saying, hey, we're going to listen to the radio. We're trying to get information, but we can't let our neighbors or anybody else that could potentially be spying on us know what we're doing. One of the revelations that he reveals later in the book"
+    },
+    {
+      "timestamp": "00:11:18",
+      "text": "is that for the very first time when he gets to America, he feels like he can be who he is. Like I can actually express my thoughts. I don't have to hide. I don't have to pretend anymore. Later in the summer, the radio disappeared. Jews were no longer permitted to own a radio. So this is a step-by-step Germans are starting to put more restrictions on them. And then obviously starting to round them up and, and, and assassinate them and murder them in mass government protest, government post uh government post government posters excuse me appeared on the walls of buildings describing the latest"
+    },
+    {
+      "timestamp": "00:11:50",
+      "text": "regulations applying to jews jews were not supposed to mix with other people some stores started to carry signs we do not serve jews there's a lot in this book even though it's happening in a different place uh a long time ago i read the biography of Levi Strauss. And before he escaped to America, he had to deal with all this. His family is Jewish. You know, started saying, hey, you can't shop at the store. Hey, you can't have this occupation. Hey, you can't live in a certain town. It just keeps encroaching. Once it starts, it's just not going to stop. The only way to make it stop is usually through violence. Continuing, at the end of the summer, our lives changed in a major way. Jews had to move out of their apartments and into special buildings that were designated as houses for Jews."
+    },
+    {
+      "timestamp": "00:12:33",
+      "text": "People called them star houses because a big yellow star of David was painted over the entrance of each of these houses. Nobody complained or commented much. We made do because there wasn't much else we could do. Things were happening to us one after another. Just when we got used to one thing, another thing happened. The next thing that happened was that we were all required to wear a yellow Star of David on our jackets. We were forbidden to step outside without wearing one. People avoided looking at us."
+    },
+    {
+      "timestamp": "00:13:04",
+      "text": "Even people we knew wouldn't meet our eyes. It was as if a barrier was growing between us and everyone else. They're also restricting how much food they can have. So he's a young boy. He's growing. He needs, obviously, a lot more calories. He's not getting them. A non-Jewish neighbor of his winds up feeding him."
+    },
+    {
+      "timestamp": "00:13:27",
+      "text": "She gives him chicken soup and mashed potatoes, which is like a delicacy. And he talks about, it was so great, I enjoyed every bit of it. But look what happens the next day. The next day, there were loud knocks on our door. When my mother opened the door, a strange man stood there with a grim look on his face. Words were exchanged between the two of them. My mother came over to me and said, I have to go away for a while."
+    },
+    {
+      "timestamp": "00:13:50",
+      "text": "Stand here and wait for me. There was no one else in the apartment. It's just him and his mother. I didn't know what was going on. All I could do was wait. My mother returned in a couple hours, shaken up. She told me that the man who came for her was a policeman who arrested her along with the superintendent's wife. That's a non-Jewish"
+    },
+    {
+      "timestamp": "00:14:11",
+      "text": "person feeding, well it says feeding Jewish people was against the law. And my mother had broken the law by allowing the wife to provide us with food. Jesus. My mother said that she was incredibly, listen to this, this is, my mother said that she was incredibly listen to this this is my mother said that she was incredibly lucky to be back as the policeman was taking her in he told her that she should have made a more proper goodbye because she'd probably never see me again the only reason she did see her son again is because one of his father's former non-Jewish business partners just happens to see her being escorted to the police station, recognize his mother, had a friend in the police force, and instantly was instantly able to call him, pull some strings and have her released."
+    },
+    {
+      "timestamp": "00:14:59",
+      "text": "So once she she's released, she realizes I have got to get my son out of here. We've got to leave. So they wind up leaving Budapest are going to go stay with friends and relatives um in a small town and this is where she she tries to hide the fact that they're jewish it says uh the third time my mother came she came to take me away nobody else was around she said this is the strength of this woman is unbelievable she sat down with me on a sofa and explained that she now had official papers for us. According to these papers, her name was Maria Melsivik. The paper kept her first real name and I was her son, Andres Melsivik. I was to forget that my I was to forget that my name was ever Groff. This is the Hungarian version of Grove. He changes it. He Americanizes it when he leaves."
+    },
+    {
+      "timestamp": "00:15:45",
+      "text": "And I had to absolutely, positively learn this new name, Andrzej Mausevic, and the story to go with it. And this part's really hard to read because if you have kids, you automatically think, like, oh, my God, imagine if my kids ever had to go through this. And I just couldn't imagine my son having to experience what Andy, like he's a young boy, maybe seven, eight years old this time. And he says, I didn't care where we were going. I cared only about two things. I was with my mother and I had to learn a new name. I understood that I had to memorize it to the point where it was part of me."
+    },
+    {
+      "timestamp": "00:16:21",
+      "text": "I couldn't make a mistake. I was afraid I would forget it. So all along the train ride, watching my reflections in the glass disappearing and muttering inaudibly, Andrzej Smalczewicz, Andrzej Smalczewicz, Andrzej Smalczewicz, over and over again. So they're in the countryside. They're being sheltered by a family that's taking in refugees. And this is the first close call that andy has to dying one morning shortly after i came back from the toilet there was an explosion outside in the courtyard it didn't sound like a plank dropping at all it sounded the way i"
+    },
+    {
+      "timestamp": "00:16:53",
+      "text": "imagined an explosion would sound a big long loud reverberating bang followed by the random rattling noise made by the debris the debris of roof tiles bricks and pieces of wood flying around So he's living literally through a war zone. toilet. I stared at the fragments. I had gone through that door just a few minutes earlier. So he is living literally through a war zone. The Russians arrive in the town he's in. They're pushing out the Germans. And yet, as Andy's about to describe for us, they trade out one level of brutality with another. A Russian soldier came in and waved the old man and the two other women out of the cellar. He closed the door and fastened it from the inside and propped his machine gun against it. He sat down at the side of our bed."
+    },
+    {
+      "timestamp": "00:17:53",
+      "text": "He was grinning. He poked his forefinger against my mother's chest, then pointed it at himself. The Russian soldier kept grinning and again poked his finger against my mother's chest. My mother got out of bed and picked me up. The soldier moved his gun and opened the door and let my mother carry me out. She handed me to one of the women in another cellar. Then she went back to our cellar. The neighbor woman took me into her bed and put her arm around me."
+    },
+    {
+      "timestamp": "00:18:25",
+      "text": "I lay there, stunned and full of apprehension. I had no idea what was happening to my mother or what would happen to both of us. There was so much pressure in my chest that I could barely breathe. After a while, my mother came back for me. She was very tense and angry. She picked me up again, which was unusual because I was too big for her to carry me. She carried me to bed and we went to sleep. Later on that night, some more Russians came into our cellar. My mother yelled at them, something about how all three of the women had already done it today. After some hesitation, the Russians left. Sometimes it's really hard not to hate humans and what they're capable of. They are raping these women every day. After a short while,"
+    },
+    {
+      "timestamp": "00:19:27",
+      "text": "they hear that the Germans have been pushed out of of budapest so they immediately go back and this is what they see when they get back to budapest we kept walking at one intersection i saw a man lying in the street face down his legs and arms sprawled out it was the first time i'd ever seen a dead body i kept turning my head to look at him my mother yanked on my hand and growled, look where you're going. We kept walking. Down one street, I could see a strange shape. As we got nearer, I realized it was a dead horse. An old man crouched next to it, sawing away the horse's frozen leg with a kitchen knife, cutting off slivers of meat and dropping them in a bucket that was next to him. He didn't look at us as we walked past. I felt as if I was in a dream. The city didn't look like the Budapest I'd left behind"
+    },
+    {
+      "timestamp": "00:20:10",
+      "text": "just a few weeks before. In barely two months, it had become a different world. To break up our trip, we stopped at the apartment of a friend of my parents. This friend was a Jew who had been a highly decorated officer in the Hungarian army. Because of that, he did not have to move into the jewish house or a ghetto he was exempt from those regulations so they get to their apartment of their friend we went up to the third floor of the building where he lived and knocked on his door but neither he nor his family were in that apartment anymore some neighbors heard our knocking and came out to tell us what happened the arrow cross this is a like a german like government i guess occupied hungary the arrow cross had taken him and his"
+    },
+    {
+      "timestamp": "00:20:56",
+      "text": "wife and his children who were younger than i out to an empty lot nearby, and shot the entire family. After a moment of silence, my mother turned around and left, pulling me by my hand. This is how Andy remembers the end of World War II. Now keep in mind, he's about nine years old. His father has been gone. As far as they know, he's missing, he's disappeared. They haven't seen or heard from him in three years. The war was effectively over in early April of 1945. The Russian soldiers were still there, marching around and standing guard,"
+    },
+    {
+      "timestamp": "00:21:32",
+      "text": "much as the Germans had done a year earlier. I could barely remember a time when soldiers hadn't been a backdrop to my everyday life. So they wound up getting their old apartment back. It was being occupied. You know, furniture's destroyed, but at least they have their old, a lot of their old stuff and they're back in the old apartment. In early September, my mother got word that trains were coming from the prison camp in Russia, where she somehow thought my father had been. So we again went out to the railroad station to look for my father. They did this multiple times. The train station"
+    },
+    {
+      "timestamp": "00:22:02",
+      "text": "was a distance away and we had to walk both ways. I was getting very impatient. I was tired from the They did this multiple times. I didn't think it was much use anyway because I had no recollection of my father. We got home tired and thirsty and warily sat down in the kitchen to have something to drink. All of a sudden, my mother sat bolt upright in her chair and stared at the wall so intently that you would think it had just spoken to her. I asked her, what's the matter? She hushed me and continued to listen. Then she said, greatly agitated, I thought I heard your father's whistle. My parents had a private signal between the two of them. They would whistle the first few bars of a popular song. I was annoyed and protested that she was imagining things."
+    },
+    {
+      "timestamp": "00:23:02",
+      "text": "Just then the doorbell rang. My mother turned and ran down the hall. An emaciated man, filthy and in a ragged soldier's uniform, was standing at the open door. My mother stopped as if she had turned into a statue. Then in a moment took off and leapt on the man, embracing him in an all-encompassing hug. I stood there, alone and forgotten. I thought, this must be my father. His arms and legs were like sticks. He looked worse than a beggar."
+    },
+    {
+      "timestamp": "00:23:36",
+      "text": "So the family's reunited. At this point, there's a multi-year transition towards all-out communism. This part was just interesting, though. So this is, I would say he's probably about 10 years old. He says, when I wasn't in school or taking English or piano lessons, I read quite a bit. My favorite books were Carl May, by Carl May, the author, a German who had written a popular series of novels"
+    },
+    {
+      "timestamp": "00:23:59",
+      "text": "that took place in the Sierra Nevada mountains of the American West. Remember this part for later. So he wrote a series of novels that these are his favorite books. There are a series of novels that take place in Sierra Nevada, Nevada, Sierra Nevada mountains of the American West. Carl's May America was a world where wrongs were always righted and justice always prevailed. I like that. I like that. That's his writing, not me. No, no, I left myself on this page. It's interesting because Andy Grove is going to escape to Austria. Austria is where Arnold Schwarzenegger grew up."
+    },
+    {
+      "timestamp": "00:24:32",
+      "text": "In Arnold Schwarzenegger's fantastic autobiography, if you haven't picked up the book and you're looking for something to read, I'd highly recommend that. It was very interesting. Arnold knew he was going to flee Austria. He never thought, oh, I'm going to go to anywhere else. He knew, I'm going to wind up in America. Andy Grove had the government. Soon, private companies were taken over by the state. First, large companies were nationalized. Then they moved on to smaller companies."
+    },
+    {
+      "timestamp": "00:25:10",
+      "text": "In short order, our dairy business was nationalized. So his father, they were like, you know, middle class, maybe lower middle class. They had a small dairy business, and that was obviously taken over. My father, and everybody else was given other jobs. My father became the director of a state company in charge of livestock, breeding, and exports. Things were changing. Increasingly, employing... Oh my god."
+    },
+    {
+      "timestamp": "00:25:33",
+      "text": "The incompetence of communism can never be overstated. Increasingly, employing somebody was considered the same as exploiting them. It was something the communist government frowned on. Having nationalized all businesses, the government turns attention to the school system. I had to change schools. There was nothing to be done. The communist government called all the shots. What a sentence. The communist government called all the shots. They increasingly interfered with our daily life. They took away my parents' business. They uprooted me from my grandfather went through the exact same thing."
+    },
+    {
+      "timestamp": "00:26:14",
+      "text": "He says, They increasingly interfered with our daily life. They took away my parents' business. They uprooted me from my school. All in the name of some political philosophy that I didn't really understand. My father was born in Cuba. And what I've been thinking about a lot lately is I am the age now that my grandfather was when he had to leave everything behind."
+    },
+    {
+      "timestamp": "00:26:33",
+      "text": "He had a wife and a child. One child, they wound up having another, they wound up having a girl when they emigrated to the United States. But I just cannot imagine. I think that's why I have these conversations where people didn't have these experiences growing up. We are constantly reminded about how things can change."
+    },
+    {
+      "timestamp": "00:26:52",
+      "text": "And then history obviously is full of examples of people living normal life, and then all of a sudden, things way outside of their control causes their lives, usually war, to drastically change. And I try to explain to friends that, you know, just lived here in America their whole life. It's just like that could happen here. It"
+    },
+    {
+      "timestamp": "00:27:11",
+      "text": "can happen anywhere. And again, history is full of examples of people just living their daily lives, not expecting something drastic to happen and something drastic to happen and then be forced to respond to it. So I always think about like what happened to my family. It's like, I don't want that to happen to my kids. I want to make sure that I can, I can do whatever I can that's within my power to avoid that outcome for them. Cause I just could not imagine like right now at this time of life, let's say somebody invaded America, a completely authoritarian dictatorship that's going to control every single aspect of your life what would i do and at this point in the story andy's i think 13 years old 10 maybe let's see 49 he's about 13 years old so he's got to live through this for another seven years and then traveling all around"
+    },
+    {
+      "timestamp": "00:27:59",
+      "text": "hungary he's forced to like he's a young boy listen about this this paragraph about to read to you like the memories that are embedded in the young life of andy grove are just remarkable and not in a good way the road to the farm went past would have been my grandparents house i always had a tight feeling in my chest when we went by because now because by now i knew my relatives had been taken from that house to be killed. Those relatives wind up dying. They were transferred to Auschwitz. Only one, I think there was like nine of them, one of them survived. And the only reason the Germans at the time let that one survive was because she was trained, she was skilled as a seamstress."
+    },
+    {
+      "timestamp": "00:28:41",
+      "text": "And they needed to make clothing and uniforms and everything else for the German military. So Andy continues about his love for reading and he does something that's really smart. Think about like how awkward the transition going into puberty, transition from childhood to adulthood is now having to do it under communist dictatorship, having to go through, you know, five previous five years of war. And so he adopts, he finds strength in fictional characters and then imagines what it would be like if he could have the traits of the people he so admired. He says, I discovered C.S. Forrester's books about the 19th century British Navy captain, Horatio Hornblower. Something about the character really"
+    },
+    {
+      "timestamp": "00:29:20",
+      "text": "intrigued me, although I couldn't, I wouldn't tell tell anyone this i fancied myself as a later day captain hornblower a man of few but deeply thought out words carrying the weight of the world on my shoulders he's 13 living a rich inner life that my classmates had never suspected had they known what i was really like i imagine they would be a lot more respectful nobody would call me a horn uh call me puffy so he's a little like chubby at this time. He wasn't growing out of that, but he was made fun of a lot for being pudgy. Or dare to push me around. I borrowed the Hornblower books from my neighborhood library. After I finished the entire series, I went back and read them all over again."
+    },
+    {
+      "timestamp": "00:29:59",
+      "text": "The thought really appealed to me to be able to display what I was really like by transposing myself into an imaginary person set in an imaginary scene undertaking imaginary adventures this thought excited me so at this point they're in the car it's him his mother and his father they're driving to go check on one of these like livestock facilities that his father's in charge of his mother's reading a newspaper she's freaking out because in the newspaper, it's accusing his father and other people of bending official rules. And it says, my father had been put in charge of the government's animal breeding program, but he didn't know anything about the subject. So he hung on to people who were experts in their field, even if they were holdovers from the previous regime. Remember what he said? Communists call all the shots and they're morons. These people couldn't run a gas station, much less a country. It's ridiculous."
+    },
+    {
+      "timestamp": "00:30:49",
+      "text": "Now it seemed that my father had recommended someone for a particular post and the government didn't approve. Criticism in the newspaper was something to be taken very seriously. It usually signified trouble ahead. Andy is 15 years old when this is happening. My uncle and his son-in-law were arrested in the middle of the night. My aunt showed up at our house the next morning, frightened and utterly helpless. Nobody would say where they were taken or why. There were no charges and no one to inquire to. They were just gone."
+    },
+    {
+      "timestamp": "00:31:18",
+      "text": "A few days later, my father was fired from his job. He was told that in any future job, he would not be allowed to earn more than one fourth of his previous salary. People stopped dropping by our apartment to visit my father. All throughout the book, Andy constantly references, he's like, these people don't know, like they can't. It's interesting to me if you read about how when he's running Intel and a lot of his, because I read his book, High Output Management a long time ago and a lot of his theories on management, how to build a company and how to work. To me, now that reading this book and understanding like he had to deal with, you know, a completely centralized economy, they They couldn't even administer the basic necessities of the citizens."
+    },
+    {
+      "timestamp": "00:32:10",
+      "text": "His way of management was completely different. He got rid of all the hierarchy. He didn't believe in having an office. He was against all the luxury that you would see in executives. He didn't have a special parking spot. He worked in just a normal cubicle. They'd have vigorous debates within Intel. And, you know, you could yell back and forth at him. He basically says, like, I'm running the successful, you start to become complacent."
+    },
+    {
+      "timestamp": "00:32:49",
+      "text": "And that good ideas can come from anywhere. He's like, I'm not like a sole source of good ideas. There is no top-down management in this company. We take good ideas from wherever they come from. Now reading the book, you see that it's informed from seeing just the gross level of incompetence that comes from like centralized authority trying to run even a smaller country like Hungary. It's very interesting. But I wanted to I got lost my thought there, too. What's also remarkable is during all the stuff these go through, he still handles his business. He's doing really well in school. He's very determined to be able to get an occupation so he could buy a house for his family. He wants to take care of his family. He winds up successfully later on."
+    },
+    {
+      "timestamp": "00:33:28",
+      "text": "I think like five years after he gets to America, he makes enough money to bring his family. And they wind up living with him in California until they die. So anyways, let me go back to this. So this is what the reason I thought about this is because the title of the book, Swimming Across, this is where the title of the book comes from. And again, remember this part for later on too. Because he's doing fantastic at school. This is his physics teacher. It says that at a parent-teacher conference at fall, Mr. Walensky told the assembled parents,"
+    },
+    {
+      "timestamp": "00:33:57",
+      "text": "Life is like a big lake. All the boys get in the water at one end and start swimming. Not all of them will swim across. But one of them I sure will. And that is Grove. They call him Groff, but we know him as Grove. So that one is Grove. Both my parents were there. And when they returned home, they told me about it with great pride. They also told me that many other people, they also told many other people about it over time. My swimming across the lake of life became a family cliche."
+    },
+    {
+      "timestamp": "00:34:27",
+      "text": "I continued to get encouragement from each telling. I hoped Mr. Valensky was right. What a difference between, think about that, maybe 15 years old at the time. He's getting encouragement saying, hey, you're a smart kid. You're taking care of your business. You're going to get through life. You'll figure things out. You'll get through life okay life okay so at 15 all the things he has to endure now he's writing the book i think he's you know close to maybe 60s 60 years old at the time he's"
+    },
+    {
+      "timestamp": "00:34:54",
+      "text": "about to retire no he's already retired from intel you know one of the most successful careers in human history he's already swam across the, I always think about that. What is the difference? Looking forward, imagine yourself as 15-year-old Andy Grove. Everything you've gone through, all the uncertainties ahead and now think about the satisfaction he has to have later in life looking back."
+    },
+    {
+      "timestamp": "00:35:17",
+      "text": "It's like, I did it. Now there's another round of forcible deportation. People forcibly relocated without warning. When the Germans were in charge, it's because you're Jewish. Now the communists are in charge, it's because you're not towing the line. We're going to control every aspect of your life,"
+    },
+    {
+      "timestamp": "00:35:36",
+      "text": "and you're going to pretend that you agree with what we're doing. If not, we're going to disappear you. I don't remember exactly when the deportation started. What the stories had in common was how the deportations took place. There was a knock on the apartment door in the middle of the night. Someone in uniform handed the deportation order to the residents and told them to get their belongings ready before dawn. At the appointed hour, a canvas-covered truck pulled up in front of the house, loaded up the family and their belongings, and drove away."
+    },
+    {
+      "timestamp": "00:36:03",
+      "text": "Rumor had it the people selected for deportation were guilty of bourgeoisie tendencies, whatever that meant. Often, though, it was implied that the real reason they were targeted was that high-ranking party officials coveted their apartment. The rumors of the deportations had the effect of permeating our lives with an intangible but constant nagging fear. All right. So as life under communism gets worse, his father starts telling him more and more about time in his captivity. So at the beginning, his father has a good job. He's respected. That's taken away from him. And so before that's taken away from him, you know, Andy's talking about all the as a young person, he sees like, Dad, look what they're doing. And his dad's, you know, either shuts down the discussion totally or says, you know, don't talk about that."
+    },
+    {
+      "timestamp": "00:36:51",
+      "text": "Definitely tells him not to talk about the other people outside the family. But even if they when they have discussions and his mom and Andy kind of see it more are willing to admit it more than his father is. His father just sits silently. And so now everything's been taken away from him. He starts revealing. He's like, yeah, these are terrible people. He says, some of the stories were so horrific, I found them difficult to digest. So his father's, you know, talking about the time in captivity. But the clear fact that only 10% of the men in my father's work battalion has survived."
+    },
+    {
+      "timestamp": "00:37:24",
+      "text": "The story, listen to what they do. And these are Russians doing this to hungarian jews the story that was most incredible to me was how in the middle of one bitterly cold winter night my father's battalion was made to strip naked and climb trees and the guards sprayed them with water and watched and laughed as one after another fell out of the trees frozen to death there's another story similar to that in uh hardcore history uh dan carlin's uh blueprint for armageddon series and i i think it was the the russians doing it to the germans it might have been the germans doing to the russians but uh it's they're in somewhere in russia it's frozen they can't get their trucks out, they make the prisoners from the opposing army that they captured lay down shoulder to shoulder,"
+    },
+    {
+      "timestamp": "00:38:11",
+      "text": "they cover them with water, it's so cold that it freezes over the top of them, and they then use that as a makeshift road to drive their trucks out. This is more on the power to endure. That's a great sentence to think about this book, the power to endure. This is more about his father's time. He started opening up more. My father brought home some pictures that he had managed to keep with him"
+    },
+    {
+      "timestamp": "00:38:37",
+      "text": "throughout his years in the war and captivity. They were wallet-sized studio photographs of my mother and me, taken before he left just so he could have a picture of us with him while he was away. father treasured these pictures they never left his body they gave him strength when he needed it most in his darkest moments when it looked like he could not make it he used the backs of the pictures to scribble his goodbye messages to us jesus christ"
+    },
+    {
+      "timestamp": "00:39:00",
+      "text": "i read these notes over and over again again Again, like when you, when you read stuff like this, like you just think about what if I was in this situation? I read these notes over and over again. One of them that my father wrote near the end of the war particularly touched me. It was dated April, 1945. My dear ones, now that it looks like the end would be here and the prospect of seeing you again, I've had another setback, a new disease, some skin ulcers. It's spreading from one day to the next. There is no medicine. They don't know how to treat it. It's a slow death. It looks like my struggles of the last three years were for nothing. And all I would like to, and all I would like is to see you again, to know that you are alive, but I am destroyed. Just my love for you keeps me alive."
+    },
+    {
+      "timestamp": "00:40:03",
+      "text": "He's writing a goodbye letter thinking he's never going to see his wife and child again. He made it home five months later. So now he's end of high school, wants to study at the university. He wants to be a chemist. And he's just excited the opportunity to prove his life. Because even as all the crazy stuff that's going on around him, we all still have the same human impulses. know if you can think back to your time this time"
+    },
+    {
+      "timestamp": "00:40:27",
+      "text": "in your life like you know you have this huge most of the majority of your life is ahead of you a lot of uncertainty but you're excited you get now you're becoming going from childhood to adulthood you get to make your own decisions you get to start building your life and so andy's going through that at the same time but again again, this is communism and you know, it's like, oh, he's all quality fraud. Nope. That's a, that's a lie. Um, you, it's who, you know, it's the connections. It's the way to get the system bent for you. I was hoping that my experience would help my, with my admission to the university, but my parents and I knew this was far from enough their search for connections that's in quotes continued then we got lucky my father discovered that the brother of one of his friends was a professor at the university"
+    },
+    {
+      "timestamp": "00:41:12",
+      "text": "he checked on my application and confirmed my worst fears i had been classified as a class alien and was being rejected so they if in your previous life in your pre-communism days, if you were had dared, you dare employ somebody else because remember, they owned a small dairy business. They had employees. How dare you? You were considered a class alien. I mean, you were a traitor to your class. You dared provide employment opportunity for somebody else. And so they were being rejected. So what do they have to do? They have to go in and they have to manipulate his paperwork. Our connection did something. I never actually knew what it was, but I suspect he removed the papers that called me that classified me as a class alien. And without those, I was reclassified as other. In late summer, a postcard arrived at our house. It briefly stated that I had been admitted to the natural sciences branch at the University of Budapest. The postcard arrived in the middle of the day and I grabbed it and stared at it with my heart pounding. I stroked the words with my fingers to"
+    },
+    {
+      "timestamp": "00:42:09",
+      "text": "make sure they were real. I was going to the university. I was going to be a real chemist. My life had a direction. A weight that I didn't even know I was carrying was lifted off my shoulders. He's in college. He's studying to be a chemist and he comes he comes to a real an important discovery an important realization he's and the summary is you should always have more than one interest so he starts uh wanting like taking a very really strong interest in in the opera and singing so it says my fascination with opera also continued to grow so much that i decided to take singing lessons i liked the sound of my own voice and I fantasized I would be discovered as a later day, this opera singer, I don't know how to pronounce his name. The lessons were half an hour long, two evenings a week. They were outright boring."
+    },
+    {
+      "timestamp": "00:42:55",
+      "text": "I didn't care. I was learning real singing. So I persevered with vigor, using the times when I was alone in my apartment to practice. I would have been mortified if anyone at home had heard me. My singing was not meant for friends and families. It was only for me and my teacher. After several months, my singing voice got smoother and more flexible. I never really learned how to read music and I'd always had trouble with timing, but I loved every minute I spent on it. Even when I had to sing particular parts over and over again,"
+    },
+    {
+      "timestamp": "00:43:23",
+      "text": "I went in and practiced. So he's actually going for a walk with his friend. They're arguing about something. And so while he's walking to his lessons, he's like, OK, I got to go do these lessons. So he says, I went in and practiced. My classmate was still there when I came out. We resumed our walk. But before we could resume our argument about chemistry, he asked, what was that stuff you sang? I could hear you through the door and it sounded really neat."
+    },
+    {
+      "timestamp": "00:43:49",
+      "text": "When my singing went well, it made me feel better about everything, even if things at school were tough. I thought I had made an important discovery. I realized that it's good to have at least two interests in your life. If you only have one interest and that goes sour, there's nothing to act as a counterbalance to lift your mood. But if you have more than one interest, chances are something will always be going okay. So this paragraph, he's going to talk about working his way through the chemistry curriculum. But I really think it's a good metaphor for life. So he says, I was completely alone in this task."
+    },
+    {
+      "timestamp": "00:44:22",
+      "text": "Each of us had a different compound and each of us chose his or his or her own path. And everyone was completely preoccupied with his or her own problem. So I couldn't brainstorm with any of my classmates. I was completely alone in this task. Each of us had a different compound. Each of us had to choose our own path. And everybody was preoccupied with his or her own problem. So now we get to the part, he's got to be almost 20 years old at this point."
+    },
+    {
+      "timestamp": "00:44:52",
+      "text": "This is right before he's going to be forced to flee. It's about to pop off. In June 1956, the revolution, I think, happens in October of the same year. June 1956, there was a buzz about a group organizing a public discussion about the journalistic practices of the day. Remember, they're deep into communism by this point. By the time the session started, people filled. So, hey, there's a bunch of journalists are going to have this panel and everybody from the city is going to be there. By the time the session started, people filled every nook and cranny of the auditorium, crammed the stairways and overflowed into the courtyard of the building."
+    },
+    {
+      "timestamp": "00:45:28",
+      "text": "Loud speakers had to be hung so that the sessions could broadcast to the crowds waiting outside. My friends and I managed to find a place inside the auditorium. A long table was set up on the stage. At it sat a panel of writers and journalists. Remember what I was just saying about not only in Hungary, but it's also happening in Cuba, this complete control of the flow of information that is about to end and an uprising that is going to eventually be put down by violence is going to spring up in its place because what they say here. So it's a panel of writers and journalists. One by one, they stood up facing the audience, describing the many ways in which each had worked to mislead the hungarian public through lies distortions and exaggerations so the newspapers and the the radio the two main sources of"
+    },
+    {
+      "timestamp": "00:46:16",
+      "text": "information have all been compromised and they're like listen we've been lying to you under the force of the government because we we were told we had to and this is and they just start talking about oh this lasts for hours. But, oh, you think this thing's true? Nope, that's false too. The editor of the major communist daily newspaper told how he had doctored the, and it's even like little things like this, like how pathetic do you have to be? He had told that he had doctored the weather forecast to promise clear skies for each May Day. That's the big parade, so to speak, to celebrate, you know, the government,"
+    },
+    {
+      "timestamp": "00:46:47",
+      "text": "in order to encourage people to turn out in large numbers for the annual parade. The meeting started in the late afternoon and went on for hours. There seemed to be no end to the revelations and confessions. It was fascinating to listen to, and I couldn't help but feel that I was witnessing something unusual and significant. I sensed that I was witnessing history being made. Then the thought occurred to me. The whole thing reminded me of a pressure cooker whose lid had been weakened. The danger was that as more steam was generated, the weakened lid might well explode. And here comes a revolution. The crowd thickened. People overflowed onto the street. Everyone was hollering and shouting happily as more and more people shared in the increasing excitement. Every window"
+    },
+    {
+      "timestamp": "00:47:30",
+      "text": "facing the street had someone hanging out of it, waving madly. After all the years of sullen, silent May Day marches, there was something magical about a large Sputanius demonstration. A Hungarian flag was unfurled from a window along the way. The original flag, before the communist uprising, had the emblem of Saint Stephen, a gold crown with a cross on top in the center. During the communist years, this emblem was replaced by the crossed hammer and sickle of the Soviet Union. The flag was now waving from the window, had a hole in the middle. The communist emblem had been cut out. Pretty soon, we saw more flags like that, then more flags, until about every building was decorated with one. If"
+    },
+    {
+      "timestamp": "00:48:11",
+      "text": "you go google the Hungarian revolution of 1956, you'll see pictures of these flags. It's remarkable. All with a hole in the middle. The sight took my breath away. Those flags were permanently altered. The act seemed unequivocal and destined to provoke a reaction of some sort. The demonstrations had started as an act of support and celebration. But now I feel we had crossed a line of no return. I began to feel nervous. A wave of excitement swept through the crowd. It seemed that all the students who originally organized the march had formulated a 12-point program of political reform. So they're going to go to the state-controlled radio station and give their demands."
+    },
+    {
+      "timestamp": "00:48:51",
+      "text": "You can imagine what a totalitarian dictatorship is going to respond to this. The buzz was that we should head to the main radio station and demand the 12 points to be read over Radio Budapest. Meanwhile, I also heard people saying that a crowd was trying to topple the gigantic statue of Stalin. I was excited, but also increasingly scared. I joined the stream of thousands that were flowing in that direction, but before I could get there, a rumor ran through the crowd that the security police were firing on the demonstrators. I decided to head home. The events had gone way beyond the exuberant demonstration of the afternoon. Now I was really scared. The events were going to take place over a series of days."
+    },
+    {
+      "timestamp": "00:49:27",
+      "text": "The firefight between the demonstrators and the security police had raged all night. We still heard sporadic shooting from the distance. A few hours later, I saw trucks coming back. This time, the truck beds were full of wounded people being taken to a hospital that was in our neighborhood. Later, people said that the Russians withdrew from Budapest. A new government was formed. Political parties that had been long disbanded came back to life. It was as if the gradual thaw that had slowly been taking place over the past couple of years had suddenly turned into a flood. I had mixed feelings about the whole thing. On the one hand, I was happy to see the communist regime toppled. On the one hand, I was happy to see the communist regime toppled. On the other hand, I was worried about where all this liberation might lead."
+    },
+    {
+      "timestamp": "00:50:10",
+      "text": "The war years were not that far in the past. I went to bed filled with uneasiness and anxiety. Early the next morning, I woke up to the sound of wooden planks being dropped. It sounded familiar, but it took me a few minutes to think why. Then I remembered the sound from 11 years ago. It was the sound of heavy artillery fire. My heart started pounding. So the Russians left, but now they're coming back, and they're coming back with bombs. A strange rumble approached. This is on his street. I ran to my room and flung open the window to see what was happening. Before I had a chance"
+    },
+    {
+      "timestamp": "00:50:41",
+      "text": "to lean out, I froze. A vehicle that looked like a tank without a cover was coming to a stop right in front of our house. Russian soldiers inside the shell were manning machine guns pointed in all directions. I was too frightened to move. I sat down petrified. That night, we slept in the coal cellar, huddled in coats and blankets. It turned out to be a wise thing. The next morning, I heard two mortar rounds whoosh and crash overhead. They landed in the attic of our building. All the men ran upstairs, grabbing buckets of water from their apartments in the hope of extinguishing any fires that the shells might have started. I went with them. This is just an amazing paragraph too. Listen to how the paragraph ends. Broken tiles and splinters of wood were scattered"
+    },
+    {
+      "timestamp": "00:51:25",
+      "text": "on the attic floor. Bits of the shell were still smoldering on the floor. Luckily, the floor was covered with sand. So instead of throwing water on the embers, we shoveled more sand over them and the fire was quickly extinguished. The sand had been spread in the attic in anticipation of an attack by the American imperialists during the Korean War. The irony of the situation didn't hit me until later. Radio Budapest began broadcasting messages from the new regime. In its old cheerily positive voice, it reported on the defeat of the counter-revolutionaries and the restoration of the order in the city. The next day, Russian soldiers showed up at our house. They wanted to get into the apartments facing the street. One of the apartments they had chosen was ours. They had waved us back into the cellar."
+    },
+    {
+      "timestamp": "00:52:13",
+      "text": "I wish there were no mortars falling on our house and no Russian soldiers in our apartment. I wanted the trams to run again. I wanted to go back to school. I wanted life to go back to normal. So it's during this time they're hearing a lot of reports of just Russians, trucks will pull up and there'll be a bunch of young people around Andy's age that just happened to be hanging out and they're escorted, put back into the trucks and disappeared. And so his parents are freaking out. And this winds up becoming the single most important decision of his entire life. Escaping became a recurring topic of conversation"
+    },
+    {
+      "timestamp": "00:52:45",
+      "text": "between my parents and me. I was very tempted, but I didn't know how to go about it. My parents thought I should go, but were terrified of what might happen to me if I was caught. So I agonized. Should I go? Do I dare go? Should I go alone? If not, with whom? How would I start? What if I got caught? All of my unanswered questions multiplied. I rationalized that things weren't so bad here after all. I really like the university. I like my class. I like Vicky. This is a girlfriend at the time. Maybe I should just stay. But then the lure of the opportunity of getting out to the West started the circle all over again. So as you can imagine, very confusing, especially for a 20-year-old to make this decision."
+    },
+    {
+      "timestamp": "00:53:26",
+      "text": "It's just, it's remarkable, and he's going to get pushed into the direction. One afternoon in early December, my Aunt Mancy stopped by. She came right over to me and without any greeting said, I'm changing his name to Andy. Andy, you must go. I stared at her. You must go, she repeated, and you must go now. Immediately. On her way back from shopping, she had seen several Russian trucks. The trucks had pulled up at an intersection. Russian soldiers had jumped out, rounded up the"
+    },
+    {
+      "timestamp": "00:53:53",
+      "text": "young people who happened to be in the neighborhood, herded them off in trucks, and left. She was an Auschwitz survivor. She had seen the worst that could be. She was not a hysterical woman and had absolutely no reason to exaggerate. I knew where I would go if I did leave. Of course, it would be America. Or as the communist regime put it, imperialist, money-grubbing America. The more scorn they heaped on America, the more desirable America sounded. America had a mystique of wealth and modern technology."
+    },
+    {
+      "timestamp": "00:54:21",
+      "text": "It was a place with lots of cars and plenty of Hershey bars. So interesting people's impression, right? When you're a young person. There were two more immediate problems holding me back from leaving. I didn't know how to do it and I was scared. So his father's like, it's like a friend of a friend situation realizes hey if you can get your son to austria i know somebody that'll that'll help him find people that can help him right that winds up not being true the guy winds up he doesn't wind up meeting up with him the guy's annoyed that he's even there because it's just a i mean 200 000 hungarian refugees i think uh"
+    },
+    {
+      "timestamp": "00:55:00",
+      "text": "wind up pouring into austria around time. So this is the escape. They're leaving in the middle of the night. It's very cold. It's the middle of December. It's just a group of young people. They wind up close to the border of Austria, this very rural part of Hungary. They see this hunchback Hungarian guy."
+    },
+    {
+      "timestamp": "00:55:21",
+      "text": "He's working in the field. And they go up to him and they ask him, can, is there, you know, can you help us? How do we get like how do we get into Austria? It turns out this guy had like a side business of smuggling this hunchback guy of smuggling people into Austria. So this is what happens. He was firm about how he wanted to do this and we needed him. We would walk for five or 10 minutes in a field or through the woods. And then he so he's saying, you guys got to go ahead. You're not going to see me but i'm there"
+    },
+    {
+      "timestamp": "00:55:45",
+      "text": "and i'll guide you i'll keep but again he can't be seen walking with god forbid uh you know some kind of uh government official or soldier sees a small group they know what they're doing they're trying to get out of there so he constantly like intersects with their path and this is a description of that we would walk for five or ten minutes in a field or through the woods and he would materialize from the dark tell us to head in a slightly different direction and then disappear again. Another five or ten minutes, he would catch up with us again and direct us to the next step. And so it went. Every time we thought he had abandoned us, he would materialize out of thin air and give us our next instruction. It was cold"
+    },
+    {
+      "timestamp": "00:56:20",
+      "text": "and dark, so dark that sometimes we had to feel our way among the trees. I lost the track of time. After a while, we emerged from the woods. After a while, we emerged from the woods. This is one of my favorite parts of the entire book. It gives you goosebumps when you read it. After a while, we emerged from the woods. I could see the faint lights from across an open field. The man came close to us."
+    },
+    {
+      "timestamp": "00:56:42",
+      "text": "Those lights are Austria, he whispered. Head toward them and don't take your eyes off them. The man came close to us. Those lights are Austria, he whispered. Head toward them and don't take your eyes off them. This is as far as I go. And he was gone. I didn't take my eyes off those lights. I trudged toward them as if they were a magnet. The muddy field seemed endless."
+    },
+    {
+      "timestamp": "00:57:03",
+      "text": "The lights never seemed to get brighter. We stumbled across some ditches, then crossed a dirt road. We heard dogs barking at a distance, and suddenly a flare lit up the sky. We threw ourselves to the ground, holding our breath. Then the flare burned out, and it was dark again. We picked ourselves up and continued. After what seemed like miles and miles and miles, the lights finally came close. Had we made it? We snuck up to the first house that we could see. Dogs immediately started barking in the dark. We again threw ourselves to the ground. A man came out the house holding a lantern over his head and called out in Hungarian, who is there? My heart stopped. I had heard stories of people who had attempted to cross the border, gotten lost, and"
+    },
+    {
+      "timestamp": "00:57:41",
+      "text": "meandered right back into Hungary. Had this happened to us too who was there the man repeated we hesitantly picked up ourselves off off the ground and forced ourselves to approach when he saw us he smiled a big warm smile and said relax you're in austria for a moment my mind went blank then i started breathing again almost panting with relief my clothes were suddenly drenched with sweat now there's a long journey ahead of them and not one there's not one single person that can steward them the whole the whole way so really i'm about to read they're gonna they're gonna wind up going to another house luckily this woman speaks hungarian but it's when i got to this point i just"
+    },
+    {
+      "timestamp": "00:58:25",
+      "text": "had a thought it is really really hard to wrap your head around this book the fact that it's such a contrast between humans being absolutely without remorse unbelievably brutal to each other they'll murder little kids they'll rape women and yet the same species on the other end of the spectrum is you have unbelievable acts of kindness and selflessness. The fact that they're risking their lives. They get caught helping these refugees and they could be killed. They could be taken away to prison. They could lose everything and they still do it. We asked her where we could get the train for Vienna and she"
+    },
+    {
+      "timestamp": "00:59:05",
+      "text": "told us that that's where she was going to. She was taking some food in a wicker basket to the market there. She had a little girl with her and in a few minutes they were ready to go. The four of us walked in the dark and freezing cold until we came to the railroad tracks. There was no station, not even a sign indicating where we were, but the woman said the train will stop here. And about 15 minutes later, a train came along, and it did indeed stop for us. So imagine that. Didn't happen to come across this woman."
+    },
+    {
+      "timestamp": "00:59:31",
+      "text": "There's no way they would have caught this train. The woman explained to the conductor, she speaks both Hungarian and German, the woman explained to the conductor that we were escapees, refugees. The conductor shrugged and patted us on the shoulder, then continued through the car without demanding our fare. We were on our way to Vienna."
+    },
+    {
+      "timestamp": "00:59:53",
+      "text": "So they get to Vienna. There's an unbelievable amount of organizations set up to try to help. There's some American organizations. People are going to England. They're going to all different parts of the world. Everybody in the world knows what's going on in Hungary at the time. And the plan is, okay, I want to go to England. They're going to all different parts of the world. This is everybody in the world knows what's going on in Hungary at the time. And the plan is, OK, I want to go to America. You have to have somebody not sponsor, but he has a family there."
+    },
+    {
+      "timestamp": "01:00:14",
+      "text": "And so he writes a telegram. His parents like we have family there. Get in touch with them. And I'm just going to read you. This is just an incredible, incredible sentence. When you figure out where he's got no pen, he's got no money. He's in a strange country for the first time in his life. He doesn't know the people he needs help. He cannot survive without the help of other humans."
+    },
+    {
+      "timestamp": "01:00:37",
+      "text": "And so he's writing a telegram to his family in New York. And he's, you know, he's talking about, he feels weird. Like I don't, I felt strange about approaching people I've never met with a quest for help. And then he says, I couldn't afford luxuries like embarrassment. So while he's in Vienna, there's this organization called the IRC."
+    },
+    {
+      "timestamp": "01:00:55",
+      "text": "It stands for the International Rescue Committee. And they do interviews. A lot of people want to go to America. They only have a certain amount of spots. So he does an interview, and he finds out the next day that he was declined. And I think, you know, normal people are probably like, oh, I've got to figure out another route. And he's not the kind of person that's going to give up. So he finds out."
+    },
+    {
+      "timestamp": "01:01:16",
+      "text": "He says, where are they? And someone said they were conducting another series of interviews at a school some distance away. I took off like a madman. I ran all the way through the cold, dark streets. My heavy shoes hurt as my feet ran, but I didn't care. Sweat was pouring down my face by the time I reached the school. There was a familiar long line of people waiting to be interviewed. I didn't wait. As the next person emerged from the interview room, I brushed past the person whose turn it was supposed to be and pushed in to stand in the front of the table."
+    },
+    {
+      "timestamp": "01:01:38",
+      "text": "The IRC representatives were a different group of students than the ones who had interviewed me the day before. They stared at me blankly. I didn't give them time to say anything i swiped the sweat off my face and with my hands and uh with my hands and still panting started talking in english as fast as i could he was very very lucky like five years before his father thought it was a good idea to learn english english because he said that's what americans and people in england speak and he had a feeling that it was going to be the most popular language in the world in the future i I explained that in an interview yesterday, that I was not selected, but I really, really, really wanted to go to the United States. One of the interviews asked me why. I told him I had relatives in New York City who would take care of me, that I was a chemistry"
+    },
+    {
+      "timestamp": "01:02:14",
+      "text": "student, that I thought I'd become a good chemist, and that I belonged in the United States. The words poured out of me, not eloquently or coherently, but as I talked and talked and talked, as I could overwhelm their objections by the sheer volume of my words. I almost didn't dare stop talking, but finally I ran out of things to say. I stood there, panting slightly and still sweating profusely. The students looked at each other and smiled. Then one said, okay, you can go to the United States. I was speechless. I couldn't believe my good fortune. The thought of it hit me."
+    },
+    {
+      "timestamp": "01:02:51",
+      "text": "After all the years of pretending to believe things that I didn't, of acting the part of someone I wasn't, maybe I would never have to pretend again. The train went on, and I finally fell asleep so this international rescue community they give him a voucher he's got to go to i think he is england i forgot maybe germany i can't remember exactly where they the ship left from so he takes this multiple week trip a bunch with a bunch of other hungarian refugees to new York City. They're getting there by boat. And he's making friends with people on the ship."
+    },
+    {
+      "timestamp": "01:03:30",
+      "text": "And there's just a lot of sentences. From the time he leaves and makes it to America, there's a lot of sentences that are like this. So he says, My new friends explained to me that this ship was one of the many that had been built after the war for the sole purpose of bringing the troops home from England. Remember, his entire life, his entire, you know, young life has been in a war zone, essentially playing economy. He didn't what they just told him blew his mind. Right."
+    },
+    {
+      "timestamp": "01:04:02",
+      "text": "It seemed incredible to me that ships would be built for just one purpose but they assured me this was the case there's a ton of sentences like this uh he talks about he never saw the ocean didn't know what salt waters smelled like uh there was no no such thing as real coffee in hungary they called it coffee but it was it was not made out of coffee beans it was made out of like ground hazelnuts or something like that. So he starts having real coffee for the first time ever on the ship. And he's like, it tastes amazing. So that's real coffee made from coffee beans."
+    },
+    {
+      "timestamp": "01:04:30",
+      "text": "He never had a banana before. He never had an orange. He's eating all these things. He gets to America, they give him a polio vaccine. He's like, I don't understand. You guys have a vaccine? Like people in Hungary are dying. I guess, well, you eventually do die from polio."
+    },
+    {
+      "timestamp": "01:04:43",
+      "text": "Like we're still getting polio. He'd never seen a TV before. he never saw a trash incinerator he could not believe america when he got there there's actually a really good book about this idea um do you guys know who patrick collison is patrick collison is the founder of stripe uh he's a source of great book recommendations actually if you go to patrickcollison.com i think maybe forward slash books but he just recommended this other book i just bought the audible version if it's good i'll read it and maybe talk about on the podcast it's called freedom's forge and it's about the the was one of the most remarkable achievements in american history which is how industry rose to to the challenge of building all the machines and weaponry weaponry that the ally they called"
+    },
+    {
+      "timestamp": "01:05:21",
+      "text": "the arsenal of democracy i'm also listening to dan carlin's his latest series which is on um the war in the east and it talks about the difference between like how the japanese built i'm not finished with the latest episode i'm like maybe an hour and a half two hours into it but the he talks about i mean these are like approximate numbers right i don't i didn't take notes but it's like during the the entire time the Japanese or Americans were fighting, Japan was able to build like 8,000. Let's call them ships. I don't remember what it was. 8,000 pieces of machinery for the war effort. They said in the first year, the Americans were able to build 40,000, and that was the least amount they ever built. And they did it year after year after year."
+    },
+    {
+      "timestamp": "01:06:01",
+      "text": "So total, I can't remember what it was. Let's just assume it was ships. built eight eight thousand americans were wind up building hundreds of thousands of them um so this i i have a feeling that's going to be in the book freedoms forage which sounds really interesting but again going back again it listen what he says it seemed incredible to me that ships would be built for just one purpose so he gets to america gets to new york city and he um winds up enrolling in school he he has the help from countless different organizations uh they provide him uh with room and board our small stipend they pay for his tuition his books he gets a job and works. And his schedule at this time is remarkable. I mean, could you imagine? Could you imagine everything this guy went through?"
+    },
+    {
+      "timestamp": "01:06:50",
+      "text": "And now he's like, I got this land of opportunity in front of me. So from time he wakes up in the morning, he's got like morning classes. Then he has to come home. He studies all day long, then goes back for night classes. And then he's also working while he's doing that too. And he's like, every once in a while, I would buy myself at the subway in New York City. They would sell cups of Coca-Cola for five cents. And every once in a while I treated myself to this. But I didn't do it too often because that was five cents I didn't have to bring my parents over with me. Winds up not liking New York City. He's like, I love America, don't like New York City. He gets stewardship, like a mentor with one of his professors who he never forgot for the rest of his life."
+    },
+    {
+      "timestamp": "01:07:30",
+      "text": "In fact, he never forgets any of the people who helped him. The royalties for this book go to the international... Isn't that amazing? The royalties of the book go to support refugees modern day because that IRC still exists to this day but anyways the so he talks about he's telling his his mentor about you know i love america but i i can't handle the the the weather here and he was just tired of the snow and so he's like he's his uh mentor tells him about san francisco he's like you know you might might like it there so after school"
+    },
+    {
+      "timestamp": "01:08:03",
+      "text": "um that's where he decides he's he's going to. And I just want to tie this, before I close, I want to tie this together. Soon after graduation, we piled into an old car and drove out to California so I could go to graduate school at the University of California, Berkeley. Somewhere on Highway 40, I saw a sign indicating that we were nearing the Sierra Nevada. The words jumped straight out of the Carl May books I had read when I was a kid. Now here I was about to drive through those mythical mountains. I fell in love with the San Francisco Bay Area from the moment I drove through the tunnel north of San Francisco"
+    },
+    {
+      "timestamp": "01:08:36",
+      "text": "and saw the city glittering in the sunshine. It was everything Professor had suggested it would be. It was beautiful. It was friendly. It became home. I've lived in the bay area ever since and now we reach the andy grove of the age that he is when he wrote the book he's about 60 62 somewhere in there and he's reflecting back on this he says i've loved my life in the united states the doors that the international rescue committee and professor schmidt opened for me were just the first of many. I went to graduate school and scholarships, got a fantastic job at Fairchild Semiconductor, the high-flying company of its day, then participated in the founding of"
+    },
+    {
+      "timestamp": "01:09:15",
+      "text": "Intel, which in time has become the largest maker of semiconductors in the world. I rose to be its chief executive officer, a position I held for 11 years. I've continued to be amazed by the fact that as I progressed through school and my career, no one has ever resented my success on the account of me being an immigrant. I became a U.S. citizen. I was named Time Magazine's Man of the Year in 1997. My two daughters now have children of their own. In fact, it was the arrival of the grandchildren that stimulated me to tell my story."
+    },
+    {
+      "timestamp": "01:09:49",
+      "text": "As my teacher Valensky predicted, I managed to swim across the lake, not without effort, not without setbacks, and with a great deal of help and encouragement from others. I'm still swimming. And that's where I'll leave the story. If you want to buy this absolutely amazing book and you use the link that's in the show notes in your podcast player at the same time,"
+    },
+    {
+      "timestamp": "01:10:11",
+      "text": "you'll be supporting the podcast. That's 159 books down, 1,000 to go. I'll talk to you again soon."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:09:07.891Z"
+}

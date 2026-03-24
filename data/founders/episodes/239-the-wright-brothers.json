@@ -1,0 +1,689 @@
+{
+  "metadata": {
+    "episodeNumber": 239,
+    "title": "The Wright Brothers",
+    "slug": "239-the-wright-brothers",
+    "url": "https://podscripts.co/podcasts/founders/239-the-wright-brothers",
+    "date": "March 29, 2022",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "At exactly 10.35, Orville slipped the rope restraining the flyer and headed forward. At the end of the track, the flyer lifted into the air and Daniels, who had never operated a camera until then, snapped the shutter to take what would become one of the most historic photographs of the century. The course of the flight, in Orville's words, was extremely erratic. The flyer rose, dipped down, rose again, bounced, and dipped again like a bucking bronco. The distance flown had been 120 feet. The total time airborne was approximately 12 seconds. Were you scared, Orville would be asked. Scared, he said with a smile. There wasn't time. It was only a flight of 12 seconds, he said, and it was an uncertain, wavy, creeping Then on the fourth test, Wilbur flew through the air and a distance of 852 feet over the ground in 59 seconds. It had taken four years. They had endured"
+    },
+    {
+      "timestamp": "00:01:15",
+      "text": "violent storms, accidents, one disappointment after another, public indifference and ridicule, and clouds of demon mosquitoes. To get to and from their remote sand dune testing ground, they had made five round trips from Ohio, a total of 7,000 miles by train, all to fly a little more than half a mile. No matter, they had done it. Success it most certainly was, and more. What had transpired that day in 1903, in the stiff winds and cold of the Outer Banks, in less than two hours time, was one of the turning points in history. The beginning of change for the world far greater than any of those present could possibly have imagined. Being the kind of men they were, neither ever said the stunning contrast between their success and Samuel Langley's full-scale failure just days before. Langley's project had cost nearly $70,000, the greater part of it public money, whereas the"
+    },
+    {
+      "timestamp": "00:02:22",
+      "text": "Wright brothers' total expenses for everything from 1900 to 1903 including the materials and travel to and from Kitty Hawk came to a little less than a thousand dollars. A sum paid entirely from the modest profits of their bicycle business. Of those who had been eyewitnesses John T Daniels was the most effusive about what he had felt. I like to think about that first airplane, he said, the way it sailed off in the air, as pretty as any bird you ever laid your eyes on, and I don't think I ever saw a prettier sight in my life. But it would have never happened, Daniels stressed, had it not been for the two workingest boys he ever met. It wasn't luck that made them fly. It was hard work"
+    },
+    {
+      "timestamp": "00:03:07",
+      "text": "and common sense. They put their whole heart and soul and all of their energy into an idea and they had faith. That is an excerpt from the book that I just reread and the one I'm going to talk to you about today, which is The Wright Brothers. And it was written by David McCullough. I read this book for the first time four years ago, and I actually did a podcast that's Founders No. 28 on it. And I wanted to reread it because I think it's the single best illustration of this idea that I learned from Paul Graham. Paul Graham is a prolific writer."
+    },
+    {
+      "timestamp": "00:03:35",
+      "text": "He's also the founder of Y Combinator. And his website's just fantastic because he's got all these great essays. And he wrote an essay back in 2009. And I just want to read the first paragraph and the last paragraph. I'll also leave it in the show notes in case you haven't read it. It's fantastic. And Paul has seen a ton of startup founders through his mentorship and his investment. So I think that adds some weight onto his opinion, onto his words, what he's about to say here. And he says, a couple of days ago, I finally got being a good startup founder down to two words, relentlessly resourceful."
+    },
+    {
+      "timestamp": "00:04:11",
+      "text": "So that's the first paragraph. This is the last paragraph. You can even use it tactically. If I were running a startup, this would be the phrase I taped to the mirror. Make something people want is the destination, but be relentlessly resourceful is how you get there. And that excerpt I just read to you is a great example of that. The Wright brothers solved an ancient problem through their own work and research for less than $1,000. And they couldn't have done that unless they were relentlessly resourceful. and two quick things before i jump back into the book if you want to buy a gift subscription for somebody else that link is down below in the show notes on your podcast player it is also available at founderspodcast.com in the early days of Amazon, Jeff Bezos talked about the importance of having a shared base of knowledge with your coworkers. And so Jeff and all the early executives at Amazon would actually read the same books. And so companies are also doing that with founders."
+    },
+    {
+      "timestamp": "00:05:16",
+      "text": "They're buying gift subscriptions to founders for the founding team and the executives. And that's one use case that I'm seeing pop up over and over again. So I just want to bring it to your attention in case you wanted to do that at your company as well. And the second thing, real quick, is a combination of an idea from Charlie Munger and Marc Andreessen. Charlie Munger has this quote in the book Damn Right, which I covered back on Founders number 221. And he says, everybody engaged in complicated work needs colleagues. Just the discipline of having to put your thoughts in order with somebody else is a very useful thing. And then Marc Andreessen talks about the fact that he's read hundreds of biographies and he says what"
+    },
+    {
+      "timestamp": "00:05:48",
+      "text": "that allows him to do is to build little mental models and to stress test his own ideas. So when he's presented with the decision, he'll say, okay, what would Elon Musk do in this situation? What would Henry Ford do in this situation? What would Steve Jobs do in this situation? And I think a combination of those two ideas is a very common thought that most founders have. And I think a combination of those two ideas is very common thought that most founders have. And I know this because a lot of founders get in touch with me and ask, hey, is there a way I can talk to you to kind of balance this idea that I'm dealing with in my business off of what you've learned about the history of entrepreneurship? And so I get more of these requests than I have time to accommodate. And so I decided to make it a service. If you're"
+    },
+    {
+      "timestamp": "00:06:20",
+      "text": "interested in organizing your thoughts or if you want to stress test your ideas against what I've learned, there's a link down below. Same thing. It's in everything. All the links that I mentioned are in the show notes on your podcast player. They're also available at founderspodcast.com. Okay, so let me get back into the book. The book starts with a fantastic quote, and there's a bunch of great one-liners in here, some of which I've never forgotten in the four years since I read it."
+    },
+    {
+      "timestamp": "00:06:41",
+      "text": "The very first page, it says, this is a quote by Wilbur Wright, and it says, no bird soars in a calm. So I just want to read two paragraphs from you. They come from the prologue, and it says, according to the brothers, Wilbur and Wilbur Wright, their fascination with flight began with them with a toy. It was a small helicopter that was brought home by their father, Bishop Wright. Their father was a great believer in the educational value of toys. And so the two most important characters in the book are obviously Wilbur and Orville Wright. I would say their father, and I'm going to speak a lot more about him today, their father is the next most important character in the story. He's somebody I greatly admire, and you'll see why. It says Orville,"
+    },
+    {
+      "timestamp": "00:07:19",
+      "text": "now this is the second paragraph, this is crazy. Orville's first grade teacher would remember him at his desk tinkering with bits of wood. Asked what he was up to, he told her he was making a machine of a kind that he and his brother were going to fly someday. Okay, so I'm going to get into the first chapter. I want to talk about their personality traits. I just reread a bunch of my highlights. Obviously, I'm going to talk about both Wright brothers today. The one I admire the most, the one that I kept writing on the notes and in the margins of a person that I want to copy a trait, like they have a trait that I want or I want to emulate, is Wilbur. He's kind of like the leader of the two Wright brothers, although they're both very, very important. You're going to hear me"
+    },
+    {
+      "timestamp": "00:08:00",
+      "text": "talk about him a lot today. First, they talk about this photograph where it shows the entire family, their brothers, their sister, their dad. And it says, What was most uncharacteristic about the picture is that they, meaning Orville and Wilbur, sit doing nothing, something they almost never succumb to. The two were remarkably self-contained. They were ever industrious, and they were virtually inseparable."
+    },
+    {
+      "timestamp": "00:08:26",
+      "text": "They were also indispensable to each other. They were brothers and partners in every single sense of the word. And you'll see that here. They lived in the same house. They worked together six days a week. They ate their meals together. They kept their money in a joint bank account. They even thought together."
+    },
+    {
+      "timestamp": "00:08:42",
+      "text": "And that quote, they even thought together, was something that Wilbur said about him and his brother. The brothers had tremendous energy. So again, going right into, if you saw the margins in this book. Oh, so something I did, whenever I reread a book, sometimes I buy a new copy. Sometimes I reread the copy that I had previously highlighted and annotated. I don't have a rhyme or reason to this, but for this thing, for this time around, I just decided to buy a fresh paper book copy. And so that's what I'm working off of. And if you could see the paperback that I have in my hand, like in the margins over and over again, it's like, I want this trait. I want to be that way over and over again. And it says the brothers had tremendous energy working hard every day, but Sunday was a way of life. Hard work was a conviction and they were at their best and"
+    },
+    {
+      "timestamp": "00:09:20",
+      "text": "happiest working together on their own projects. And then it's going to get into how they worked. This is the first mention of something that's repeated over and over again and something we've seen with Jeff Bezos, with Steve Jobs, Edwin Land. Ed Catmull, even the founder of Pixar, said the same thing. There is a benefit to the conflict. Internal conflict can actually produce better results than just seeking internal harmony. And I'll go into more detail later on, but this is the first example of that. Not that things always went smoothly."
+    },
+    {
+      "timestamp": "00:09:47",
+      "text": "They could be highly demanding and critical of each other. They could disagree to the point of shouting. At times, after an hour or more of heated argument, they would find themselves as far from agreement as when they started. Now, this is crazy. Except that each had changed to the other's original position. And there's examples of the book of that. They'll have a big argument overnight. The next morning they come in and usually they have they're working with other people like this"
+    },
+    {
+      "timestamp": "00:10:13",
+      "text": "guy, Charlie Taylor, who helped them with the engines of the first airplane. They'd walk in and say, and Wilbur would say, you know what? I've been thinking about it. Orville's right. Let's do it his way. A few minutes later, Orville would walk in like, you know, I was thinking about it. Wilbur's right. Let's do it his way. A few minutes later, Orville would walk in and be like, you know what, I was thinking about it, Wilbur's right, let's do it his way. So that example is like they'd start off in opposition and completely switch. And then this is just fantastic, I double underline this sentence, neither ever chose to be anything other than himself. In a number of ways, they were unidentical twins."
+    },
+    {
+      "timestamp": "00:10:40",
+      "text": "Orville moved at a more or less normal pace. Wilbur was tremendously active of movement, walking always with a long, rapid stride. Wilbur was more serious by nature, more studious and more reflective. His memory of what he had seen and heard, and so much of what he had read, was astonishing. Such were Wilbur's powers of concentration, that to some he seemed a little strange."
+    },
+    {
+      "timestamp": "00:11:03",
+      "text": "He definitely lived inside of his own head. This example of that, the strongest impression one gets of Wilbur's powers of concentration that to some he seemed a little strange. He definitely lived inside of his own head. This example of that, the strongest impression one gets of Wilbur Wright, said an old schoolmate, is of a man who lives largely in a world of his own. Wilbur also had an unusual presence and remained imperturbable under almost any circumstance. Never rattled, his father was proud to say. He was an exceptional public speaker and lucid writer, which seemed out of context for someone often so silent his remarks were articulate to the point and quite often memorable and he's just positive personality traits continues on the next page wilbur was little bothered by what others might be thinking or saying they were always perfect"
+    },
+    {
+      "timestamp": "00:11:41",
+      "text": "gentlemen naturally courteous to all they never drank hard liquor nor smoked or gambled. What the two had in common above all was a unity of purpose and unyielding determination. They had set themselves on a mission. And then we get to the father, their father, Bishop Wright, who I mentioned earlier, and the no life himself is the Wright brothers were blessed with a great, great father. It's almost like if you had like a Charlie Munger or like a Benjamin Franklin as your dad, and he would just pepper you with little maxims and guides for life. He does this throughout the book, and a lot of the things he says are pretty memorable, so much so that they quote him for years, or at least Orville quotes him for years after he dies, because unfortunately Bishop Wright outlives uh wilbur"
+    },
+    {
+      "timestamp": "00:12:26",
+      "text": "wilbur dies of typhoid fever rather young at 45 years old so it says uh from wide reading and observations of life he meaning bishop wright the dad had acquired what seemed an inexhaustible supply of advice on behavior habits uh of good and bad habits things to be aware of in life, and goals to strive for. At home, he preached courage and good character, finding a worthy purpose and perseverance. So these are all things that they listened to the lessons and they kind of ran with it. Providing guidelines he understood to be part of a father's duty. And then he says, make business first, pleasure afterward, and that guarded. All the money anyone needs is just enough to prevent one from being a burden on others."
+    },
+    {
+      "timestamp": "00:13:12",
+      "text": "And he also set a fantastic example for the entire family because the entire family, everybody, read all the time a lot of the motivations to become obsessed with solving this, the problem of Howard Flight comes from a lot of the books they were reading. So it says the brothers were well into their 20s before there was running water or plumbing in the house. So they had to go, there was an outhouse out back. That's where they'd go to the bathroom. And there was no electricity. The Wright family book collection, however,"
+    },
+    {
+      "timestamp": "00:13:43",
+      "text": "so it's talking about like they grew up in really like a modest, in modest circumstances. The father did not have a lot of money, but the little money he did have, he would spend on books. And he says the Wright family book collection, however, was neither modest nor commonplace. Bishop Wright, a lifelong lover of books, heartily championed the limitless value of reading."
+    },
+    {
+      "timestamp": "00:14:04",
+      "text": "That is a fantastic way to put reading. It is of limitless value. Between formal education at school and informal education at home, it would seem that he put more value on the latter. He was never overly concerned about his children's attendance at school. If one or the other of them chose to miss a day or two for some project or interest he thought worthy, it was all right by him. And certainly he ranked reading as worthy. Everyone in the house read all the time. Wilbur read just about everything, but he had a particular love of history. And then the father would quote some lines from books, lines that stuck out as like little maxims to guide them"
+    },
+    {
+      "timestamp": "00:14:45",
+      "text": "throughout life, which is absolutely fantastic. It's kind of similar to what you and I are doing with these books, right? And so they're quoting from a book. It says, every mind should be, this is such great, think about, let me read it to you. No, you know, let me think about a father telling his children this. And unfortunately, their mother dies rather young. I forgot what kind of, some kind of disease. I don't think it was typhoid fever i can't remember exactly so it says every mind should be true to itself should think in investigate and conclude for itself that is a line that becomes extremely important because it's not like the wright brothers were the only people attempting to solve this problem. David McCullough, the author of this book, does a fantastic job of just kind of summarizing, you know, this is a problem that humans had fantasized about for thousands of years, that it attempted to solve for thousands of years."
+    },
+    {
+      "timestamp": "00:15:37",
+      "text": "And so let me read that line again. Every mind should be true to itself. It should think, investigate, and conclude for itself. What you and I would refer to that as like shorthand is like we need to be capable of independent thinking something that obviously comes up a lot in these stories that you and i go over and so the no i left myself on that previous page was they were blessed with a great father they also knew that they were blessed with a great father and it says years later a friend told oval that he and his brother would always stand and as an example of how far Americans with no"
+    },
+    {
+      "timestamp": "00:16:05",
+      "text": "special advantages could advance in the world. So what they're talking about is the fact that they didn't have a lot of money. But Orville was like, yeah, but I had non-monetary benefits. But this isn't true, Orville responded emphatically, to say that we had no special advantages. The greatest thing in our favor was growing up in a family where there was always much encouragement to intellectual curiosity the encouragement to to be independent to be independent thinkers and then to also that you can go out and you can do things for yourself they put this to practice really early they're resourceful and industrious from a very early age they start their own print shop um so it says in there well let me just read"
+    },
+    {
+      "timestamp": "00:16:42",
+      "text": "to you while they're still in high school orville started his own print shop in the carriage shed behind the house. This is crazy. Listen to this sentence. He designed and built his own printing press using a discarded tombstone, a buggy spring, and scrap metal. With the help of Wilbur, he began publishing a newspaper called the West Side News, which is devoted to the going-ons and interests of their part of Dayton, Ohio. So they're making a little money from selling ads. They would just talk about the news in their little town."
+    },
+    {
+      "timestamp": "00:17:09",
+      "text": "And it says, now and then the brothers would include items from other publications that they judged worthy of their readers' attention. And so this is a quote. They read this. They liked it. So they put it in. There's two paragraphs they wanted their readers to know. Do not wait for the boy to grow up before you begin to treat him as an equal."
+    },
+    {
+      "timestamp": "00:17:25",
+      "text": "A proper amount of confidence and words of encouragement and advice, this sounds like exactly what their father did to them, give him to understand that you trust him in many ways. It helps to make a man of him long before he is a man in either stature or years. If a boy finds he can find a few articles with his hands, excuse me, if a boy finds he can make a few articles with his hands. Excuse me. If a boy finds he can make a few articles with his hands. And so they're writing this around the late 1800s, early 1900s. Claude Hopkins, I did the podcast on him that probably history's greatest copywriter."
+    },
+    {
+      "timestamp": "00:17:56",
+      "text": "I think it was like Founders No. 170. He uses that word articles too. It's not what you and I think of articles. It's not written. It's talking about like really you can substitute for like products, making something. So it says if a boy can find he can make a few products with his hands, it tends to make him rely on himself. And the planning that is necessary for the execution of the work is a discipline and an education of great value to him. So that sounds exactly what, essentially, they're giving advice."
+    },
+    {
+      "timestamp": "00:18:20",
+      "text": "They're reprinting advice. It sounds what their father did for them. With the paper showing some profit, Orville moved the business to a rented space, and Wilbur, who is now 22, was prominently listed as the editor. So that was their first business. Their second business is going to come from the fact that at this point in history, the bicycle was taking over. It was an absolute phenomenon, and it spread like wildfire."
+    },
+    {
+      "timestamp": "00:18:44",
+      "text": "So it says says bicycles had become the sensation of the time it was a craze everywhere you kind of think about this as like the internet in our day the bicycle was proclaimed to be a boon to all mankind a thing of beauty good for the spirits good for health and vitality and indeed one whole one whole one's whole outlook on life and it just goes into more details just how how how went from essentially zero to 100 in no time. And so the Wright brothers spot an opportunity like, OK, we're going to we can manufacture like they can build anything. They're extremely resourceful, says in the spring of 1893, Wilbur and Orville opened their own small bicycle business, the Wright Cycle Exchange, they called it. And they started selling and repairing bicycles."
+    },
+    {
+      "timestamp": "00:19:23",
+      "text": "And I'm not sure why, but now obviously I've read, what, 230 books since the last time I read this book, and there's something about that paragraph that made me think of what Bill Gates said. Back on Founders number 174, I read this book called Overdrive. It's the sequel to that Bill Gates biography called Hard Drive. And in Overdrive, it talks about how Bill Gates kind of missed the internet. And so I just want to read one paragraph from that book, Overdrive. It says, finally, the Internet had the attention of the man in charge of the biggest and most powerful software company on the planet. But that was just about all. Microsoft still had not started to develop a business and technical strategy for responding to this phenomenon. So he was slow to the realization, but once he realized it, he put all the force and essentially turned Microsoft on a dime."
+    },
+    {
+      "timestamp": "00:20:19",
+      "text": "He says something in that book later on, though, that really is the main point of why I read that, is that you can never fight against a phenomenon as powerful as something like the bicycle craze in the rights day or the internet in our day, that you don't fight against it, that you should use it to your benefit. So they open up their business. They start doing well, but that attracts a lot of attention. A lot of other people start building bicycle shops, so they have a lot more competition that's going to draw down, lower their profits, obviously. And this is where we see that Wilbur has this tendency in his life to kind of take a pause"
+    },
+    {
+      "timestamp": "00:20:53",
+      "text": "and be like, hey, I'm not actually sure I'm on the right track here. And it says, business remained good, but with the opening of more bicycle shops in town, competition kept growing. When sales grew slack, Wilbur turned conspicuuously restless uncertain of what to make of his life he had long thought he'd like to be a teacher which he which he thought was an honorable pursuit he had no knack for business he decided now this is hilarious that he says this remembers later on because they also reference this after they've invented and they're starting to sell airplanes he's actually having to learn how to be an entrepreneur at the highest levels on the fly and they reference this what he's about to say here how he he previously doubted that he could actually even like he's not he's like i don't have any"
+    },
+    {
+      "timestamp": "00:21:33",
+      "text": "business skills turns out he does he just didn't know so that he didn't know he had those skills he had no knack for business he decided he felt ill-suited for it now he says i do not think i am fitted for success in any commercial pursuit. I might make a living, but I doubt whether I would ever do much more than that. And so he writes this long letter and just basically putting down his thoughts on what it would take to be successful in business. In business, it is the aggressive man who continually has his eye on his own interest who succeeds. No man has ever been successful in business who was not aggressive, self-assertive, and even a little bit selfish perhaps. There's nothing reprehensible in an aggressive disposition so long as it is not carried to excess. For such men make the world and its affairs move. We have done reasonably well, better in fact than the average man perhaps,"
+    },
+    {
+      "timestamp": "00:22:22",
+      "text": "but not one of us has yet made particular use of the talent in which he excels other men. That is why our success has only been moderate. So that's actually really wise that he actually put this. It's like, we've done better than average, but we haven't lived up to our full potential and full capability because we haven't picked a market. We haven't picked a product. We haven't picked an endeavor, which actually makes use of our particular talent, the talent that we possess greater than every other person. He's not doing that in the bicycle business. They do do that in the airplane business or the creation of the airplane business is another way to think about it. So this this went on for a little bit."
+    },
+    {
+      "timestamp": "00:22:59",
+      "text": "But then it says then sales of the company picked up again to the point where they were selling about 150 bicycles a year and Wilbur stayed with it okay so while they're running their bicycle business Orville is 25 years old he gets sick with typhoid fever and this was extremely deadly at this point they were worried he was going to die he's very close to death so they're trying the entire family is trying to like nurse him back to health and this is when they start reading in earnest about all the other work that has preceded them because they want to build on the work of the great people that came before them, right? And so he's going to write, Wilbur is going to write this, one of the most famous letters in history. It's to the Smithsonian Institute requesting all the materials they"
+    },
+    {
+      "timestamp": "00:23:41",
+      "text": "have on powered flight. And this happens in the year 1899. So I'm going to read this to you. I want to read one quote before I get to that letter that Wilbur writes in that letter. And one thing is for sure, if Wilbur Wright was alive today, he would definitely subscribe to Founders. He says, I wish to avail myself of all that is already known. I wish to avail myself of all that is already known. So please send me the information that I need for what these people accomplished before I was even alive. I'm going to read everything and I'm going to build on where they left off. It says during this time, Wilbur had"
+    },
+    {
+      "timestamp": "00:24:12",
+      "text": "begun reading about the German glider enthusiast Otto Lilienthal, who had recently been killed in an accident. Much that he read, he read aloud to Orville. So he's reading to his brother while his brother is trying to recuperate from typhoid fever. And so you could think about this guy Otto as like their blueprint, the first version of their blueprint. Otto was a manufacturer of small steam engines and a mining engineer by training. Lilienthal had started gliding as early as 1869. And from the start, so 30 years before they're reading about him. And from the start, he had been joined they're reading about him. And from the start,"
+    },
+    {
+      "timestamp": "00:24:45",
+      "text": "he had been joined in his aviation experiments by his younger brother. He took his lessons from the birds, Otto said. What we are seeking, he's talking about the problem that he's trying to solve, and he's just one person in a long line of human history that's trying to solve this problem. What we are seeking is the means of free motion in the air in any direction. Over the years, Lilenthal had designed and built more than a dozen different gliders. Lilenthal would position himself on a steep slope, the wings above his head. There's some pictures on the internet of this and one picture in the book. It just looks wild what this guy's doing. He stood like an athlete waiting for the starting pistol. Then he would run down the slope and into the wind."
+    },
+    {
+      "timestamp": "00:25:26",
+      "text": "This is also how he's going to die. In 1894, Lilenthal had crashed, but he lived to tell the tale. Then two years later, he crashed again, falling from an altitude of 50 feet. He died of a broken spine at the age of 48. And so they're reading his writing, and he's essentially from the grave. I mean, he wrote the words, obviously, before he died died he didn't know that was going to happen to him but he's saying no matter what we have to carry on this work it must and this is lillenthal writing it must not remain our desire only to acquire the art of the bird it is our duty not to rest until we have"
+    },
+    {
+      "timestamp": "00:26:01",
+      "text": "attained a perfect scientific conception of the problem of flight and so very interesting when they start uh when they start building their they call them flyers but like the very primitive the very first airplanes very primitive versions of airplanes uh wilbur and orville make a pact where they're like listen we cannot fly together because we have a very real possibility that one of us is going to die in In fact, Orville experiences one of the first plane crashes. He falls from 75 feet and survives. His passenger winds up dying. But basically they're saying, hey, we can't fly together because we have a very real possibility that we may die. And if one of us dies, the other person has to be alive to continue on the work. So when McCullough says like they were engaged in a mission he means"
+    },
+    {
+      "timestamp": "00:26:45",
+      "text": "that with him in every sense of the word and so this is their surprising uh reaction to lillenthal's death news of lillenthal's death wilbur later wrote aroused in him as nothing had an interest that had remained passive from childhood he his reading on the flights of birds became intense. That's a great word there because this guy goes ham. He reads every single book he can possibly find on birds. They call it aerial motion, I think is the term. I'm going to get to that here. No, aerial locomotion."
+    },
+    {
+      "timestamp": "00:27:21",
+      "text": "Excuse me. So it says aerial locomotion has always excited the strongest curiosity among mankind. So that is a line from this book. He's reading this thing called Animal Mechanism. It was written by a lot of these names I'm going to butcher and mispronounce today. For some reason, the French had like extensive interest, and they probably had the largest collection of like aviation literature before the invention of"
+    },
+    {
+      "timestamp": "00:27:45",
+      "text": "the airplane than any other country. So this book was actually written, it's about like the motion of birds. It was written by a French physician, I'm not even gonna try to pronounce the person's name. But he says aerial locomotion has always excited the strongest curiosity among mankind. So essentially, he's saying that the very introduction of the book, he's telling us, listen, this is an ancient, unsolved problem. And so that is why I think, in think in my opinion this book that i'm holding my hand it should be in every single founders every single entrepreneur's library it's less than 300 pages it it tells the story of two resourceful brothers with not a lot of money no education no connections going up against the the the best well-funded and famous uh competition you'll get to that later, but like Alexander Graham Bell was going after this problem."
+    },
+    {
+      "timestamp": "00:28:28",
+      "text": "Hiram Maxim, Thomas Edison, the Smithsonian Institute, all of them had 100, 200, 300 times the resources as the Wright brothers. And they're going after an ancient unsolved problem, and the Wright brothers are the ones that figure out how to do it. It's extremely, extremely inspiring. So now he picks up another book. Listen to the title. Animal Locomotion."
+    },
+    {
+      "timestamp": "00:28:52",
+      "text": "Our Walking, Swimming, and Flying with a Dissertation on Aeronautics. So it says, for most readers, the title alone would have been too daunting. For Wilbur, the book was exactly what he needed. Everything I'm about to read to you is just the example of him being inspired. You cannot put a price on inspiration. It's extremely powerful for human beings. He's inspired by what he read. And so this guy's name is Pettigrew."
+    },
+    {
+      "timestamp": "00:29:15",
+      "text": "So Pettigrew is going to say right here for Wilbur, this is why. So Wilbur is reading Pettigrew's words. And this is why it was just right at the perfect timing for him. And Pettigrew says, Those authors is why I was just right at the like the perfect timing form and Pettigrew says those authors who regard artificial flight as impractical remark that the land supports the the quadris the people that walk on feet and the water the fish this is quite true but it's equally true that the air supports the air supports the bird of all the animal movements flight is indisputably the finest the fact that a creature can by the unaided movements of its So this guy is a straight-up evangelist. And so that's the way to think about what's happening."
+    },
+    {
+      "timestamp": "00:29:59",
+      "text": "Wilbur has picked up. He's having a one-sided conversation. I'm pretty sure the guy is long dead. His name is J. Bell Pettigrew. He is having, and when you pick up a book and you're reading somebody's words, you're having a one-sided conversation. I'm pretty sure the guy is long dead. His name is J. Bell Pettigrew. He is having, and when you pick up a book and you're reading somebody's words, you're having a one-sided conversation with them. He's having a one-sided conversation with his version of the eminent dead, to quote Charlie Munger, right?"
+    },
+    {
+      "timestamp": "00:30:16",
+      "text": "And this evangelist from the other side of the grave is firing Wilbur, full of a passion to go after this very difficult but worthy problem. Wilbur was to draw upon and quote Pettigrew for years. Like the inspiring lectures of a great professor, the book had opened his eyes and started him thinking in ways he never had. And so this is where Wilbur asks for help. He says, okay, I'm going to build on where everybody, other people left off. I have a couple books in my, you know, my library that happened to have"
+    },
+    {
+      "timestamp": "00:30:50",
+      "text": "in Ohio. I'm sure the Smithsonian Institute has more, like I need to ask them for help. Wilbur would write one of the most important letters of his life. Given all that it set in motion, it was one of the most important letters in history. Addressed to the Smithsonian Institution in Washington, it filled not quite two sheets. I have been interested in the problem of mechanical and human flight ever since a boy. My observations since then have only convinced me more firmly that human flight is possible and practical. Practical, excuse me. I am about to begin a systematic study of the subject in preparation for practical work"
+    },
+    {
+      "timestamp": "00:31:26",
+      "text": "to which I expect to devote what time I can spare from my regular business. I wish to obtain such papers as the Smithsonian Institution has published on this subject and, if possible, a list of other works in print in the English language. I am an enthusiast, but not a crank, in the sense that I have some pet theories as to the proper construction of a flying machine. So then it continues, it says, he and Orville had both began studying in earnest. Especially helpful were the writings of Octave Shinn."
+    },
+    {
+      "timestamp": "00:31:57",
+      "text": "I know I'm butchering these people's names, by the way, but this guy becomes extremely important. He's like a generation older than the Wright brothers, and he's been working on this problem for a long time. And they wind up becoming friends and collaborators. Especially helpful were the writings of Octave Chanute, a celebrated French-born American civil engineer, builder of bridges and railroads who had made gliders. And then there's this other guy named Samuel Langley, who I also mentioned. That's the guy that I mentioned earlier, who had spent $70,000 of public money and was unable to do what"
+    },
+    {
+      "timestamp": "00:32:31",
+      "text": "the Wright brothers did with just $1,000, their profits and their modest business. The writings of Octave Chenu were helpful, and so were the writings of Samuel Langley, who was an astronomer and the head of the Smithsonian. Langley was one of the most respected scientists. So the reason I'm reading this, too, is because you think about, like, no one knows who the Wright brothers are. They're doing all this, like, this research and all this work in private, in their home, in their bicycle shop in Ohio. And they're attempting to accomplish the same thing that all these people I'm about to read to you, these very formidable people that have way more resources and access to funding and fame and media and all the things that the Wright Brothers do not. So it says Langley was one of the most respected scientists in the nation."
+    },
+    {
+      "timestamp": "00:33:17",
+      "text": "His efforts in recent years were backed by substantial funding. It had resulted in him building a strange looking steam powered aerodome, as he called it. It had the look of a monstrous dragonfly, and it was launched by catapult. And it never, every time he launched it just fell right into the river. Along with Lilenthal, Chanute, and Langley, numbers of other, among the most prominent engineers, scientists, and original thinkers of the 19th century had been working on the problem of controlled flight, including Sir George Cayley, Sir Hiram Maxim, who was the inventor of the machine gun, Alexander Graham Bell, and Thomas Edison. None had succeeded. Hiram Maxim had reportedly spent $100,000 of his own money on a giant steam-powered pilotless flying machine only to see it crash while it"
+    },
+    {
+      "timestamp": "00:34:06",
+      "text": "attempted to take off so that's a hundred grand now maximum spent seventy thousand dollars that langley spent uh alexander grimbell set up an entire company for this so like you're talking about and this is in in you know eighteen hundred nineteen hundred dollars so millions upon millions upon millions of dollars compared to the thousand dollars that the wright brothers are going to spend over three years to solve the problem and that leads to what may be my single favorite paragraph in the entire book this is fantastic in no way did any of this discourage or deter wilbur and orville wright any more than the fact that they had no college education no no formal technical training, no experience working with anyone other than themselves,"
+    },
+    {
+      "timestamp": "00:34:48",
+      "text": "no friends in high places, no financial backers, no government subsidies, and little money of their own are the entirely real possibility that at some point, like Otto Linlithal, they could be killed. So the Smithsonian Institute sends them a bunch of research and some books."
+    },
+    {
+      "timestamp": "00:35:10",
+      "text": "And one of the books is extremely important because Wilbur finds another evangelist, another evangelist for aviation. So again, he has a missionary zeal applied to this very difficult problem, and he's being fired on by the words and the work of the people that came before him. This is so important. This is why it's so essential to pick the right heroes. Among the material that the Smithsonian provided him was an English translation of a book titled,"
+    },
+    {
+      "timestamp": "00:35:34",
+      "text": "I'm going to give you the, it's obviously in French again, it's called The Empire of Air, and it was written by this guy named Mouliard. So this was written by a French farmer, poet, and student of flight, Mouillard. Nothing Wilbur had yet read so affected him. He would long consider it, quote, one of the most remarkable pieces of aeronautical literature ever published. For Wilbur, flight had become a cause, and Mouillard, one of the great missionaries of the cause."
+    },
+    {
+      "timestamp": "00:36:01",
+      "text": "At the start of his empire of air, Mouliard gave fair warning. And this is such, this is a perfect sentence because it exactly describes what is happening to the Wright brothers at this time. When once this idea has invaded the brain, meaning trying to fly, when once this idea has invaded the brain, it possesses it exclusively and so they even say so themselves for Wilbur and Orville the dream had taken hold the works of Lilienthal and Mouliard the brothers with a test had infected us with their own unquenchable enthusiasm and transformed idle curiosity into the active zeal of workers they would design and build their own experimental glider kite, drawing on much what they had read, much they had observed about birds in flight, and importantly, from considerable"
+    },
+    {
+      "timestamp": "00:36:52",
+      "text": "time thinking. And so not only are they reading the work of people like Mouillard and some of the people that are still alive, like Octave Chenute, they wind up contacting the people that are still alive. This is really smart. and this is going to remind me of something that the advice that Steve Jobs gave. And he says most people never do it. I'll get to that in a minute. So it says in 1900, Wilbur wrote a letter to Octave Chanute, the first letter to the eminent engineer asking for advice on a location where he might conduct flying experiments. He needed somewhere where sufficient winds could be counted on."
+    },
+    {
+      "timestamp": "00:37:20",
+      "text": "The only such sites he knew of, Chanute replied, were in California and Florida, but both were deficient in sand hills required for soft landing. Wilbur might do better, he suggested, along the coast of South Carolina or Georgia. So Wilbur takes that idea. He's like, okay. So he does something smart. He's like, all right. In the answer to that inquiry, Wilbur sent a letter to the United States Weather Bureau in Washington, and he was asking about prevailing winds around the country. They then provided the Wright brothers extensive records of monthly wind velocities"
+    },
+    {
+      "timestamp": "00:37:50",
+      "text": "at more than 100 Weather Bureau stations, enough for them to take particular interest in a remote spot on the outer banks of North Carolina called Kitty Hawk. To be certain Kitty Hawk was the right choice, Wilbur wrote again to the head of the weather bureau station there who answered reassuringly about steady winds and sand beaches and I wrote in the margins after seeing everything they did here this sequence which is really smart it's like these guys are not dummies now what did I mean by asking for help Steve what Steve Jobs said I'm going to quote that I took notes on this talk gave this talk Steve Jobs gave I think he was. I think this is in between his time"
+    },
+    {
+      "timestamp": "00:38:32",
+      "text": "of in between his two stints at Apple when he's still working at next. And he says something that's fantastic. And so this is his exact quote. I never found anybody that didn't want to help me if I asked them for help. I called a Bill Hewlett when I was 12 years old. He answered the phone himself, so that's one of the co-founders of HP, obviously. I told him I wanted to build a frequency counter. I asked him if he had any spare parts I could have. He laughed, and he gave me the parts. And then he gave me a summer job at HP working on the assembly line putting together frequency counters."
+    },
+    {
+      "timestamp": "00:39:01",
+      "text": "Remember, Steve Jobs is 12. I have never found, and this is the important part, I have never found anyone who said no or hung up the phone. I just ask. Most people never pick up the phone and call. And that is what separates the people who do things versus the people who just dream about them. You have to act. So with this information,"
+    },
+    {
+      "timestamp": "00:39:27",
+      "text": "now they have a location. All right, we need to build our first prototype. This is an example of their resourcefulness. The fact that the Wright brothers saved a lot of money because they could do everything themselves. The brothers built a full-size glider with two wings that was intended to reassemble, that they intended to reassemble and fly at Kitty Hawk. First as a kite, then if all went well, they would fly themselves. It had a wingspan of 18 feet. The total cost of all the necessary pieces and parts, which include ribs of ash, wires, cloth to cover the wings, was not more than $15."
+    },
+    {
+      "timestamp": "00:40:00",
+      "text": "So it's a very difficult trip to get to Kitty Hawk. He says something, though, when they get to Kitty Hawk about his intentions. And really the thing about this is to thrive, the first step of thriving is surviving. He's like, Wilbur stressed that he did not intend to rise many feet from the ground. He was there to learn, not to take chances for thrills. And he says, this is a quote from him, The man who wishes to keep at the problem long enough to really learn anything positively must not take dangerous risks. Carelessness and overconfidence are usually more dangerous than deliberately accepted risks."
+    },
+    {
+      "timestamp": "00:40:34",
+      "text": "So Kitty Hawk at the time, it's in the Outer Banks. It's essentially deserted. There's not a lot of resources there. They have to build their old camp. They have to be completely self-sufficient. But I want to pull out one paragraph here because it was extremely difficult, but they're extremely satisfied. It's like they're on this grand, happy adventure in life."
+    },
+    {
+      "timestamp": "00:40:52",
+      "text": "And it says, Far from home, on their own in a way that they had never been, the brothers seemed to sense, as they never had, the adventure of life. Orville would later say that even with all the adversities they had to face, and the adversities were larger numbers, that even with all the adversities they had to face, it was the happiest time that they had ever known. And so the locals that live in the area, they're drawn to like, what are these crazy strangers doing out here on the beach? And they obviously thought they were nuts. We couldn't help thinking that they were a pair of poor nuts they'd stand on the beach for hours at a time just"
+    },
+    {
+      "timestamp": "00:41:28",
+      "text": "looking at the gulls flying soaring and dipping so they're trying to observe and trying to learn flight uh from observing birds and hopefully some of the observations that that they're noticing from the flight of birds they can use in their own experiments and really this next section was was i just think they have the absolute perfect frame of mind. And let me read it to you, and I'll tell you what my interpretation is. It says, many nights the wind, so they came down for the wind, right? You need the wind if you're going to build a glider. Many nights the wind was such that they had to leap from bed to hold their tent down."
+    },
+    {
+      "timestamp": "00:41:56",
+      "text": "When we crawl out of the tent to fix things, the sand blinds us, but they could not complain. We came down here for wind and sand and we got them. And so the interpretation for our purposes is you wanted to start a company. You knew that it was going to be hard. What are you complaining for? So on the last podcast, I talked about the fact that Jay-Z had dinner with Michael Jordan and he said something that was interesting, having a chance to spend the whole night talking to Jordan. And he says what he admired most about Jordan was his discipline and his commitment to excellence. And Jay-Z said that when people have discipline and a commitment to excellence,"
+    },
+    {
+      "timestamp": "00:42:35",
+      "text": "it's something he always respects in other people. And we see a very similar thought here. Life on the Outer Banks was harsh. Making ends meet was a constant struggle. Hard workers were greatly admired. Here, life on the Outer Banks was harsh. Making ends meet was a constant struggle. Hard workers were greatly admired. And in the words of John T. Daniels, who lives in the Outer Banks, the Wrights were two of the workingest boys he'd ever seen."
+    },
+    {
+      "timestamp": "00:42:56",
+      "text": "And when they worked, they worked. They had their whole heart and soul in what they were doing. And the crazy thing is, so they hired somebody back at their bicycle shop shop but the entire time they're doing this they can't disregard their business because they need the profits from the bicycle business to fund to fund their experiments and so they're going to have to cut their experiments short and go home i think this happens at least twice because they have to go manage their business so it says uh they went to building i'm skipping ahead here wilbur made one man flight. This is before, there's no engine."
+    },
+    {
+      "timestamp": "00:43:27",
+      "text": "So this is just, they're essentially gliding. They're just like learning and experimenting, okay? Wilbur made one man flight after another. How many is unknown because no one kept count. He did record, however, flights of 300 to 400 feet in length and speeds of nearly 30 miles an hour. To be off on their own in a setting so entirely different from any they had ever known and doing what mattered to them above all, they had hoped to learn much"
+    },
+    {
+      "timestamp": "00:43:49",
+      "text": "of value and they did. They had learned even more than they expected. They felt they had found the way forward. And so what that means is they did things in steps. Like first, okay, can we build a glider? Can we figure out how to glide? Yeah, once we figure out how to build a glider, what's the next step? Let's put a motor on the glider. Now, the crazy thing is they have to go back home to work on their business. They have to wait eight months in between experiments. And while in those eight months, they're working 12 to 14 hours a day every day except Sunday on their bicycle shop, right? And then at night night they do their"
+    },
+    {
+      "timestamp": "00:44:26",
+      "text": "experiments for their their flyer so says work at the bicycle shop uh continued for wilbur and orville much as much uh as usual over the next eight months but nothing so occupied their free time and thoughts as did preparations for their return to kitty hawk and so this entire time he's wilbur's been keeping up his correspondence with octave chanute that says, when Chanute wrote to tell Wilbur that he expected to be passing through Dayton sometime soon, he'd like to stop over, Wilbur said he and Orville welcomed the possibility of his visit, but explained that the bicycle business, being what it is, occupied their attention 12 to 14 hours a day. However, they're entirely free on Sundays. And so he's obviously very impressed about the first experiments because it says, to have a man of of Octave Chanute standing come to call would be a high tribute."
+    },
+    {
+      "timestamp": "00:45:07",
+      "text": "He was not only one of the world's leading authorities on aviation, but enjoyed an international reputation as an engineer and a builder of railroads and major bridges. At age 70, Chanute was short, stout and dapper. He was both kindly and manner and extremely talkative. And so during the meeting, he's like, hey, I have two other people that they can come and help you. And it was really interesting because it says the two men with whom he's suggesting, hey, when you go back to Kitty Hawk, bring these two guys with them. And it says, although the brothers did not necessarily agree with Chanu's philosophy that progress in science was always best served by everyone working openly together, they accepted his suggestion, if only out of respect. philosophy that progress in science was always best served by everyone working openly together,"
+    },
+    {
+      "timestamp": "00:45:49",
+      "text": "they accepted his suggestion, if only out of respect. And so they let these guys come along. One of the guys they don't get along with at all. But again, I think just the fact that they accepted it, they prefer working alone. And the fact that this just shows how much they respected Chenu in the fact that they would accept other people. Now, they do something that's really important here. They hire this guy named Charlie Taylor. They hire him to run the bicycle business. And he winds up becoming, he's a really good mechanic. So he winds up helping them build their first engine. So this is really important. But they said that they hired him to focus on the bicycle business so they can concentrate on their flying studies and experiments. And really the note I left myself on that page and the lesson I took away from that paragraph"
+    },
+    {
+      "timestamp": "00:46:27",
+      "text": "was that you should follow your energy. They're extremely excited and think about their flying experience all the time, but they do have to pay their bills. So if you can follow your energy and then hire someone to run your day job, you're going to succeed if you're naturally drawn. If all you think about in your nights and your weekends job, like you're going to succeed. If you're naturally drawn, if all you think about in your nights and your weekends and the time you're not working, assuming it's not your day job and it's something else,"
+    },
+    {
+      "timestamp": "00:46:52",
+      "text": "like that's an indication, like your intuition telling you, hey, pay attention over here. Like focus, follow your energy. Focus on, if you can, rearrange your life so you can actually work on the thing that you think about all the time. I guess that's the point here."
+    },
+    {
+      "timestamp": "00:47:04",
+      "text": "So after eight months, they go back out to Kitty hawk i'm just going to read a bunch of highlights here because this is all about like the entire book is just one struggle and one miserable thing after another that they have to overcome on the second expedition to kitty hawk they were to experience conditions that made those that they had known during their previous visits seem like a mere inconvenience uh they get there and it's there's like this this huge like almost like tropical storm it says it was an all-day drenching rain that they had to begin setting up their camp they then had to drive a pipe 10 to 12 feet into the ground to serve as a well because there was"
+    },
+    {
+      "timestamp": "00:47:36",
+      "text": "no source of fresh water within a mile of the camp because the new glider was so large the shed or hanger for it also had to be a good size they had to build a long solid shed that was 16 by 25 feet and six feet in height that would have been a considerable that would have been considered by many a substantial accomplishment in the in and of itself and they did it in remarkably little time then just as they were about to start working on the glider they were hit by a misery of a kind and on a scale that they had never experienced or imagined. So every like 10 years in this area, there's like this plague of mosquitoes. And this happens to be the year that these mosquitoes appear. The mosquitoes appeared in the form of a mighty cloud and almost darkened out the sun. It was by far the worst experience of"
+    },
+    {
+      "timestamp": "00:48:21",
+      "text": "their life. The agonies of typhoid fever were nothing by comparison. There was no way of escaping the mosquitoes. The sand and the grass and the trees and the hills and everything was fairly covered with them. They chewed us clear through our underwear and socks. Lumps began swelling up all over our body like hen's eggs. Until then, the wind had been blowing at 20 miles an hour now it dropped off entirely and the summer heat kept mounting our blankets then became unbearable the perspiration would roll off us in torrents we would partly uncover and the mosquitoes would swoop down upon us in vast multitudes"
+    },
+    {
+      "timestamp": "00:48:59",
+      "text": "this second trip is an unmitigated disaster and we see that just i'm skipping over vast parts it says yet it is clear that they were as down in spirit about their work as they had ever been so nothing like they they're relying on these these past calculations they're not working their new glider's not working so it says it's not just that the machine had performed so poorly or that so much still remained to be solved but that so many of the long established supposedly reliable calculations and tables prepared by the likes of lillenthal langley and chanute data the brothers had taken as gospel had proved to be wrong wilbur was at such a low point that he declared that not in a thousand years would man ever fly he is saying that in 1901 two years later they solve the problem of powered flight."
+    },
+    {
+      "timestamp": "00:49:48",
+      "text": "And so the important thing is they don't rest and like wallow in their despair. The next day, they're like, all right, we're going to bounce right back at it. Wilbur's gloom was only momentary. He was at work the following day and seemed to me he was more hopeful and determined than ever. We knew that it would take considerable time and he's asked by Chanute Wilbur, like, come and address the Society of Engineers in Chicago on the subject of your gliding experiments. And it's his first request to speak in public, and he was extremely reluctant. He didn't want to do it. The only reason he did it is because he had great respect for Chanute,"
+    },
+    {
+      "timestamp": "00:50:31",
+      "text": "and essentially he's got imposter syndrome here. He was asked by his sister whether his talk would be scientific or witty. He said it would be pathetic. In his brief introduction, Chanute spoke of the advances made in aerial navigation by two gentlemen from Dayton, Ohio, who were bold enough to attempt things neither he nor Otto Linlenthal had dared to try. That's another example of the great maxim that Charlie Munger's advised to you and I, that you have to do things that other people are not doing. You have to do things that other people are not doing. The Wright brothers just happened to do that as well. And they wind up making progress."
+    },
+    {
+      "timestamp": "00:51:05",
+      "text": "Remember, the problem is still not solved. They're just a little closer to the solution that other people have gotten. And so it says, the speech was the book of Genesis on the 20th century Bible of aeronautics. And why? Because he just talks very clear and to the point."
+    },
+    {
+      "timestamp": "00:51:20",
+      "text": "Very simple language. It was authentic Wilbur Wright. Remember in the beginning of the book, they said that both Wilbur and Orville never tried to be anybody but themselves. It's extremely important. It was authentic Wilbur Wright, straightforward and clear."
+    },
+    {
+      "timestamp": "00:51:33",
+      "text": "This was the kind of, so he talks about like why you have to put yourself in danger. Like you can't solve the problem of flight without some risk of physical danger. He says this is the kind of horse that men had to learn to manage in order to fly and there were two ways and he's got this great metaphor here that continues on the next page give me one second it says there's two ways that"
+    },
+    {
+      "timestamp": "00:51:56",
+      "text": "you're going to figure this out okay number one is to get on him and remember this is a metaphor and using a horse riding a horse is metaphor one is to get on him and learn by actual practice how each motion and trick may be best met. The other is to sit on a fence and watch the beast for a while and then retire to your house and at leisure figure out the best way of overcoming his jumps and kicks. The latter system, meaning just sitting there and watching, is the safest. But the former, on the whole, turns out the larger proportion of good writers. If you really wish to learn, you must mount a machine and become acquainted with its tricks by actual trial. And then he makes the point."
+    },
+    {
+      "timestamp": "00:52:35",
+      "text": "He's like, all we need is more time. Like, look at, he used the reference of Lilienthal, Otto Lilienthal. He's like, look how much he accomplished. He goes, Lilienthal not only thought, but he acted. He demonstrated the feasibility of actual practice in the air, which without success is impossible. Noting that Lilienthal over a period of five years had spent no more than five hours in actual gliding. And so he says, like, the issue is not that we're on the wrong path. It's like, we need more time in the air. And he says, what if a"
+    },
+    {
+      "timestamp": "00:53:02",
+      "text": "bicycle rider tried to ride through a crowded city after only five hours of practice? And those five hours of practice being spread out in bits of 10 seconds over a period of five years. This is like this is a fantastic point. We just need more time. And the book goes in like not only in response to what we're speech, but everything. It's like every newspaper famous person. They're like essentially like the dream of flight is nothing more than a myth. It's one of the quotes."
+    },
+    {
+      "timestamp": "00:53:31",
+      "text": "It's just like, you're not like, this is stupid. You're wasting your time. These people are nuts. They're idiots. Like this is never going to work. And so you like there's,"
+    },
+    {
+      "timestamp": "00:53:40",
+      "text": "there's periods of complete indifference where the work of the Wright brothers is just being completely ignored. And also, and then it's either indifference where they're just completely ignored or it's ridicule. And the Wright brothers just, they have blinders on. They don't even care. They act the perfect way. It's just like blinders on mentality. I'm just working on, like I'm working at this. I don't care what other people think."
+    },
+    {
+      "timestamp": "00:53:58",
+      "text": "And part of that is because everybody's saying like, oh, the Wright brothers aren't going to be able to do it because this person didn't do it. And that person didn't do it. And look what happened to hero, and this guy over here. And then I just double underline this one sentence. I'm going to tell you what it reminds me of. But their tests were nothing like, meaning the people that failed previously, their tests were nothing like those of the brothers who proceeded entirely on their own and in their own way. And so the way to think about the Wright brothers is they're in isolation, doing the work and the research."
+    },
+    {
+      "timestamp": "00:54:28",
+      "text": "They eventually get the attention of the entire world. But before they get the attention of the entire world, they get attention of maybe one or two people. But this entire section that's happening in the book has spread out over multiple pages. It really made me think of what Michael Jordan said one time because this is a great analogy of what happened with him where he developed all these skills in private right and then he goes to his first like camp where he's put up against other people that are not living in North Carolina and he absolutely dominates and then all the schools are somewhere out of nowhere like hey"
+    },
+    {
+      "timestamp": "00:54:58",
+      "text": "wait we thought we had we had known every single great basketball player in the country. And then out of nowhere, this guy named Michael Jordan, this skinny dude comes and just dominates. And so he says something about this because he's, what Michael's about to say here is when, at the time people kept saying, you know, it's Kobe Bryant, the next Michael Jordan, you know, this is like the late nineties or whatever. And Michael says something here that I think I find over and over again in these books as an analogy. And he says, don't be in a rush to try to find the next Michael Jordan first of all you didn't find me I just happened to come along and you won't have to find that next person it is going to happen and the exact same thing is happening with the Wright brothers like we had we thought we knew the Maxim's the Edison Edisons, the Bells, the Langleys, all these people making contributions to attack this problem."
+    },
+    {
+      "timestamp": "00:55:51",
+      "text": "And yet all of a sudden, these two brothers with no resources, no education, no friends in high places, little to no money come out of nowhere. And they're not – the important part is like, no, they're not asking for permission. They're going out and doing this because first of all, they're completely obsessed with it, but they're also capable of independent thought, which is what they learned from their father at the very beginning of the book. And so they're making all these crazy, they realize, hey, the numbers that you guys, everybody else is using, those books are cooked, right? That those are not useful numbers. They build like this like primitive wind tunnel in the top of their freaking bicycle business."
+    },
+    {
+      "timestamp": "00:56:24",
+      "text": "And they're coming up, like they figure out lift and all these like aviation principles. And I'm not going to speak out of turn here because most of the stuff I don't even understand. But they send him out to Octay, to Chanute. And he's just like, Chanute was astonished by what you had to report. It is perfectly marvelous to me how quickly you're getting results with your testing machine."
+    },
+    {
+      "timestamp": "00:56:48",
+      "text": "So again, do things that other people aren't doing. That's exactly what's taking place in this book. I'm going to read a bunch of sentences. Everything I'm about to read to you is on the same page, and then I'll tell you a summary of what's happening here. So it says, the work was unlike anything the brothers had ever undertaken, and the most demanding of their time, it was the most demanding of their time and powers of concentration. They were often at it past midnight. Remember, this is after they'd worked all day in their bicycle shop in december came another voice of scientific authority denouncing the dream of flight as a total sham so another example a calm survey of certain natural phenomena leads the engineer to pronounce all confident prophecies for future success as wholly unwarranted if not absurd so i'm just"
+    },
+    {
+      "timestamp": "00:57:23",
+      "text": "bringing it to your attention because this is hitting the newspapers it's being talked about in public not the right brothers talking about the trying to people trying to learn how to fly because obviously that most people don't even know the right brothers exist and they just have to keep ignoring all this uh so it says uh chenu wrote to say how greatly he regretted their decision meaning that they like he's like they essentially have to to postpone their experiments because they have to get their next season of bicycle production completed and so chanute's like yo let me just give you some money for some for some time chanute had been offering to provide financial help to the brothers which they greatly appreciated but were unwilling to accept and he"
+    },
+    {
+      "timestamp": "00:58:00",
+      "text": "says what if some rich man were to provide ten10,000 a year, Chanute asked, adding that he happened to know Andrew Carnegie personally. It's fantastic. Wilbur tactfully declined. He wants to be in control. They had done it together on their own, paying their own way as they did everything, and they intended to keep going on their own. These are missionaries. Everything that I just read to you occurred on two pages. This is the blueprint that they're using. Test, iterate,"
+    },
+    {
+      "timestamp": "00:58:32",
+      "text": "test, iterate, test, iterate, work long hours, concentrate, and ignore the naysayers. So test, iterate, work long hours, concentrate, ignore the naysayers. Let's go back to that two-word summary of great startup founders that Paul Graham gave us. Relentlessly resourceful. Now they're back in Kitty Hawk. The local residents had learned to love them. In no smart because they could do anything they put their hands to. That's a quote from a local resident, the guy John T. Daniels. They built their own camp. They took an old carbide can and made a stove of it. They took a bicycle and geared the thing up so it could ride on the sand. They did their own cooking and washing and they were good cooks too. So they run into a problem they did their own cooking and and washing and they were good cooks too so they run into a problem they can't figure out and there's two things that happen in this page number one give your brain a break uh it needs time like when you're not just don't keep"
+    },
+    {
+      "timestamp": "00:59:15",
+      "text": "adding stimuli don't like like just literally just sit there and do nothing stare out into the sky close your eyes do whatever you do but you have to give your brain a break so it can give time to process everything that you've taken in. And so for days they're hung up. They just can't figure out the solution. And so that night it says Orville, the discussion in camp that they had on aeronautical theory went on at such length that he indulged himself in way more coffee than usual. This caused Orville to be unable to sleep."
+    },
+    {
+      "timestamp": "00:59:42",
+      "text": "So he lay awake thinking, just staring into the night. He's in a tent, so he's just staring up at nothing. Thinking about ways to achieve an even better system of control when suddenly he had an idea. The rear rudder. Instead of the rudder being in a fixed position, which is what they had been doing, it should be hinged. It should be movable."
+    },
+    {
+      "timestamp": "00:59:57",
+      "text": "In the morning at breakfast, he proposed a change, but not before giving Lauren a wink, which was a signal to watch Wilbur for one of his customary critical responses. So what do they mean by that? What Wilbur is about to say here is exactly what – I'm going to use Jeff Bezos as an example, but Jeff Bezos is just one of the other founders that we've studied that says the exact same thing. So he's like, okay, I'm going to propose an idea to my brother. I'm going to wink to the other person sitting here because Wilbur is never going to accept anything that I say. Like we have to fight over it first. And then through that fighting,"
+    },
+    {
+      "timestamp": "01:00:28",
+      "text": "we actually achieve like a better outcome, a better idea. So it says Wilbur was always ready to jump into an argument with both sleeves rolled up. And as Wilbur himself would explain, he believed in a good scrap. It brought out new ways of looking at things and it helped round off corners. So what we're saying, I want to have an argument. I want to have a debate about the path forward. I believe in a good scrap. It brings out new ways of looking at things. It helps round off corners. In that book, Amazon Unbound, Jeff Bezos and the Invention of a Global Empire, which was founders number 180, Jeff says, if I have to choose between agreement and conflict, I will take conflict every time. It always yields a better"
+    },
+    {
+      "timestamp": "01:01:13",
+      "text": "result. That is the same idea from Jeff Bezos 120 years after Wilbur Wright. This time, however, after a moment, Wilbur declared he liked the idea. So it was such a good idea, they didn't have to fight over it. So you have all these visitors at the camp. Eventually, they leave, and they institute this new idea. Really, the visitors, they're very well-meaning, but this is the point. Visitors can be well-meaning. So people essentially trying to take your focus off your work. They can be well-meaning, but they're also a distraction."
+    },
+    {
+      "timestamp": "01:01:43",
+      "text": "And so once they shed them, their progress accelerates. So it says the brothers were on their own again, and in 10 days of practice, they made more glides than in all the preceding weeks. So you got a bunch of other chefs in the kitchen. They're trying to help. They're trying to, you know, they're, again, well-meaning is, I guess, the best way to put that. But they distracted them so much that once they left, in 10 days, they made more progress than they did in, let's say, the previous 21 days. And so once they make all these glides, some of these glides are going 600 feet. They're like, okay, we've reached step two, and it took like three trips to get to step two, and step two is you got to build a motor, right?"
+    },
+    {
+      "timestamp": "01:02:18",
+      "text": "So it says they knew – this is going to remind me of another thing that Jeff Bezos said in that book amazon unbound it's not this is my interpretation of what he said i don't have his exact quote but he talks about like when they're they've scaled many like 10 million dollar businesses to one to over a billion dollar businesses within amazon that's a large part of what that book's about on founders number 180 you can go back and listen to it but he says something about like you do tiny experiments but once you see traction, once you see promise, I took what Jeff was teaching us into a maxim. It says, pour gasoline on promising sparks. And that's exactly what the Wright brothers are about to do."
+    },
+    {
+      "timestamp": "01:02:56",
+      "text": "They knew exactly the importance of what they had accomplished. They knew they had solved the problem of flight and more. They had acquired the knowledge and the skill to fly. They could soar. They could float. They could dive and rise, circle and glide and land, all with assurance. Now, they only had to build a motor. And so to me, that's exactly, that's Jeff Bezos' poor gasoline on promising sparks."
+    },
+    {
+      "timestamp": "01:03:20",
+      "text": "We apply it to company building. They're applying it to flight. Once you know your product is right, go default aggressive in scaling it. That's what Jeff is telling us. Pour gasoline on promising sparks. Once you know your product is right, go default aggressive in scaling it. And so they go back to Ohio. This is where they, again, they do what Steve Jobs said."
+    },
+    {
+      "timestamp": "01:03:39",
+      "text": "Ask for help. Charlie Taylor was a better mechanic. So he winds up helping them build an engine in like six weeks. I just want to pull out one sentence here, though. This is fantastic. And you might have experienced this. I'm definitely experiencing right now with founders. The deeper you go, the more obsessed you will become. Our minds became so obsessed with it that we could do little other work. That's how you know you're on the right path. The deeper they go, the more obsessed they become. And now we get to what I feel is really one of the most important ideas in the book. It's something I remember from four years ago when reading it the first time. It's"
+    },
+    {
+      "timestamp": "01:04:08",
+      "text": "something I try to do all the time. And it's just, well, let me just read it to you. Asked what they thought of the experiments being conducted by Alexander Graham Bell, Wilbur replied, it is very bad policy to ask one flying machine man about the experiments of another. Because every flying machine man thinks that his method is the correct one. Over and over and over again in the book, they're asked to comment on the work of others. They did not like to pass criticism on the work of others. They just focused on their own business. I just think that's an extremely important idea. And I think it ties together with this maxim that you and I talk about all the time,"
+    },
+    {
+      "timestamp": "01:04:43",
+      "text": "that actions express priority. You'll know my opinions on business because you'll see my philosophy and action as I build my company. If you want, in the Wrights Brothers case, you already know what I think of Alexander Graham Bells. He's choosing a different method. I think he's putting somebody in a giant kite and he's going to fly him that way. It's like, okay, if he wants to do that, it's fine. It's no business of mine. You see what I want to do because I built a glider. I practiced for many years. Now I'm putting a motor on that glider. That's the way, the path forward, I think. But I just think this idea where it's just like, you just mind your own business. I text this idea to a friend of mine, and I'm just going to read what I text him. I love what the Wright brothers said about this,"
+    },
+    {
+      "timestamp": "01:05:18",
+      "text": "paraphrasing. At the time, they had all these more famous and better funded competitors. And when asked about them, the Wright brothers said they didn't need to comment on the work of others that everybody every person thinks their way is right and you can tell what we the Wright brothers believes believe based on what we do I really believe that's one of the most important ideas in the book there's one more problem they have to solve before they put the motor on think about when you're in a plane now has to build up speed you're probably going what like 100 100 miles an hour 180 I don't know what big big planes go before they take off. So you need speed."
+    },
+    {
+      "timestamp": "01:05:47",
+      "text": "Like how the hell are we going to get speed required to take off? Like this is a tiny flyer, and this is fantastic. Another illustration of relentless resourcefulness. The flyer would be launched on a single wooden track that would serve like a railroad track that was 60 feet in length on which it would slide. The total cost for materials for this innovation was $4. And so right before they're about to make this breakthrough, Samuel Langley does another attempt at launching, remember, this gigantic machine. He's got prestige at the Smithsonian Institution behind him."
+    },
+    {
+      "timestamp": "01:06:19",
+      "text": "He's got funding. He's got the famous advisors. He's got essentially everything, right, and everything the Wright brothers lack. And he winds up failing, and he's got essentially everything right and everything the wright brothers lack and he winds up failing and he gets completely like dragged through the mud by everybody and so there's a lot of lessons on this page here i'm going to tell you like the stuff that pops to my mind okay so skipping to after he'd fall failed and it also goes back to the what i feel is one of the most important ideas in the book it's like stop criticizing the work of others just like demonstrate what your beliefs or your philosophy"
+    },
+    {
+      "timestamp": "01:06:46",
+      "text": "and that philosophy is applied to what you're creating, right? The company you're building. And this is like, it's also that we're playing a dangerous game here. Okay, so it says, and you'll see what I mean. I'm going to read this whole thing and then you'll see what I mean by that. And I also want to quote Stephen King because I thought he said something really, really important. And like he gave advice to people with like their like your life's work."
+    },
+    {
+      "timestamp": "01:07:07",
+      "text": "So says Langley would die three years later and he never got over the defeat and the humiliation. So says neither brother was ever to make critical or belittling comments about Langley. Rather, they expressed respect and gratitude for the part he had played in their efforts. Just knowing that the head of the Smithsonian, the most prominent scientific institution in America, believed in the possibility of human flight was one of the influences that led them to proceed with their work. And Wilbur wrote, Talking about Langley,"
+    },
+    {
+      "timestamp": "01:07:38",
+      "text": "he possessed mental and moral qualities of the kind that influence history. When scientists in general considered it discreditable to work in the field of aeronautics, he possessed both the discernment to discover possibilities there and the moral courage to subject himself to the ridicule of the public and the apologies of his friends. He deserves more credit for this than he has received. The treatment Langley had been subjected to by the press"
+    },
+    {
+      "timestamp": "01:08:01",
+      "text": "and some of his professional friends had been shameful, Wilbur said. His work deserved neither abuse nor apology. And so Wilbur was able to say that because he was away from it. He wasn't Langley, right? But Langley dies never getting over the defeat and humiliation. So the note I left myself is founders play a dangerous game with very real negative consequences. And in the words of Stephen King, you cannot come lightly to your work. There is very real downsides. Not only could you be obviously embarrassed if you fail, because there's potentially catastrophic financial consequences"
+    },
+    {
+      "timestamp": "01:08:36",
+      "text": "for you and your family. The upside is unlimited, but there is very dangerous and very real negative consequences. And I think Stephen King hit it. He's right. What I'm about to read to you comes from his book, The Autobiography. I covered it back in 210. And he is writing, he's giving advice to potential writers, but it applies to founders, entrepreneurs, anybody who's trying to do something difficult, taking a risk in their life. And Stephen says, you can approach the act of writing with nervousness, excitement, hopefulness, or even despair. The sense that you can never completely put on the page what's in your mind and your heart. You can come to the act with your"
+    },
+    {
+      "timestamp": "01:09:09",
+      "text": "fists clenched and your eyes narrowed, ready to kick ass and take down names. You can come to it because you want a girl to marry you or because you want to change the world. And then this is the punchline. This is the important point that's really the point I'm trying to make here. And I think what's taking place on this page page with this devastating you know defeat and loss humiliation that that langley never overcomes and stephen king says come to it anyway but lightly let me say it again you must not come lightly to the blank page and i think what stephen king has in common with the right brothers with almost every single person or i would say every single person that we study in the podcast like there is no half-assing it they're able to marshal all of their resources their mental energy their financial resources"
+    },
+    {
+      "timestamp": "01:09:52",
+      "text": "and their time and dedication to their work because there's very real downsides and it is entirely possible to still fail giving everything you have this is not a game so right after Langley fails then the part of the book i read to at the very beginning is when they do that historical flight and this is right after that so i'm skipping over it says we can celebrate for a day and then we're going to get back to work work at the bicycle shop resumed with as charlie taylor said no jig steps over what had been achieved of course they were pleased with the flight but the first word with me was about the motor being damaged they wanted a new one built right away they were always thinking of the next thing to do they didn't waste"
+    },
+    {
+      "timestamp": "01:10:30",
+      "text": "much time worrying about the past that's extremely important i double underlined it i'm gonna read it to you one more time they were always thinking of the next thing to do they didn't waste much time worrying about the past you can you go to sleep on a wind you wake up with a loss so we're gonna celebrate for a day it It's a fantastic achievement. And then we're going to get back to work the next day. I mean, think about how crazy that is. They just solved. They were the first humans ever to fly under powered flight."
+    },
+    {
+      "timestamp": "01:10:58",
+      "text": "And the first thing they say when they get back is, hey, we need to fix this new motor. This is very similar. Again, same mindset that the Wright brothers have. Michael Jordan noticed in his autobiography, which I covered back on Founders number 213. Look at what he says in this book. And this is what I thought of. This is the paragraph I thought of when I got to this section. And Michael says, look around."
+    },
+    {
+      "timestamp": "01:11:17",
+      "text": "Just about any person or entity achieving at a high level has the same focus. The morning after Tiger Woods rallied to beat Phil Mickelson at the Ford Championship in 2005, he was at the gym by 6.30 a.m. to work out. No lights, no cameras, no glitz, no glamour. Uncompromised. Absolutely remarkable. That's the same idea noticed by both Michael Jordan and demonstrated by the actions of the Wright brothers. This is so crazy. They still have to run a profitable business to pay for their experiments. They're not going to have a profitable business to pay for their experiments. They're not going to have a good deal of money for, like, I think another two years from this point in the story. Nor could they neglect earning an income sufficient to cover both expenses at the shop and at home, not to say the cost of their experiments. As Charlie Taylor would repeatedly remind people, there wasn't any other money."
+    },
+    {
+      "timestamp": "01:12:07",
+      "text": "To help cut expenses for continuing work on their flying machine, it was decided that further expeditions to kitty hawk with all the with all the extra costs of travel and shipment of tools and material could be dispensed with by finding a suitable stretch of open land close to home to serve as a practice field so they had to spend the time and the energy going to kitty hawk when they were gliding right because they needed the wind they needed the sand because they knew they were going to crash now they have powered flight they have an engine they like okay we can do the rest of our flying experiments in Ohio. And on the same page is just this fantastic, fantastic paragraph with an absolute great last sentence. It says, the work to be done here, the brothers knew, could well be the final critical stage in the maturation of their whole idea,"
+    },
+    {
+      "timestamp": "01:12:40",
+      "text": "something they've been working on for years at this point. Here they would have to learn to do far more than they had a kitty hawk they must master the art of launching themselves safely into the air of banking and turning a motor propelled machine and landing safely therefore this is a fantastic last sentence therefore wilbur stressed they would have to learn to accommodate themselves to the circumstances and right after this great triumph, the euphoria, we know what follows next, the terror. But there's always a setback"
+    },
+    {
+      "timestamp": "01:13:11",
+      "text": "that they have to persevere through. But again, this great positive mental attitude is always maintained by the Wright brothers. Maybe a day or two, they might feel sorry for themselves, but they get right back up. Almost nothing went right"
+    },
+    {
+      "timestamp": "01:13:21",
+      "text": "for the next three months. There was nothing spectacular about these many trials, but the good humor of Wilbur. After a spill or a crash in the machine or something breaking or a stubborn motor, Wilbur was always reassuring. Their patient perseverance, their calm faith in ultimate success, their mutual consideration of each other might have been considered phenomenal. After every trial, the two inventors held long and confidential consultations with one another"
+    },
+    {
+      "timestamp": "01:13:47",
+      "text": "with always some new gain, some new insight. They were getting nearer and nearer. The moment when sustained flight would be made for a machine that could maintain itself aloft for two minutes, they said, might just as well stay there for an hour. And so they're in this place called Huffman Prairie in Ohio, and now they've figured it out so they're just doing one flight after another after another, after another"
+    },
+    {
+      "timestamp": "01:14:08",
+      "text": "the only people noticing, most people are just completely indifferent and so I'm going to read this paragraph to you it reminded me of something that Edwin Land, the founder of Polaroid and Steve Jobs' hero said I'm pretty sure this is from Founders number 40 I'll read it to you in a minute so it says, have you heard of what they're up to out there? People in town would say, oh, yes."
+    },
+    {
+      "timestamp": "01:14:28",
+      "text": "And the conversation would move on. Few took any interest in the matter or in the two brothers who were to become Dayton's greatest heroes ever. Even those riding the train. So this is like this trolley or this public transportation line that goes right by the field where they're doing these flights and people don't even give a shit. It says even those right, even those writing the line seem to have paid little or no attention to what could occasionally be seen in passing are to the brothers themselves. They traveled back and forth from town on the same trolley, looking little different from other commuters. Edwin Land said this, the test of an invention is the power of an inventor to push it through in the face of staunch, not opposition, but indifference in society. Let me read that to you again. The test of an invention is the power of the inventor to push it through in the face of staunch indifference in society. More likely than somebody opposing you is somebody not even caring what you're doing."
+    },
+    {
+      "timestamp": "01:15:30",
+      "text": "That is a default mode for humans. They're just concerned with their own day in life. So Edwin Land's advising us, like, your biggest problem is after you've invented something that the world is worth having, that it's valuable to other humans, like, you've got to learn to push it through indifference and you keep pounding away at it and eventually just like one person's interested then two people are interested and i'm talking about the ray brothers then 30 people are interested and then soon they're filling up stadiums of 200 000 people on multiple continents"
+    },
+    {
+      "timestamp": "01:16:02",
+      "text": "wanting to watch their product demonstrations. But that's not happening. And at this point in the story, people aren't even bothered to know or bothered to care. So in all of these books, there's always like these interesting supporting characters. And I love this guy. So this guy is one of the first people that actually takes notice. And it's like his job to publicize this miracle that's happening. So it says his name was Amos Root. He stood no more than 5'3\", but his energy and curiosity were great indeed."
+    },
+    {
+      "timestamp": "01:16:32",
+      "text": "He was born in a log cabin, started his own business, which was manufacturing and marketing beekeeping supplies all the way back in 1869 when he was 30 years old, and soon became widely known as the Bee Man of Ohio. At 64, now this is 34 years after he found his business, at 64 he was extremely well-off, happily married, a father of five, proud grandfather, and quite free to pursue a whole range of active interests. This guy is default alive. Amos' route bubbled with enthusiasm and a constant desire to see the wheels go round."
+    },
+    {
+      "timestamp": "01:17:06",
+      "text": "He enjoyed conveying his thoughts and ideas on a host of other topics in a column that he wrote for his company's beekeeper trade journal, Gleanings and Bee Culture. So he's got essentially what would be the equivalent of a newsletter in in our day right he's got this email newsletter like his his time's version of this email newsletter and it just happens to be in this beekeepers trade journal this is insane what i'm about to read to you it was he of all people the ohio bee man who would recognize as no one yet had the genius of the rights and the full importance of their flying machine it was not the dayton local papers that finally broke the story the story or the chicago tribune or the new york times or the scientific american but amos's roots own gleanings in bee culture that made me laugh out loud when i"
+    },
+    {
+      "timestamp": "01:17:57",
+      "text": "got to that like the first major attention they get with what's happening in Huffman Prairie comes from Amos Root writing in a bee keeping trade journal that's bananas and so he winds up writing and he the the Wright brothers liked him because he's no fluff would keep his word like they're just very practical people says so it says God in his great mercy has permitted me to be to be at least somewhat instrumental in ushering in and introducing to the great wide world an invention that may outrank electric cars, the automobiles, and may fairly take a place besides the telephone and wireless telegraphy. Root would begin his eyewitness account."
+    },
+    {
+      "timestamp": "01:18:37",
+      "text": "He had been astonished. Oh, so he talks about before describing what he saw happen. He made a point of stressing that the rights were like they were extremely well-rounded and they had like obviously spent their entire like childhood and youth being encouraged by their father to read like widely. And so he makes that point. He's like, what the hell? Like they're not only like gifted in building these machines, but like they're extremely well- and can and talk about a lot of topics he had been astonished by the extent of their library and to find in conversation that they were thoroughly versed not only in regard to our present knowledge but everything that had been done in the past remember it started out to begin the book they talked about like wilbur read everything but his first love was reading about history and so amos is picking that up he's like wow this guy's not only knows what's going on now but everything they've been done in the past back Back to Root's writing, Amos's writing. Root pictured a wonderous time"
+    },
+    {
+      "timestamp": "01:19:28",
+      "text": "nearer hand when we should not need to fuss with roads or railway tracks or bridges at such enormous expense. With these machines, we would bid adieu to all of these things. God's free air that extends all over the earth and perhaps miles above us is our training field. And then it goes into why the Wrights liked him liked him why because they didn't want to give access to anybody and says why they put such trust and root was never explained but clearly they had much in common he too in the early days of his beekeeping enterprises was called a nut he had succeeded with his ideas only by close study so they're just talking about what they have in common he succeeded with his ideas by close study importantly beginning with his first visit he had showed himself true to his word and ready to cooperate in any way he could to achieve"
+    },
+    {
+      "timestamp": "01:20:09",
+      "text": "accuracy in what he wrote. Like their father, he was a man of strong religious convictions, as their father was a preacher by trade, and it was of no small importance that Bishop Wright approved of Root. He wrote in his diary, Mr. Root is a fine gentleman. Perhaps above all, Wilbur and Orville knew from their first meeting with Root that his regard for them was altogether genuine. His belief in the possibility of human flight was no less than their own. So I mentioned earlier, there's just fantastic one-liners all over in the book. This is one of the best quotes in the entire book. The best dividends on labor invested, they said, have invariably come from seeking more knowledge rather than more power. So it says they"
+    },
+    {
+      "timestamp": "01:20:52",
+      "text": "both said it. Not sure if it was Wilbur or Orville, but it says the best dividends on the labor invested have invariably come from seeking more knowledge rather than more power. So the first people interested in buying airplanes, as you might imagine, would be military. First, the U.S. military wasn't interested, but the French military understood completely immediately. So this is the first airplane sale. In the last week of 1905, Bishop Wright recorded in his diary, a Frenchman by the name of Arnold, no idea how to pronounce his last name, came to investigate and drive a trade for a flying machine. They agreed on terms."
+    },
+    {
+      "timestamp": "01:21:27",
+      "text": "Arnold represented a syndicate of wealthy French businessmen, he said, but the rights assumed that the deciding authority would be the French military, which was indeed the case. They agreed to buy one machine for $200,000. This is going to blow your mind too. $5,000 was to be deposited in a New York bank in escrow. The $5,000 the brothers were to receive, however the further negotiations went, would more than cover all of their expenses they had since first going to Kitty Hawk."
+    },
+    {
+      "timestamp": "01:22:00",
+      "text": "So the American government, American people were a little slow on realizing how important this was. They said the French got it right away. so they go to Europe to do demos. An entirely new adventure had begun, unlike anything he or any of the family had yet experienced. Wilbur had just turned 40. He will be dead five years from now from typhoid fever. And was to be on his own far from home, separated from his family for longer than he ever had been or ever imagined, and tested in ways that he had never been. So he goes to Paris. Eventually, he's going to do his first demos at Le Mans."
+    },
+    {
+      "timestamp": "01:22:30",
+      "text": "But there's just one paragraph that jumped out at me, and it's the importance of living life to the fullest. And again, this is extremely important considering he doesn't know. He only has five years left. He would fill his free time in Paris to advantage with the same level of intensity he brought to nearly everything making the most of every waking hour in what for all he knew might be his one and only chance for such an opportunity so then he starts not only does the French government want to buy these"
+    },
+    {
+      "timestamp": "01:22:56",
+      "text": "things a bunch of other rich companies and rich entrepreneurs want to buy it and this is what I referenced earlier why he was like oh I'm never gonna be cut off of this turns out he's like one of these like universal geniuses like Claude Shannon was. Not so many years before, Wilbur had decided he was unsuited for commercial pursuits. Now he found himself in the thick of extremely complex commercial dealings, playing for extremely high stakes with highly experienced entrepreneurs, politicians and bureaucrats. And in a language he neither spoke nor understood. The whole game, the players, the the setting the language were new to him yet he was more than holding his own and in good spirits Wilbur was never rattled he never lost his confidence he could be firm without being"
+    },
+    {
+      "timestamp": "01:23:37",
+      "text": "dictatorial disagree without causing offense nor whether was there ever a doubt that when he spoke he knew what he was talking about. More importantly, he remained entirely himself, never straying from his direct, unpretentious way, with good effect. So he travels from Paris to Le Mans. He's going to start doing public demonstrations. I want to read a description of this. This is really important because this is something,"
+    },
+    {
+      "timestamp": "01:24:01",
+      "text": "so Claude Hopkins, Founders No. 170, probably the greatest copywriter to ever live. And think about it, He spent every waking hour. He wound up, Claude Hopkins essentially worked from home by himself with a typewriter. Just him and his, like spending all these hours, he made the equivalent of like $4 million, what would be $4 million a year in today's money, right? Working by himself, just writing copy that sold other people's products, right? He makes more money later on when he starts taking ownership of products and stuff. But somebody dedicated his entire life to persuasion and to writing copy makes the point that no argument in the world can ever compare with one dramatic demo."
+    },
+    {
+      "timestamp": "01:24:34",
+      "text": "That if you want to sell something, demo it. Like, let people see what your product does. That is better than anything you could possibly write. Coming from a guy that dedicated his life to writing sales copy and so the wright brothers is an example of that it was nearly three in the afternoon by the time wilbur opened the shed doors and the gleaming white flyer was rolled into the sunshine he continued to fuss with it he then walked the full length and width of the field made sure the starting rail was headed exactly into the wind so this isn't the reason i'm reading this to you because he was he always had"
+    },
+    {
+      "timestamp": "01:25:03",
+      "text": "to do everything himself he He was completely obsessed. He checked the catapult to see if it was all in order and then supervised the raising of the iron weight. The iron weight is dropped. It's like thrown down. That's where they're getting the propulsion. It sends it down the track, builds up the speed needed to lift off. He was never hurried in the least. Finally, at 630, three and a half hours later, Wilbur said quietly,"
+    },
+    {
+      "timestamp": "01:25:24",
+      "text": "Gentlemen, I'm going to fly. He took his seat. Two men started the engine. Not satisfied with something he heard as the motor was warmed up, Wilbur called to a mechanic who was standing at the back of the machine to ask if a small last-minute adjustment had been made. The man said it had. Wilbur sat silent for a moment."
+    },
+    {
+      "timestamp": "01:25:42",
+      "text": "Then, slowly leaving his seat, he walked around the machine just to make sure, with his own eyes, that this particular adjustment had, without the slightest shadow of a doubt, been well and truly made. Back again in his seat, Wilbur released the trigger, the weight dropped, and down the rail and into the air he swept. Cheers went up as he sailed away. He banked to the left, turned in a graceful curve, and came flying back towards the grand scan. and into the air he swept. Cheers went up as he sailed away. He banked to the left, turned in a graceful curve, and came flying back towards the grandstand. Very near the point where he had started,"
+    },
+    {
+      "timestamp": "01:26:16",
+      "text": "he made another perfect turn and flew a full circle once again. The crowd was ecstatic, cheering, shouting, hardly able to believe what they had seen. That summer Saturday in Le Mans, France, one American pioneer had at last presented to the world the miracle that he and his brother had created on their own and in less than two minutes demonstrated for all who were present and to an extent no one had had anywhere on earth, had yet on anywhere on earth, that a new age had begun. And this demonstration,"
+    },
+    {
+      "timestamp": "01:26:48",
+      "text": "it's going to go on for quite a while. They're going to do it all over Europe. His brother's going to do it back in Washington. This is when the entire, it goes from, you know, they're having to fight against the difference to they can't walk out of their house. Like they are now global, global celebrities for the rest of their lives. So that tipping point has finally, they finally achieved that tipping point where they're no longer laboring obscurity. And so now we get more of his personality traits. This is why he's in Europe. Wilbur Wright is the best example of strength"
+    },
+    {
+      "timestamp": "01:27:13",
+      "text": "and character that I have ever seen. In spite of the sarcastic remarks and the mockery, in spite of the traps set up everywhere all over the years, he has not faltered. He is sure of himself, sure of his genius, and he kept his secret. He is a shy, simple man, but also a man of genius who could work alongside the men of the factory, just as he could work entirely alone."
+    },
+    {
+      "timestamp": "01:27:33",
+      "text": "He could cook his own meals and do whatever else was necessary under almost any conditions, and he was quiet by nature. He went his way always in his own way. That's another great sentence. He went his way always in his own way, never showing off, never ever playing to the crowd. The impatience of 100,000 persons could not accelerate the rhythm of his stride. That is an actual quote of something that happened. There's like all this pressure because you got 100,000 people waiting for you to do something."
+    },
+    {
+      "timestamp": "01:28:01",
+      "text": "And if he didn't think the flyer was ready or the weather was good enough he'd just say i'm not flying today he did not care uh they had discovered how exceptionally cultured wilbur was how in rare moments of relaxation he talked with authority of literature art history music science architecture uh the devotion of this preacher's son to his calling this is such a great sentence too i'm going to start it over The devotion of this preacher's son to his calling was very like that of a gifted man dedicating his life to a religious mission. So while Wilbur is doing the demonstration in Europe, Orville starts putting on flying demos in Washington. So it says, Orville and the flyer remained in the air for more than four minutes, circling the prairie ground five and a half times under perfect control, covering three miles with no mishap. In the days that fall followed orville provided one sensational performance after"
+    },
+    {
+      "timestamp": "01:28:47",
+      "text": "another breaking one world record after another as never before the two bicycle mechanics quote unquote and their flying machines were causing simultaneous sensations on both sides of the atlantic they had become a transcontinental two-ring flying circus. And I mentioned earlier that Orville fell from 75 feet. And I'm going to skip over that part, but I want to talk about he's in serious condition. And this is where his father, like we see, they just got a fantastic father. And so he's writing to his son. He wrote to Orville clearly from the heart."
+    },
+    {
+      "timestamp": "01:29:21",
+      "text": "I am afflicted with the pain you feel and sympathize with the disappointment which has postponed your final success in aeronautics. But we are all thankful that your life has been spared and are confident of your speedy though tedious recovery and of your triumph in the future as in the past. Then in the way of a fatherly sermon, he added, we learn much better by tribulation and by adversity. Our hearts are made better. They've just got a father that just absolutely believes in them and supports them 100%. You just couldn't ask for more. Skipping ahead, Wilbur's giving another speech. This is before he leaves Europe. He's going to go back home. He goes to Europe several times after this too."
+    },
+    {
+      "timestamp": "01:30:07",
+      "text": "So I just want to – he just gives this great speech. I just want to pull a couple highlights from the speech. This is Wilbur speaking. In the enthusiasm being shown around me, I see not merely an outburst intended to glorify a person, but a tribute to an idea that has always impassioned mankind. I sometimes think that the desire to fly after the fashion of birds is an ideal handed down to us by our ancestors, who in their grueling travels across trackless lands in prehistoric times, looked enviously on the birds soaring freely through space,"
+    },
+    {
+      "timestamp": "01:30:37",
+      "text": "at full speed, above all obstacles, on the infinite highway of the air. Ten years ago, all hopes of flying had almost been abandoned. Even the most convinced had become doubtful. And I confessed that in 1901, I said to my brother that men would not fly for 50 years. Two years later, we ourselves were making flights. This demonstration of my inability as a prophet gave me such a shock that I have ever since distrusted myself and have refrained from all prediction. But it is not really necessary to look too far into the future. We see enough already to be certain that it will be magnificent. Only let us hurry and open the roads."
+    },
+    {
+      "timestamp": "01:31:27",
+      "text": "And eventually Orville recovers. His leg is a little shorter. He walks with a limp. He winds up outliving his brother by 36 years. But he does wind up being able to fly again. Before I get there, this is another fantastic quote. And this one comes from Wilbur Wright."
+    },
+    {
+      "timestamp": "01:31:44",
+      "text": "And he says, A man who works for the immediate present and its immediate rewards But there's just another fantastic quote. And this one comes from Wilbur Wright. And he says, A man who works for the immediate present and its immediate rewards is nothing but a fool. And I'll just close on this section that made me smile when I read it. Of the immediate family, only Bishop Wright had yet to fly. Nor had anyone of his age ever flown anywhere on earth. He had been with the brothers from the start, helping in every way he could, never losing faith in them or their aspirations."
+    },
+    {
+      "timestamp": "01:32:13",
+      "text": "Now at eighty-two, with the crowd cheering, he walked out to the starting point, where Orville, without hesitation, asked him to climb aboard. They took off, soaring over threearing over 350 feet for a good six minutes during which the bishop's only words were higher orville higher and that is where i'll leave it i highly highly recommend you buy the book i think it belongs in every founder's library this is a great quote from the ceo of google on the back and he says a story that resonates with anyone who believes deeply in the power of technology to change lives. And I didn't see that until after I reread the book, and that's just perfect. That's just a fantastic way to put it."
+    },
+    {
+      "timestamp": "01:32:55",
+      "text": "There's a link in the show notes. If you buy the book using the link, you'll be supporting the podcast at the same time. There's also a link in the show notes and at founderspodcast.com in case you want to give a gift subscription to a friend a co-worker or a family member you can do that that's a great way to support the podcast that's a great way to support the podcast as well that is 239 books down 1,000 to go and I'll talk to you again soon"
+    }
+  ],
+  "scrapedAt": "2026-03-23T18:57:44.525Z"
+}

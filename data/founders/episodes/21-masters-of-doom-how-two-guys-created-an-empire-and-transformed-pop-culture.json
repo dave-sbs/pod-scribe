@@ -1,0 +1,637 @@
+{
+  "metadata": {
+    "episodeNumber": 21,
+    "title": "Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture",
+    "slug": "21-masters-of-doom-how-two-guys-created-an-empire-and-transformed-pop-culture",
+    "url": "https://podscripts.co/podcasts/founders/21-masters-of-doom-how-two-guys-created-an-empire-and-transformed-pop-culture",
+    "date": "March 1, 2018",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "Let's go ahead and jump into today's book, which is Masters of Doom, How Two Guys Created an Empire and Transformed Pop Culture by David Kushner. So it's about John Romero and John Carmack, who are the people that created some of the most iconic video games of all time, Doom. Most of the book, it's basically about not only the partnership that they created in their early 20s, but then what tears them apart later on. And then it also goes into, which I find the most interesting part, the differences of their philosophies on business. And I'll be going chronologically through the book. So I'm going"
+    },
+    {
+      "timestamp": "00:00:34",
+      "text": "to start in the introduction. For a new generation, Carmack and Romero personified an American dream. They were self-made individuals who had transformed their personal passions into a big business, a new art form, and a cultural phenomenon. Their story made them the unlikeliest of antiheroes, esteemed by both Fortune 500 executives and computer hackers alike, and heralded as the Lennon and McCartney of video games, though they probably would both be preferred being compared to Metallica. The Two Johns had escaped the broken homes of their youth to make some of their most influential games in history, until the very games they made tore them apart. The 29-year-old Carmack was a"
+    },
+    {
+      "timestamp": "00:01:14",
+      "text": "monkish programmer who built high-powered rockets in his spare time and made Bill Gates' short list of geniuses. His game and life aspired to the elegant discipline of computer code. The 32-year-old Romero was a brash designer whose bad boy image made him the industry's rock star. He would risk everything, including his reputation, to realize his wildest dreams. As Carmack put it shortly after their breakup, Romero wants an empire. I just want to create good programs. So in the introduction, it starts off when they're at a video game conference. This is a few years after they broke up. So they referenced a 29-year-old Carmack and 32-year-old Romero, but they started working together in their early 20s. Lasted a few years, and then they obviously go their separate ways,"
+    },
+    {
+      "timestamp": "00:01:59",
+      "text": "and we'll definitely dive into that. That's basically what the whole book's about. So I'm going to start with John Romero. And the story that's in the book at the very beginning, which is just terrible, and it's about Romero and his stepdad. So let's jump into this. Eleven-year-old John Romero jumped onto his dirt bike, heading for trouble again. A scrawny kid with thick glasses, he pedaled past the modest homes of Rockland, California to the Roundtable Pizza Parlor. He knew he wasn't supposed to be going there this summer afternoon in 1979, but he couldn't help himself. That was where the games were. What was there was asteroids, or as Romero put it, the coolest game planet Earth has ever seen. There was nothing else like the feeling he"
+    },
+    {
+      "timestamp": "00:02:40",
+      "text": "got tapping the control buttons as the rocks hurled toward his triangular ship and the Jaws-style theme music blipped in suspense. Romero mimicked these video game sounds the way other kids did celebrities. Fun like this was worth risking everything. The crush of the meteors, the theft of the paper route money, the wrath of his stepfather. Because no matter what This is another theme that pops up throughout this book, is the escapism that video games provides for people, especially people in living lives that they're currently unhappy with. At the moment, what he expected to suffer was a legendary whipping. His stepfather, John Schnunemann, a former drill sergeant, had commanded Romero to steer clear of arcades. Arcades bred games. Games bred delinquents. Delinquency bred failure in school and life, or so his stepfather's logic went."
+    },
+    {
+      "timestamp": "00:03:46",
+      "text": "As his stepfather was fond of reminding him, his mother had enough problems trying to provide for Romero and his younger brother since her first husband left the family five years earlier. His stepfather was under stress of his own with a top-secret government job retrieving black boxes of classified information from downed U.S. spy planes across the world. Hey, little man, he had just said a few days before, consider yourself warned. As you could probably guess, he's not going to heed his stepdad's warning. Romero did heed the warning, sort of. He usually played games at Timothy's, a little pizza joint in town."
+    },
+    {
+      "timestamp": "00:04:25",
+      "text": "This time, he and his friends headed into a less-traveled spot, the roundtable. He still had his initials, AJR, for his full name, Alfonso John Romero, next to the high score here, just like he did on all the asteroid machines in town. He didn't have only the number one score, he owned the entire top ten. Watch this, Romero told friends as he slipped in the quarter and started to play. The action didn't last long. As he was about to compete a round, he felt a heavy palm grip his shoulder. What the fuck, dude, he said, assuming one of his friends was trying to spoil his game. Then his face smashed into the machine. Romero's stepfather dragged him past his friends to his pickup truck, throwing the dirt bike in the back"
+    },
+    {
+      "timestamp": "00:05:05",
+      "text": "romero had done a poor job of hiding his bike and his stepfather had seen it while driving home from work you really screwed up this time little man his stepfather said he led romero into the house where romero's mother and his visiting grandmother stood in the kitchen johnny was at the arcade again his stepfather said you know what that's like that's like telling your mother fuck you he beat romero until the boy had a fat lip and a black eye romero was grounded for two weeks the next day he snuck back to the arcade okay so i included that part because not only does it show you that um romero john romero obviously had a love of video games and a passion for it he was really good at it. But even after getting his ass kicked and being grounded,"
+    },
+    {
+      "timestamp": "00:05:48",
+      "text": "he still snuck out and went back to the arcade. That's how much he loved him. And then the second reason I pointed out is because this kind of behavior from the so-called adult in his life is disgusting. Slamming your child, not even your child, your stepchild's head into a video game, then taking him home and giving"
+    },
+    {
+      "timestamp": "00:06:06",
+      "text": "him a black eye and a fat lip when he's 11 years old and you're a full grown adult is disgusting. I had my ass kicked when I was a kid, be with fists, belts, switches, hangers, and I never understood it. I never understood the logic of why people like, what are you teaching your child? Like, and I have a child of my own. I have a five-year-old, a kindergartner, a little girl who's, who's beautiful and amazing and smart. And I would, I've never laid a finger on her nor would I ever, because like, what do you, what are you teaching them? So when you have, in this case, John's stepfather, so you have a problem in life that in life that you need to fix. And so you fix it with violence. When John grows up, let's say an employee, he's working, that works for him"
+    },
+    {
+      "timestamp": "00:06:50",
+      "text": "at id Software, which is the company he founds to make Doom and Quake and the rest of the stuff. So the employee's not listening to John. Does that mean John gives him a fat lip? I don't, I read that and it's in the opening chapter i just it made my hands sweaty i was just so disgusted by this behavior and we're going to obviously see later on in the book where you know the son the stepson that he's beating the crap out of and throwing his head into the game uh into the machine for playing video games winds up becoming a multi-multi-millionaire off of the same games so he winds up apologizing later but to me it's just too little too late uh this makes it even worse because we talk about now we're gonna going to talk about like John's actual life."
+    },
+    {
+      "timestamp": "00:07:28",
+      "text": "And given like what this, this paragraph I'm about to read to you, think about the context there. You know, cause you're, you're, as your kid, you don't get, you don't pick your parents. And then if your dad leaves, you don't pick your stepdad. So here, here's a sentence right here. One afternoon, his father, this is his actual father, left to pick up groceries. Romero wouldn't see him again for two years. So his dad just decides, hey, I have two kids. I'm not into this."
+    },
+    {
+      "timestamp": "00:07:53",
+      "text": "I'm not going to be responsible even though these are my kids. And he says, oh, I'm going to go to the grocery store. And then he just, he doesn't come back. So that's the environment that Romero's living in. He's raised by a single mom until his mom remarries. His mom doesn't have a lot of money. She's got to support both the boys. John Schoenemann, which is his stepdad, 14 years her senior, tried to befriend him."
+    },
+    {
+      "timestamp": "00:08:13",
+      "text": "So this is five years earlier than the day at the pizza parlor where he throws his kid's head into the video game machine. So the stepdad sees that John Romero is drawing. So one afternoon, he found the six-year-old boy sketching a Lamborghini sports car at the kitchen table. The drawing was so good that his stepfather assumed it had been traced. As a test, he put a Hot Wheels toy car on the table and watched as Romero drew. This sketch, too, was perfect. The stepdad asked Johnny what he wanted to be when he grew up. The boy said, a rich bachelor. So this paragraph a few pages later really stuck out to me. I told you I was also reading that book on Jack Ma and Jack Ma has a quote where he talks about there's a power in getting lost in fantasy like books and video games and everything else."
+    },
+    {
+      "timestamp": "00:09:01",
+      "text": "They get into playing the game Dungeons and Dragons, and here we go into what the appeal is. It says, The appeal was primal. In Dungeons and Dragons, the average person gets a call to glory and becomes a hero and undergoes change. In the real world, children especially, have no power. They must answer to everyone. They don't direct their own lives."
+    },
+    {
+      "timestamp": "00:09:22",
+      "text": "But in this game, they become super powerful and affect everything that's one of the one things uh when i was a kid why i liked so much about video games is because like they just said you you don't get to choose almost anything you have to listen to your parents when you're at home and then you listen to your teachers and administrators when you're at school when you're playing a video game like you understand the rules of the video game and then you can apply your energy to be becoming better and you get an initial uh immediate feedback on that as you progress through levels and eventually beat the game and it is very uh fulfilling i i left a note for myself this is a critics don't know shit and then uh using your"
+    },
+    {
+      "timestamp": "00:09:55",
+      "text": "own brain uh this is back to still talking about romero his parents were less than impressed by his new passion meaning that he started uh learning how to program. He was learning a programming language called HP Basic. At issue were Romero's grades, which had plummeted from A's and B's to C's and D's. He was bright, but too easily distracted, they thought. Too consumed by games and computers. Despite this being the golden age of video games, with arcade games bringing in $5 billion a year, and even home systems earning $1 billion. His stepfather did not believe game development to be a proper vocation. This is a direct quote. You'll never make any money making games, he often said."
+    },
+    {
+      "timestamp": "00:10:33",
+      "text": "You need to make something people really need, like business applications. So this is a really important part because just from the outside, who's going to know more about this the 40 year old guy who spends his time trying to recover black boxes from downed spy planes are the persons that's completely obsessed with video games and again it's not like nobody was making money off video games at the time they just said they're bringing the arcade games alone were bringing five billion dollars a year so this note i left here where it says use your own brain to me that's just shorthand for something we talk about constantly on this podcast, which is the importance of first principles thinking."
+    },
+    {
+      "timestamp": "00:11:09",
+      "text": "John, even at a younger age, he understood the appeal of video games. He probably saw his friends were also interested in it. And anything, going back to that old, one of my favorite quotes by the philosopher Alan Watts is, find what you're passionate about, what you desire. Because if you're interested in something, chances are other people will be too. And if other people are interested in things, that's a business opportunity. Because go back to like,"
+    },
+    {
+      "timestamp": "00:11:33",
+      "text": "what's Richard Branson's definition of a business? A business is just an idea or service that makes somebody's life better. And for these kids, that's what video games did. They made their lives better. Then there's no reason, there's nothing stopping them from becoming a business, especially when you already had this fundamental interest in it. Now I'm going to read this part that's on the next page. And it's about all this, I wrote the note I wrote to myself was latent entrepreneurship of new breed of hackers."
+    },
+    {
+      "timestamp": "00:11:58",
+      "text": "And it goes into a little bit about some of the other people that were already creating businesses. And there's going to be some numbers here to just to tell you what people were able to do. Richard Garriott, aka Lord British, the son of an astronaut in Texas, spoke in Middle English and created the massively successful graphical role-playing series of Ultima Games. As in Dungeons and Dragons, players choose to be wizards or elves fighting dragons and building characters. The graphics were crude with landscapes represented by blocky colored squares, a green block, ostensibly a tree, a brown one, a mountain. Players never saw their smudgy stick figure characters attacking monsters,"
+    },
+    {
+      "timestamp": "00:12:39",
+      "text": "they would just walk up to a dragon blip and wait for a text explanation of the results. But gamers overlooked the crudeness for what the games implied, a novelistic and participatory experience, a whirl. Ultima also showed off the latent entrepreneurship of this new breed of hackers. Garriott came to fame in the early 80s through his own initiative. Like many other Apple II programmers, he would hand distribute his games on floppy disks sealed in clear plastic Ziploc bags to local computer stores. So think about how crude that is, the idea of distributing software by floppy disk and"
+    },
+    {
+      "timestamp": "00:13:18",
+      "text": "Ziploc bags. But look what this married couple does with that. Ken and Roberta Williams, a young married couple in Northern California, also pioneered the Ziploc distribution method, turning their homemade graphical role-playing games into a $10 million a year company called Sierra Online. So the exact same time that John Romero is getting his 11-year-old head smashed into the arcade and his stepdad just ignorantly preaching to him about how you need to be building business applications because no one pays for games. There's a young married couple that have built a business with $10 million of revenue. And it's not like it's super sophisticated. They're distributing their product in Ziploc bags. I want to skip ahead now."
+    },
+    {
+      "timestamp": "00:14:01",
+      "text": "The first chapter is all about John Romero, his upbringing, his personality, that kind of stuff. And the second one is the other John. And the other John is really fascinating, probably the most fascinating part of this story. And so he's probably the much more famous of the two Johns. So I find Carmack's personality and his philosophies really, really interesting. Carmack quickly distinguished himself. In second grade, only seven years old, he scored nearly perfect on every standardized test, placing himself at a ninth grade comprehension level. At home, he grew into a voracious reader like his parents, favoring fantasy novels such as The Lord of the Rings. He read comic books by the dozen, watched science fiction movies, and mostly enjoyed playing Dungeons and Dragons."
+    },
+    {
+      "timestamp": "00:14:43",
+      "text": "Carmack, more interested in creating D&D than playing, immediately gravitated to the role of Dungeon Master. He proved himself to be a unique and formidable inventor. While most Dungeon Masters relied on the rulebook's explicitly chartered styles of gameplay, Carmack abandoned the structure to devise elaborate campaigns of his own. So the difference between a chef and a cook. After school, he would disappear into his room with a stack of graph paper and chart out his game world. He was in the third grade. Despite his industriousness, there were some things"
+    },
+    {
+      "timestamp": "00:15:16",
+      "text": "Carmack couldn't escape. When assigned to write about his top five problems in life, he listed his parents' high expectations expectations twice he found himself at particular odds with his mother the disciplinarian of the family in another assignment he wrote about how one day when he refused to do extra credit homework his mother padlocked his comic book collection in a closet unable to pick the lock he removed the hinges and took off the door carmack began lashing out more at school. He hated the structure and dogma. Religion, he thought, was irrational."
+    },
+    {
+      "timestamp": "00:15:50",
+      "text": "He began challenging his classmates' beliefs after mass on Wednesdays. On at least one occasion, the other kid left the interrogation in tears. Carmack found a more productive way to exercise his analytical skills when a teacher wheeled in an Apple II. He had never worked on a computer before, but took to the device as if it were an extension of his own body. It spoke the language of mathematics. It responded to his commands. And he realized, after seeing some games on the monitor, it contained worlds."
+    },
+    {
+      "timestamp": "00:16:21",
+      "text": "Okay, so this is the second time that I've mentioned the world worlds. And it's really important, the entire, I guess, theme of the book, because both of them, as you can see, they were raised in environments where they just didn't feel like they fit in. And they were constantly pressured to conform to usually like parents or school. And all they desire is to be able to create their own world. So in this case, their world is a video game and then a video game company to produce the video games. But I think when anybody founds a company or creates a product or creates art or anything that you're making, you're trying to induce an idea into your world. And then if it's successful, that's what a company is."
+    },
+    {
+      "timestamp": "00:16:59",
+      "text": "It's almost a mini world where you have a lot more control over than your day-to-day life. And I think people like Carmack, like Zuckerberg, when we talked about the book, The Accidental Billionaires, they desire that. They jump at the opportunity to be able to make and to actually have a physical impact on the world around them. So this whole idea of creating worlds is going to pop up in the book, not only in the future in some of the highlights highlights but also if you if you read the entire book so skipping ahead a little bit it didn't take long for karmak to want to customize game customize games on his own with a computer it was possible when karmak was in the fifth grade his"
+    },
+    {
+      "timestamp": "00:17:34",
+      "text": "mother drove him to the local radio shack where he took a course on the trs80 computer he returned to school with a programming book in hand and set about teaching himself everything he needed to know. He read the passage about computers in the encyclopedia a dozen times. With his grades on the rise, he wrote a letter to his teacher explaining that the logical thing to do would be to send me to the sixth grade where he could learn more. The next year, Carmack was transferred to the Gifted and Talented program at the Shawnee Mission East Public School, among the first in the area to have a computer lab. During and after school, Carmack found other gifted kids who shared his enthusiasm for the Apple II. They taught themselves basic programming. They played games."
+    },
+    {
+      "timestamp": "00:18:19",
+      "text": "Soon enough, they hacked in the games. Once Carmack figured out where his character in Ultima resided in the code, he reprogrammed it to give himself extra capabilities. He relished this ability to create things out of thin air. As a programmer, he didn't have to rely on anyone else. If his code followed the local progression of the rules established, it would work. Everything made sense. It talks about the importance of books and how they can have a fundamental influence in your life"
+    },
+    {
+      "timestamp": "00:19:00",
+      "text": "and change the trajectory of your life. The book, Hackers, Heroes of the Computer Revolution, was a revelation. Carmack had heard about hackers. In 1982, a Disney movie called Tron told the story of a video game designer, played by Jeff Bridges, who hacked himself into a video game world. In a 1983 movie called War Games, Matthew Broderick played a young gamer who hacked into a government computer system and nearly triggered Armageddon. But this book's story was different. It was real. Written by Stephen Levy in 1984, it explored the uncharted history and culture of the whiz kids who changed our world. The book traced the rise of renegade computer enthusiasts from the mainframe"
+    },
+    {
+      "timestamp": "00:19:42",
+      "text": "experimentalists at MIT in the 50s and 60s to the homebrew epoch of Silicon Valley in the 70s and up through the computer game startups of the 80s. These were not people who fit neatly into the stereotype of outlaws or geeks. They came from and evolved into all walks of life. Bill Gates, a Harvard dropout who would write the first basic programming code for the pioneering Altair personal computer and form the most powerful software company in the world. Game makers like Slug Russell, Ken and Roberta Williams, Richard Garriott, the two Steves, Jobs and Wozniak, who turned their passion for gaming into the Apple II. They were all hackers. They were adventurers, visionaries, risk takers,"
+    },
+    {
+      "timestamp": "00:20:26",
+      "text": "artists, and the ones who most clearly saw why the computer was a truly revolutionary tool. This hacker ethic read like a manifesto. When Carmack finished the book One Night in Bed, he had one thought. I'm supposed to be in there. He was a whiz kid, but he was in a nowhere house and a nowhere school with no good computers and no hacker culture at all. So if he thinks he's supposed to be in this book, he's obviously a driven individual. He's not going to let anything stop him. So he's got to figure out how to get access to the computer that at the time his parents can't afford. So this section, which relates to the podcast I did on the Patagonia founder, where one of the things he said just stuck in my mind, and I reference it constantly in conversation now."
+    },
+    {
+      "timestamp": "00:21:15",
+      "text": "It's like, if you want to understand the entrepreneur or the founder, study the juvenile delinquent. Well, Carmack is about to become a juvenile delinquent. Late one night, Carmack and his friends snuck up to a nearby school where they knew there were Apple II machines. Carmack had read about how a thermite paste could be used to melt through glass, but he needed some kind of adhesive material, like Vaseline. He mixed the concoction and applied it to the window, dissolving the glass so they could pop out holes to crawl through."
+    },
+    {
+      "timestamp": "00:21:45",
+      "text": "A fat friend, however, had more than a little trouble squeezing inside. He reached through the hole instead and opened the window to let himself in. Doing so, he triggered the silent alarm. The cops came in no time. So we're also going to get into more of Carmack's personality. The 14-year-old Carmack was sent for psychiatric evaluation to help determine his sentence. He came into the room with a sizable chip on his shoulder. The interview did not go well. Carmack later told the contents of his evaluation. Boy behaves like a walking brain with legs, no empathy for other human beings. At one point, the man twiddled his pencil and asked Carmack,"
+    },
+    {
+      "timestamp": "00:22:32",
+      "text": "If you hadn't been caught, do you think you would have done something like this again? If I hadn't been caught, Carmack replied honestly, yes, I probably would have done that again. Later, he ran into the psychiatrist who told him, You know, it's not very smart to tell someone you're going to do a crime again. I said if I hadn't been caught, goddammit, Carmack replied. He was sentenced to one year in a small juvenile detention home in town. Most of the kids were in for drugs. Carmack was in for an apple too. He winds up becoming a college dropout. In the fall of 1988, the 18-year-old Carmack reluctantly enrolled at the University of Kansas, where he signed up for an entire schedule of computer classes. And I don't mean college dropout as a pejorative. I think, as you're about to see here, it was a completely rational response to how he was spending his time."
+    },
+    {
+      "timestamp": "00:23:19",
+      "text": "It was a miserable time. He couldn't relate to the students, didn't care about keg parties and frat houses. Worse were the classes. Based on memorizing information from textbooks. There was no challenge, no creativity. The tests weren't just dull, they were insulting. Why can't you just give us a project and let us perform it, Carmack scrolled on the back of one of his exams. I can perform anything you want me to. After and during two semesters, he dropped out. So he drops out, he gets a job at a pizza place, and he's still playing video games, but more interested in playing video games. He starts making his own"
+    },
+    {
+      "timestamp": "00:23:56",
+      "text": "video games. And there's all these publishing video game publishing houses at the time, where you could send in games you make, and they'll sell it for you and give you a cut of either the revenue or they'll just pay you flat out. So here, I'll give you a thousand dollars for that game. And then they sell it as, you know, cost of goods sold. And they keep the money. But, so I want to go into this, but he has some interesting points about,"
+    },
+    {
+      "timestamp": "00:24:17",
+      "text": "which I personally empathize with. He relishes simplicity. And I really admire Carmack's ability to focus because he kind of eliminated, he knows what he wants to do with his life. And then he kind of eliminates everything else that's not that, which is extremely difficult. It takes discipline to do that. So this part is about him relishing simplicity. Though he was barely getting by, Carmack relished the freelance lifestyle."
+    },
+    {
+      "timestamp": "00:24:38",
+      "text": "He was in control of his time, slept as late as he wanted, and even better, answered to no one. If he could simply program the computer, fix up his car, and play D&D for the rest of his life, he would be happy. Carmack learned another way to cash in. So at the time, he's just selling his games to publishing houses. He's figuring out a new way to make money right here, so he learns a new way to cash in, converting his Apple II games for a new breed of computer called the IBM PC. He knew next to nothing about this system, but was not one to turn down a programming challenge. So he drove to a store and rented a PC"
+    },
+    {
+      "timestamp": "00:25:15",
+      "text": "within a month. He sent soft disk soft disk is the publishing house that's actually buying that he's a freelancer for. So he sent soft disks, not only an Apple II version of Dark Designs, that's the game he's working on, but a version converted or ported for a PC as well. Working long into the night, Carmack got his process so down pat, he could create one game and port three versions, one for Apple, one for the Apple II GS, and one for the PC. Soft disks would buy each and every one. With every new game, the company begged Carmack to come down for an interview. Who was this kid who taught himself an entirely new programming language in half the time it would take a normal person?"
+    },
+    {
+      "timestamp": "00:25:56",
+      "text": "Carmack declined at first. Why screw up his life by going to work for a company? But eventually, their persistence won him over. He had just put some nice new parts in his MGB, that's the car at the time, and could use an excuse for a long drive. After all those years on his own, he hardly expected to meet someone who had something to teach him. This is going to set up for him,"
+    },
+    {
+      "timestamp": "00:26:18",
+      "text": "for John Carmack to meet John Romero, because John Romero is working at Softdisk. So we're going to see them team up right now. So like that last sentence, Carmack didn't expect him to meet anybody who had anything to teach. Well, he meets John Romero, who's like two or three years older than him, and he realizes, oh, crap, this guy's a really good programmer as well. So they wind up teaming up. I'm going to skip over a big part of the book."
+    },
+    {
+      "timestamp": "00:26:42",
+      "text": "So if you're interested for the full story, obviously read the book. So within Softdisk, the two Johns are way better than any of the other programmers. And there's a lot of programmers there. So they start like a small, almost like a company within a company where it's five or six of them. And they're given a lot of freedom and they kind of, kind of like an autonomous little startup inside the company. They work so well together, they one day realize, hey, why aren't we just doing this for ourselves instead of basically selling their labor to other people. So this section, the company they're gonna make is called id Software, id Software, and this is how id Software was born."
+    },
+    {
+      "timestamp": "00:27:18",
+      "text": "So one night Carmack figures out how to make video games look better and he calls the process adaptive tile refresh and it has to do with basically giving the characters in the video game more movement. The movement was restricted at the time because obviously think about the computers that they were working on. So he finds a way to program around that. So in lay terms, as Tom immediately understood, Tom is one of the guys that works with them, and he winds up founding id Software with them. This meant one thing. They could do Super Mario Bros. on a PC. Okay, so again, the largest markets are arcade and console games,"
+    },
+    {
+      "timestamp": "00:27:55",
+      "text": "not necessarily PC at the time, even though there is some smaller PC game companies. Nobody, nowhere, no one had made the PC do this. Talking about what Carmack figured out for Adaptive Tile Refresh. And now they could do it right here, right now. They could take their all-time favorite video game and hack it together so it could work on the computer. Because at the time, Mario Bros. was only on Nintendo. It was almost a revolutionary act of subversion, he thought."
+    },
+    {
+      "timestamp": "00:28:19",
+      "text": "Especially considering Nintendo's stronghold on its own platform. There was no way to say copy a Nintendo game onto a PC as one would tape an album, but now they could replicate it tile by tile, blip for blip. It was the ultimate hack. Let's do it, Tom said. Let's make the first level of Super Mario Brothers tonight. He fired up Super Mario Brothers on the TV and started to play. Then he opened up the tile editor that they had running on their pcs like somebody copying a famous painting he recreated every little tile on the first level of super mario on the pc hitting pause on the nintendo machine to freeze the action he is carmack in"
+    },
+    {
+      "timestamp": "00:28:57",
+      "text": "this situation he included everything the gold coins the puffy white clouds the only thing he changed was the character rather than recreate mar, he used the stock graphics they had of Dangerous Dave. Dozens of Diet Cokes later, they finished the first level. It was 5.30am. Carmack and Tom saved the levels to a disc, set it on Romero's desk, and went home to sleep. Romero came in the next morning at 10 and found the floppy disk on his keyboard with a post-it note that read merely type Dave 2. It was in Tom's handwriting. Romero popped the disk into his PC and typed in the file location. The screen went black. Then it refreshed with the words dangerous Dave in copyright infringement. So again, Dangerous Dave is their own character. The in copyright infringement is because they're literally copying the Mario"
+    },
+    {
+      "timestamp": "00:29:50",
+      "text": "Brother game pixel by pixel. On one side of the words was a portrait of Dangerous Dave in his red baseball cap and green t-shirt. On the other was a dour looking judge with a white wig brandishing a gavel. Romero hit the space bar to see what would come next. There it was, the familiarity of Super Mario Bros. 3. Pale blue sky, puffy white clouds, bushy green shrubs. The animated tiles with little question marks rolling over their sides and strangely his character, Dangerous Dave, standing ready on the bottom of the screen. Romero tapped his arrow key, moved Dave along the floor, and watched him scroll smoothly across the screen. Romero tapped his arrow key, moved Dave along the floor, and watched him scroll smoothly across the screen. That's when he lost it. Romero could hardly breathe."
+    },
+    {
+      "timestamp": "00:30:42",
+      "text": "He just sat in his chair with his fingers on the keys, scrolling Dave back and forth along the landscape, trying to see if anything was wrong. If somehow this wasn't really happening. If Carmack had not just figured out how to do exactly what the fucking Nintendo could do. If he had not done what every other gamer in the universe had wanted to do. To break through, to do for PCs what Mario was doing for consoles. On the strength of Mario, Nintendo was on the way to knocking down Toyota as Japan's most successful company, generating over $1 billion a year. Shigeru Miyamoto, the series"
+    },
+    {
+      "timestamp": "00:31:20",
+      "text": "creator, had gone from being a poor country boy in Japan to being the gaming industry's equivalent of Walt Disney. Super Mario Bros. 3 sold 17 million copies. The equivalent of 17 platinum records, something only artists like Michael Jackson had pulled off. Romero saw it all come pouring down in front of him. His future. Their future. Scrolling across the room in brightly colored dreams. The PC was hot. It was heading into more homes each day. Pretty soon, it wouldn't just be a luxury item. It would be a home appliance. And what better way, and what better"
+    },
+    {
+      "timestamp": "00:31:58",
+      "text": "to make it a friendly part of life than a killer game? With such a hit, people wouldn't even have to buy Nintendos. They could just invest in PCs. And here Romero was sitting in his crappy little office building in Tree Point, Louisiana, looking at the technology that could make the first big league games to the PC. He saw their destiny, their future rich person. That's a throwback to what he told his stepdad when he was six, that he just wanted to be a rich bachelor it was so devastating that he found he couldn't move couldn't get up out of his seat he was destroyed and it wasn't until Carmack rolled back into the office a few hours later that Romero was able to muster the energy to speak he had only one thing to tell his friend"
+    },
+    {
+      "timestamp": "00:32:41",
+      "text": "his genius partner his match made in gamer heaven this is is it, he said. We're gone. Okay, so we're gonna, I'm gonna jump into how they break off and form their own company. But real quick, I found this really interesting section before they jump ship. And it talks about how they process time. Even though they're working together, the two Johns, they're very, very different people. And I think a good illustration of that is how they process time. An early and apparent difference between the two Johns' internal human engines was the way they process time. It was the kind of difference that made them perfect complements and the kind that could cause irreparable conflict. Carmack was of the moment. His ruling force was focus. Time existed for him not in some promising future or sentimental past, but in the present condition. He kept nothing from the past."
+    },
+    {
+      "timestamp": "00:33:34",
+      "text": "No pictures, no records, no games, no computer disks. He didn't even save copies of his first games. There was no yearbook to remind him of his time at school, no magazine copies of his early publications. He kept nothing but what he needed at the time. His bedroom consisted of a lamp, a pillow, a blanket, and a stack of books. There was no mattress. All he brought with him from home was a cat named Mitzi with a mean streak and a reckless bladder. Romero, by contrast, was immersed in all moments, past, future, and present. He was an equal opportunity enthusiast, as passionate about the present as"
+    },
+    {
+      "timestamp": "00:34:13",
+      "text": "about the time gone and the time yet to come. He didn't just dream, he pursued, hoarding everything from the past, immersing himself in the diamondism of the moment and charting out plans for what was to come. He remembered every date, every name, every game. To preserve the past, he kept letters, magazines, discs, Burger King pay stubs, pictures, game receipts. To inflate the present, he pumped up any opportunity for fun, telling a joke, a funny story, making a crazy face. Yet he wasn't manic. He knew how to focus. When he was on, he was on, loving everything and everybody. But when he was off, he was off. Cold, distant, and short. Okay, so let's skip ahead. This is how id Software was born part two. At this time, you could make a game and even if it was published by like soft disk or another publishing company uh the developer you you could find out who the developers were so"
+    },
+    {
+      "timestamp": "00:35:09",
+      "text": "john romero was getting like what appeared at the time like fan mail about how great his games are turns out they were all coming from like the same address and he tracked down the guys like what are you some weirdo and it winds up being this guy named sc Scott who is pioneering a new business model for independent games called shareware so Scott wants to convince John Romero to make his own games and then Scott will act as a publishing so we're going to get right into there and it goes into like the business models which I think you'll find interesting we got to talk Scott continued eagerly I saw your game pyramids of Egypt it was was so awesome. Can you do a few more levels of it? We can make a ton of money. What are you talking about? I want to"
+    },
+    {
+      "timestamp": "00:35:50",
+      "text": "publish your game, Scott said. A shareware. Shareware? Romero was familiar with the concept. It dated back to a guy named Andrew Flugelman, founding editor of PC World. In 1980, Flugelman wrote a program called PC Talk and released it online with a note saying that anyone who liked the wear should feel free to send him some appreciation money. Soon enough, he had to hire a staff to count all the checks. Flugelman called the practice shareware, an experiment in economics. Over the 80s, other hackers picked up the ball"
+    },
+    {
+      "timestamp": "00:36:23",
+      "text": "making their programs for Apples, PCs, and other computers available in the same honor code. Try it. If you like it, pay me. The payment would entail the customer to receive technical support and updates. As they talked, it became clear to Romero that Scott knew exactly what he was doing. Scott, like Romero, was a lifelong gamer. So he talks about how he would spend his days in high school hanging out at computer labs and playing video games."
+    },
+    {
+      "timestamp": "00:36:49",
+      "text": "And then Scott soon took the inevitable path and started making games of his own. When it came time to distribute the games, Scott took a long, hard look at the shareware market. He liked what he saw, the fact that he could run everything himself without having to deal with retailers or publishers. So he followed suit,"
+    },
+    {
+      "timestamp": "00:37:09",
+      "text": "putting out two text-based games in their entirety and waiting for the cash to roll in. But the cash didn't roll in. It didn't even trickle. Gamers, he realized, might be a different breed from those consumers who actually paid for utility shareware. This is a really interesting point he's making here. They were more apt to simply take what they could get for free. Scott did some research and realized he wasn't alone. Other programmers who had released games in their entirety of shareware were broke too. People may be honest, he thought, but they're also generally lazy. They need an incentive. The part I'm about to read here is where Scott's really good idea. Then he got an idea. Instead of giving away the entire game, why not give away only the first portion, then make the player buy the rest of the game directly from him?"
+    },
+    {
+      "timestamp": "00:37:55",
+      "text": "No one had tried it before, but there was no reason it couldn't work. The games Scott was making were perfectly suited to such a plan because they were broken up in short episodes of levels of play. He could simply put out, say, 15 levels a game, then tell players that if they sent him a check, he would send the remaining 30. In 1986, while working for a computer consulting company, Scott self-published his first game, an Indiana Jones-style adventure, as Shareware, making the initial levels available through BBS and Shareware catalogs. There was no advertising, no marketing, and virtually no overhead, except for the low cost"
+    },
+    {
+      "timestamp": "00:38:30",
+      "text": "of floppy disks and Ziploc bags. Because there were no other people to pay off, Scott could price his games much lower than most retail titles, $15 to $20, as opposed to $30 to $40. For every dollar he brought in, Scott was pocketing $0.90. By the time he contacted Romero, he had earned $150,000 by word of mouth alone. I just love the fact that he could do it by himself. He doesn't have to ask permission. He doesn't have to deal with publishing. He just doesn't have to do anything. He just makes something people like and then they can pay him directly, which I think is"
+    },
+    {
+      "timestamp": "00:39:07",
+      "text": "the most important change in our lives. One of the most important changes in our lives, probably the last quarter century. Another random thought, but it might be the solution we need in an environment, especially in the developed world, where all asset prices are booming, but wages aren't. If you look at the macroeconomic data, you see wages are basically stagnant for a long time. So that gives me the thought, well, maybe we shouldn't be working for wages. Maybe all of us can create things that people value, and if they value it, we can sell it to them."
+    },
+    {
+      "timestamp": "00:39:36",
+      "text": "All right, so switching gears here and skipping ahead a little bit, this is more of Carmack's personality. He has this idea of things that humans build are built using the work and the ideas of others it just goes into they didn't need any help getting motivated however Carmack in particular seemed almost inhumanely immune to distraction they're talking about he could just sit at his computer and he doesn't say anything and he just churns out programs, right? And so while he's doing this, they're still at the office,"
+    },
+    {
+      "timestamp": "00:40:06",
+      "text": "and the guy that owns the company, his name is Al. And Al, let's go into more of like Carmack's philosophy, which I think is interesting. Al had never seen a side scrolling like this for the PC. So they're talking about what they did for the Mario Brothers game. Wow, he told Carmack, you should patent this technology. Carmack turned red. If you ever ask me to patent anything, he said, I'll quit. Al assumed Carmack was trying to protect his own financial interests. But in reality, he had just struck what was growing into an increasingly raw nerve for the young idealistic programmer. It was one of the few things that could truly make him angry."
+    },
+    {
+      "timestamp": "00:40:46",
+      "text": "It was ingrained in his bones since first reading The Hacker Ethic. All of science and technology and culture and learning and academics is built upon using the work that others have done before, Carmack thought. But to take a patenting approach and say, it's like, well, this idea is my idea. You cannot extend this idea in any way because I own this idea."
+    },
+    {
+      "timestamp": "00:41:04",
+      "text": "It just seems so fundamentally wrong. Patents were jeopardizing the very thing that was central to his life, writing code to solve problems. If the world became a place in which he couldn't solve a problem without infringing on someone else's patents, he would be very unhappy living there. So once these guys hook up with Scott, they start spending nights and weekends developing their own games. So they still have obligations for their day job. So they're making games for soft disks and they're making games for themselves, which Scott is going to publish. And so they eventually leave the company, but this is how they come up with the name and they turn it into a real business. When the guys christened their company,"
+    },
+    {
+      "timestamp": "00:41:44",
+      "text": "they shortened the ideas from the deep, so it was called ideas from the deep software, they shortened the ideas from the deep and simply called themselves id for in demand. They also didn't mind that as Tom pointed out, id had another meaning, the part of the brain that behaves by the pleasure principle. In early 1991, their pleasurable games were indeed in demand. Keen was number one on the shareware charts, emerging as the first and only game to break the coveted top 10. The first Keen trilogy was now bringing in, and here's the interesting part because they talk about actual money in this book, the first Keen trilogy was now bringing in 15 to 20 20 000 per month on shareware it wasn't just pizza"
+    },
+    {
+      "timestamp": "00:42:28",
+      "text": "money anymore it was computer money they used it to outfit the lake house with a fleet of high-end 386 pcs carmac was only 20 years old romero 23 and they were in business. So the lake house reference there, they, uh, they, they obviously can't develop their games at their office. So they rent a lake house. They all just move in and make it basically a house and an office. And that's where id software is born. So what I really like about the book, again, I'm skipping over a lot of it. Like I do with every book, uh, but they go into quite a bit about all the games they make and how much money they make, and you'll see as the game, as the book progresses. See, we're only about halfway through, maybe 30% of the way through right now, so it's $15,000 to $25,000 a month. It gets a lot larger, needless to say. This is just a real quick, like, aphorism,"
+    },
+    {
+      "timestamp": "00:43:19",
+      "text": "but this is Carmack on problem solving. The problem he found was that the PC was not powerful enough to handle such a game. Karmak read up on the topic but found nothing adequate for his solution. And this is the important part. He approached this dilemma as he had in Keen. I mean, developing the game engine for Keen."
+    },
+    {
+      "timestamp": "00:43:37",
+      "text": "Try the obvious approach first. If that fails, think outside the box. So that's kind of Karmak's modus operandi, which we'll see. I don't know if I talk about anymore, but it's definitely present in the book a lot. So now I'm skipping way ahead. They've left Softdisk and they're wildly successful at shareware. So at the time, there's only five of them, all young guys in a lake house in Louisiana."
+    },
+    {
+      "timestamp": "00:44:03",
+      "text": "They wind up moving a couple of times. They go to Wisconsin and they wind up settling in Texas. They're doing really well because they're generating tens of thousands of dollars every month and they have almost no expenses. They're starting to gain a lot of attention and they wind up meeting one of their heroes. And this section is called $2.5 million. And this hero is the married couple that were running a business that was bringing in $10 million a year. So he invites them out to his office and takes them out to dinner, right?"
+    },
+    {
+      "timestamp": "00:44:32",
+      "text": "So this guy is much older. What shows up at his door is a bunch of, you know, kind of disheveled young 20-somethings. Williams prided himself on discovering and nurturing young talent. But the inexperience of this group, he thought, was palpable. They didn't seem to have a business bone in their bodies. When they told Williams how much they were making on Commander Keen, he blurted, You're telling me, he said,"
+    },
+    {
+      "timestamp": "00:44:54",
+      "text": "you're making $50,000 a month just from shareware? They showed him the numbers. Scott had upped their royalty to 45%. So Scott's the publishing house, the guy that first introduced him to this idea for shareware for games. There was virtually no overhead to explain. The shareware model let Apogee keep 95 cents for every dollar that came in. Apogee is Scott's company."
+    },
+    {
+      "timestamp": "00:45:18",
+      "text": "We make the best stuff in shareware, Romero proclaimed. That's why we're making so much money. If you think that's awesome, check this out. Tom took out a laptop, set it on the table, and urged Williams to hit the key. Wolfenstein came on the screen. So this is a game they developed. Williams played the game with a poker face. The guys were dying with anticipation. Finally, Williams said, ah, that's neat. He closed the program. A final screen came up with a face of Commander Keen and a green monster from Aliens Ate My Babysitter. In big words in the middle,"
+    },
+    {
+      "timestamp": "00:45:51",
+      "text": "it said, ID Software, part of the Sierra family? Do you mind removing the question mark, Williams said. Then he offered them $2.5 million. The ID guys returned to their Snowden apartment to discuss the deal. So at this point, they left Louisiana and they're in Wisconsin. This is before they get to Texas. $2.5 million was a lot of money for four or five guys to split, but they didn't jump the gun. They didn't want to just do a stock deal. They wanted some upfront cash. So they returned to the approach they'd originally taken with Scott Miller. Why don't we do this, Romero suggested. Let's ask for $100,000 down. If they're interested, then we'll sell. If they don't, then we don't do it. When presented with the request, Williams balked. Though he was impressed by their work, he wasn't ready to fork over such a large chunk of"
+    },
+    {
+      "timestamp": "00:46:42",
+      "text": "cash. The deal was over. Clearly, Id thought, he just didn't get what they were doing. He didn't understand the potential of Wolfenstein 3D. If he had, he would have immediately handed over the cash. It was a disappointment, not so much because they missed out on the money, but because their hero and his company had let them down. This game was going to change things they knew. There was nothing on a computer like it. Fuck Sierra and their loser programmers, Romero told them. ID would remain independent, and independently, they would rule."
+    },
+    {
+      "timestamp": "00:47:17",
+      "text": "So Sierra Online is the company that Williams owns. Okay, so I'm going to skip ahead. More than just pizza money, and this is the id Software Financials. So pizza money is this thing in the book that they just wanted to make money so they can buy the computers they want and basically buy enough pizza because they ate pizza all the time. And so now that this was a few years later, and we're going to see how their financials are changing here."
+    },
+    {
+      "timestamp": "00:47:40",
+      "text": "Pizza money, Jay hollered, opening up his first royalty check for Wolfenstein 3D. They really had no idea what they could make. Keen was bringing in about $30,000 per month. They expected, at best, to double that. Wolf, Wolfenstein, after all, was still being distributed through the relative underworld of shareware catalogs and BBSs, without advertising. The closest thing to marketing were the BBS techies who wrote little teasers of text about the game on their computers. But the guys certainly expected at least to break even rather soon. Meaning on the game."
+    },
+    {
+      "timestamp": "00:48:13",
+      "text": "The game had cost, if one considered its only overhead, the rent of the apartment and their $750 per month salaries, roughly $25,000 to make. The check was for $100,000, and this reflected only the first month. Together with their continued sales of the Keen Games, id was heading for an annual sales in the millions. By releasing the first episode as shareware, they instantly hooked the gamers, leaving them craving more. It defied logic, the thought of giving something away for free. But Scott's plan had worked."
+    },
+    {
+      "timestamp": "00:48:48",
+      "text": "Wolfenstein evolved into an underground sensation. Before the press picked up on it, the gamers online were abuzz about the game's immersive blend of high technology and gruesome gameplay. The synthesis of Carmack's and Romero's personal passions. Forums on the various BBSs and the emerging commercial online services, Prodigy, CompuServe, and American Online, brimmed with discussion about the game. The internet's discussion forum, Usenet, was on fire."
+    },
+    {
+      "timestamp": "00:49:16",
+      "text": "Emails poured into the office. So before I move ahead, because I want to talk about how they get the title of the book, which is probably the most popular game they've ever made, which is Doom. I just want to think a little bit, talk a little bit about their business model at the time. And we're going to see once the gang breaks up, how they kind of get away from these principles. But I don't know if they intentionally did this, but we've talked about on this podcast a lot, how a lot of the founders, Sam Walton, Jeff Bezos, Yvonne Chouinard, let's go on and on, John Rockefeller. I would say one central tenant"
+    },
+    {
+      "timestamp": "00:49:52",
+      "text": "of all these different personalities and company builders is the idea of frugality. And if you look at what these guys are doing, they have a home office. They're all living there. They're all working there. They have no advertising expense. They don't have like an HR department. They don't have management. They just have things they need. They have to buy food, computers, and Diet Cokes, and they turn that into software that they sell. So it almost looks like an option, like the financial instrument option, how you have your downside capped because you keep your expenses relatively low. And because they're selling ones and zeros, you have this huge upside."
+    },
+    {
+      "timestamp": "00:50:31",
+      "text": "I think it takes a certain level of discipline for guys in their early 20s to have a company that's making millions of dollars a year and yet not expand out and try to add all these unnecessary expenses. I'm going to jump to where they get the idea. They're having a disagreement. Again, at this time, all their games are making tons of money. And Carmack, though, is not, again, how we just talked about, he's not one to be sentimental. So he's constantly, he's the one building all these gaming engines. And then the designers design levels and do all the work on top of that. So he finishes a game like usually how it works is there's some kind of technological breakthrough that he makes then they build a"
+    },
+    {
+      "timestamp": "00:51:09",
+      "text": "game on top of that there's an idea to like okay well this one's making money so let's just go back and make like a sequel or keep that karmak doesn't really want to do that so he just keeps trying to improve the technology of the game engine and then once he figures out a new breakthrough he tells the guys what it's capable of and they build a game around that so there's a disagreement about hey let's make you know these these games like keen or anything like that's more like kid based they want to make like a more violent game and so this is where they come with the idea for doom even karmak who had once shown interest in keen 3d so they wanted to redo keen and make it into using his new 3d gaming engine had moved on to another idea. Something"
+    },
+    {
+      "timestamp": "00:51:45",
+      "text": "about far, something as far removed from Keen as possible. Demons. Carmack, of course, had a long history with demons. They were the demons of Catholic school. The demons Romero had summoned in their Dungeons and Dragons game. The demons who destroyed their D&D world. Now it was time for them to make another appearance. Here was this amazing new technology. So why not have a game about demons versus technology, Carmack said, where the player is using high-tech weapons to defeat the beasts from hell. Romero loved the idea. It was something no one had done before. Kevin and Adrian agreed, snickering about the potential for sick, twisted art."
+    },
+    {
+      "timestamp": "00:52:23",
+      "text": "Something in the spirit of their favorite B-movie, Evil movie Evil Dead 2 Kevin Adrian is some of the guys that are helping them build the games in fact they all agreed that was what the game could be like a cross between Evil Dead 2 and aliens horror and hell blood and science all they needed was a title Carmack had the idea it was taken from the color of money the 1986 Martin Scorsese film in which Tom Cruise played a brash young pool hustler. In one scene, Cruise saunters into a billiards hall carrying his favorite pool cue and a stealth black case."
+    },
+    {
+      "timestamp": "00:52:55",
+      "text": "What you got in there? Another player asks. In here, Cruise replies, flipping open the case, doom. In the podcast about Let My People Go people go surfing which is the founder of patagonia they have this idea of the their strategy is to make the best product not like one of the best products but literally the best product and that if they make the best product everything will fall from there so it's product as strategy right this is a carmax own expression of that"
+    },
+    {
+      "timestamp": "00:53:21",
+      "text": "philosophy in an increasingly stark opposition to Romero, Carmack expressed a minimalist point of view with regard to running their business. As he had often told the guys, all he cared about was being able to work on his programs and afford enough pizza and Diet Coke to keep him alive. He had no interest in running a big company. The more business responsibilities they had, things like order fulfillment and marketing,"
+    },
+    {
+      "timestamp": "00:53:44",
+      "text": "the more they would lose their focus making great games. So remember when we talked about the Everything Store and Brad Stone's book on Jeff Bezos and the age of Amazon? There is something in the book, and I shared on the podcast these sayings, these maxims or aphorisms that are repeated ad nauseum, and they're called Jeff-isms because they're usually spoken by Jeff Bezos. So throughout this book, I realized that there's a lot of Carmack-isms. So here's one. The same rule applied to a cat, a computer program, or for that matter, a person. When something becomes a problem, let it go, or if necessary, have it surgically removed. So this is in response to, they had like an accompanying mascot. It was Carmack's cat, Mitzi."
+    },
+    {
+      "timestamp": "00:54:32",
+      "text": "And just one day, the guys were like, hey, where's the cat? And Carmack's like, she was having a negative impact on my life and my ability to program, so I got rid of her. Obviously, I'm not recommending you take your pets to the pound, but I'm just trying to highlight that so you understand the kind of focus that Carmack applies to what he wants to do, which is what he enjoys. He just likes the program. Here's another Carmack-ism. And so while they're going into developing Doom"
+    },
+    {
+      "timestamp": "00:54:56",
+      "text": "and all this other stuff, Romero and Carmack are growing apart. There's a pull where Romero's trying to build an empire. Carmack thinks that's a stupid idea and he just wants to build the best games. And anything that's not helping him build the best games is better like ignored or put away. So here's another Carmackism. Tom gave up on the story once and for all."
+    },
+    {
+      "timestamp": "00:55:13",
+      "text": "So they're talking about they wanted a story for Doom and Carmack's like, no, there doesn't need to be a story. There just needs to be a player dropped into this world and the action immediately happens, right? But another story was falling in place for Id. In the company's brief history, a pattern was emerging that emulated Carmack's programming ideology. Innovate, optimize, then jettison anything that gets in the way. It happened in their games. How Keen was killed for Wolfenstein. How floors and ceilings were sacrificed for speed."
+    },
+    {
+      "timestamp": "00:55:41",
+      "text": "And it happened in their lives. Al cuvius which is their guy at soft disk the way they they left him scott miller scott miller was their publishing party at apogee the one that told him about share shareware they eventually decided they didn't need his help anymore and they started doing it themselves and even mitzi the cat had all been abruptly deleted from the program it was impossible to know who or what could be next. So Carmack obviously is doing these calculations in his mind, and he's assessing the overall utility of the people he's working with. And when they're no longer adding value to the company,"
+    },
+    {
+      "timestamp": "00:56:18",
+      "text": "he either fires them or just ignores them. Their time working together comes to an abrupt end. So from a personal standpoint, he probably doesn't have like social skills, but it's from a like a business strategy perspective. That's probably a valuable tactic to use. You just have to figure out how to do it with people a little better than he did. All right. So let's go into the business model of Doom."
+    },
+    {
+      "timestamp": "00:56:42",
+      "text": "So this guy Jay is working with them. He's kind of like their manager. Like he just handles like he's not a programmer or designer. So he handles everything that's not that. Jay determined to make id's business style as innovative as its game, focused on setting up the company's distribution and marketing. He established a toll-free number to field orders and set up a deal with a fulfillment house."
+    },
+    {
+      "timestamp": "00:57:01",
+      "text": "The whole toll-free number thing. One of the reasons they had to drop Scott Miller and his company Apogee is because there's a lot of complaints about people trying to buy their product and couldn't get through. So the demand for their games was so high that Scott didn't have the staff to properly like accommodate for that demand."
+    },
+    {
+      "timestamp": "00:57:16",
+      "text": "And as such, they were losing sales. So they just decided to do it themselves. Since they were self-publishing Doom, they would be getting twice the earnings they had on Wolfenstein. Games distributed through the regular retail channels would bleed cash to middlemen. Every time someone brought a game at CompUSA, the retailer would take money, then pay the distributor. The distributor would take the money, then pay the publisher."
+    },
+    {
+      "timestamp": "00:57:36",
+      "text": "The publisher would take money, then pay the developer. By going shareware, id was cutting them all out, taking 85 cents for every dollar sold. The game would be listed at around $40. Jay figured Doom, like Wolfenstein, would rely on word of mouth. While big guns like Nintendo were spending millions on marketing and advertising, id would take out only one small ad in a gaming magazine for Doom. The goal then was to get the Doom shareware into as many hands as possible. So this is where the innovation in the business model comes in, I think is a really,"
+    },
+    {
+      "timestamp": "00:58:10",
+      "text": "really good idea. At the time, retail stores were selling shareware discs and being forced by the offers to cough up a high royalty. id, which had made some of the most successful shareware games yet, had a different approach. Give the Doom shareware to retailers for free. So again, just for the purpose of this discussion, shareware is like the original few boards that are going to be free no matter what. And they're going to try to make money, obviously selling additional levels and such."
+    },
+    {
+      "timestamp": "00:58:37",
+      "text": "So let me go over this part again. id, which had made some of the most successful shareware games yet, had a different approach. Give the Doom shareware to retailers for free. No fee, no royalty, and let them keep all the profits from the sale. This is only for retailers, by the way. The more shareware was distributed, the more potential customers AID would be able to collect."
+    },
+    {
+      "timestamp": "00:58:55",
+      "text": "We don't care if you make money off this shareware demo, Jay told the retailers. Move it. Move it in mass quantities. The retailers couldn't believe their ears. No one had ever told them not to pay royalties, but Jay was insistent. Take Doom for nothing. Keep the profit. My goal is distribution. Doom is going to be Wolfenstein on steroids, and I want it far and wide. I want you to stack Doom deep. In fact, I want you to do advertising for it too, because you're going to"
+    },
+    {
+      "timestamp": "00:59:21",
+      "text": "make money off of it. So take this money that you might have gotten, they might have given me in royalties and use it to advertise the fact you're selling Doom. Jay got plenty of takers. Okay, so something else I want to talk about that is personally interesting to me and it's a Doom helped birth an entire new industry, which is that of online multiplayer games. And so while they're making the actual doom game karmak realizes that he can uh he can program them to so multiple people can pay one time so this is the birth of online multiplayer games a door opened the one in romero's office romero snuck a peek over his shoulder and kept playing as karmak walked in karmak liked what he saw on screen romero had a real sense of grandeur the way his levels were so diverse. Romero was the"
+    },
+    {
+      "timestamp": "01:00:05",
+      "text": "best level designer that it had. He stopped programming more so because Carmack was wound up being better at it over time. So varied in elevation, so deep, he made his technology sing. What's up? Romero asked. Carmack told him that he had enough stuff done to be able to get to the networking part of Doom. Oh yeah, Romero thought, the networking. They had mentioned in their press release in January the fact that Doom would have a multiplayer component, which would let players compete with and against each other. But after all the other work, the networking had become almost an afterthought."
+    },
+    {
+      "timestamp": "01:00:38",
+      "text": "Carmack told Romero what he thought were some modest technical challenges. So what I have to do is write the setup stuff to figure out how to communicate over the IPX properly, he said, and getting the serial stuff going may be a little bit of work. Romero nodded as Carmack spoke. How incredible networking would be, he mused. There had been other games that let players compete head-to-head, side-by-side fighting games like Street Fighter II,"
+    },
+    {
+      "timestamp": "01:01:01",
+      "text": "and this new game called Mortal Kombat was already the rage. And there were seemingly ancient games like the multiplayer colonization game Mule, and the early Star Trek-inspired modem-to-modem game Net Trek. But there had never been nothing like a multiplayer Doom. First person, fax action, immersive bloody. Romero's heart raced. He nailed the keys on his keyboard and ran through the level on his screen. He came to an area down one hall that had a long window opening up to an outside platform oozing with green plasma. Romero imagined two players shooting rockets at each other, their missiles sailing across the screen. Oh my god, he thought. No one has ever seen this in a game. Sure, it was"
+    },
+    {
+      "timestamp": "01:01:43",
+      "text": "fun to shoot monsters, but ultimately they were soulless creatures controlled by a computer. Now gamers could play against spontaneous human beings. Opponents who could think and strategize and screen. If we can get this done, Romero said, this is going to be the fucking coolest game that planet Earth has ever seen in its entire history. Carmack couldn't have said it better himself. Alright, so they launch Doom. I'm going to skip ahead to that because it goes back into the money they make. So it's getting praise and everything else. And it goes, it was also a cash cow. The day after Doom's release, id saw profit. Even though only an estimated 1% of people who downloaded shareware"
+    },
+    {
+      "timestamp": "01:02:21",
+      "text": "brought the remaining game, A hundred thousand dollars worth of orders were rolling in every day. Okay, so Doom is going crazy. They're making a hundred thousand dollars a day and they stumble upon a new business model for Doom. So id was on a high. Though Doom had not penetrated the mainstream like Mortal Kombat or Myst, it was the hottest game in the computer underworld. The guys at id were the indisputable rulers of the shareware market, heading towards a year of multi-million dollar earnings. And that, they soon discovered, was just the beginning. With the help of a New Yorker named Ron,"
+    },
+    {
+      "timestamp": "01:02:54",
+      "text": "I'm just going to call him Ron because I have no idea how to pronounce his last name, they were going to conquer retail. Like the id guys, Ron had hustled his way into the computer industry. Short, balding, and in his 40s he entered the entertainment business by launching the industry's first hispanic record label in miami in the 1980s his big coup was to sign an up-and-coming bar mitzvah band called gloria stefan and the miami sound machine he also broke julio inglesis into the united states naming his company good times he pursued the emerging market for"
+    },
+    {
+      "timestamp": "01:03:25",
+      "text": "home videos with low-priced 29-minute workout tapes starring Jane Fonda. This product landed him a big deal with the Walmart chain, whose executive urged him to explore what they thought was another virgin marketplace, budget computer software. Ron expanded his company into Good Times Interactive, or GTI. Good Times Interactive first published a Richard Simmons deal-a-meal CD-ROM and a Fabio screensaver. But that was hardly enough to fill Walmart's shelves, so Ron went looking into the computer game world. So let me just interject right here. I listened to this podcast a few months ago called Missing Richard Simmons. It goes into the business life. First of all, Richard Simmons goes missing."
+    },
+    {
+      "timestamp": "01:04:07",
+      "text": "So that's the name of the podcast. We're trying to figure out why he just quickly withdrew from public life. But the most interesting part I learned about that is Richard Simmons would make these videos, right, in the 80s, like Dancing to the 80s and stuff like that. On one of them, I think the original Dancing to the 80s, Richard Simmons alone made $150 million selling what is basically dancing aerobic style workouts on videotape. I was shocked at how much money that he has even to this day because that was just the first one. He did a bunch of them. So I didn't know. It's interesting how it kind of bled into this book with this Ron guy in GTI. Shareware markers were like a farm"
+    },
+    {
+      "timestamp": "01:04:45",
+      "text": "lake, he thought. He just needed to find the right team to release a retail product. id Software, he discovered, had done gangbusters with Wolfenstein 3D and now was causing an even greater firestorm underground with Doom. Yet Doom, to his amazement, had no retail representation. Ron had found his next Gloria Estefan. After flying to Texas to meet with the young millionaires at Id, he was surprised to find a group of long-haired kids in shorts. The office was trashed with broken computer parts, rancid pizza boxes, and an artillery of crushed soda cans. But these appearances bellied a true business savvy, Ron quickly learned. After he gave the guys the big pitch about his company and his exclusive"
+    },
+    {
+      "timestamp": "01:05:25",
+      "text": "deal to shelve 2200 Walmart stores, Id played it cool. The guys knew that by selling shareware, they were able to eliminate all middlemen and get full dollar value for their product. Furthermore, after the lackluster performance of the Spear of Destiny retail game, they weren't about to throw the shareware model away. Why, they wanted to know, did they need GTI? Obviously, I skipped over that part, but they had developed a couple other games and tried different other distribution channels to try and shareware, and none of them worked as well as shareware, so that's what they're referencing there. Ron didn't relent."
+    },
+    {
+      "timestamp": "01:05:58",
+      "text": "Look, he said, maybe you'll sell 100,000 copies of Doom and shareware, but I believe if you give me a retail version of Doom, let's call it, for lack of a better term, Doom 2, I think I could sell 500,000 units or more. Id remained unmoved. Ron went back to New York but returned to Texas two more times to plead his case. Finally, they told him the terms. If they were going to do retail, they didn't want to be treated like ordinary developers. They wanted complete creative control. They wanted to own the intellectual property, and they wanted to be featured prominently on all the merchandise so that people would know the game was coming not from GTI, but from id. Ron agreed and committed to a marketing budget of $2 million for Doom 2."
+    },
+    {
+      "timestamp": "01:06:38",
+      "text": "$2 million was more than id had spent to develop all of its game combined. Doom, despite its success, was still relegated to the computer underground. Doom 2, which they started working on immediately, would take them mainstream. Okay, so now I have to skip over, there's so many interesting parts. There's a bunch of highlights I'm just not going to be able to get to, or else this podcast would be like five hours long. I need to get to the beginning of the end. So all we've talked about so far is, you know, these young guys followed their passions,"
+    },
+    {
+      "timestamp": "01:07:08",
+      "text": "worked really hard and created something interesting. So now we're on the other side of that. This is now a few years later from when they started, not from when Doom came out. And they're, you know, balling. They're making tons of money. They're driving Ferraris. I mean, their games were insanely successful."
+    },
+    {
+      "timestamp": "01:07:25",
+      "text": "And this is the beginning of the end. Romero savored the long drive back to Dallas in his Ferrari. Life was good for the 26-year-old. He had been beaten down by his father and stepfather, picked himself back up, and now, after all this time, finally arrived. He really was the ace programmer, the future rich person. He had mended his relationship with his parents, who now had a new perspective on their son's wayward days at the arcades."
+    },
+    {
+      "timestamp": "01:07:50",
+      "text": "One night back at the office, Romero decided to share his feelings of success. This is a big mistake. He stepped into Carmack's office to find his partner, as usual, sitting at the PC with a Diet Coke. Since Doom's release, Carmack had immersed himself in side projects. Programming conversions are ports of Dooms for other game platforms, including the Atari Jaguar and the new console for Sega. It was getting good money for the gigs, 250 grand from Atari alone. But for Carmack, it wasn't the cash that was intriguing. It was the opportunity to get back"
+    },
+    {
+      "timestamp": "01:08:22",
+      "text": "into the trenches. So we're seeing a very difference. Because remember, Romero, six-year-old drawing Lamborghini saying he wants to be a rich bachelor. Carmack grew up just wanting to write programs. And we're going to see what like they're basically sowing the seed of their divorce here. This was talking about Carmack. This was what he truly loved. The work, the rolling up the sleeves, the challenging of his intellect. And he at least somewhat appreciated the rush of fortune and fame. On a recent trip home, he told his father, the renowned Kansas City anchorman, they would soon be as famous as he was. Like Romero, Carmack had found peace with his parents, who had now admired and supported his work. He had even gone out on a few dates with a woman whose parents owned a Chinese restaurant he"
+    },
+    {
+      "timestamp": "01:09:03",
+      "text": "frequented. Still, he was spending the majority of his days and nights at id. Nothing pleased him quite like the sharpening of his chops with low-level programming work. He would need the skills he knew when he went off to create his next big game engine. But while he had been here, he was beginning to notice Romero was gone. Deathmatching, which is the term Romero coined for the multiplayer games, which everybody now calls deathmatch."
+    },
+    {
+      "timestamp": "01:09:28",
+      "text": "So he's deathmatching, doing interviews, corresponding with fans online. Something was changing, slipping away. And the work, Carmack thought, was beginning to suffer. Doom 2 was falling behind schedule. While Romero was out there being the company rock star, the levels that he had promised to create were not getting done. In fact, the company was now relying on other level designers to get the majority of the levels done."
+    },
+    {
+      "timestamp": "01:09:51",
+      "text": "Of the 32 levels of Doom 2, Carmack noted, only 6 were shaping up to be Romero's. Romero had his explanation, the levels he made simply took more time. But Carmack suspected something else. Romero was losing his focus. In addition to the interviews and the death matching, Romero was now acting as executive producer on an upcoming game by Raven, the company he knew from Wisconsin. So Raven's this company that hired Romero"
+    },
+    {
+      "timestamp": "01:10:16",
+      "text": "to basically be an advisor and help them develop games. Romero had approached Carmack at one point with the idea to milk the Doom engine for all it was worth. Let's make some more games using our technology, he said. Let's get some stuff out there, because we can get money off of this. And Raven's a good group that would be perfect for licensing the engine and making a great game that we can publish. Carmack agreed, but without enthusiasm."
+    },
+    {
+      "timestamp": "01:10:40",
+      "text": "How much bigger did they need to get? For Romero, though, it wasn't just about getting bigger. It was about fun. He loved playing games, he lived for playing games, and there was no game that was more fun than Doom. The deal with Raven would give him more games to play. This night in Carmack's office, Romero spelled out his new life code. It was time to enjoy its accomplishments."
+    },
+    {
+      "timestamp": "01:11:06",
+      "text": "No crunch mode, no more bloodshot nights, no more more death schedules he happily said carmack remained quiet the curse the cursor on his monitor pulsed in the past romero would have stayed here by his side experimenting with the engine on screen testing bugs until the sun came up tonight carmack watched the guy in the wrote-it shirt walk out the door. And what they mean is wrote-it shirt. They had like Doom shirts made and on the back of Romero's, he had like, you'd see like a name on the back of a jersey."
+    },
+    {
+      "timestamp": "01:11:36",
+      "text": "He wrote it as in, you know, I created this game that you guys all love. So we see Romero saying, hey, we're super successful. We made all this money. Let's just chill and play video games. And Carmack couldn't give a shit about any of that. He just wants to keep pushing the technology forward and keep programming new games."
+    },
+    {
+      "timestamp": "01:11:52",
+      "text": "So that is going to be a fundamental riff that is going to wind up with Romero being kicked out of the company. And this section, these few paragraphs right here just explain why it was doomed to end this way. If Deathmatch was a release from stress, work, family, and drudgery, it was a release that Carmack didn't need, or for that matter, understand. In fact, he had never really gotten the appeal most people found in hapless diversions. He would see things on televisions about drunken spring break beach weekends, and none of it would compute. A lot of people didn't seem to enjoy their work."
+    },
+    {
+      "timestamp": "01:12:30",
+      "text": "Carmack knew well and good that he enjoyed what he enjoyed, programming, and he was systematically arranging his life to spend the most time possible doing just that. Beginning with Doom, he had decided to adjust his biological clock to accommodate a more monkish and solitary work schedule, free from Romero's screams, the reporter's calls, and the mounting distractions of everyday life. He began by pushing himself to stay up one hour later every evening and then come in one hour later the next day. By early 1995, he had arrived at his ideal schedule, coming into work around 4 p.m. and leaving at 4 a.m. He would need all the concentration he could muster for Quake."
+    },
+    {
+      "timestamp": "01:13:03",
+      "text": "Quake is the game they're building after Doom doom it also becomes really really addictive and really really popular okay so i'm going to skip over a big part carmack makes a play they were the rest of the people vote romero out because if carmax leaves the company they realize he's the only person on the planet that can make the gaming engine so they all side with him. He winds up, interesting enough, Carmack stays. It becomes obviously his company. And this is happening in like 95, 96. He winds up staying there for like another 10 or so years, maybe more than that. He just sold the company a little while ago before he went on Oculus."
+    },
+    {
+      "timestamp": "01:13:40",
+      "text": "So maybe he lasted like 20 years after this. But now we're going to get to, I think, the inevitable and probably most interesting part of the book, which is their different philosophies on business. And let's just jump into it. The gaming community already reeling from the split of Carmack and Romero became ablaze with speculation until Carmack finally addressed them in an unusually personal and lengthy email interview. Lots of people read what they like into the departures from id, he wrote. But our development team is at least as strong now as it has ever been romero was pushed out of id because he wasn't working hard enough i believe that three programmers three artists and three level designers can still create the best games"
+    },
+    {
+      "timestamp": "01:14:15",
+      "text": "in the world we are scaling back our publishing biz so that we are mostly just a developer this was always a major point of conflict with Romero. He wants an empire. I just want to create good programs. Everyone is happy now. Okay, so that's his he's saying, hey, forget all the other things. We're just going to make the programs. Don't worry about building a distribution or anything else. We're going to keep our team in intentionally small, and we're going to focus on making the best product. Now this is where I'm, I'm much more in line with what he's Carmex version about than what Romero does, because what Romero does here is just really, really dumb. Romero hit the highest button inside the gilded elevator of the Texas Commerce"
+    },
+    {
+      "timestamp": "01:14:53",
+      "text": "Building, 55 floors of bankers, lawyers, and oil moguls in the heart of downtown Dallas. Now, a 29-year-old gamer was bound for the top. Romero had been called here abruptly late one night by his real estate agent, who said he had to see this amazing penthouse that had become available. Romero was essentially starting from scratch. Though he received an undisclosed multi-million dollar buyout from his partners at id, the terms required that he relinquish all rights to id products and royalties. No more money from doom or quake. More important, Romero was on a mission. After years of feeling repressed by Carmack's shackles, he was finally free to pursue his vision of what a game, a game company, and ultimately a life could be. Not only was this vision big, but it was everything that id Software was not."
+    },
+    {
+      "timestamp": "01:15:36",
+      "text": "At id, the company was rolling in millions of dollars, and we just had walls, Romero lamented. It was the whole Carmack idea of, I don't need anything on my walls. All I need is a table and a computer and a chair. Instead of, okay, we've got a lot of money. Why not make it a really badass office? This is Romero talking. You can obviously see where this is going to head. Yeah, let's go spend on things that are not important. And oh, whoa, what's going to happen?"
+    },
+    {
+      "timestamp": "01:15:58",
+      "text": "Romero's new office wouldn't only be a fun place to work. It would be where a gamer could show the press, family, and friends that games had built an empire and that empire would be the ultimate place to work, it would be where a gamer could show the press, family, and friends that games had built an empire, and that empire would be the ultimate place to make more games. When the elevator doors finally opened into the penthouse, it felt as though Romero was standing on top of the moon. The two-story, 22,000 square foot loft seemed to spill in the stars. So don't forget, they started out in a tiny house, just five of them. And now he's starting a new game company. For some reason, instead of going back to basics, he wants a 22,000 square foot, two-story penthouse on top of one of the most expensive buildings in Dallas. So let's see."
+    },
+    {
+      "timestamp": "01:16:35",
+      "text": "But there were problems, the agent explained. The space was so big and windowed and close to the sun that it was extremely difficult to air condition. It was also expensive. $15 per square foot are roughly $350,000 per month. For these reasons and the fact that the space was just too weird for tenants like Payne, Weber, Texas Commerce Bank, or the Petroleum Club, the penthouse remained empty. This is amazing. There is nothing like this. This is it, he declared. This is a game company. Neither technology nor Cormac would be his ruler."
+    },
+    {
+      "timestamp": "01:17:10",
+      "text": "In fact, he would simply license the Quake engine, which Id had agreed to do, and make a game around it. He would have three designers working on three games at a time in different genres, and he would give each designer a large amount of staff to get the jobs done quickly. It wouldn't just be a game company. It would be an entertainment company. Okay, so again, we're seeing where these two guys, their philosophies are. They're continuing to deviate."
+    },
+    {
+      "timestamp": "01:17:34",
+      "text": "So you could argue that their breakup was inevitable. Because Carmack kind of sticks to what he wants to do. And Romero is about to go down in a blaze of glory. He's developing this game. Rom he's developing this game Romero's developing this game and it's taking a long time already right so he finds an investor we're going to skip over that but by this time Carmack is building like I said earlier every game he builds a new game engine so Quake is done right Quake comes after Doom Quake is done he's working on Quake 2 so Romero decides to delay the development of his game because he wants to use the latest technology."
+    },
+    {
+      "timestamp": "01:18:07",
+      "text": "He thinks, oh, it's going to be easy. I can just port it over to the new game engine. We're going to get into that right here. By licensing the Quake 2 engine, Romero was assured that he could implement all the tricks of the game, including colored lighting in Daikatana. Daikatana is the game that Romero wants to make. And he wants to do it with all these people in that big penthouse. Not only was he making what he thought was the most ambitious shooter ever created,"
+    },
+    {
+      "timestamp": "01:18:29",
+      "text": "but he would be able to do it using the most ambitious engine ever created, which is a Quake II engine Carmack makes. It was finally like the ultimate collaboration, a marriage of technology and design that Romero could never achieve at id. And now, best of all, no one, not not carmack not anyone could get in his way the burgeoning troops of ion storm this is uh ion storms the game the gaming company that romero founds after leaving uh carmack were grumbling with discontent so he already has a large staff it had begun when ion released the bitch ad in april so the bitch ad is"
+    },
+    {
+      "timestamp": "01:19:01",
+      "text": "really a big mistake romero made so it's an ad in video game magazines, and it says, John Romero is going to make you his bitch. And then it said, suck it down, which I guess was like his phrase that he would like to say to people when he was playing like death matches on Doom and Quake against them. And he even trademarked suck it down. So probably not the best idea to taunt your your future customers by saying they're going to make them you're going to make them your bitch"
+    },
+    {
+      "timestamp": "01:19:30",
+      "text": "so there's a lot of backlash just as that backlash was stinging the company went to e3 which is a huge conference for video games in june 1987 with what many thought to be a shabby demo of daikatana romero seemed more interested in playing games and courting the press, they thought, than in telling them what they needed to do to realize his game. So this is why his staff is mad. And the game, as a result, was feeling further and further for completion. Unlike Romero, most of his staff didn't like the idea of switching Daikatana to the K2 technology. In fact, they hated it. Romero seemed to have no idea how much work it was going to take"
+    },
+    {
+      "timestamp": "01:20:05",
+      "text": "just to implement the bare essentials of his 400-page... Oh my god. He's got a 400-page Daikatana design document. 400 pages. He wanted 64 monsters, 4 time zones, a game 4 times the size of Quake. They'd have trouble meeting the new March 1998 deadline without the pressure of switching technologies. Now, how were they going to handle all this?"
+    },
+    {
+      "timestamp": "01:20:25",
+      "text": "So they're a year and a half, almost two years into development of the game, and they're nowhere close. They weren't the only ones with suspicions after E3. This company that Romero gets to fund, Ion Storm, is called Edeos. We're going to talk about them right now. Edeos was not pleased to find out that Ion Storm's flagship title was now going to miss this Christmas season. But the Edeos executives were willing to give Romero the benefit of the doubt."
+    },
+    {
+      "timestamp": "01:20:49",
+      "text": "Romero assured them, as he assured his staff, that the game would be pushed back only a few months. Bodies plus manpower, nope, that's not gonna work. Bodies plus manpower, he said, was going to be the formula for success. We know through the books that we've read, it's usually the opposite. The more people you add to a project usually increases the time it takes in most circumstances. He said it was going to be the formula for success. The company already had 80 people and it was still growing. Again, they made the most popular games in the world with five or six people. This guy has 80 people and an office that's costing him $350,000 a month and he doesn't even have close to anything resembling a game. So there's 80 people in an office that's costing him $350,000 a month, and he doesn't even have close to anything resembling a game. So there's 80 people and it's still growing."
+    },
+    {
+      "timestamp": "01:21:29",
+      "text": "With all these people at work, of course, so this is Romero right here. With all those people at work, of course the work would get completed. Just look at what we did at id with barely 13 guys. So 13 guys is how many they had for Doom. Edeos had no choice but to take his word since he was managing the development of the game without intervention on their part. For all they knew, the game really was just a few months from hitting the shelves, and they were willing to do whatever it took to make that happen. What that took was money."
+    },
+    {
+      "timestamp": "01:21:58",
+      "text": "After less than a year, Edeos' original $13 million deal, which was supposed to fund three games, was starting to dwindle away. 80 people on the staff meant 80 salaries and two computers per person, 160 state-of-the-art machines with 21-inch monitors. The office renovations, oh, that's right, I forgot to tell you, the penthouse, even though it's $350,000 a month in rent, it needed extensive renovations to be able to move in. So the office renovations were now approaching the $2 million mark. There was no end in sight. You can already guess where this is going to end. This note I left for myself was frugal, question mark, not so much. And this again goes against all the other founders that we've"
+    },
+    {
+      "timestamp": "01:22:43",
+      "text": "talked about on this podcast where they preach the the the necessity for frugality the emerald green elevator doors slid open on the penthouse of the texas commerce building in february 1998 romero stepped out to see at last the completed renovation of his willy wonka factory everything he had imagined was there the game room with the vintage arcade machines, the foosball, the pool table. A deathmatch arena with shiny 21-inch monitors wrapped around a fine oak kiosk. A bank of 12 television sets flashing MTV. A maze of corrugated steel cubicles that resembled a level of a game. A kitchen overflowing with candy and junk food, and wrapping around and on top of the 22,500 square feet windows that scraped the clouds. Romero took it all in and had one thought. Holy shit, we gotta make some great games. They needed to make great games because the expenses,"
+    },
+    {
+      "timestamp": "01:23:38",
+      "text": "Romero knew, were even greater. Check out how crazy this is now. The office renovations would cost over $2.5 million. Dominion, which is one of the games we're working on, which was supposed to have only taken six weeks to complete, had eaten up more than $3 million. The original $13 million was gone, and Edeos was now sending in cash on a monthly run rate. Between the lease, the salaries for the nearly 100 employees, and other expenses, the bills were nearly $1.2 million per month, and they don't even have a fucking game. It's really hard to sympathize with Romero, even though he does come across rather likable in the book. He's just making colossal mistake after colossal mistake, literally not adhering to anything that had previously made him successful."
+    },
+    {
+      "timestamp": "01:24:22",
+      "text": "He's out with one of his employees employees named Stevie Case and she's talking. She goes, we heard a rumor, she said, that your entire Dicatona team is going to leave tomorrow. Romero remained defiant. Fuck them if they're going to leave, he said. The next day, Romero and Tom were called into the conference room where they found the entire Dicatona team waiting. We can't keep working under these conditions, they were told."
+    },
+    {
+      "timestamp": "01:24:49",
+      "text": "We don't think the game is ever going to get done, so we're going to go and start our own company. Romero wandered back through the maze of cubicles and sat down at his desk, where he would remain long after the sun came down on the glass tower. Everything is bullshit, he thought. Why did I hire all these people? It shouldn't have been this big. This was too many people, too much money. It should have just been me and Tom and a small team of people with a common goal. It should have been like the way it was when we weren't biz guys, when we were just gamers. So we're going to see how this ends. Keep in mind, I'm skipping over, and they go into great detail in the book. So if you find this interesting, pick up the book, because there's multiple chapters here, and I'm skipping over a bunch."
+    },
+    {
+      "timestamp": "01:25:29",
+      "text": "His game was once again delayed with no one in sight, having sailed past the promise for a February 1999 release. It now was in danger of buckling to technology once and for all. When a deathmatch demo of Daikatana was released in March, gamers thought it looked dated. The dream of the big company seemed to be proving too big after all. Too loose, too high, too ambitious. All those things Carmack had berated him about. The hyperbole, the lack of focus, the dangers of a large team, had come back with a vengeance. Even Idios, Romero's publisher, agreed, and returned for their sinking by now nearly $30 million into the company."
+    },
+    {
+      "timestamp": "01:26:10",
+      "text": "Romero had to change his ways once and for all. As Edeos president Rob Dyer put it, shut up and finish the game. So Carmack, his philosophy is he wants independence. He doesn't want any bosses, anybody telling him what to do. He just wants to build technology and games and then sell them on the internet Romero now has you know financiers and basically somebody that's above him telling him to shut up and get to work which I don't think anybody wants to really be in that um in that position they they continue he winds up getting the game done the game flops and sells like 40,000 copies total the Romero's company closes. And towards the end of the book, they go into detail about where they're at now kind of thing. Romero just went back to the basics."
+    },
+    {
+      "timestamp": "01:26:51",
+      "text": "After a huge mistake, he winds up just working out of a house with small other gamers. You know, a few programmers, a few level designers. Basically following the path that Carmack laid out a little while ago when he said hey the people the people you can have three designers three programmers and three artists making the best games in the world so he kind of at the end fall in line more with a Carmack's point there's two Carmackisms I want to end with because they're just I really like the way he puts it and it's inspiring for Carmack this phenomenon fulfilled an ideology that harked back to the populist dreams of the hacker ethic. Now this is direct quotes from him. It allows us to have virtual resource, he said. Any of these digital resources allows us to create wealth from nothing, to be able to replicate wealth freely. Unlike most fundamental physical"
+    },
+    {
+      "timestamp": "01:27:41",
+      "text": "objects, with the digital stuff, there really is the possibility of wealth replication. The world can be a richer place. And I'll just end with this. Carmack disdained talk of highfalutin things like legacies, but when pressed, would allow at least one thought of his own. This is my favorite paragraph in the entire book. In the information age, the barriers just aren't there, he said. The barriers are self-imposed. If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and diet"
+    },
+    {
+      "timestamp": "01:28:16",
+      "text": "coke to stick it in your refrigerator, a cheap PC to work on, and the dedication to go through with it. We slept on floors. We waded across rivers. That's where I'm going to leave the story of John Romero and John Carmack, the book, Masters of Doom, How Two Guys Created an Empire and Transformed Pop Culture. If you want to buy it and support the podcast at the same time, there's a link in your podcast description. It's an Amazon affiliate link, which means if you purchase it at no additional cost to you, Amazon gives me a little bit, a small percentage of the sale. I really appreciate you taking the time to listen and I'll be back very soon."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:28:16.665Z"
+}

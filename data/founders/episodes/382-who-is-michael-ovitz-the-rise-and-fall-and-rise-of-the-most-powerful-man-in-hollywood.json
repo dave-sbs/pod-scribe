@@ -1,0 +1,845 @@
+{
+  "metadata": {
+    "episodeNumber": 382,
+    "title": "Who Is Michael Ovitz?: The Rise and Fall (and Rise) of the Most Powerful Man in Hollywood",
+    "slug": "382-who-is-michael-ovitz-the-rise-and-fall-and-rise-of-the-most-powerful-man-in-hollywood",
+    "url": "https://podscripts.co/podcasts/founders/382-who-is-michael-ovitz-the-rise-and-fall-and-rise-of-the-most-powerful-man-in-hollywood",
+    "date": "March 7, 2025",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "I've done a few of these I had dinner with episodes, Michael Ovitz being the latest one. And I did one with John Mackey, who was the founder of Whole Foods a couple months ago. And John Mackey told me one of the craziest things that anyone has ever said about the podcast. By that time I had spoken to him, he had already listened to over 100 episodes of Founders. And he said that if Founders podcast existed, when he was a young man, Whole Foods would still be an independent company. That since the podcast and all of History's Greatest Entrepreneurs are constantly emphasizing the importance of controlling expenses, he would have put more of a priority on it, especially during boom times, during good times, because it's very natural for a company and really for"
+    },
+    {
+      "timestamp": "00:00:37",
+      "text": "human nature to just not watch your costs as closely because everything's going so well. And that is something that History's greatest founders all warn against. In fact, Andrew Carnegie has this great mantra that he would repeat over and over again. He says, profits and prices were cyclical subject to any number of transient forces"
+    },
+    {
+      "timestamp": "00:00:55",
+      "text": "of the marketplace. Costs, however, could be strictly controlled and any savings achieved in the costs were permanent. This is something I was talking about with my friend Eric, who's the co-founder and CEO of Ramp. Ramp is now a presenting sponsor of this podcast. I've gotten to know all the co-founders of Ramp and I spent a ton of time with them"
+    },
+    {
+      "timestamp": "00:01:11",
+      "text": "over the last year or two. They all listened to the podcast and they picked up on the fact that the main theme from History's Greatest Entrepreneurs is the importance of watching your costs and controlling your spend and how doing so will give you a massive competitive advantage."
+    },
+    {
+      "timestamp": "00:01:23",
+      "text": "That is a main theme for Ramp. The reason that Ramp exists is to give you everything you need to control your spend. Ramp gives you everything you need to control your costs. Ramp gives you easy to use corporate cards for your entire team, automated expense reporting, and cost control. Matt Paulson, who's the founder of MarketBeat, recently switched to Ramp, and this is what he said about it. Ramp is the best."
+    },
+    {
+      "timestamp": "00:01:45",
+      "text": "The amount of money you will save from unwanted renewals and employees who think company credit card equals buy whatever you want will far exceed the best credit card rewards program. Matt is talking about the importance of cost control. There's a line in Andrew Carnegie's biography that said cost control became nearly an obsession. Ramp helps you make an obsession in your business."
+    },
+    {
+      "timestamp": "00:02:06",
+      "text": "If Carnegie was alive today, he'd be running his business on Ramp. Take the time to set up a demo to see this product and you will see why many of the world's top founders are running their company on Ramp. Go to ramp.com to learn how they can help your business today. That is ramp.com. One more tool that I want to tell you about is Vesto. A lot of my friends are using Vesto and I got to tell you what happened at breakfast a couple days ago and even more friends are going to be using it now. So what Vesto does, it helps you connect and control all of your business bank accounts from one dashboard."
+    },
+    {
+      "timestamp": "00:02:36",
+      "text": "So I know the founder, Ben, we spent a bunch of time together and I've offered to help him by introducing him to some of my friends that I thought could benefit from Vesto. So I call one of my friends and he said, David, I'll meet with anybody you want me to, but I have to warn you, me and my team or my team rather, we say no to over 90% of the software that were pitched. And yet a week later, I hear back from him and he says Ben and Vesto are great and that they signed up. So I asked my friend to ask his team to explain the benefit they get from Vesto in their own words. This"
+    },
+    {
+      "timestamp": "00:03:06",
+      "text": "is happening over text message. I'm going to read this text message exchange to you. Okay. So it's okay. Can you please ask your team in your own words? What's the benefit? Like why did they sign up for this? And you say no to 90% of the things and then use this tool. What's going on? And he says, this is in their own words. It provides us the ability to view all of our bank accounts and loan accounts on one platform with a single sign-on. It makes it much easier to grant access to users in one place as opposed to 20 different banks. So I text back, what did they do before Vesto? We have 20 plus different bank logins across five accountants. We literally use 21 banks so every bank has an account"
+    },
+    {
+      "timestamp": "00:03:43",
+      "text": "and a loan that multiple people need access and views to just to log in and see everything would take hours and be in all different tabs. So I'm having breakfast with a friend of mine. He owns a huge company and we're talking about this and I show him this text message and he owns like well over a hundred different companies, like 200 now or whatever. And he's just like, oh no, he was worried that his team was doing exactly what my other friend was doing. it's like 200 now or whatever. And he's just like, oh no. He was worried that his team was doing exactly what my other friend was doing. He's like, wait, wait, there's no way"
+    },
+    {
+      "timestamp": "00:04:09",
+      "text": "that we're just logging in every day, right? And putting everything in tabs and spreadsheets. It's just not possible that we're doing that. And so he winds up texting the person responsible of this company, you know, a few minutes later, he's like, oh no, how can I be so stupid? And so I think he's gonna to start using Vesto now. And so if you have multiple accounts, multiple businesses, make sure you go to Vesto, that's"
+    },
+    {
+      "timestamp": "00:04:30",
+      "text": "Vesto with a V, and schedule a demo with the founder, Ben, tell him that David sent you Vesto with a V, so Vesto.com. The link will also be down in the show notes. I hope you enjoy this episode. I just listened to the entire thing back. I think I'm really proud of how it turned out. And I think it's just a remarkable story. And it's one of, it's one of I believe to be one of the most important autobiographies because of"
+    },
+    {
+      "timestamp": "00:04:49",
+      "text": "how much you see of the pain and struggle of building a company. I hope you enjoy it. I felt you could never be too paranoid. I always told our agents, make your clients think that they're your friends, but remember that they're not yet it would be my clients who would stay loyal and my friends who would betray me. Jay Maloney, the agent that I thought of as a son and my eventual successor, would join the agency's posse of young Turks who disavowed me after I left CAA. Michael Eisner, my great friend who ran Disney, would hire me as his number two, then publicly"
+    },
+    {
+      "timestamp": "00:05:19",
+      "text": "humiliate me and fire me after 14 months. And Ron Mayer, the blood brother that I started CA with, would leave to take a big job at Universal after I'd negotiated for us to both go and then disparage me all over town for 20 years. I had made it my life's work to understand people, to grasp what made them tick. I'd been certain that I was too wary to misplace my trust and too smart to be duped. So I'd like to think that these betrayals were random and flagrantly unwarranted and that I was the victim of some perverse instinct that destroys all human intimacy."
+    },
+    {
+      "timestamp": "00:05:58",
+      "text": "I'd like to think that the problem was just that the tools and strategies I'd used to get to the top inevitably created resentment, even among those who shared in my success. That everyone hates a winner. That just because I sought money and power and intimidated everyone to get them didn't change me. But I did change. Of course."
+    },
+    {
+      "timestamp": "00:06:21",
+      "text": "Because I could get movies that no studio would touch, released and celebrated, make stars out of nobodies, and even broker the sale of studios. With CAA's power behind me, I could, for a time, make almost anything in Hollywood happen through leverage, acumen, and sheer self-belief. But those whom the gods wish to destroy, they first give a gift. That is an excerpt from the book that I want to talk to you about today, which is Who is Michael Ovitz? It is written by Mike Ovitz, and I first read this book almost six years ago now. I think all the way back in 2018, so maybe even a little bit longer."
+    },
+    {
+      "timestamp": "00:07:02",
+      "text": "And in the last few months, I've actually gotten to know Mike Ovitz. He listed to the podcast and actually just flew to New York and had a very intense and fun, uh, three hour dinner, uh, with Ovitz. So what I want to do is I want to go through his book with not only fresh eyes, I have it now reading it, uh, the second time in it, the second time between the first read and the second read, prior reading, I don't know, 300 more biographies and autobiographies of history's greatest entrepreneurs. And I think this book is very important."
+    },
+    {
+      "timestamp": "00:07:33",
+      "text": "This is also what I told Michael, especially autobiographies. I think autobiographies are very important, because what I have in my hand, and what happens when you read this is like you have a wiser, older man looking back on his life. And this book is a perfect combination of him being very honest about his struggles, his regrets, the mistakes that he made. Again, with time and with wisdom, he can look back on that. And then equal combination of really great ideas on how to build a business and just fantastic ideas that I think future generations of entrepreneurs can benefit from."
+    },
+    {
+      "timestamp": "00:08:07",
+      "text": "So I want to go right to the prologue. This goes really speaks to why autobiographies are really important. He talks about, I was a terminator. The fear of my opponents felt derived from sheer hopelessness. How could they beat someone so tireless, so relentless, so inhuman? That was the image I took great care to project. It was an image I grew to hate. Who wants to scare the living shit out of people?"
+    },
+    {
+      "timestamp": "00:08:32",
+      "text": "So right there gives you a hint. I use certain tactics, certain strategies. They were very effective. You know, he comes to dominate his entire industry, but looking back, it didn't make for a pleasant life. Speaks a little bit more like to this a few pages later. I'm a frustrated artist. I couldn't paint or sculpt."
+    },
+    {
+      "timestamp": "00:08:47",
+      "text": "I wasn't musical and I sure couldn't act. So I did the next best thing with my life. I spent it around artists, appreciating them, admiring them, helping them become their best, fullest selves. I was the whetstone that sharpened them so they could slice through anything. Our pitch at CAA was better material, better information, better deals, and will make your dream projects happen. Yet"
+    },
+    {
+      "timestamp": "00:09:09",
+      "text": "agents, that's more regret, okay? It's really important. Yet agents make dreams happen at a terrible price. When a painter paints, other painters might be jealous of his success, but they don't believe he's personally screwing them over with every brushstroke. It's not a zero sum game. There's room for everyone to do his best. When an agent agents though the list of the personally embittered lengthens with the size of the deal. If we poached a new client his old agency hated us. If one of our movies went to Universal six other studios hated us. CAA's goal was to have all the clients and therefore all the conflicts. We used to say no conflict, no interest."
+    },
+    {
+      "timestamp": "00:09:46",
+      "text": "It was a heroic goal, but it cost us and it cost me. So when I read that section, I thought of this great quote that I just recently reread from Steve Jobs and he says, you've got to choose what you put your love into really carefully. So you have, you know, pain and regret on one page. On the very next page, this is just really useful information. Nothing in Hollywood is anything until it's something. And the only way to make it something is with a profound display of belief. If you keep insisting that a shifting set of possibilities is a movie,"
+    },
+    {
+      "timestamp": "00:10:18",
+      "text": "it eventually becomes one. I think that is just like a company. So Obitz grows up in the San Fernando Valley. He grows up in Sino. He has a great line about this. He says, I loved in Sino until I knew better and then I hated it. We were on the wrong side of the hill from the action. And so his father, David Oviets, grows up in the Great Depression. The way I would describe, obviously this is in every single book, I say this over and over again, that you can always understand the son by the story of the father, the story of the father is embedded in the son. The way I would describe, obviously this is in every single book, I say this over and over again, that you can always understand the son by the story of the father, the story of the father is embedded in the son."
+    },
+    {
+      "timestamp": "00:10:49",
+      "text": "The way I think about the way he describes his father, I love my dad, but this is not going to be my life. And so he says, my dad's dream was to open his own liquor store. You need to be in charge of your destiny. He drummed into me. It's no good working for somebody else. Yet that modest dream was still out of reach for Obitz's dad and he talks about the fact that there is his mom's uncle this guy named Sam it's like, you know kind of like a small-time business guy, but you know successful enough that he could drive a Cadillac and This this line is devastating If you think about it from a child's perspective, he says, he made my dad feel small. He goes, when I loved my father, while I loved my father, I hated his boxed in life."
+    },
+    {
+      "timestamp": "00:11:32",
+      "text": "Like many who'd grown up in hard times, he feared risk. So his maternal grandmother, she did something that was really interesting. She told Michael how special he was. She paid a lot of attention and she says, she also said in a rather harsh way, she says, you can be better than your father. And he bought into her what he calls the immigrant's creed that in America you can be anything that you want. So he says, instead of trying to emulate my father, who was a kind and loving man, I would"
+    },
+    {
+      "timestamp": "00:12:03",
+      "text": "be what my grandmother expected of me. I would succeed at all costs. And so we see right away, even as a child, and this is something me and Michael talked about at dinner. And we had a shared, this common bond, if you were to ask him, even now, even today, like how many hours do you work? All of them."
+    },
+    {
+      "timestamp": "00:12:23",
+      "text": "He's like that at nine. He's like that in his late seventies. At nine, I got a paper route. Then I asked for a second route, cutting my free time down to the bone. When he was not working, he was reading. He is a voracious reader, just collect, just consumes so much information. It's one of my favorite things in the book. And you'll see this, I'll point it out over and over again, in so many different areas, so many different things he's working on he just constantly saying hey I'm gonna just know everything about this I'm gonna collect more information and know more about the history of this of what we're"
+    },
+    {
+      "timestamp": "00:12:53",
+      "text": "working on than anybody else he does over and over again so even as a kid he goes I read everything I could but my favorites were biographies of successful men Andrew Carnegie Winston Churchill Nathan Rothschild in fact One of the things that that we talked about at dinner was that you know he said he's like I obviously Read about the Carnegie's and the Rockefellers and the Buffett's but what he loved and I've heard this from few other people too Is that you you know there's a lot of well-known people I cover but people seem to love even more like the unknown people that Just lived remarkable lives like these random. mean, if you could see my desk,"
+    },
+    {
+      "timestamp": "00:13:26",
+      "text": "there's, I don't even know, I lost count. There's probably 25 old books on my desk right now, many of which are about people that no one's ever heard of. And so we see a young Ovitz working his ass off, no free time, will not be like my dad, and I'm gonna, hey, if my dad's not successful, that's fine. Let me go pick up the books. Somebody's going to teach me, right?"
+    },
+    {
+      "timestamp": "00:13:49",
+      "text": "I'm going to learn how to get out of this goddamn valley. And that's really the way I think about, you know, he talks about this over and over again. I think a few pages later, he talks about, he could see. He could see where he wanted to be. He was on the wrong side of the hill, but he would literally go and stare at the mansions in Beverly Hills as a kid."
+    },
+    {
+      "timestamp": "00:14:09",
+      "text": "So he says, at nine, I discovered Motion Pictures. Four blocks from my house was the backlot for RKO Pictures, which was a studio owned by Howard Hughes, which is very fascinating. So he would sneak into the studios through the fence and he would come upon a different world. And he says, I was completely hooked. My parents desperately wanted me to become a doctor, but the movies became my obsession. I watched every new release. I became a student of the business."
+    },
+    {
+      "timestamp": "00:14:34",
+      "text": "So he's doing this as a kid. He'll do this for the rest of his life. He did it when I just talked to him, you know, last week. I became obsessed with the Spartan idea of the phalanx, the battle formation in which you are not only as strong, but you're only as strong as the guy on your left. I was also impressed by an Errol Flynn Western, where he drew a line in the dirt and said, you're either with me or against me. You're totally in or you're totally out became my mantra. It helped me enormously later and hurt me in equal measure because it didn't allow for shades of gray. Most of life turns out to be shades of gray."
+    },
+    {
+      "timestamp": "00:15:06",
+      "text": "So you have to me, you have the contrast between, you know, a young aggressive man. He starts his company, he was like 27 years old. He's going to start in the mail room. I think he's like 19, 17, something like that. You have a certain set of belief as a young man, you're on the come up. All your success is in the future. And yet now he's looking back at decades of experience and saying, hey, I didn't understand that most of life is actually shades of gray. Back to this idea"
+    },
+    {
+      "timestamp": "00:15:31",
+      "text": "of this can't be my life is the way I described this. Like this can't be my life is a very powerful motivator. Eight miles where I grew up stood the mansions of Beverly Hills. I would stare at them. That was when I began to hate the valley. This grudge against my surroundings, this sense that I had been raised in the wrong nest fueled me when I began my working life. This is exactly the reason I read this, the reason this jumps out to me is one, it's in a lot of these books. And if you're listening to this, you probably felt this way too."
+    },
+    {
+      "timestamp": "00:16:02",
+      "text": "I definitely felt that way. I had like, I grew up with a burning desire to achieve mission success, to not, to, you know, to change my life. I was like, there's no way in hell I'm going out like this. I, this can't be my life is a very powerful motivator. It's one that Ovid's felt. It's one that I felt. The grudge against my surroundings, the sense that had been raised in the wrong nest fueled me when I began my working life, I always felt one step inferior to the people around me and one step superior."
+    },
+    {
+      "timestamp": "00:16:28",
+      "text": "I wasn't as creative a culture as they were, but it was a lot smarter and more hardworking than most of them. This is a crazy line. Insecurity and ambition make a powerful cocktail. So before he graduates high school, he hears that Universal is hiring 10 young guys to do these like these studio tours. And turns out that his dad ran a little league. And one of the guys that his dad knew from running this little league team was the head of publicity at Universal, MCA Universal. That relationship helped young Mike Lvets get this job."
+    },
+    {
+      "timestamp": "00:17:05",
+      "text": "And he says, that was my first lesson in the business. Who you know matters. I was the only high school student MCA hired. Now the note I have on this page, and I've already given everything, given you a hint. Everything he does is like this. So pay attention to this idea. He's, you're going to see it over and over again."
+    },
+    {
+      "timestamp": "00:17:23",
+      "text": "The other guys to work, the other guides worked from 9 to 6, but I came in at 7 each morning and stayed until 9 at night. So two hours early and I'm going to say three hours later. I walked the entire 400 acres of the lot, end to end. I read and reread and underlined my studio guide as if I was cramming for a final, writing out lists of questions for executives and technicians and keeping a notebook full of answers. At the end of each interview, I arranged to come back to observe."
+    },
+    {
+      "timestamp": "00:17:53",
+      "text": "I had carte blanche at the busiest film and television studio in the world and I was getting paid for it. What I learned at Universal, the way glorious films blossom out of an intricate mesh of mundane practicalities enthralls me still. I went in even on Sundays when I could wander the empty soundstage to my heart's content. Now the difference between Ovitz and other kids. Most people are obsessed with the movie stars, with the actors. No, no, no. He wanted to know who had the power He was interested in the people with power and this is actually I asked over to when we had dinner if he's still like Who is Lou Wasserman still you think is the best of like the studio tycoons?"
+    },
+    {
+      "timestamp": "00:18:35",
+      "text": "He said yeah, this is the person that he really patterned himself off Well, Lou actually was a talent agent first and what over its picks up a young over its picks up is like Oh Wasserman is the one that has the power. I wasn't interested in the stars, but in the process of making pictures and in the people who were truly responsible. So he starts reading about all the history of, of all these biographies, the history of Hollywood. And he just was, he loved the, what he calls the foul mouthed magnets who"
+    },
+    {
+      "timestamp": "00:19:02",
+      "text": "founded the modern film business were fascinating. Harry Cohn, Lewis B. Mayer, Jack Warner, William Fox, but the one who interested me the most, in part because I worked at a studio and because in part because he had the most far reaching ideas was Lou Wasserman. He began as a talent agent. Lou built the town's Paramount talent agency. His rules were simple, tend to the client, dress dress appropriately divulge no information about MCA do your homework never leave the office without returning every single phone call. Cornering the market on movie stars okay so the reason I'm pointing this out to you is because later on over to be on the phone with Lou usually on opposite sides and he's has a great line was like I wonder if he knew that I pattern myself off of him. wonder if he knew that I patterned myself off of him. And maybe Lou never knew that, but the important part is like, you'll see how much their stories reflect each other."
+    },
+    {
+      "timestamp": "00:19:49",
+      "text": "He started began as a talent agent, right? He has like a very simple set of rules on how he built his agency. Ovitz will have a very simple set of rules that how he built CA. And then the way Lou did business and changed Hollywood is very reminiscent of the way Ovitz is going to do business and change Hollywood. I think within like, forgot the time frame he told me, because when I have these dinners, I don't like record anything."
+    },
+    {
+      "timestamp": "00:20:09",
+      "text": "So I just write notes after the fact. I think it was within like the first 10 years of founding of CIA, and they have like 75% market share of their entire industry. And so this sounds a lot like what I'm about to describe to you for Lou. Sounds a lot like what Ovitz says later on. Cornering the market on movie stars,"
+    },
+    {
+      "timestamp": "00:20:25",
+      "text": "Lou swung decisive leverage to the talent and their representatives and helped finish off the old studio system. Later, he bought the Paramount library of old films when no one thought it was worth a dime. MCA was everywhere, packaging a huge number of TV shows and taking up to 75% of their production costs. The company's reach was so vast,"
+    },
+    {
+      "timestamp": "00:20:43",
+      "text": "it became known as the octopus in 1962 after MCA bought Universal. This is a crazy story. So MCA buys Universal 1962. The US Department of Justice, which was run by Lou's friend, Bobby Kennedy, moved against the company, his company, right? Lou's company against the company for antitrust violations. Lew could have sold his agency intact to the next generation"
+    },
+    {
+      "timestamp": "00:21:08",
+      "text": "as we did later at CAA. Instead, he used Kennedy's threat as a pretext to break it up and scatter his top agents to a dozen boutique outfits. Sellers were balkanized and their power was neutered. That was brilliant. So even when Ovitz starts at college, he's still working weekends at Universal throughout his first year at UCLA. He says I was putting myself through college and so I"
+    },
+    {
+      "timestamp": "00:21:35",
+      "text": "had to work every spare hour. Now this is again goes back to this idea. I love my dad. I don't want to be like him. I don't want to live the same life I don't want to that boxed in life is the way he described it by fall I was working 60 hour weeks while going to school full-time It's interesting because part way through the dinner over it said to me that he goes you're just like me And I don't even think he knew this background I found a way to start working full-time when I was in high school and I worked 60 hours weeks 60 hour weeks when I was in high school. And I worked 60 hours weeks, 60 hour weeks when I was in college and taking a full schedule as well. And because I"
+    },
+    {
+      "timestamp": "00:22:10",
+      "text": "had to I had no safety net. So very much like like over to you'll see why he like he had so much pressure on him. So by fall, I was working 60 hour weeks while going to school full time, I'd be making almost $600 a week at age 19, more than my father. So after school, he applies to three companies. The only one that hires him is one of the largest talent, one of the largest and oldest, I think it's the oldest talent agency in the business."
+    },
+    {
+      "timestamp": "00:22:33",
+      "text": "It is William Morris and he starts out in the mailroom. He says that almost everyone at William Morris started in the company's mailroom. It would take three years. They had like this hierarchy system and like this track system and you know, you can already get the, you can already already get a sense of Ovis' personality. There's just no way in hell."
+    },
+    {
+      "timestamp": "00:22:49",
+      "text": "He's gonna just wait around and just follow this track. So normally you start in the mailroom, takes three years to become a junior agent, and then another four before you can start signing your own clients. And that's just crazy. Between starting the mailroom and that seven year track, 80% of the people wash out."
+    },
+    {
+      "timestamp": "00:23:05",
+      "text": "And he also noticed that, oh, this is an old stodgy business. He's gonna lead a revolt. They're gonna like take a bunch of people from this business and this is how he's gonna start CAA. The way you get ahead at WMA was nepotism. Everybody was somebody's nephew. It was an old, soft, corrupt place."
+    },
+    {
+      "timestamp": "00:23:22",
+      "text": "I needed another way to stand out. I told the head of personnel, I have a proposition for you. I think I can learn all I need to know to become an agent in 120 days. If I can't, I'll give you back everything you paid me. I was agenting him and he knew it. He broke out laughing. This is the craziest thing I ever heard,"
+    },
+    {
+      "timestamp": "00:23:39",
+      "text": "but I'm gonna hire you. You start Monday. My salary was $55 a week. I said, I'd like to start tomorrow. Again, everything he does is like this. I showed up at 7 a.m., two hours early, to learn my way around the building. There were 20 other mailroom trainees,"
+    },
+    {
+      "timestamp": "00:23:54",
+      "text": "which meant I had 19 rivals for advancement. Now, he sticks out almost right away, so they bump him a little bit, his salary a little bit, but he's making $75 a week. And again, I think this is just fuel and, and, you know, just adds to his drive because he's already married. He married his wife, Judy, when I think he was still in college and he's embarrassed because he's just like, I have set, I'm making $75 a week."
+    },
+    {
+      "timestamp": "00:24:18",
+      "text": "I'm surrounded by you're in Hollywood. There's wealth and there's mansions and there's fame. And I'm embarrassed I have to take my wife out. The only place I could take my wife out is these cheap Mexican restaurants and just adds fuel to the fire. But you had a very, Judy was very supportive, especially in his early days. And I think this is really important. I said over and over again that it's obvious from reading these books that entrepreneurs"
+    },
+    {
+      "timestamp": "00:24:42",
+      "text": "either need a supportive spouse or no spouse at all. I think those are literally the only two options. And it says, Judy gave me the line I'd later use when I recruited people to an entry level job at CA. You're investing in your life. I despise the mailroom, but I fell in love with the world it served. Working for William Morris was a means to an end even then. You know, I think, you know, entrepreneurs for a large percentage of them, founders just like you were like this from birth. Right. And so this, this, this kid is 19 year old kid, making no money working in a mail room and just realized, you know, he, he, he already knew that he was going to start his company one day."
+    },
+    {
+      "timestamp": "00:25:19",
+      "text": "He's like, I aspired to build my own company someday. And so I told you before in the past, one of my favorite talks is this talk on YouTube. It's by Bill Gurley. It's called Running Down a Dream, How to Survive and Thrive in a Creative Love. And one of the quotes, there's a bunch of great quotes in there and he's talking about how these people achieve great things, like how they went about doing it. And he has a line in there that I think about all the time."
+    },
+    {
+      "timestamp": "00:25:41",
+      "text": "He says, hone your craft constantly. It's extremely important to be obsessive about understanding everything you possibly can about your craft. Consider it an obligation. Hold yourself accountable. Keep learning over time. Study the history and know the pioneers. And his whole point is like, you don't have to be a genius, right? You can just go out and collect more information than anybody else does. And considering that you have the internet, you have no excuse not to make yourself a world expert in whatever field that you happen to be interested in."
+    },
+    {
+      "timestamp": "00:26:05",
+      "text": "And Oveitz does this when he's a kid. Listen to what he does. So remember, there's no computers. We're in the 70s. So it says, we had a file room. Everything that you need to know about the history of this place and the history of Hollywood is in a paper folder. So he says, we had a file room the length of a basketball court."
+    },
+    {
+      "timestamp": "00:26:23",
+      "text": "It was lined with steel cabinets, which he calls it the hard drives of that error. They were all packed with 70 years worth of Manila folders. I viewed those files as an encyclopedia of entertainment. I helped the woman who ran the file room, Mary. So he starts, he's agenting her essentially. I bought her a little gift, a box of candy, a scarf. One day I said, Hey, you know, I'd really love to lead to read some of those files. She told me to make myself at home within a week."
+    },
+    {
+      "timestamp": "00:26:48",
+      "text": "She was letting me stay on after she left. Then she gave me a key while other trainees waited to be told what to do and read and learn. I entered Mary's domain each morning at seven and every evening after work for weeks. I made my way through from A to Z through the client files and the network and studio deals. I jotted down questions for Sam S Z through the client files and the network and studio deals I jotted down questions for Sam Sachs the head of televisions legal affairs Who is charmed by my interest and lent me a tape of a talk he gave at USC on contract law in entertainment"
+    },
+    {
+      "timestamp": "00:27:15",
+      "text": "I watched it at home. Then I came back the next day with more questions. He gave me nine more Tapes then there's this is also important, because the legal office is adjacent to the first floor executives. And Sam Wiseboard, who was the head of television worldwide and the top Morris executive in LA, passed it on his way to dinner and again when he returned. So there's a lot of these people in the book that are like creatures of habit."
+    },
+    {
+      "timestamp": "00:27:40",
+      "text": "And Ovis will just watch you and he'll observe you. And then he realizes, okay, this guy does the same thing every day. He's going to leave the office at 6.30. Everybody else leaves at 7.00. He's going to come back a few hours later and work another, I think he works like, what did it say, three hours. So it says the office was empty until Sam returned for dinner"
+    },
+    {
+      "timestamp": "00:27:58",
+      "text": "for another three hours to finish up. So what do you think a young Ovic does? I planted myself at a cubicle where he could not help but notice me spreading out my files so he would see them. A week later around 9 p.m. no one else is there. He says can you do me a favor? We were the only two in the building. In fact, Oviets is going to wind up having this like fight with David Geffen and then they reconcile later in the book. If you read David Geffen's biography, he does this exact same thing. Exactly. Starts in the mail room, figures a way to get a bunch of one-on-one time with the top executive and then does whatever he needs for that person."
+    },
+    {
+      "timestamp": "00:28:37",
+      "text": "So starting three months after my start date at William Morris, I became Sam Weisborg's guy. I worked as his after hours assistant without being asked or paid. I never went by his office without ducking my head in to see what he might need. So he says service organizations live or die by time management. I lined up all the memos on Sam's desk by priority. So he's organizing his workflow. I then he would do very humble things. It's like I'm not I don't have an ego attached here. I'm going to serve you in any way possible. I would keep his refrigerator stock. I would call stockbrokers and ask for tips on stocks that Sam should buy or sell. In short, I made myself indispensable. And then the book is"
+    },
+    {
+      "timestamp": "00:29:16",
+      "text": "full of lines that I don't think need any further explanation. He says, I didn't want to be standard in any way. So he develops a bunch of relationships with all the young agents at William Morris. And they're looking around and they're like, these guys are old and soft and lazy. And we are young and energetic and hungry. And they begin to ask themselves, what if guys like Ron and me had more of a say? And then that leads them to the further questioning is like, well, what if we could run a company on our own? And so they're going to wind up leading a say. And then that leads them to the further questioning is like, well, what if we could run a company on our own? And so they're going to wind up leading a revolt and they're going to leave William Morris and they're going to start CIA. And keep in"
+    },
+    {
+      "timestamp": "00:29:55",
+      "text": "mind, and part of it is because they were also underpaid. This is a big mistake. I think it's come up on a bunch of the podcasts recently. It's like overpay for talent because it's almost impossible to overpay for talent and in this case in 1973, OVETS brings in two million dollars for the firm and they pay them 400 bucks a week and they're like oh you did a great job thanks for that two million here's a $7,500 bonus. So they're working way harder they're making a ton of money for the old you know soft people and they're not getting compensated so what do you think's to happen? This human nature is like, screw you guys."
+    },
+    {
+      "timestamp": "00:30:27",
+      "text": "I'm going to do this on my own. So they're having him and Ron are having dinner and they're really starting to have discussions like, why don't we go into business for ourselves? We'll make more money. We'll have more control. And the guy that Obitz was helping the Sam Weisberg was next in line for the presidency. So Obitz has like, well, I could stay it. Like, what if I might want to stay here because I'll be maybe the number two guy to the guy running the company. And here's"
+    },
+    {
+      "timestamp": "00:30:54",
+      "text": "the thing that that Ovis will repeat over and over again in the book. And it's obvious if you read the book and you talk to him, he's just not meant to be a number two. And so they're having this conversation with him and his future co-founder Ron. And he's like, well conversation with him and his future co-founder, Ron. And he's like, well, I had more to gain by staying than Ron and more to lose by leaving. And says, seeing me hesitate, Ron said, you have no gamble in you."
+    },
+    {
+      "timestamp": "00:31:13",
+      "text": "Sometimes you have to step up and roll the dice. That got me thinking. I was 27. If we busted in three years, I could land a new job and start over. So even though they don't have a bunch of money, they get together, I think there's five of them, and they're gonna start CAA. And you know they lay out, so Obitz from the very beginning lays out a bunch of points"
+    },
+    {
+      "timestamp": "00:31:32",
+      "text": "that he think is very important. One, we should all have even equity. Two, we need to get big fast. Three, we need to share all of our clients and serve them as a group. No, he didn't want any turf wars. He didn't want any silos. There would be, you know, at other agencies, all the agencies kind of work for one agency, but they really like work for themselves. And he's like, we need to, that causes all kinds of internal conflict."
+    },
+    {
+      "timestamp": "00:31:54",
+      "text": "In fact, you know what? I had a strange thought when I got to this part about, hey, no turf wars, no silos. We're going to serve them as a group. I'm thinking about doing an episode, because I read a biography on Jengis Khan. I've watched a bunch of documentaries and a bunch of podcasts on him. And so I might do that, but one of the things that Jengis Khan, he was a really brilliant creator of states and management structures."
+    },
+    {
+      "timestamp": "00:32:16",
+      "text": "And one thing that he would do over and over again that you see is he was really important to him to reduce internal conflict. And so even if something, even if there was a practice that was something going on in a culture for a long time period of time, like they would kidnap your enemies, women, for example, he would outlaw that because his whole point was just like, well, you kidnap somebody else's, you know, family member, they're gonna they're gonna seek retribution. And then when they get retribution, their family members are going to seek retribution. And there's going to be retribution for retribution or retribution. And so like, we're going to outlaw this because we need to reduce internal conflict. And so that was like one of Khan's major principles, like reduce internal conflict. You see the same thing right at the get go with Ovitz. Number four, tell the truth. So I, this is something I talked to him at dinner about. He really values friends that tell the truth."
+    },
+    {
+      "timestamp": "00:33:05",
+      "text": "His friends that are able to tell the truth. Obviously, he's famous and well known. If you want, you could build people around you and you'll never hear anything bad. And I think a lot of people make the mistake of doing that. The great founders that we've seen over and over again in history, Sam Walton, Jim Casey, Steve Jobs, they want to be told the truth."
+    },
+    {
+      "timestamp": "00:33:24",
+      "text": "They respect you more if you push back at them. And I think the bad founders are the bad executives just surround themselves with sycophants. And then, you know, that may work for a little bit, but it always ends terribly. So number four, tell the truth. And number five, this is really, really like one of the most innovative things that that Ovid does is like he's going to create opportunities, not just wait around for it. So other agents, they'd field offers. He's like, why are we just fielding offers?"
+    },
+    {
+      "timestamp": "00:33:51",
+      "text": "Like, why are we the ones creating opportunities and then going on, try to sell them on behalf of our clients? And they they really like differentiate themselves around that idea. Like, we're going to come up with ideas and we're going to put that together for you. And like, we're essentially going to serve you. And he actually recruits a lot of clients. He starts working for people that he wants to be clients that have never signed with him. And what he'll do is he'll just bring them"
+    },
+    {
+      "timestamp": "00:34:15",
+      "text": "a great opportunity. And then that leads them, then he comes to them with an opportunity. They're like, this opportunity is great. Great, do you want me to represent you? That's a much easier sell. So we see that CIA has very humble beginnings. They're in debt."
+    },
+    {
+      "timestamp": "00:34:26",
+      "text": "They wind up putting up homes as collateral. And it says CAA was a prototypical startup. We bought unfolding chairs and card tables for desks. And our wives each came in one day a week to answer the phones. We had one assistant, a bookkeeper. And right away they have to deal with one, everybody around them doubting them,"
+    },
+    {
+      "timestamp": "00:34:43",
+      "text": "you're not gonna succeed. The people that stayed at succeed. The, the, the people that stayed at William Morris said, Hey, just, you know, we have like a bet at the office that you guys are going to be out of business when within six months. And then they, they, WAA, WMA threatens a lawsuit and tries to destroy CAA before they get going. And so this is OVETS is response and they were terrified. You know, they're, they're, they're"
+    },
+    {
+      "timestamp": "00:35:05",
+      "text": "they're late twenties. And they have they get this letter from one of the most powerful attorneys in Hollywood saying, you know, essentially, we're going to just crush you. And Ovitz's response is fascinating. He was my one play a long shot was try to intimidate my old boss from working for Sam, I knew the Department of Justice was probing William Morris for monopolistic practices. So he calls up the attorney, okay, he goes, I knew that the Department of Justice was probing William Morris for monopolistic practices. So he calls up the attorney. Okay. He goes, I rang up Leon Kaplan."
+    },
+    {
+      "timestamp": "00:35:30",
+      "text": "He sounded arrogant. And why not? He pegs CAA as weak, broke and defenseless. Mr. Kaplan, I said, we haven't met, but I know who you represent. I think you're trying to put us out of business and I think it's inappropriate and unfair. And it could be really interesting if this went to the Justice Department in the middle of their antitrust investigation. My tone was firm, but matter of a fact, I continued, you can rip up this letter and"
+    },
+    {
+      "timestamp": "00:35:54",
+      "text": "we can all be friends and forget about it. Or you can pursue it. And I will call a pal of mine who works at Justice, the Justice Department, and I'll ask him to throw this in the hopper and we'll see how this sorts out.\" And so the lawyer and WMA back off, and I think it's probably obvious, but like, Ovis didn't have a friend on the justice department, he was bluffing, but this is the punchline, the important part. That day forged our siege mentality."
+    },
+    {
+      "timestamp": "00:36:18",
+      "text": "To defend our tiny position, we unleashed hell on anyone who crossed us. For the rest of my time at CA, I was a great friend and ally, but an implacable foe. When you're 28 years old and you've quit your job and there's no going back, and then the industry leader tries to smother your baby in its cradle, you steal up pretty fast. Kaplan's letter taught us to play hardball,"
+    },
+    {
+      "timestamp": "00:36:39",
+      "text": "and hardball we would play for the next 20 years. So when you're not making any money, you don't have a lot of money, you're in debt, what option do you have in your startup? There's one option. You got to get to the money fast or you're going to die. And so what they do is they go to kind of the, so there's like a, there's like a, the films and movies is obviously, you know, the most prestigious aspect of the business, can"
+    },
+    {
+      "timestamp": "00:37:02",
+      "text": "be the most lucrative, but they start in TV which was you know way less prestigious because it pays really fast it's actually really really interesting. Needing clients fast to pay our rent we focus on TV writers and actors two reliable sources of income in TV the talent got paid every Thursday so the agents did too then he talks about what he was like at 28 he's still like this today. Every waking hour was a working hour. This is a very scrappy startup."
+    },
+    {
+      "timestamp": "00:37:29",
+      "text": "It says, we didn't even have expense accounts. We paid for everything ourselves and deducted it from our individual taxes. And this is the part of the book where I just feel it's full of just really interesting ideas on, you know, really scrapping resourceful ideas to build your company. One thing that's very obvious is that Owicz was ahead of his time and a lot of things. He's very ahead of time. What's about to happen here because what he's about to tell this actress, actors, athletes, all think like this today."
+    },
+    {
+      "timestamp": "00:37:53",
+      "text": "And he's saying, you know, you're a great actress. You should be doing more. You should have bigger roles. And he goes, uh, seeing her skeptical expression, I jumped in and said, take off your actress hat for a moment and pretend that you're a small corporation. This is what I mean by that. All these athletes and if you look at a lot of athletes, movie stars, people that are in different domains outside"
+    },
+    {
+      "timestamp": "00:38:15",
+      "text": "of typical business people, you'll see in their bios, they'll say founder. So they definitely think about themselves as a small, in many cases, they could be multi-billion dollar corporations But they think like this let now they definitely were thinking back then he and he says he says to this actress What what can you do to increase your bottom line and control the direction of your future growth? You need to take control of your projects and get involved in developing them Now this second part that he tells her is just great advice for dealing with people"
+    },
+    {
+      "timestamp": "00:38:40",
+      "text": "I believe that nobody wants to be treated just as they are Everybody wants to feel encouraged to become even more than they are, to become the best versions of themselves. So then the third thing that jumped out on me on this page is again, this belief comes before ability. Yeah, I used to have this thing where they'd pop up in all the books that I read in the early days of founders,"
+    },
+    {
+      "timestamp": "00:39:02",
+      "text": "it's like critics don't know shit. And it's just everybody around over, it's like, you can't do that. That's impossible, that'll never happen. You're not founders, it's like critics don't know shit. And it's just everybody around Ovitz, like you can't do that, that's impossible, that'll never happen, you're not gonna get that person, you can't do that. And so they're talking about like, yeah, we might be like these little guys doing TV, we might not have no money, no one knows us."
+    },
+    {
+      "timestamp": "00:39:15",
+      "text": "And he says, I plan on representing movie stars. And the response to this person they're talking about is like, you'll never get them, they're locked up by the big boys. And Ovitz's response here is perfect. He goes, I'm gonna represent them all. I'm going to get them all. And I think it's very important. Don't ever let somebody else tell you what you're going to do or you're capable of. How the hell would they even know? Another way, you got to find another route in. And so, okay, it's really hard."
+    },
+    {
+      "timestamp": "00:39:40",
+      "text": "Obviously, film is highly competitive. This guy just said all the great actors and directors are locked up by the big boys Okay, so how can I break into movies? He says we break into film by taking books and scripts and treatments to prospective clients So he finds he winds up reading and I think New York magazine Here's about this this legendary literary agent named Mort Janklow and he goes, okay, I'm gonna call him up Yeah, again, this is just so of its I'm okay I'm gonna call him up and again this is just so over it I'm gonna I'm gonna call him it took 10 days for me to get him on the phone to ask if I could see him I flew to New York at a cost that made my stomach"
+    },
+    {
+      "timestamp": "00:40:12",
+      "text": "twitch remember they have no money at this time so he says I laid out our book for strategy I'd asked to call him every Thursday at 10 a.m. in case he had something for us Mort could set his watch by my calls I kept at it for a year every week no matter what before he gave us a novel so the first thing he gives him gives him this novel chiefs they actually uh sell that and turn it into a very successful mini series on cbs mort was a static so what happens you just you just made me more money you brought me an opportunity people love that so now we start sending ovitz and all the people say, hey, a bunch of manuscripts for some of his more commercial writers. They should be easier to turn into miniseries, movies, things like that."
+    },
+    {
+      "timestamp": "00:40:55",
+      "text": "And then you see this guerrilla marketing tactic that they had. They take these scripts and these manuscripts and they... Well, I'll just read this to you soon we had 80 agents sending us novels and manuscript to be optioned by our producers and then our screenwriters for adaptation after copying the scripts in bulk we slapped on bright red covers with white CIA logo and planted hundreds of them in beauty parlors restaurants and doctors offices they generated free publicity they helped establish our brand and our race against larger but less agile firms."
+    },
+    {
+      "timestamp": "00:41:28",
+      "text": "Now talks about the insane amount of pressure he's under. They don't make any money, I think for the first three years. And then on the third year, each partner is able to take $80,000 out in profits. Remember, we're in the 70s. So he's like, holy shit. So he says, all I could think about was money. Obviously, if you grew up with no money, you feel that way forever. And so he says, I was hell bent on making enough money so I'd never have to go back to the Valley."
+    },
+    {
+      "timestamp": "00:41:53",
+      "text": "Starts making a little bit of money. This feeling, I double underline, this is so important. So Judy and I moved from Sherwin and Oaks to Brentwood, trading in our $75,000 house for one that costs $650,000. I'd wake up and think, my God, I live in Brentwood. So he's starting to build up a little momentum here. People are noticing how resourceful they are, how hungry they are. Think about the contrast. It's going to be obvious. The success is going to come later, right?"
+    },
+    {
+      "timestamp": "00:42:19",
+      "text": "But the score will take care of itself. You're going to notice if you know the industry, like how are the old Saji guys at WME doing, right? Uh, William Morris or WMA, sorry. And how were these like young guys that are on it every day, they're being super resourceful in it's CA doing. And so he says, uh, in late 1976 opportunity had come knocking in the form of 52 year old Marty bomb. He was an agent with his own shop, okay. He had a really good list of clients,"
+    },
+    {
+      "timestamp": "00:42:48",
+      "text": "but he worked by himself. So he says, Marty felt lonely and he wanted to join us. We decided to make him a full one-sixth partner and never regretted it. He gave us a big foot in the door in films. His clients made CAA a contender, and he's gonna lead them to their first big payday. So Marty sets OVETitz up with James Clabel who's the writer of the series Shogun."
+    },
+    {
+      "timestamp": "00:43:11",
+      "text": "Shogun has just been remade recently. I watched it. I enjoyed it. But Obitz is the one that gets it. This is, you know, three decades ago, four decades ago maybe, maybe four and a half decades ago. And he gets it made and it becomes one of the most watched mini series of all time. So I'm going to skip over and we get to the punchline."
+    },
+    {
+      "timestamp": "00:43:30",
+      "text": "And James is ecstatic at what Ovitz was able to do. So the author, James Clavel, says, hey, can you come meet me? And he sits down, Ovitz sits down, James hands him an envelope, and he says he opens it, found a check with a dizzying number of zeros made out to see a one million dollar commission which would be about three million and today's money. Even more today because the book is almost ten years old show gone had this is the important part. I think you and i've been talking with this over and over again last few weeks how many of these people were able to build. Empires in many cases billion dollar empires off of opportunity hiding in plain sight."
+    },
+    {
+      "timestamp": "00:44:08",
+      "text": "Shogun, it's not like the, CAA was the first company to see Shogun, and Oasis is over and over again. He takes things that other people pass on and turns them into phenomenal successes. Shogun had languished at William Morris for three years. CAA got it made. Never mind that the deal almost fell apart 20 times. Deals always almost fall apart 20 times."
+    },
+    {
+      "timestamp": "00:44:29",
+      "text": "That was the first time we took a client's far-fetched dream and made it come true. So he's doing the best with every opportunity in front of him, but he still has his long-term plan. He's like, I want to have the best directors. I want to have the best actors. So he wants him making a list of all the best directors that he wants to represent one day."
+    },
+    {
+      "timestamp": "00:44:46",
+      "text": "And he says, I was dreaming, though my dream would eventually come to pass. And so he winds up, some of these people are like Morton Swarcese and Stanley Kubrick. And one advantage that he did, right, think about, like, I've done a bunch of podcasts on directors like Christopher Nolan, Tarantino, Spielberg, George Lucas."
+    },
+    {
+      "timestamp": "00:45:04",
+      "text": "They're all the same in the sense that they have this encyclopedic knowledge of film history in their head. And what Ovitz realizes is like, oh, I need to get that in my head so then I can be able to relate to them and understand them and talk to them about this. So what does he do? Know the history of the industry and right."
+    },
+    {
+      "timestamp": "00:45:19",
+      "text": "I was beginning to believe that I can converse with those guys because when we launched CIA, I had started a private project, one that took me 10 years of watching every film that had won one of the big five Oscar big five category Oscars. I discovered why Gone with the Wind had passed the test of time and how green was my Valley hadn't I learned the relationship between vision and craft film had its own language and I needed to be bilingual. So you keep pointing us out because it's like, it's just he does, he's willing to put in the effort and do the research and do the time. How many other people,"
+    },
+    {
+      "timestamp": "00:45:49",
+      "text": "let's say you're another agent on another, your direct competitor of Ovis at this time, how many of them do you actually think did that? I'd be surprised if there's another one. And if they're, it's certainly not what more than 1% of his competitors. So you're already knocking out 99% of the people, it's probably 0.5% if you really think about human nature. It's fascinating that you can still just get an advantage just by collecting more information. Another thing, I love this idea, I've already talked about it, do the job before you're hired. So one of the guys that he wanted to represent that was on his list of directors was a guy"
+    },
+    {
+      "timestamp": "00:46:23",
+      "text": "named Steve Gordon. So one way he would do, he says, we would poach people by assumption. We would behave as if we were the client's agent already and make their dreams happy and then they would sign. And so he winds up getting a script, attaching Steve Gordon to the script and selling it to United Artists as if Steve Gordon agreed to that. And then they ordered the movie with Steve attached to direct. And then Steve was very happy because the deal, think about it, you show up at his door,"
+    },
+    {
+      "timestamp": "00:46:51",
+      "text": "the deal's done. Like, hey, I know you wanted this movie. Guess what? I just sold it to this studio and you're the director. So this was actually a surprising thing and something that I actually asked him about at dinner too, because it's obvious in this book, he's heartbroken and devastated by two of his closest friends and business partners betray him. And yet I have a bunch of mutual people"
+    },
+    {
+      "timestamp": "00:47:13",
+      "text": "that I know that know of it. I know what he's working on now. And I know what he's been doing the last few years. And I just asked him, how the hell? Because I'm a very untrusting person. And one of my closest friends and advisor says like my biggest problem is that I keep everybody at arm's length away and I could actually like damage where We're trying to go in life"
+    },
+    {
+      "timestamp": "00:47:33",
+      "text": "it's like a very interesting piece of feedback, but Until one thing I was curious for myself. Just like you know read your book Your these guys ripped your heart out. You know, and Obitz is not gonna say that he was like blameless too, you know? How do you continue to build relationships after that happened to you? You considered these two people"
+    },
+    {
+      "timestamp": "00:47:53",
+      "text": "literally your two best friends in the world. And he made a great point. He's like, you know, I've been betrayed by like three people in my life out of what? A thousand? It just didn't happen. Like you can't live your life like that. What he was telling me is like, you just can't live your life like that. Because you know, it's three"
+    },
+    {
+      "timestamp": "00:48:08",
+      "text": "out of 1000. So it's I think it would be surprising to you how trusting a person he is. And you see this here where he would sign quote unquote, sign clients, and he never at he never papers anything. And he goes, I never asked them to sign a letter of engagement. I thought written agreements were overrated. And he goes, I never asked them to sign a letter of engagement. I thought written agreements were overrated. And he goes, and I think they're downright counterproductive. And there was another benefit of this."
+    },
+    {
+      "timestamp": "00:48:31",
+      "text": "With no papers to renew, our clients had no anniversary to jog them into thinking about leaving us. Very interesting insight there. But he mentioned that over and over again, just not needing to paper anything and just working with people with just basically a verbal and a handshake agreement."
+    },
+    {
+      "timestamp": "00:48:46",
+      "text": "This is where he started to pick up strength and you see he's just a conqueror and he knows he's a conqueror. He says this is really the vision and the beginning of him just completely rolling over everyone. And he says, a vision of my future came over me. I'm going to have all of these people someday in an agency that will represent the whole food chain and flip the power from the studios to the artists. Again belief comes before ability."
+    },
+    {
+      "timestamp": "00:49:09",
+      "text": "He had that belief. He did not have the ability to do that yet. So he's figuring out how to do it. Even then I had the odd feeling that Sydney Pollack, which is a legendary director, would be the master key. Realizing this vision would take years. So he discovers that this is one of the wildest parts of the book. So Sydney's longtime agent with this guy named Evarts Ziegler. We're gonna call him Zig because I'm not sure if I'm pronouncing"
+    },
+    {
+      "timestamp": "00:49:31",
+      "text": "his name correctly. So Zig represented a bunch of A-list writers and he had a bunch of top-tier directors but he's getting old and a little lazy and not with the times. And so he goes, I want them all but how do I lure them away? The unexpected answer came through my car telephone, which was a novelty at the time. The radio based phone slightly larger than the shoe box had 11 channels. You would keep pushing buttons until you found a dial tone. Busy channels were like party lines. Any subscriber could listen in."
+    },
+    {
+      "timestamp": "00:49:58",
+      "text": "On my way to the office one morning, I heard a voice that's so wild that like you're using a car phone and it's like a party line. And I mean, you were having a conversation and then if you just happen to get on that same channel you're just listening in I guess it's like kind of like CB radio right where truck drivers in the same way so they're like party lines any subscriber could listen in on my way to the office one morning I heard a voice that sounded like Ziggs I pulled off the road to take notes because Zigg was discussing his star-studded client list with his"
+    },
+    {
+      "timestamp": "00:50:23",
+      "text": "assistant I clocked in at the same time the next morning and there was Zig again doing business while commuting. He sounded old and forlorn at a time when we were swarming potential clients.\" And so he also has a tiny business in the sense that he doesn't have a lot of help where, you know, Ovid's like building an army, okay? And so Zig has just like one assistant and a junior partner. And so he says, I decided to try to buy him out to make him more receptive to soften them up. I escalated my campaign again to sign Sydney Pollock. I'll kill for you. I told Sydney. All I had to sell was my passion and energy and the fact that I was 30 years younger than Zig."
+    },
+    {
+      "timestamp": "00:51:02",
+      "text": "As Sydney wavered, we got screenplay after screenplay into his hands before Zig did. Each day I spent up to two hours on Sydney, far more than anyone who spent on his biggest signed client. This is actions expressed priority. He's telling you with his actions what's important. I'm going to get this guy. In 1981, with our courtship in a second year. Remember he started I think the very first page"
+    },
+    {
+      "timestamp": "00:51:28",
+      "text": "He calls himself the Terminator and so in my mind I have that scene where like they just keep shooting He just keeps coming keeps coming and keeps coming. I just feel that that's how over it was like Definitely in this situation and many others. So he's like, okay, I think this for two hours a day It's gonna take me two years and I'm gonna, I'm just gonna out hustle your agent and show you that like I'm obviously better than that. So he signs with us after it signs with us at last having dealt Zig a body blow. We offered him 750,000 for his agency plus a lifetime royalty on his clients work. He'd keep a piece of his business in perpetuity even if he never came to the office"
+    },
+    {
+      "timestamp": "00:52:04",
+      "text": "Zig passed. But during our discussions, we discovered that Steve Roth, the only other partner, his junior partner, right, is the one who was actually servicing their best clients and that Steve was eager to leave. We promptly cut a deal for him to come to CAA that got us most of what we wanted. And all we had to pay Steve was $250,000 a year. Way better, cheaper than paying Zig 750,000. And then this just, again, more Terminator-like, I'm gonna rollover everyone. Anyone in our way was gonna get rollover with the core. His core business gone,"
+    },
+    {
+      "timestamp": "00:52:36",
+      "text": "Zig sold what remained to ICM and he was done. The truth is that I didn't give a thought to Zig after he turned us down. You never heard that someone was unhappy afterward. They just lost. But flattening Zig was the beginning of my Sherman-esque march to the sea.\" So in this book, Obitz will also talk about people that he admired or people he would learn from."
+    },
+    {
+      "timestamp": "00:52:59",
+      "text": "And one of the guys was Ted Ashley. And Ted Ashley was actually one of the few people to actually start his own agency at a younger age than Ovitz did. I think Ted was 23 when he started his agency. And Ted gives him a warning. And I actually asked Ovitz about this at dinner and he still believes this is true, but he said not on the rise."
+    },
+    {
+      "timestamp": "00:53:19",
+      "text": "So I'll explain what that means in one second. There wasn't a day where I didn't walk in the door and get hit by a rush of anxiety. What idea can I come up with today to pay the overhead? There'd be the adrenaline rush when we sent out the internal memo. Robert Redford is now a CAA client. 15 minutes later, it was what's next."
+    },
+    {
+      "timestamp": "00:53:37",
+      "text": "In 1979, when I was 33, Ted Ashley at Warner Brothers took me aside and said, I'm gonna give you some great advice and knowing you, you're not going to take it. But here it is. I could have worked 10% less and it wouldn't have made a difference in my professional success, but I would have been a lot happier. Ted was absolutely right on both accounts."
+    },
+    {
+      "timestamp": "00:54:00",
+      "text": "It was great advice and I didn't take it. I see now that it could have worked as much as 20% less and it wouldn't have cost me. If I worked even 10% less across 30 years, that's three extra whole years of life that I would have enjoyed.\" And so when I asked him about that, he's like, yeah, that's definitely still true. Now on his rise, he probably couldn't work 10% less, because you see that was one of his edge. But within 10 years, when they have, they're solidified, the momentum's kind of going,"
+    },
+    {
+      "timestamp": "00:54:32",
+      "text": "he could have easily worked 10% less. So again, great advice from Ted Ashley, advice that a young Mike Ovitz did not take, and advice that Mike Ovitz of today still believes is true. So again, I think I keep repeating this, autobiographies are super important. You know, James Dyson's autobiography, Phil Knight, this biography, they're just really important because it is Sam Walton's. They just lay out exactly, you know, it's a wise older man looking back at with a lot"
+    },
+    {
+      "timestamp": "00:55:00",
+      "text": "of wisdom. And I think, you know, for the cost of what 15 bucks, 20 bucks, you could probably get this book for. And 20 hours of your time, you're not going to read, you don't have to read it like I do. If you can see, like, I marked this thing up, so it takes a ton of time. You know, I'm doing like arts and crafts over here. But yeah, if you were just reading without doing all that,"
+    },
+    {
+      "timestamp": "00:55:17",
+      "text": "like it's just a no brainer, I think. So remember he talks about, there's just like a lot of co-founder conflict and him not realizing people, you can damage a person's relationship, but they won't say anything to you. Not everybody's that direct. And so what is happening is like, he's bringing in so much business. He's taking on so much more work."
+    },
+    {
+      "timestamp": "00:55:36",
+      "text": "He's undeniably, it was his idea to have even equity, but he is undeniably the more important and the more productive partner. And so he's like, listen, I need to get more than 16.67%. And if I don't, I have to consider my other options. And even if logically, your partner can see that and can believe that there's like an emotional component to this, you just see it over and over again, where they feel that the other person is not valuing them enough."
+    },
+    {
+      "timestamp": "00:56:07",
+      "text": "Everybody is going to feel this way. It doesn't matter if you can logically lay this out. This is an emotional decision. And so they agreed with him, hey, you're obviously the firm's leader. They wind up getting a larger allocation of shares. But he realizes they didn't want to do this. And so he says, professionally, mission accomplished. Emotionally though, I had just hit the self-destruct button"
+    },
+    {
+      "timestamp": "00:56:28",
+      "text": "only would take 16 years to go off. And now here's also another warning. He's got to mediate all these disagreements between other partners. And so his partner's Ron, which like his best friend, is just like lighting them up about, let's get rid of Bill. Bill shouldn't have equity either. He's not doing anything and yet Ovid is observing that Bill doesn't have any idea. This is Bill never had an inkling of Ron's"
+    },
+    {
+      "timestamp": "00:56:54",
+      "text": "animus. Now keep that in mind because Ron's gonna hide it from Ovid too. This is really important like if somebody just if you observe somebody doing something to another person you have to to think that they likely will turn around and do it to you. And so he's like, wait, Bill doesn't even know how Ron feels. And he goes, I was amazed at how well Ron hid his true feelings from somebody that he saw every day. I've been having conversations with founders more and more."
+    },
+    {
+      "timestamp": "00:57:18",
+      "text": "And I think something that's not discussed enough is, yeah, especially with serial entrepreneurs, they start one company to sell it. They start another company, they sell it, and then the third company, they're like kind of like, you get this feeling, it's like, oh, it's like, I could do this over and over again. I'm like, I'm just fantastic at this. And then like the third company like fails completely."
+    },
+    {
+      "timestamp": "00:57:36",
+      "text": "And in some cases, I was just talking to another one today, where their last success was what, 10 years ago. And that was rather shocking and so I think Obitz is really wise to realize like part of the reason he was able to make so much money is one he was very innovative he was doing things that other agents were and we're about to get that but he's at the right time and he says we're lucky to work we were lucky to work in a golden age of commercial film people went to the local theater three"
+    },
+    {
+      "timestamp": "00:58:05",
+      "text": "times a month. Piracy had yet to explode. There's really no internet and cable was in its infancy. So before technology really fragmented attention and made it much more difficult to make money movies like he's at the right place at the right time. Really reminds me of like newspapers before the internet. And I would say like telegraph after the railroads, but before the telephone. And so you just you could find these periods and usually don't last that long where you just can extract and make so much more money than if you were 10 years later or 15 years later or in some cases five years later. So one of the ideas was he's going to innovate just like his the person he patterned himself off of Lou Wasserman. And And so one thing he does is he's just going to design the whole package"
+    },
+    {
+      "timestamp": "00:58:47",
+      "text": "and he's going to bring it to the studio. He's essentially going to do the work for them. We've grown so big enough that we were able to package movies with multiple clients, which was a common practice in television, but not in film. Nobody was doing this in film. CAA was the first to orchestrate the entire development process. We took an idea, which was like a yet to be published bestseller, a magazine article in some cases, or even a news story, and turned it into a script and shoehorned"
+    },
+    {
+      "timestamp": "00:59:10",
+      "text": "as many artists into the project as we could. The process fattened our commissions and spared the studios the headache and expense of development. So it's actually an interesting idea. I learned from George Clooney of all surprisingly. It's really what's happening here is like the studios, they have a problem. They want a movie that they can sell. And in the past, like they had to do all this work. And Ovitz found it easier. It's like, you have a problem."
+    },
+    {
+      "timestamp": "00:59:37",
+      "text": "I'm going to present myself as the solution. And so there's a line where George Clooney realized this. He was like not having any success becoming an actor until he had this like slight change in his framing. George Clooney's luck change when he realized that the audition is a problem for the people giving the audition. They want to find an actor for the role. If I present myself as the solution to your problem,"
+    },
+    {
+      "timestamp": "00:59:58",
+      "text": "rather than the person dying for your approval, it will increase my chance for success. And so what is this idea? It's like this process fattened our commissions and spared the studios, the headaches and expense of development because I'm going to do the work for them. Essentially, I become the solution to your problem. Here is just one example of like the financial outcome that just way he's going to make way more money than other agencies is like,"
+    },
+    {
+      "timestamp": "01:00:23",
+      "text": "you just realize that packaging everything is just much more lucrative. And again, this is something he does over and over again throughout the book. He's really great at expanding the revenue opportunities of his existing profession. And this partly, I think would tie directly to his personality. He's just never satisfied with the status quo, which he just said, Oh yeah, I wanted Robert Redford for years. I signed him 15 minutes later. I was like, what's next?"
+    },
+    {
+      "timestamp": "01:00:41",
+      "text": "So Ghostbusters is one of the movies he did this with. And this is the result. Ghostbusters became the second biggest film of the year, grossing more than $295 million. As our clients collected, our clients collectively got 30% of the gross, and they get 10% of that. So that means CIA gets 3% of the gross."
+    },
+    {
+      "timestamp": "01:00:58",
+      "text": "Over the years, as TV and VHS revenues came in, we made more than $30 million from that movie alone. Another great idea. And again, I just got done saying, I've done a bunch of episodes on directors. I think filmmakers are fascinating. I think there's a lot of insights for entrepreneurs and filmmakers."
+    },
+    {
+      "timestamp": "01:01:18",
+      "text": "One of the people that he wanted to sign and was on his list forever, and he winds up signing, is Martin Scorsese. I realized my oversight, I haven't even done an episode on Scorsese, so I need to do one. But he talks about, and I just found this part interesting, that anytime you find, and I've seen this with Bill Belichick, you see this with coaches sometimes, with filmmakers, you know, with tennis players, with anybody that, Kobe Bryant was like this, you talk"
+    },
+    {
+      "timestamp": "01:01:42",
+      "text": "to them about what you think you understand, which is the game that they dedicate their life to whether it's film or business John Malone and cable was like this The list goes on and on and on Obviously Munger and Buffett are like this and you just understand like what you're seeing is not what they're saying They have such an advanced Understanding of what's happening You can just learn a lot if you can actually sit there and do this with them And so it says I read all the great books on Hollywood's history and seen every Oscar winning film going back to 1929, but I didn't get movies."
+    },
+    {
+      "timestamp": "01:02:08",
+      "text": "And so I started watching them with Marty, Martin Torstace in the late eighties. So they wind up living, they both had an apartment in New York in the same building. So when he would get in from, Ovis was flying from LA and he'd get in and if Marty was there, he would just go drop his bags off and then knock on Marty's door. They'd grab some food and they'd get in and if Marty was there, he would just go drop his bags off and then knock on Marty's door."
+    },
+    {
+      "timestamp": "01:02:27",
+      "text": "They'd grab some food and they'd sit in front of whatever was playing on his projector. And he says, Marty was a walking film encyclopedia. There was nothing better than walking into a dark room with a projector flickering, showing an old movie I'd never heard of, but that one day might influence Marty's own work. So the analogy between filmmakers and entrepreneurs is obvious, right? Tarantino, when I did Tarantino or Spirberg, they'd watch these videos and these movies and you know they would take an literally a scene verbatim or an idea of verbatim from something from like you know the 1940s and they put it"
+    },
+    {
+      "timestamp": "01:02:59",
+      "text": "in a movie in like 1990. It's just remarkable and Ovis just picked up on that. He's like wait he's like watching these old films on, you know, in his New York apartment on a projector. And there's he's why is he doing that? Why are we reading these biographies? Why are you listening to this podcast? Because you're hoping to find an idea that one one day might influence your own work. It's the exact same thing. I love this. I absolutely love this. And so as the years go by, you start to see this intense pace, this insane schedule really takes a toll on him."
+    },
+    {
+      "timestamp": "01:03:29",
+      "text": "So I actually want to give you an idea of what a typical day schedule was like. And then the trade-off that he's making with his family. And again, this is again why autobiographies are so important. Yet treating my clients like family was hard on me and my actual family. I was waking up at 5.45 a.m. 15 minutes later, I'd be riding the bike in the gym and making calls to Europe, skimming five newspapers, marking articles for my assistants to strip out"
+    },
+    {
+      "timestamp": "01:03:50",
+      "text": "and distribute to the firm. After 40 minutes on the bike, I'd do 30 or 40 minutes of martial arts, working myself to exhaustion. By 8 a.m., after showering, eating a fast breakfast, I'd be on the car phone en route to the office. After a morning meeting, I'd take meetings, have lunch, a drink with a colleague, and a working dinner, all in between running calls, up to 300 phone calls a day."
+    },
+    {
+      "timestamp": "01:04:10",
+      "text": "After being a chameleon all day at work, it took me an hour or so to figure out who the fuck I was when I got home. And all the time the phone would keep ringing, which drove Judy crazy. She would want to discuss my day to feel closer to me, but I was exhausted by my day. And I didn't want to talk about work in front of the kids. I wanted them to feel normal and safe. After the kids went to sleep, I worked every night skimming through three or four VHS cassettes I'd brought home and chipping away at the stack of screenplays. Then I'd fall asleep to Johnny Carson at midnight and do it all over again."
+    },
+    {
+      "timestamp": "01:04:40",
+      "text": "The next day, my kids viewed my world less as something to aspire to than as something to lure me away from. They often noticed that though I was playing with them when they were young or asking about their days when they were older that my attention was elsewhere. Could you please come back to reality they'd say or just earth to dad? I used the car as a place to return phone calls viewing travel time as dead time. They, quite rightly, viewed it as family time, and they'd regularly disconnect me or grab the phone from my hand. And so I'm sure he's not alone with the same problem."
+    },
+    {
+      "timestamp": "01:05:15",
+      "text": "I have it as well. You might as well. I do so, like, I find my mind wandering, right, back to work or whatever I'm thinking about when I'm playing, especially with like my son because he's so he's still so small and the best piece of advice I ever heard about this is when that happens you picture yourself as You 30 years into the future as that person and you know that person 30 years into the future would give"
+    },
+    {
+      "timestamp": "01:05:41",
+      "text": "Anything in the world to be able to go back in time and play with your four-year-old one more time. And so I try to like snap myself out of this. I've got to stop doing that. You know, when he has his own life, his own wife and kids and everything else, I'm going to miss this so much. The good times are now. I have to like focus on that."
+    },
+    {
+      "timestamp": "01:06:04",
+      "text": "I think that's like really good advice. Goes back to just the euphoria and terror that entrepreneurs feel. And unfortunately, as founders know, sometimes you just feel terror for no reason at all. And he talks about this, like this is just constant pressure. My evenings and Saturday mornings were swallowed by the demands of a growing service organization from tax planning and pensions to training programs. Human resources and legal and accounting all reported to me. Each time I walked through our front door, I felt a physical chill like the chill you felt in high school before a final exam."
+    },
+    {
+      "timestamp": "01:06:40",
+      "text": "How much did we have to earn today to cover our costs and overhead? What if the business shifted and the money dried up? The feeling would recede for a time once I sat down at my desk and began to work, but I carried those fears to my last day there. So then one of the most surprising parts of the book is just this insane co-founder conflict craziness. So one morning, 1987, Ron comes into my office, shuts the door and says says I've got a problem"
+    },
+    {
+      "timestamp": "01:07:05",
+      "text": "I said shoot we've had a thousand conversations that started like that I lost a lot of money in a poker game, and I can't pay up. I was shocked, but I said okay We'll take care of it. I figured it was like a hundred thousand dollars or so how much I'm not sure You'll be able to take care of it. How much is it over five million dollars? Ron told me he'd been going to Vegas several times a week. He'd make the flight after work, play deep into the night, and grab a few hours of sleep before flying back to LA in the morning and working his ass off as usual,"
+    },
+    {
+      "timestamp": "01:07:32",
+      "text": "never missing a meeting. I was unable to process this. My partner, my best friend, the guy I was tied to for life, clearly had an unconscious need to throw away everything that we had worked for. So the company winds up lending him a little bit of money trying, he was saying over and over again, don't worry, it's never going to happen again. For the next year and a half, Ron and I worked harder and more closely than ever."
+    },
+    {
+      "timestamp": "01:07:54",
+      "text": "Then one morning he closed my door, took a seat and looked at me with a funeral expression. You're not going to believe this, he said, but another poker game and an even bigger loss this time, $6.5 million. I felt that he'd smash me with a baseball bat. Who was this man? I was deeply, deeply shaken. Despite my 360 degree paranoia, I hadn't seen any of this coming, which scared the crap out of me. I prided myself on reading people and forecasting from subtle clues. And here I hadn't been reading Ron right for 10 years. That fact was so shocking to me that I instantly tried to forget it. I couldn't though. And from then on I was constantly worried that Ron would take the agency down. And then there's"
+    },
+    {
+      "timestamp": "01:08:37",
+      "text": "just several great lines. I really feel like this is sage advice for entrepreneurs. I would have been much happier if I hadn't been so determined to appear all knowing and invulnerable. I think it's great advice. One thing I asked Michael at dinner and I asked everybody that I come in contact with, very curious like who's the smartest person you know and like what's the best business you know and one of the people he said it was the smartest people he ever met was Michael Crichton and Actually after that I went and looked for biographies on him. I couldn't find any I might figure out another way Maybe I can do like a long-form article I think he's a fascinating person and I'd like to like learn spend like a week studying him in detail one because"
+    },
+    {
+      "timestamp": "01:09:19",
+      "text": "Ovitz, you know said he's met ton of people and Michael Crichton's like top three smartest person he ever met. But also, that was very fascinating how he writes. So in the book says, after putting off writing as long as possible, he went at 18 hours a day, seven days a week until he was done. And he wrote Jurassic Park that way. And so I looked up on a line, this is from Michael's Crichton's Wikipedia page, says,"
+    },
+    {
+      "timestamp": "01:09:45",
+      "text": "Crichton was a workaholic. When drafting a novel, he would typically take him six or seven weeks. Crichton would do completely to follow what he called a structured approach of ritualistic self-denial. As he neared writing the end of each book, he would rise increasingly early each day, meaning that he would sleep for less than four hours by going to bed at 10 p.m. and waking up at 2 a.m. And as a sign that he was probably not the easiest person to deal with. You want a hint? He was married five times. So usually I've seen that a couple times in these books."
+    },
+    {
+      "timestamp": "01:10:18",
+      "text": "I think the episode I did on James Cameron might be the best single episode I've ever made and you know, you can read between the lines the opening of that episode. It talks about he moved to New Zealand with his fifth wife. And then everything you hear about him after that, I think is not surprising, it kind of fits into that into that context. This might be my favorite quote in the book. And, and, and me and Michael talked about this at dinner, He stopped because it was hard. It required discipline, dedication, and hours and hours of time. Everyone stopped."
+    },
+    {
+      "timestamp": "01:10:52",
+      "text": "I didn't stop. So I mentioned a few times that he's constantly rethinking. He kind of didn't believe like, Oh, I'm not, remember he says, I didn't want to live my father's boxed in life. Some of his partners would do this other agents. They kind of like, Oh, this is what an Asian does. And we're just going to build this imaginary box around what an Asian does. And, and Ovis is like, no, not going to do that."
+    },
+    {
+      "timestamp": "01:11:11",
+      "text": "I'll just find opportunities and do that. So he gets his first exposure to corporate M&A and it's actually with Sony and Kia, Marita. Kia is a really fascinating guy. I'm going to do another episode on him. I think I did read his autobiography a long time ago called made in Japan. I think it's episode one or two. And I found him because both Steve Jobs and Jeff Bezos talked about pattering and learning ideas from, uh, from Akio that they've used in Amazon and Apple. And Ovid says something really smart here. He's trying to"
+    },
+    {
+      "timestamp": "01:11:38",
+      "text": "help Sony buy CBS records and he's not, know technically signed up to represent anybody. So he finds Akio's autobiography called Made in Japan and he reads it and he says I was the only person I knew with a copy of his book and it served me well. And so he says I wasn't representing CBS or Sony I just put myself in the middle of the situation. I was a connector. It's what I did all day. And so he realizes there's a lot of like if, if you think of everything and, like, kind"
+    },
+    {
+      "timestamp": "01:12:05",
+      "text": "of don't think of what's actually taking place, but the idea behind it, like I always say I turn everything into an abstraction. He does the same thing where he's like, well, I'm connecting actors and directors to people making movies. You know, it's not that different from Sony wants to buy a record label or Sony wants to buy a movie studio. Like, okay, I can just connect these people to Sony winds up buying this for like $2 billion. This is the important part is is not that the actual sale went down. It's what obits learn from this. And so he says after"
+    },
+    {
+      "timestamp": "01:12:32",
+      "text": "this first exposure to corporate mergers, I made a list of all the MMA specialists. So he goes and finds find the best people at this. He starts calling them try to build relationships with them. He goes I met with them to learn their craft. It struck me. It struck me that it wasn't that different from assembling a movie package. You had to put all the elements together first, get the buyer and seller in sync, and then strike a price."
+    },
+    {
+      "timestamp": "01:12:52",
+      "text": "And so his idea, he goes back to his partners and a lot of them don't want him doing this. Again, they want to kind of keep him boxed in. And he's like, well, if we can become deal advisors, it would put more distance between us and other agencies and bring in larger fees. So one of these people he builds a relationship with is Herb Allen the second of Allen and Company. Herb Allen had invited Ovitz to the very"
+    },
+    {
+      "timestamp": "01:13:14",
+      "text": "first annual Sun Valley Conference which still goes on today and he gives this great description of Herb Allen, builds a relationship with him, and he says he rose before 5 a.m., had dinner at 6 p.m. sharp, and was in bed by 9 p.m. One time I was at his Wyoming ranch when a phone call made me a half hour late to the cookhouse. Three courses were lined up at my plate setting. Herb looked at me and said, when I say six, I mean six."
+    },
+    {
+      "timestamp": "01:13:37",
+      "text": "He was smiling, but I took his point. Herb was a model of integrity. After Summer Redstone broke a promise and engaged another investment bank. He sent Alan and company a token check for a million dollars. I was in her office when it arrived he took out his scissors cut the check into tiny pieces and return them to send her herb was supremely loyal. Extremely loyal and so being involved in these M&A deals Observing them seeing that the huge checks being written"
+    },
+    {
+      "timestamp": "01:14:11",
+      "text": "he's like, oh this is I find this essentially more interesting than agent work and This is part the line here He says part of me had begun to view CIA as a stepping stone highly suspected that was you know Probably the case the whole time. I think if you've he says, you know I pattern myself to the little Wasserman like Lou didn't stay an agent. He ran studio. I think oh that was like the likely outcome or maybe the idea that it's had but in the book He says the Sony experience taught me how much I like the suspense of the acquisition game the stakes in the strategies dealing with leaders Who supervised empires I set my sights on building CIA into the McKinsey of the entertainment industry the indispensable advisor I couldn't wait to broker a big transaction of my own. And so that big deal that he's talking about,"
+    },
+    {
+      "timestamp": "01:14:49",
+      "text": "he's eventually, Ovis is gonna help Panasonic buy MCA Universal for $6.5 billion, okay? Now, before that happens, this is another idea, like the good ones no more. So the founder of Panasonic was this guy named Kanosuke Matsushita. He realizes that hey, Kano Suki, he actually wrote 44 different books. And so he goes and he buys all the books and reads all the books that the Panasonic founder had written."
+    },
+    {
+      "timestamp": "01:15:19",
+      "text": "Then he says, I spent hours in electronic stores eyeballing all of their product lines. I acquired the company's giant wholesale catalog, and I honed in on video and audio equipment. Soon I could tell you to the last pixel how Panasonic's best big screen TV stacked up against Sony. So again, I keep saying that example. He started in the mail room, maybe even started when he was nine years old reading"
+    },
+    {
+      "timestamp": "01:15:41",
+      "text": "the biographies of these great men, and continues over and over again. He prepares himself by just accumulating as much information and context and background as possible. Now, there is an idea that I think might be related to today as well. So his, you know, Lew Wasserman is much older and what's happening is, Ovis is pushing up the price to how much movie studios have to buy. Because if you own 75% of the market, you package everything together,"
+    },
+    {
+      "timestamp": "01:16:09",
+      "text": "I'm making up these numbers. But let's say you used to be able to do the movie for a million, and now it's 5 million. It's a substantial amount, maybe 10 million. It's a lot larger amount. I think it's very common. It's like your industry was valued at one way for a very long time. And you came up and you kind of dominated that. And now you see this huge step up."
+    },
+    {
+      "timestamp": "01:16:27",
+      "text": "And you're like, oh, that's like a bubble. I'll just sit on the side and wait it out. Maybe, but maybe it's not a bubble. And you're certain to see that, I think, present day, it's obvious with some of the valuations of these companies, some of the huge rounds that are being done. And so I just think there's like an analogy here. I don't know if it's, you know, I have no idea what things are worth."
+    },
+    {
+      "timestamp": "01:16:51",
+      "text": "I just think it's fascinating that somebody that lived and literally got to the top of their profession called this wrong. And so this will make sense in one second. Essentially, Lou passed on movies that seemed too expensive, but that bubble lasted 15 years and it lasted, it outlasted Lou's career. So it says, when we found it CAA Lou Wasserman's MCA universal was a power in film and dominant in television. Then the inconceivable happened. The last mogul got old."
+    },
+    {
+      "timestamp": "01:17:19",
+      "text": "As the cost of making movies soared in the 1980s and large part due to us, Universal hunkered down. Despite the runaway success of George Lucas's Star Wars, the studio passed on Raiders of the Lost Ark when Lucas's lawyer demanded a 50-50 split. Paramount scooped up the movie on those terms and they made a killing. Lou chose to write out the bubble and pass on deals that he deemed inflated, but that bubble lasted 15 years. Universal, the fabled octopus, had crawled under a rock. So once Ovitz helps Panasonic buy MCA Universal"
+    },
+    {
+      "timestamp": "01:17:53",
+      "text": "for 6.5 billion, he gets his check. The people from Panasonic give him this giant check, says, see, they handed me a colossal check to distribute as I saw fit $135 million. After paying the bankers and all the consultants, I was left with $60 million for CAA, which would be about 110 million today. It changed everything for us."
+    },
+    {
+      "timestamp": "01:18:13",
+      "text": "In Hollywood, people didn't know the difference between Goldman Sachs and Saks Fifth Avenue. Everyone was dumbstruck that a talent agency could earn that kind of fee, let alone arrange and execute a deal of that magnitude. Of course, my elevated profile pissed off my partners and I began to feel that I was a hamster on a wheel. Part of me felt I was running on the wrong wheel,"
+    },
+    {
+      "timestamp": "01:18:33",
+      "text": "that I should be going into business for myself. And part of me believed that I wasn't really a hamster, but a cheetah, the fastest animal in the field. Even as everyone was telling me to slow down, I wanted to speed up.\" And so he doesn't just stop at, hey I'm gonna do M&A for giant corporations. He's like, I could do ads for you too. So he strikes a deal with Coca-Cola. And again, I gotta point this out because this is another, he's applying the same approach to a different domain. Everything he does is"
+    },
+    {
+      "timestamp": "01:19:02",
+      "text": "like this. When he's going to pitch them on, I can do advertising better and cheaper than these big, stodgy, old, corrupt advertising agencies that you're paying millions and millions and millions of dollars to Coca-Cola, what does he do? We combed through every single Coca-Cola ad and commercial since 1955. And he looks at this."
+    },
+    {
+      "timestamp": "01:19:22",
+      "text": "This is a great line. It's not very complicated. And you could know this from your own taste. He says, advertising wasn't subatomic physics, make commercials fun to watch and viewers would embrace them. And so he pitches them on something that no other talent agency was doing. He's like, Hey, we're going to be your consultant on advertising. We're going to make the ads. We're not going to charge like we're going to any of our costs. Like we're not going to increase that cost, but you're going to pay us a consultancy fee."
+    },
+    {
+      "timestamp": "01:19:47",
+      "text": "Coke agrees to pay CAA a consultancy fee of a million dollars a month plus expenses and costs. These ads do so well that they wind up sending them a check. I think they try to pay him like an extra like $10 million and he sends the check back. I'll find the exact line. Yeah. It says they send me a check for 10 sends the check back. I'll find the exact line. Yeah, says they sent me a check for $10 million for the ads. I returned the check with a post-it note attached. Hey, let's discuss this. We did and they went up talking to the people at Coca-Cola."
+    },
+    {
+      "timestamp": "01:20:14",
+      "text": "I was friendly but unrelenting and they finally sent me a new check for $31 million. And so he's drastically expanding what agents do. He's making way more money than anybody else. But he's also realizing he's draining them. He's just like burning themselves to the last, like burning the candle on both ends. And he wants to build up equity. Like what happens when he stops working? He's making these big deals, but then the money just stops."
+    },
+    {
+      "timestamp": "01:20:42",
+      "text": "And he's really just unbelievably tired. And I think this goes on for a while. But I think these these few paragraphs is just great writing, and gives you a sense of like what was going on in his life and why he was eventually going to have to make a change. And eventually, like he there's just no way he could stay at CIA forever. Aging was a young person's game, and you could run just so long and so far. At 48 years old, having run since my first day at William Morris, I was tired. I was tired of getting up at 6am and squeezing in a workout while on the phone with Europe."
+    },
+    {
+      "timestamp": "01:21:11",
+      "text": "I was tired of rolling through 300 calls a day talking till my throat was raw. I was tired of having lunches and dinners scheduled 3 months out. I was tired of flying 600 hours a year. I was tired of owning 6 tuxedos for the 30 obligatory events between November 1st and Christmas. I was tired of returning calls till 7 p.m., going to dinner till 10, coming home to a mountain of pink message slips, calling Japan till midnight and starting all over six hours later. I was tired of submerging myself, drowning myself in the lives of my clients and their families and significant others. Our clients worries about the size of their trailers and how big their billing would be had come to be seen as increasingly petty to me. The truth is I'd always"
+    },
+    {
+      "timestamp": "01:21:54",
+      "text": "disliked having to see after people's creature comforts, making sure our actors and directors had fresh guava and the perfect nanny. You're an adult, run your own life. And then on top of that, he says, I yearn to build equity. Once an agent stopped working, there was no more accrued equity to fall back on. Executives I considered as my peers, Michael Eisner, Barry Diller, were raking in hundreds of millions of dollars"
+    },
+    {
+      "timestamp": "01:22:20",
+      "text": "in stock options. I wanted to play in that league too. And in truth, I'd always been faintly embarrassed to be an agent. As much as CAA had professionalized our field, it would never be a noble calling. I wanted to be one of the six people who could say yes to a movie without scrounging to assemble all of the elements ahead of time.\" So he almost leaves CAA to run MCA Universal and Ron, his best friend and partner, was kind of acting as his agent through the whole"
+    },
+    {
+      "timestamp": "01:22:52",
+      "text": "process. They get to the end and Ovitz realizes that he's not too sure about the relationship with the owners and it's too big of a chance, so he decides to not take the job. And his friend and partner arrives at the exact opposite conclusion. So this is where they complete, this is a co-founder breakup, where he breaks up with his co-founder, says, Ron called me one day. Guess what? I met with Edgar and has been a change in plans. He wants me to run MCA and I think I'm going to do it. I felt completely numb, frozen with disbelief."
+    },
+    {
+      "timestamp": "01:23:26",
+      "text": "The job on the table, chief operating officer, was one I had negotiated for Ron in my last go-around with Edgar with one big difference. I was out of the picture. So they're gonna bring in somebody, Ovitz was gonna be the CEO and Ron was gonna be the COO and then they decided to ditch Ovitz and then they bring in this other guy named Frank"
+    },
+    {
+      "timestamp": "01:23:44",
+      "text": "as the COO that Ron's gonna report to. After a long silence, when I felt I could speak without my voice breaking, I told Ron how much I needed him. What it meant for, to me, to have him at my side. What came back in a burst of rage were all of Ron's pent-up grievances. Remember when Ovit said earlier that he had set off this emotional time bomb. It just took 16 years to explode. This is what he was talking about. What came back in a burst of rage were all of Ron's pent up grievances. How I had made a big mistake by walking away from MCA. How it had always been all about me, never about him. How it was time to strike out on his own, to be recognized as something more than my consigniieri."
+    },
+    {
+      "timestamp": "01:24:21",
+      "text": "I tried to sell him for two hours as the knot in my stomach swelled into my throat. Finally, my voice faltered and I gave way. His mind was made up. I felt absolutely crushed. Ron was leaving. It felt like I was getting divorced.\" So what he realizes is there's no way he's going to stay at CIA without Ron. It's hard as night in any ways. He knows he's not going to stay there forever. They went up selling CIA to the young Turks, I think for like a token amount. I don't even know if they say the amount in the book. And the opportunity he left for was, okay, Ron was his first best friend. His second best friend was Mike Weisner. And Michael"
+    },
+    {
+      "timestamp": "01:25:00",
+      "text": "had been trying to recruit him to come to Disney and be his number two and then over its realizes like he's not he's just not meant to be a number two, but the reason I want to bring this up is because there was Obis is talking about all these signs that he ignored because of his personal relationship and and the way that he thought like Michael would treat him and We realized we talked about this in the Jerry Jones episode, there's some people that just are not, they're not the sharing type, right?"
+    },
+    {
+      "timestamp": "01:25:31",
+      "text": "And Jerry Jones wasn't like that. And everybody around him knew that. And they would tell you, like, if you're gonna come in here and you're gonna be his coach, like you're a clear number two. Where like Jimmy Johnson, even though they were old friends, that he wanted like equal billing. And Jones shows that he wasn't down with that because he fired him right after he"
+    },
+    {
+      "timestamp": "01:25:47",
+      "text": "won the Superbowl and who he replaced him for, Barry Switzer was very comfortable being a number two. That was going to be a conflict, you know, with these two personality types. And there was also signs that, that, that Oviets ignored. He talks about one here. This move came with risks. I knew how Michael treated his deputies. One of Iser's closest friends had told me flatly Michael is incapable of sharing with anyone But I believe that I was immune to Michael's rages and suspicions after Ron. He was my next best friend, but even before he officially takes the job like it keeps shifting who's reporting to who's reporting to him and it's just like"
+    },
+    {
+      "timestamp": "01:26:21",
+      "text": "he takes the job. It keeps shifting who he's reporting to, who he's reporting to him. And it's just like he's not listening to his intuition. And so there's this weird thing that happens with Eisner and Ovitz and a few Disney executives at Eisner's house before the announcement takes place. And Ovitz calls his wife. And he says, Michael just threw me under the bus."
+    },
+    {
+      "timestamp": "01:26:44",
+      "text": "No matter what I do, I I'm gonna fail in this job I think I just made the biggest mistake of my career. Eisner says almost the exact same thing he's actually working with this guy that I think was like writing a book on him. And when you know over it's like slept on it for a day and then he calls even after he told his wife that. calls, even after he told his wife that. And he's like, okay, I'm gonna take the job. It says minutes after I called him following my meeting with my brain trust to say I was in, he told this author exactly what I told my wife the night before that he just made the biggest mistake of his life. He wondered if he could take his offer back. I wish he had. And so Ovex is"
+    },
+    {
+      "timestamp": "01:27:17",
+      "text": "only going to last 14 months at Disney. And again, he does what he always does. Like, let's buy this company. Let's innovate over here. Let's try to do something different. And Iser would tell him, that's the stupidest idea I ever heard. He'd block him over and over again. He just felt very uncomfortable by trying to share the spotlight by any means with Ovitz. And he winds up being fired by Eisner. And so in September 1996, a Disney executive"
+    },
+    {
+      "timestamp": "01:27:41",
+      "text": "comes into Ovitz's office, says, Michael doesn't want you at the company anymore. Go tell Michael to come tell me myself, himself, I said. After a 20 something year relationship with my so-called friend, I thought I deserved to be fired face to face. Michael didn't appear. He had volunteered to throw the party for my 50th birthday that December. Three days before my birthday, Michael summoned me to sign off on my resignation, which he"
+    },
+    {
+      "timestamp": "01:28:05",
+      "text": "said was by mutual consent, which obviously it wasn't. And then this is, it gets really crazy. He said he still wanted to stay friends and he wanted to host my party. A bizarrely crazy idea that wouldn't happen, of course, but one that was quintessential Eisner. 20 years later, I still have no interest in ever sitting down with him again. I was livid with Eisner and furious at myself. I felt awful, worthless, and an utter failure.\""
+    },
+    {
+      "timestamp": "01:28:33",
+      "text": "And so after he leaves Disney, you could guess what he did next. He didn't have to work for money anymore, didn't have to work for money for a long time. Yet he just go back to the first page of the book where he's like the Terminator. This is something we talked about at dinner, the fact that he's still very driven. He's still like, I think all of us, you need to have something to push forward, something to improve, something to focus your energy, your life energy on. And so after he leaves Disney, he starts a bunch of other companies, starts to really get interested and spend a lot of time in Silicon Valley, invest in much technology companies, help several venture"
+    },
+    {
+      "timestamp": "01:29:08",
+      "text": "capital firms. You can watch the interviews that he's been doing lately talking about helping scale and build investment companies to this day. But I think the best way to end is on what I think is one of the most important lessons in the book. And it's actually found on the last two pages because he built this phenomenal headquarters for CAA and he just wound up holding onto it and keeping it, you know, decades after he had left CAA. And so he ends this book in a really frankly beautiful way where he's touring this old building that is now empty."
+    },
+    {
+      "timestamp": "01:29:51",
+      "text": "Sony had leased it from him for like 20 years and he's walking around and he's looking back on his life. He says, I was hit by the magnitude of what I had done in that building and it seemed kind of amazing. This kid from the valley with no stature, no tender, no network to rely on, reshaping the entertainment business. In my empty fortress, I realized that I wasn't out of the valley yet. I'm free of it in my daily life and in my bank account, but I'll never be free of it in my brain. You carry your origins with you. Still, those origins drove me here and built this place and attracted so many bright, funny, and creative colleagues."
+    },
+    {
+      "timestamp": "01:30:26",
+      "text": "In the silence, I discovered that the only thing I really miss about the agency business was the camaraderie, my comrades and friends, and the passionate way we spent our lives together. I miss the people.\" And so I think that closing lesson, like it's all about the people. And the best way I describe about this is like your one of your missions in life comes from Charlie Munger. You should be building your goal is to build a seamless web of deserved trust and work with those people and do life with those people for the rest of your life. It is all about"
+    },
+    {
+      "timestamp": "01:31:01",
+      "text": "the people. And that is where I will leave it for the full story. Highly, highly, highly recommend buying this autobiography. It's one of the best autobiographies. If you buy the book using the link is in the show notes below and also available in your podcast player and at founders podcast.com. You'll be supporting the podcast at the same time. That is 382 books down 1000 ago and I'll talk to you again soon."
+    }
+  ],
+  "scrapedAt": "2026-03-23T18:35:57.974Z"
+}

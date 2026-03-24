@@ -1,0 +1,969 @@
+{
+  "metadata": {
+    "episodeNumber": 31,
+    "title": "Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue and Zero to One: Notes on Startups, or How to Build the Future",
+    "slug": "31-conspiracy-peter-thiel-hulk-hogan-gawker-and-the-anatomy-of-intrigue-and-zero-to-one-notes-on-startups-or-how-to-build-the-future",
+    "url": "https://podscripts.co/podcasts/founders/31-conspiracy-peter-thiel-hulk-hogan-gawker-and-the-anatomy-of-intrigue-and-zero-to-one-notes-on-startups-or-how-to-build-the-future",
+    "date": "August 2, 2018",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "So just a quick update before we get into the podcast. I decided to get rid of ads. In my day-to-day life, I avoid ads like the plague. I pay for YouTube premiums so I never have to see ads. I use a browser with a built-in ad blocker, and I fast-forward ads and podcasts. I do whatever I can to avoid ads because I know they are effective. To quote one of the books that I talk about on the podcast today, Zero to One,"
+    },
+    {
+      "timestamp": "00:00:24",
+      "text": "advertising matters because it works. It works on nerds and it works on you. You may think that you're an exception, that your preferences are authentic, and advertising only works on other people. It is easy to resist the most obvious sales pitches, so we entertain false confidence in our own independence of mind. Anyone who can't acknowledge its likely effect on himself is doubly deceived, end quote. It is not the best experience for you, the listener, and I found"
+    },
+    {
+      "timestamp": "00:00:52",
+      "text": "myself trying to make podcasts that appeal to more people. I started making shorter podcasts because more people are likely to listen to 35 minutes than two hours, but that is in direct conflict with my goal here. My goal is to find ideas in these books that are useful for founders, entrepreneurs, or anybody else trying to create something. There shouldn't be a time limit on that. So here's what I'm going to do. Every podcast I create will be ad-free. I will release a new podcast every Monday. And every other podcast will be a premium episode available on Patreon. If you like this podcast and you want more, then you can easily get access."
+    },
+    {
+      "timestamp": "00:01:31",
+      "text": "And no one has to listen to any ads. Just useful ideas. So that's it. Without further ado, please enjoy what is my longest podcast to date. And as always, thanks for listening. The line attributed to the management guru Peter Drucker is that culture eats strategy. It's a truism that applies as much to conspiracies as it does to businesses. It doesn't matter how great your plan is. It doesn't matter who your people are. If what binds them all together is weak or toxic, so too will be the outcome, So that was a paragraph I came across while reading the book that I want to talk to you about today, Conspiracy, Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue by Ryan Holiday."
+    },
+    {
+      "timestamp": "00:02:32",
+      "text": "And today is going to be a little different. Normally, each podcast that I do is centered around one book. Today is centered around two. So a few years ago, I read Peter Thiel's book Zero to One, which as far as business books go, contains almost no fluff. It's relatively short, but 180, 190 pages, something you could easily read in a weekend. Halfway through a podcast on Jack Ma, the founder of Alibaba, I started listening to the audiobook of Conspiracy. So before I listened to the book and then read it after, I knew very little about Gawker or anything about the trial and the underlying conspiracy. But once I started listening, the story was so compelling that I devoured the audiobook. It's I think 11 hours. I listened to the entire thing in like four days. And the entire"
+    },
+    {
+      "timestamp": "00:03:32",
+      "text": "time I was listening to it, I would hear echoes or reminders of some of the principles talked about in Zero to One. So I decided that I'm going to do the podcast on Peter Thiel using both the books. So I'm going to be talking about conspiracy first, and then we're going to see some of the principles that were applied successfully in this conspiracy. You're going to see them also resurface in Zero to One. of this podcast, what I want you to do is really, when we're using the word conspiracy, think of the word business or project or art or whatever it is that you're making or that you want to do in life, the reason that you would be listening to a podcast about founders. Because to me, yeah, the story is very compelling and it is an interesting conspiracy. But I think the same principles that apply from a successful conspiracy are the exact same principles that can lead to a successful business or endeavor or whatever it is that you want to do with your life. At least that's what I took away from it when I was reading."
+    },
+    {
+      "timestamp": "00:04:40",
+      "text": "So as usual, this is not meant to be a summary or a book review. It's just me sharing some interesting parts that I highlighted, that I leave notes on, that I learned from in the hopes that when you listen to this, you come away with something valuable for your own life. So let's go ahead and jump right into it. I want to get into, and this is the first time, I want to get into Ryan Holiday's preface. And this is the first time, I want to get into Ryan Holiday's preface. And this is the first time, I've heard his name before, and I knew he was an author, but I did not, I've never read any of his books. And if they're as good as this one is, I'm sure going to rectify that mistake, because he's a very good writer."
+    },
+    {
+      "timestamp": "00:05:24",
+      "text": "And as you'll see, he's telling the story of something that happened, you know, in the last few years, but he sprinkles in a great knowledge of philosophy and history, which I actually really enjoyed. And when I was first exposed to the book, like I said, it was the audiobook, and he's actually the one reading it, which was really interesting. So let me just jump into how he begins the book. So it kind of sets the tale in case you don't know what's going on, like I did, like I did not rather. This is the story of a conspiracy, the story of a billionaire who set out to make an example of a millionaire, to destroy the man's life work in response to a cruel transgression made as thoughtlessly as it was quickly forgotten. It is a story of poetic justice on a grand scale, plotted silently for nearly a decade. It is also a book about the controversial word"
+    },
+    {
+      "timestamp": "00:06:13",
+      "text": "and method conspiracy, which has long terrified and intrigued. There is an unpleasantness in talking about conspiracies, I'll grant that, yet conspiracy is a neutral word. It depends on what one does with it. Our tendency to shy away from this truth creates a profound ignorance of how things really work and what it means to be strategic, to be powerful, and to try to shape events rather than simply be shaped by them. So right there in the second paragraph, last sentence, to try to shape events rather than simply be shaped by them. To right there in the second paragraph, last sentence, to try to shape events rather than simply be shaped by them,"
+    },
+    {
+      "timestamp": "00:06:48",
+      "text": "to me, that can apply to conspiracies, but it also applies to anybody trying to deviate from the norm. And I consider founders people doing their own thing for a living, deviating from the norm. And what we're trying to do is we're trying to shape events rather than simply be shaped by them. What I would consider that is the person that shapes the events is the person that starts the project, founds the company, creates whatever it is it's making, as opposed to being shaped by them."
+    },
+    {
+      "timestamp": "00:07:13",
+      "text": "That's more of the employees. And again, there's obviously nothing wrong with being an employee, but I think that if you're interested in listening to this podcast, even if you're not already running your own business or wanting to make your own living, you probably, even if you're not doing it already, you probably want to do it. All right, so let's go back to here. Conspiracy entails determined, coordinated action done in secret, always in secret, that aims to disrupt the status quo or accomplish some aim. Again, right there, I think you could take out the word conspiracy and put in the word business. On the next page, we're introduced to"
+    },
+    {
+      "timestamp": "00:07:51",
+      "text": "the main character, what I would consider the main character of the book among many, and the main character, certainly, of this podcast. And I'm going to focus most of what I pull out of this book on the ideas and, whenever I can, direct quotes from Peter Thiel. So it says, Peter Thiel, who has famously become associated with one question, which he uses in interviews and over long dinners. This is the contrarian question and then Ryan's answer, so we're going to get there in one second. So it's saying he's famously become associated with one question, which he uses in interviews and over long dinners."
+    },
+    {
+      "timestamp": "00:08:28",
+      "text": "What important truth do very few people agree with you on? I'll give you mine to close this short preface. Perhaps we have too few conspiracies, not too many, too little scheming rather than too much. What would happen if more people took up plotting, coordinating how to eliminate what they believe are negative forces and obstacles, and tried to wield power in an attempt to change the world? We could almost always use more boldness and less complacency. We could use less telegraphic of our intentions, our ambitions, and see what secrecy, patience, and planning might accomplish. We could use a little more craziness and disruption, even from the people we disagree with. This book is my homage to that complicated idea,"
+    },
+    {
+      "timestamp": "00:09:15",
+      "text": "told in part through the complicated story of one almost unbelievably conspiratorial act. Please use it wisely. So right there, Peter, excuse me, Ryan is telling us what his answer to Peter Thiel's contrarian question is. And part of my motivation for doing this podcast, and I would say part of my answer, my own answer to that question is that we need more entrepreneurs and more people dictating the terms of their life and less. And it's interesting that we live in this technological age where I think a lot of people think that there's a lot of startups"
+    },
+    {
+      "timestamp": "00:09:50",
+      "text": "and more people doing their own thing when, at least in America, it's the exact opposite. As I'll talk about later in the podcast, right now we're at a near 40-year low in the creation of new businesses. And so I also disagree with Peter on one thing in Zero to One where he talks about less people should start companies, less talented people should start companies and they should join already existing companies"
+    },
+    {
+      "timestamp": "00:10:12",
+      "text": "to make those companies better. So I understand his point because his main thesis is that you should be striving for a monopoly. But my counter point to that is no, no, no, we need much more people creating small businesses now on this podcast we you know not many books are written about small but really small businesses um but that doesn't mean you can't take the lessons that are in the book from somebody like who built a monopoly like john d rockefeller and apply it to whatever it is you're doing um so i would definitely"
+    },
+    {
+      "timestamp": "00:10:42",
+      "text": "say that i agree with what Holiday is saying here is that we need more boldness and less complacency. And the reason being is, if you look, especially from economic terms in the United States, wages have basically been stagnant since the 1970s, yet education has gone through the roof. And if you look at a graph of the amount of people completing, let's say, college or any kind of post-secondary education, that's gone up in number, but also gone up in cost. And again, we're supposed to be going to college and doing more education so we can actually learn skills that are useful in work life, yet that's had basically zero effect on wages. So my answer to that would be we need to learn the skills and study what we can about how we can make our own living and actually keep most of the value"
+    },
+    {
+      "timestamp": "00:11:34",
+      "text": "that we create for ourselves as opposed to selling our time to an employer and letting them retain all the vast majority of the upside of our of our labor our contributions whatever that may be in some sense it's almost like uh the other side of the coin there's this this guy who has a podcast i love called uh mike rowe and he tells these little stories but you might know him from from um the popular show dirty jobs and he has a foundation where his whole thing is listen there's about six million jobs in the united states right now. There's a huge, huge skills gap. There's 6 million, I think he quotes 6 million, maybe 6.5 million jobs that are currently available in the United States, and nobody's taking them, and most of them are trades."
+    },
+    {
+      "timestamp": "00:12:19",
+      "text": "And so that's his answer to the wage problem. And I think there isn't obviously one solution. I'm just offering a different solution or something that I'm personally interested in that I think may be a solution. Okay, so let's jump to the introduction. And this is very interesting. The note I left myself is the power of books, something in these pages planted itself deep into Teal's mind, excuse me. And I'm sure I'm going to mispronounce his name over and over again and alternate between Teal and Thiel. But you know, if you listen to this podcast, you know, I can't pronounce anything correctly. So I want to read you this part because obviously I'm an evangelist for reading more books and listening to more podcasts because I think that we are deeply"
+    },
+    {
+      "timestamp": "00:12:59",
+      "text": "memetic creatures and we have to be careful about what we expose ourselves to because what we expose ourselves to inevitably take root in our mind. so it's better to be spending our time learning than just kind of like endlessly trying to entertain ourselves and pass the little time we have uh on earth so uh we're in this section of the book uh ryan holiday is meeting with peter teal at his apartment for dinner and a lot lot of the information Ryan Holiday gets is from firsthand. He interviews almost every single person and spends a lot of time with almost everybody involved in conspiracy and the people that were the victims of the conspiracy, like Peter Denton, which is the founder of Gawker. So in this case, he's at Peter Thiel's house."
+    },
+    {
+      "timestamp": "00:13:41",
+      "text": "So he goes, there are no grand towering bookcases befitting a billionaire in the New York City apartment of Peter Thiel. Yet the space is defined by books. They lie in neatly arranged stacks of different heights on nearly every table. Colorful paperbacks and ancient hardcovers"
+    },
+    {
+      "timestamp": "00:13:57",
+      "text": "about economics, chess, history, and politics fill sets of small modern shelves in the corners and against the walls. If you look closely, there is a small white-spined edition of a book by a 16th century political theorist and Florentine diplomat worn from use. It is not The Prince, which many people, rich and ordinary alike, pretend to have read, though it is by the same author, Niccolo Machiavelli."
+    },
+    {
+      "timestamp": "00:14:27",
+      "text": "This more obscure volume consists of 142 chapters of 500-year-old musings and analysis on the works of a Roman historian 2,000 years deceased. Even the title is boring, Discourses on Livy. There, buried between notes on how hereditary rulers lose their kingdoms and the effect of noises upon troops in battle, the title of chapter six in book three stands out refreshingly in its simplicity. It's just one word. Conspiracies. What follows is Machiavelli's guide for rising up against a powerful enemy. Again, I'm just going to remind you probably over and over again that when we hear conspiracies in this book, really think of business. What follows is Machiavelli's guide for rising up"
+    },
+    {
+      "timestamp": "00:15:16",
+      "text": "against a powerful enemy, for ending the reign of a supposed tyrant, for protecting yourself against those who wish to do you harm. It is appropriate that such a book sits just within arm's reach of one of Thiel's wingback armchairs and not far from the chess set, which occupies considerable amounts of his time. Something in these pages planted itself deep into Thiel's mind when he first read it long ago, and something in Thiel allowed him to see past Machiavelli's deceptive warnings against conspiracies and hear the wily strategist's true message, that some situations present only one option. It is the option available to many, but pursued by the few. Intrigue."
+    },
+    {
+      "timestamp": "00:16:14",
+      "text": "To strategize, coordinate, and sustain a concerted effort to remove someone from power. To secretly move against an enemy. To do what Machiavelli would say was one of the hardest things to do in the world. To overthrow an existing order and do something new to engage in a conspiracy to change the world and now this is the result of conspiracy and the main part of the what the book focuses on at teal's prompting and with his backing the pair had sued gawker meeting media what they're talking about is Hulk Hogan, who's going to be referred to by his name, Terry Bilella, throughout the book, and the attorney that Teal's paying to take up Hogan's case. At Teal's prompting and with his backing, the pair had sued Gawker Media,"
+    },
+    {
+      "timestamp": "00:16:59",
+      "text": "a New York-based gossip and entertainment empire, along with its founder, Nick Denton, and former editor-in-chief, A.J. DeLario, for a handful of claims including invasion of privacy, intentional infliction of emotional distress, and violation of Florida's Security of Communications Act. Four years previously, Gawker.com published experts of a secretly recorded tape of B'Leah, which is Hogan's real name, known to the public as Hulk Hogan, having sex with his best friend's wife. The tape was eventually stolen and leaked to a wild and impulsive reporter who, in publishing it, was doing what Gawker claimed to do best, chasing the stories no one else would touch. So the background there is Hulk Hogan's going to divorce. He's very depressed. His best friend is this shock jock. I think they call him Bubba the Love Sponge or"
+    },
+    {
+      "timestamp": "00:17:56",
+      "text": "something like that. And Bubba picks up Hulk Hogan, says, hey, I know you're down and you're down. I'm not going to let you be alone. I'm your best friend. Come over to my house. He tells Hulk Hogan that him and his wife are swingers. He leads Hulk Hogan to his bedroom and says, hey, I want you to feel better. So like, have your way with my wife. What Hulk Hogan doesn't know is that Bubba the Love Sponge is a scumbag and has secretly put in a hidden camera and he records the whole thing. He's later, I'm not going to cover a lot of this in the book because I'm mainly focused on the strategy and the ideas, but just give you some background."
+    },
+    {
+      "timestamp": "00:18:29",
+      "text": "Later on the tape, we hear that Bubba the Love Sponge did it because he said, he told his wife, hey, if we ever want to retire, we can use this tape basically to blackmail his so-called best friend. So let's go back. Now I'm skipping ahead for a few paragraphs. And so what Ryan's doing here, just to let you know, he's starting at the end, and then we're going to go through how this works"
+    },
+    {
+      "timestamp": "00:18:49",
+      "text": "because the end is widely known. So it says, All that remained to be decided, as far as Thiel was concerned, was how much it was going to cost Gawker. The final tally, $115 million, $60 million of it for emotional distress. It is perhaps the largest verdict against a publisher in history and the death blow in a feud that began a decade earlier, bringing with it the culmination of a conspiracy that had run nearly as long."
+    },
+    {
+      "timestamp": "00:19:20",
+      "text": "A Florida jury had been used to send a message, used to write a perceived wrong that almost everyone else had forgotten. The message was delivered and now Gawker Media, long considered the invincible renegade internet powerhouse, is left bleeding out on the courtroom floor. The mortal blow is struck. Billionaire tech investor Peter Thiel has struck it. I can see the copy of Discourses over his right shoulder as he describes his personal war against Gawker in defense of a right he believed it threatened."
+    },
+    {
+      "timestamp": "00:19:54",
+      "text": "Privacy. And for what the privacy offers. The space to be peculiar. To thank for oneself and to live as one wishes. This is the why behind the conspiracy. Till talks, revealing a painstakingly organized plot, the plan to reassert agency. Remember that word agency, it's used a lot and it would probably be used a lot. It's used a lot in the book and I'll probably reference it several times in the podcast. The plan to reassert agency over a"
+    },
+    {
+      "timestamp": "00:20:21",
+      "text": "situation many believed was unchangeable, to protect something that most of his Silicon Valley peers had written off as an acronym, but also to destroy an enemy and make the world a little bit closer to his vision of what it should be. So previously I said I was largely ignorant of what was going on with Gawker in this lawsuit. Well, it happened. It wasn't until I started reading this book and listening to it that I started looking into it. And I guess, as with anything, there's two sides. Some people are very supportive of what happened to Gawker, and some people are left aghast. As far as I can tell, the people that did not want to see this happen are confusing this with an abuse of the First Amendment, which if you look at – once you study it, it has nothing to do with the First Amendment."
+    },
+    {
+      "timestamp": "00:21:10",
+      "text": "If it was just a First Amendment claim, Gawker would have won. It's the Fourth Amendment. It's your right to privacy. And the fact that they published something that was not only stolen but recorded without permission and against Florida law. So let's jump over. Oh, one thing I want. Okay, so in addition to reading and studying this book and Zero to One again, I also listened to several lectures to try to understand more about Peter Thiel,"
+    },
+    {
+      "timestamp": "00:21:40",
+      "text": "the ideas Peter Thiel has. And then I also listened to the podcast that the author Ryan Holiday did on the book with Russ Roberts. And he said something I wrote down and left a note to myself. And he said he was describing his view of events. And he used the word, this phrase, it was ruthless efficiency and hyper competence describing the conspiracy."
+    },
+    {
+      "timestamp": "00:22:07",
+      "text": "And I would add it's, it was ruthless efficiency and hyper competence versus incompetent decision making. And this is just one example I'm going to give of many throughout, throughout the book, which I myself don't understand. Over the last few years, now they're talking about Nick Denton, the founder of Gawker. Over the last few years, he had gone from owning one of the most valuable independent websites in the world to being on the wrong side of a $140 million judgment. This is now Ryan speaking again. He found himself outmaneuvered and outspent by a nemesis he deliberately prodded and provoked. So I guess, again, I didn't read Gawker when it existed, but it was basically a gossip brag. And so what they would do is just publish rumors, and sometimes those rumors were true and sometimes they weren't."
+    },
+    {
+      "timestamp": "00:22:59",
+      "text": "And this is nothing new. There's been, even in this book, there's examples going back hundreds of years of people that peddled in gossip. What I don't understand is why somebody thought that they could do this for so long and nothing would ever happen. So we're going to see not only is there largely, Gawker was a largely incompetent organization, but they were extremely arrogant and unknown to their own incompetence. And their incompetence was unknown to them, which obviously is something we all want to avoid. So moving forward a couple pages, I put this note, conspiracy equals founding a business. Starting companies is at a 40-year low, which is just my reference, and you'll understand what that means in a second. We're going to get to some direct quotes from Peter here."
+    },
+    {
+      "timestamp": "00:23:42",
+      "text": "This is Peter talking directly. We live in a world where people don't think conspiracies are possible. So again, I would say we live in a world where starting a business people don't think are possible. And I would argue that the data of that this is occurring at a 40-year low, at least in the country I live in, to be some evidence of that. So we live in a world where people don't think conspiracies are possible, Thiel would tell me. We tend to denounce conspiracy theories because we are skeptical of privileged claims to knowledge and of strong claims of human agency. There's that word again. Many people think they are not possible and they can't be pulled off. When I heard that and then went back and bought the book"
+    },
+    {
+      "timestamp": "00:24:18",
+      "text": "and then highlighted that section, I just look at that as businesses. We live in a world where people are skeptical that you could start your own business. We see that because very few people are actually doing it now. And it's going in the opposite direction of the direction I personally think it needs to go in. Now, we're going to add on to this. Ryan pulls some more stuff from Machiavelli. So it says, Machiavelli said that a proper conspiracy moves through three distinct phases, the planning, the doing, and the aftermath. Again, a business, the planning, the doing, and the aftermath. Each of these phases"
+    },
+    {
+      "timestamp": "00:24:51",
+      "text": "requires different skills, from organization to strategic thinking, to recruiting, funding, aiming, secrecy, managing public relations, leadership, foresight, and ultimately knowing when to stop. Most important, a conspiracy requires patience and fortitude. So much patience as much as it relies on boldness or courage. And I think that paragraph, it's probably obvious to you by now that a lot of the stuff we're going to be learning here is about conspiracy, but we're applying it to business, and you see why. I mean, it's just listing all the things you probably need if you're if you're building a company today okay so i'm going to skip ahead a few pages this is the first act that's the note i left myself and what happened was uh at the time um peter tail i think is"
+    },
+    {
+      "timestamp": "00:25:41",
+      "text": "relatively famous now especially because he's made some weird choices to get involved in politics, which I don't think business and politics should be mixed, personally. So this is not – this podcast is always – I never mention politics. I don't care about it, personally. even if they're successful at business, some of them are as far, you know, some people that have personal communistic perspectives all the way to, you know, anarchy. I don't care about any of that. I just want to learn from people. And my personal opinions on those matters are not important. I do think that one important life skill is learning from people you disagree with. So I really don't take that into effect."
+    },
+    {
+      "timestamp": "00:26:24",
+      "text": "But at the time this is happening, the first act of this conspiracy, Peter Thiel is largely unknown. At least I didn't know who he was. And this is back in 2009. There's this publication owned by Gawker called Valley Wag. And for some reason they published a story and it says Peter Thiel is totally gay people. So I guess at the time, friends and family knew he was gay, but it's not something he led with. He just wanted to be known as an entrepreneur and an investor. And Gawker, because Nick Denton has this personal philosophy of radical transparency that every single secret should be known by everybody,"
+    },
+    {
+      "timestamp": "00:27:00",
+      "text": "which, interestingly enough, is the exact opposite of Peter Thiel's philosophy, they decide, hey, it doesn't matter if this guy wants everybody to know he's gay. We're going to tell everybody he's gay. And so when we're talking 2018, that might not seem like a big deal. There's definitely been a shift in culture. But in 2009, it was very different. And Ryan Holiday spent some of the time talking about even the politicians and the leaders at the time weren't even coming out for support of gay rights and the like."
+    },
+    {
+      "timestamp": "00:27:27",
+      "text": "So this was an actual bigger deal. So we're going to find out. This is the first act of the conspiracy. We're going to find out why this motivated Teal to take action. It was a this is now a direct quote from Peter. It was like a full on attack out of the blue. There was nothing I'd ever done to these people in any way whatsoever. On a superficial level, the article was just about outing me. It wasn't the outing itself, however, that most got to him, but the second narrative,"
+    },
+    {
+      "timestamp": "00:27:55",
+      "text": "that he had psychological problems because he didn't want to be outed. It was never about the Owen Thomas article, Peter eventually admitted to me. It was the Nick Denton comment. In the comment section at the bottom of Owen's story, Nick Denton, who was Valleywag's editor and then the founder of Gawker, had posted a few sentences in the form of an accusation that seemed to respond to itself. Quote, the only thing strange about Teal's sexuality, why on earth was he so paranoid about its discovery for so long? So that little flippant, maybe one minute comment is the first genesis of this idea that Peter winds up having to wait almost half a decade to put anything in action, and then a full decade to actually strike that final blow. So that's the first act of the conspiracy."
+    },
+    {
+      "timestamp": "00:28:47",
+      "text": "And I want to jump, I'm jumping ahead a few chapters like I always do. And I want to give you a short bio on Peter. And so this gives you some background on who he is and what he did. At the moment we first find Peter Thiel in this story, he is 40 years old and in the middle of an astounding rise. His path was in some ways traditional, Stanford to Stanford Law to judicial clerkship to high-powered law firm, but it was also marked by bouts of rebellion. His friends thought he might become a political pundit. Instead, he became a lawyer. Then one day, surprising even himself, he walked out of one of the most prestigious"
+    },
+    {
+      "timestamp": "00:29:32",
+      "text": "security law firms in the world after seven months and three days on the job. Within a few short years, Thiel formed and then sold PayPal to eBay for $1.5 billion in July 2002. With proceeds of some $55 million, Thiel assembled an empire. He retooled a hedge fund called Clarium into a vehicle to make large, counterintuitive bets on global macro trends, seeding it with $10 million of his own money. In 2003, Thiel registered a company called Palantir with the Securities Exchange Commission, and in 2004, he would found it in earnest. The company would take anti-fraud technology from"
+    },
+    {
+      "timestamp": "00:30:12",
+      "text": "PayPal and apply it to intelligence gathering, fighting terrorism, predicting crime, providing military insights. It would soon take money from the venture capital arm of the CIA and soon take on almost every other arm of the government as clients. That same summer, Thiel placed a $500,000 convertible note into the hands of a 21-year-old Mark Zuckerberg, becoming Facebook's first major investor. A half a million dollars was a bit less than 1% of the fortune Peter had taken out of PayPal, his first company, or perhaps a year's salary had he not left that law firm. So I'm going to skip ahead, still going on this. So he's running his hedge, what takes up most of his time is he's running this hedge fund called Clarion Capital."
+    },
+    {
+      "timestamp": "00:30:59",
+      "text": "The hedge fund's assets as well to close to $8 billion, putting Peter, as a friend would tell the New Yorker about that moment, on the cusp of quietly achieving his personal ambition of entering the pantheon of all-time great investors. Before that could happen, the bottom begins to fall out for Clarion and for Thiel. By the end of 2008, Clarion takes a wallop as the market's tank, and it ends the year down 4.5%. The following year would only get worse. Thiel sits down to write a piece about the future of libertarianism for the Cato Institute in April. He expects a decent reaction, at least a conversation, and instead finds himself in a"
+    },
+    {
+      "timestamp": "00:31:37",
+      "text": "crossfire of contempt and laughter. Owen Thomas, this is the same guy that outed him a few years prior, returning once again to mock Thiel, would use the piece to question whether Thiel was on drugs, an inference he said squared with rumors Gawker had heard about Thiel, particularly while he was fitfully coming out as a gay man. Simultaneously, investors are pulling their money from Clarion. By July, assets under management have shrunk to well under $2 billion. So down from eight to two. The fund ends the year down 25% and 2010 is no better, down another 23%. And now the assets under management are less than a billion dollars."
+    },
+    {
+      "timestamp": "00:32:19",
+      "text": "In an interview, so you'll see how at the same time he's having a lot of business trouble, there's the increase in attention he's getting from Valleywag, and this is his response. In an interview he gave a month after his immediate infamous Cato piece was published, Thiel told a reporter that he felt Valleywag and Gawker were like Al-Qaeda. He didn't understand how and why people would treat other people like that. To his friends, to people he worked with, whenever Gawker would come up,"
+    },
+    {
+      "timestamp": "00:32:51",
+      "text": "he would refer to it as the MBTO, the Manhattan-based terrorist organization. And skipping ahead a few pages, we're going to see, again, why it's important. You have to be careful what ideas you're exposed to, because sometimes they just take root and they can change your life. So this is the right to privacy and another example of the why behind the conspiracy. And this is a quote. So it says, when personal gossip attains the dignity of print and crowds the space available for matters of real"
+    },
+    {
+      "timestamp": "00:33:19",
+      "text": "interest to the community, future Supreme Court Justice Luis Brandes brandes maybe wrote in the harvard law review in 1890 in a piece which formed the basis for what we now know as the right to privacy so that's a quote from the right to privacy and it says teal had read this article at stanford many law students do most regard it as another piece of the puzzle that makes up American constitutional legal theory. But Peter believed it. He venerated privacy in creating space for weirdos and the politically incorrect to do what they do because he believed that's where the progress came from. I kind of agree with that sentence."
+    },
+    {
+      "timestamp": "00:33:59",
+      "text": "We all, like, I mean, this entire podcast is about outliers, people that are strange in some way or another. Imagine for a second that you're the kind of deranged individual who starts companies. You've created cryptocurrencies designed to replace the U.S. monetary system that somehow turned into a business that helps people sell beanie babies and laser pointers over the Internet and ends up being worth billions of dollars where others saw science fiction you've always seen opportunities for real legitimate business that's just another example of great writing in my opinion by ryan he continues you were driven to entrepreneurship because it was a safe space from consensus and from convention. How do you respond to social shaming? You hate it. How are you to respond to petulant blogs implying there's something wrong with you for being a gay person who isn't public about his sexuality? Well, that's the question now, isn't it?"
+    },
+    {
+      "timestamp": "00:35:01",
+      "text": "The next page, I'm skipping over. This is something something i also noticed the hypocrisy of gawker gawker reminded teal of the self-righteous people he had been railing against ever since he was in college the people who claim the moral high ground who claim to be about freedom of choice but who bully everyone who doesn't choose their way of freedom for a complicated man with specific opinions about complex ideas one might suspect that the gravest threat gawker posed why it seemed to him to be a form of terrorism was the tendency for this trenchant snarky reporting to become reductive and to cause collateral damage so what i mean about that he's talking about he feels gawker's a bit"
+    },
+    {
+      "timestamp": "00:35:45",
+      "text": "hypocritical because they're saying, oh, you know, complete open transparency and freedom's the way of life. And yet if you didn't agree with their thesis that there should be no such thing as secrets, then they railed against you. Something I don't think I talk about in the podcast, but it's also in the book, is Gawker would publish these hit pieces, rightfully so, about all the tax dodging that companies do, which I think is, one, unethical, but at the same time, legal. And I think the solution is actually a simplification of the tax code. But what's revealed in the book and through discovery in this lawsuit is that Gawker engaged in that. They had a bunch of LLC set up all over in Hungary and the Grand Cayman Islands,"
+    },
+    {
+      "timestamp": "00:36:30",
+      "text": "and they did everything they could just like the people they railed against. And then they also talked about, in the book they talk about Gawker would just attack companies for using unpaid interns. Again, something I'm completely against. Yet they wind up having their own lawsuits about unpaid interns again something i'm completely against yet they wind up having their own lawsuits about unpaid interns so a lot of the things that they would attack other companies for they were definitely guilty of they would attack silicon valley and other business leaders for greed yet most of the writers at gawker were paid less than they in the book they compared to they made less than what waiters would on like a busy weekend and that gawk uh that that nick den and only and like his family owned the vast"
+    },
+    {
+      "timestamp": "00:37:10",
+      "text": "majority of it so not only were they not paid well and nick would was you know making tons and tons of money um they also had no equity in the company so there is a huge strain of hypocrisy um that makes gawker at least in this book and again this is the only source I'm really using for my understanding of Gawker, it makes it an extremely unlikable organization. Go back to the book. Teal saw Gawker not so much as a revolution, but as an anarchy masquerading as a movement. Another great sentence, I think, from Holliday. He saw it as cruel and unfair unfair but also a toxic force in intellectual life and free society my main objective to go my excuse me my main objection to gawker is still this moral individual one that they hurt individuals but there is a cultural"
+    },
+    {
+      "timestamp": "00:37:58",
+      "text": "critique too i think it's the kind of thing that's contributed to this sort of incredible homogenization. Peter says, what he fears is a culture that would deprive him of the freedom to think to articulate his strange views. And a few paragraphs later, the note I left myself is the essential beginnings of conspiracy slash are anything new. These are the essential beginnings of a conspiracy. First, a slight of some kind, which grows into a larger dissatisfaction with the status quo. A sense that things should be different and will be different, except for the worst, if something doesn't change. But then comes a second step, a weighing of the stakes. What if I do something about this?"
+    },
+    {
+      "timestamp": "00:38:54",
+      "text": "What might happen? What might happen if I do nothing? Which is riskier, to act or to ignore? History is uncertain of this question, as were the people in Peter's life, the ones trying to tell him that there wasn't much that he could do. Peter would, at one point, pass me a copy of the 15 Decisive Battles of the World by Sir Edward Shepard Creasy, the book he had read as he mulled his options over. The epigraph of the chapter on the Battle of Valmy quotes Shakespeare,"
+    },
+    {
+      "timestamp": "00:39:32",
+      "text": "a little fire is quickly trodden out, which, being suffered, rivers cannot quench, which basically means you rush in to stamp out the sparks and end up fanning them into flames. This is the risk. Okay, so skipping ahead, I want to get into a little bit this section I found interesting about his personality. His anger is at odds with the cautious mind that is in his nature. He is not a man prone to being ruled by his emotions. If someone asks him a question, say about some controversial issue of the day, he does not simply react with an opinion or pluck a conclusion from nowhere. Instead, he begins with, one view of these things is that, and then proceeds to explain the exact"
+    },
+    {
+      "timestamp": "00:40:18",
+      "text": "opposite of what he happens to personally believe. Only after he has finished with complete sincerity and deference, describing how most people think about this issue will he then give you his opinion, which almost always happens to be something radically unorthodox. All of it punctuated with liberal pauses to consider what he is saying and what he's saying as he's saying it. Even when he does describe his opinion, he preferences it with, I tend to think, or it's always this question of, as if what he is really about to tell you is simply capturing where his opinion falls the majority of the time when running a thought exercise on the topic, as if he is always in the process of deciding what he thinks. And this is simply the process for articulating what he thinks."
+    },
+    {
+      "timestamp": "00:41:07",
+      "text": "Skipping ahead, there was this paragraph, and the note I left myself was the need to ask yourself the contrarian question. From 2007 to 2011, Peter Thiel is thinking about the Gawker problem, as he had come to call it. And the language is illustrative. It's a problem, a social problem, a cultural problem, the MBTO. He's talking about Gawker not just intellectually, but about what can be done about it. He would discuss it in the office. He would discuss it with fellow tech moguls. Over dinners, he would ask the smartest people he knew. For a number of years, after the various articles, the response was, there's nothing we can do. So the reason I singled that paragraph out was because the reason I think it's important to ask yourself the contrarian question"
+    },
+    {
+      "timestamp": "00:41:58",
+      "text": "is because these people wind up being incorrect. And all the contrarian question is really getting to is like, what is true that other people don't think is true? And in this case, in a subset of answers to that question, is people thought, oh, there's nothing you can do. So just don't do anything. Which, you know, is a perfectly understandable conclusion to arrive at. Something, you know, I always reference how I try to constantly learn from Jeff Bezos. And when he asked about what was going on with the whole Gawker-Peter Thiel thing, he said his solution is just get thicker skin. Which again, it's just an alternative. Peter just decided to"
+    },
+    {
+      "timestamp": "00:42:35",
+      "text": "go in a different direction. And then the next note I came to a few pages later was why do people believe nothing could be done and peter is describing why people were telling him it was a waste of time he says at the time it felt like a crazy uphill battle you know even with all the financial resources teal would say of this period of consideration it was the nature of the thing gawker's power in part came from pretending that it was more powerful than it was Once that power dissolves, as it would eventually by Peter's doing It's difficult to remember how that once was the view"
+    },
+    {
+      "timestamp": "00:43:13",
+      "text": "But it was the view For business purposes, I would say there's opportunity where most people are not looking And what was once impossible becomes commonplace And then we kind of forget that, oh yeah, this was impossible what was once impossible becomes commonplace. And then we kind of forget that, oh, yeah, this wasn't possible before. And we're going to see an example of that in zero to one when we get there, specifically about the model that Airbnb uses. Okay."
+    },
+    {
+      "timestamp": "00:43:43",
+      "text": "I just like this. So I'm including this part because I always like to figure out the people that we're studying here, right? We hope to learn something from them to make this time that we're spending together useful, right? Well, I also want to know who influenced them. Because like I said, books are the original hyperlinks and they lead you from one idea to another. And we see that, especially with founders, they're usually inspired. They're almost always inspired by people who are doing something before them. And we've talked about this ad nauseum, just using the common example of Jeff Bezos again, how he looked at people like Sam Walton, who in turn looked like people like JCPenney."
+    },
+    {
+      "timestamp": "00:44:18",
+      "text": "Jeff Bezos also got some of the best advice of his life sitting down with the founder of Costco. So not only do I want to learn from as many people as I can, but I want to find out who they learn from. And actually, this resulted in me ordering a book by this guy we're going to get to right now. I haven't read it yet, but I plan on it. So it says, his name is Rene Girard. One of the most profound intellectual influences on Peter Thiel is a French thinker named Rene Girard, whom he met while at Stanford and whose funeral he would eventually speak at in 2015. Girard's theory of mimetic desire holds that people have no idea what they want or what they value, so are drawn to what other people want."
+    },
+    {
+      "timestamp": "00:45:01",
+      "text": "They want what other people have. They covet. It's this, Gerard says, that is the source of almost all the conflicts in the world. So the book I ordered of his was, I think it's called Things Hidden Since the Foundation of the World or something like that, which the title alone is like, oh, I have to, I have to oh, I have to read that. So I'm skipping ahead again. We're going to talk about the high agency person. And this is applicable, again, to not only conspiracies,"
+    },
+    {
+      "timestamp": "00:45:38",
+      "text": "but definitely people wanting to have control over their life. And for our purposes, people starting businesses and wanting to do something, solve a problem, or work for themselves in some manner. One will come upon situations in life where it has become increasingly clear that the normal playbook will not work. No working out of the differences, no backroom deals. We reach the point where we believe that the normal remedies will not be enough, where we are significantly outmatched or unsympathetic. We reach a point where even the out of the ordinary remedies will not suffice. It is here that we begin to look beyond the playbook to create our own. It's this frustrating ground that births the conspiracy."
+    },
+    {
+      "timestamp": "00:46:20",
+      "text": "It is always revealing to see how a person responds to those situations when he's told, there's nothing you can do about it. This is the way of the world. Peter's friend, the mathematician and economist, Eric Weinstein, has a category of individual he defines as a high agency person. How do you respond when told something is impossible? Is that the end of the conversation or the start of one? What's the reaction of being told you can't, that no one can? One type accepts it, wallows in it even. The other questions it, fights it, rejects it. this choice defines us so previously i would just be reading books and you know maybe in the past i'd just come across that subject or excuse me that paragraph"
+    },
+    {
+      "timestamp": "00:47:11",
+      "text": "like oh that's interesting now i really try to ask myself those questions so now i'm not just being passively uh ingesting the words on the page but like what is what's the answer like how do i respond when someone tells me something's impossible? Is that the end of the conversation, the start of one? What's my reaction when, when people have told me I can't do something that no one can? I think it's really interesting. And I, obviously I don't think that's something that, you know, you discuss with everybody, but maybe you should have the conversation with yourself. It might be helpful. I'm not sure. I like this idea of Peter's idea of prehistory. So this is really short."
+    },
+    {
+      "timestamp": "00:47:49",
+      "text": "The image of Silicon Valley is that the startup comes together quickly from idea to minimum viable product to world changing business and a montage of exciting steps. In truth, like conspiracies, it takes a little longer. The path can be meandering. PayPal's anti-fraud insights took several years to become Palantir Teal had registered the name before he truly founded the company that looked then that looked for outside investment even Peters hedge fund had been something he started before PayPal and only came back to after PayPal. Thiel calls this the prehistory of a company, of a conspiracy."
+    },
+    {
+      "timestamp": "00:48:34",
+      "text": "And skipping ahead now, more similarities between a conspiracy and a company. A startup is, in Peter's definition, a small group of people that you've convinced of a truth that nobody else believes in. This is a fitting definition of what has assembled here as well. Talking about the conspiracy. More people would be added as time passed. Allies and enemies of enemies would be brought into the fold. But all of it would proceed from the shared belief of these three men that destruction of Gawker might be possible."
+    },
+    {
+      "timestamp": "00:49:08",
+      "text": "Now they had their first decision to make together. How? And the three men are Peter, this guy named Mr. A, who is a main character in the book and I'm not going to spend much time on. Mr. A and then the attorney that they hire. So Mr. A is the one that gave Peter the idea to do this in the first place. Several years after he was outed, Peter's having dinner with him. At the time, he's a 26-year-old law student. And I think they're having dinner in Berlin at a conference or something like that."
+    },
+    {
+      "timestamp": "00:49:37",
+      "text": "And he doesn't want to waste the one, probably one dinner he's ever going to have with Peter. So he says, hey, I know you've had an issue with Gawker. I have a solution. And his solution is let's start a company. It's going to take three to five years and going to have with Peter. So he says, hey, I know you've had an issue with Gawker. I have a solution. And his solution is let's start a company. It's going to take three to five years and up to $10 million, and let's fund lawsuits aimed at Gawker in hopes of bankrupting them. And Mr. A at the time, I think it's his real – in the book, his real – like he's never revealed."
+    },
+    {
+      "timestamp": "00:50:02",
+      "text": "His real name is not revealed. But if you Google it, you could find it. And then he's the one, Mr. A is the one basically, if Peter is a shareholder of the company, then Mr. A is like the president. He's the one running this whole thing. And again, I'm leaving a lot of that out because the book is a fascinating story"
+    },
+    {
+      "timestamp": "00:50:22",
+      "text": "and I don't want to ruin the story. I'm just trying to pull out the ideas that might be applicable for business or life in general too. Here's some contrast between Nick Denton and Peter. And I like this idea of Peter's, the idea of being last. Nick Denton wanted to be first, which is a form of power in itself. But this isn't how Thiel thinks. He would say his favorite chess player was Jose Raul Capablanca and reminded himself of the man's famous dictum. To begin, you must study the end. You don't want to be the first to act. You want to be the last man standing. History is littered with examples of those who acted rashly in pursuit of their goals, who plunged ahead without much in the way of a plan"
+    },
+    {
+      "timestamp": "00:51:06",
+      "text": "and suffered as a result. And another idea that I like, this information asymmetry. Peter seems to have a pre-natural ability to sense which lever to pull, what angle is the best approach, and it's almost always something radically different from what your average person would select. He wasn't looking for an opportunity to score a few points against Nick Denton, but trying to locate some singular button that would be the man's undoing. An investor tells me that with each investment, Peter likes to ask, what do I know about this company that other investors don't know? In other words, do we have an edge? It's only with some sort of informational asymmetry,"
+    },
+    {
+      "timestamp": "00:51:52",
+      "text": "goes the thinking, that one can not only beat the market, but dominate it and get the kind of return that takes a $500,000 check and turns it into a billion. And on the very next page is another useful counterintuitive point. Thiel has been asked about one of his strange investments that many people were sure would not work out. That's a good thing, he said. He liked hearing that criticism. We don't really need to worry about those people very much"
+    },
+    {
+      "timestamp": "00:52:19",
+      "text": "because since they don't think it's possible, they won't take us very seriously, and they will not actually try to stop us until it's too late. So moving on quickly again, this is his default state of contradiction I thought was interesting. Peter's default state is to embody contradiction. Doing so is what makes him such a brilliant investor, considering each trade and investment anew from a dozen perspectives, seeing what others aren't able to see, and doing it on a regenerative basis."
+    },
+    {
+      "timestamp": "00:52:49",
+      "text": "A friend would say that Peter is of two minds on everything. If you were able to open his skull, you would see a number of Mexican standoffs between powerful antagonistic ideas you wouldn't think could be safely housed in the same brain. So a lot of, most of what I'm going to cover is Peter, right? That's the whole point of the podcast. But I couldn't help but being impressed with some of, mainly Hulk Hogan's perseverance. So I'm going to sprinkle into this podcast some other stuff that I think is very useful to us and hopefully inspiring."
+    },
+    {
+      "timestamp": "00:53:25",
+      "text": "So this is the intro to Hulk Hogan's Perseverance. And again, we're going to call him Terry. Terry has had an incredible run. The fat, awkward son of a pipe fitter, he travels from the docks of Port Tampa, Florida to become one of the most famous characters in American culture. At 12 years old, he is already six feet tall, and he only has one friend, his music teacher. He tries to make a career in music after high school and community"
+    },
+    {
+      "timestamp": "00:53:52",
+      "text": "college, but struggles to support himself. He gets a job loading and unloading cargo at the docks to make ends meet. He begins training to be a wrestler at 23. He gets his first match a year later. He's the young ARP upstart. The older guys don't want him around. He stays at it. It's a story of success, not unlike Denton's and Peter's, but the blue collar version and with a different ending. He goes from professional wrestler to movie star to icon. And this part was maybe chuckle. He's so well-liked, he can call everyone brother and get away with it. So that's just one example to give you a background of where he started"
+    },
+    {
+      "timestamp": "00:54:36",
+      "text": "and where he winds up. And you're going to see, I think Gawker severely underestimated him. They poke fun at him. They try to mock him. And you don't go from being poor, the son of a pipe fitter in a small town in Tampa, to where he winds up going and what he winds up achieving by being a soft person. This is a note I left myself that I think just is good life advice. Prod at your own peril. Machiavelli's warning once again rings prophetic."
+    },
+    {
+      "timestamp": "00:55:12",
+      "text": "Anyone who is threatened and is forced by necessity either to act or to suffer becomes a very dangerous man to the prince and to me that's a it's it's just kind of obvious that Gawker had a really bad business when you think of their entire business is was built around trying to harm others as if they they talk about the book how you know sometimes they just see him as digital avatars, not real people. But the people that you prod at your own peril, they're going to have a reaction. And that reaction can be extremely dangerous. It can take the form of a lawsuit or in some cases, in most cases, what I would argue the lowest common denominator of the human species, if you just observe our behavior, is violence. So it's very, very reckless and very, very dumb to be prodding people"
+    },
+    {
+      "timestamp": "00:56:10",
+      "text": "and to be building your life around messing with people, and in Hulk Hogan's case, trying to destroy his life. And that was one thing that I just couldn't get over. Like, they ran what they knew was a stolen sex tape. And what was the reason for doing it? For page views so then they could show advertising against those page views. Like that's not how you should want to spend your time. Like that's a real person. That's a husband, a father, a person. I just, I don't understand how you think you could do that over a long period of time and not reap any repercussions. It just, it's unfathomable to me. From what I'm reading,"
+    },
+    {
+      "timestamp": "00:56:58",
+      "text": "Nick Denton is not a dumb person. He certainly did dumb things. I just don't understand how he didn't understand that. It's just so dangerous. All right. So this is the opening of the conspiracy. The chapter I'm in right now, mainly talking about Hogan. And at the time, remember, Peter and Mr. A hire an attorney. And what they're doing is they're going back and looking at past cases. And they're spending a lot of time and a lot of money doing this, trying to find where the weakness in Gawker is. And then this thing, like a year or two after they engaged the conspiracy, I don't know the exact timetable, this Hogan thing just falls into their lap. So this is the opening, had simply been watching Gawker, studying it as he had been asked to, billing by the hour as he looked for an opportunity to validate Peter's proposed strategy. He had looked backward, mostly, at old stories, at exchanges where people had"
+    },
+    {
+      "timestamp": "00:57:55",
+      "text": "threatened Gawker with legal action, yet none of this had gone anywhere. Then suddenly, that week in October, the opportunity had arrived. Gawker had not just published a leaked celebrity sex tape, which itself is often illegal. It had run one where the celebrity had said very loudly and publicly that it had been recorded without consent. So that's the basis of their case. The reason so many people were telling Peter beforehand that you can't do anything about Gawker is because it was always an issue of First Amendment. Gawker had been getting cease and desist once a week for their entire existence,"
+    },
+    {
+      "timestamp": "00:58:29",
+      "text": "and they won every case or people ran away because people fought them on the First Amendment where they're going to be fighting them on the Fourth Amendment. In this case, in some of those cases, when the tape is stolen and then recorded without consent, then that's a crime."
+    },
+    {
+      "timestamp": "00:58:45",
+      "text": "And you obviously can't say, oh, I'm a journalist. I'm just publishing this, which we see as the outcome of the case. And then to round out this chapter, the note I left myself is sometimes these books, so we're spending time looking at these books and doing this, I think, because we want to learn some good ideas, right? Sometimes these books also teach us what not to do. And this is an example of that. Most suspect that Hogan is simply posturing, running the same tired playbook that every celebrity breaks out when they release a sex tape to boost their career. But they're wrong. A real challenger has entered the ring."
+    },
+    {
+      "timestamp": "00:59:23",
+      "text": "He was oiled and dusted and ready to fight. And hidden from both the crowd and the opponent are the teammates he can tag in when he needs them. Gawker claimed that it was ready too, and had been for a long time. A Valleywag editor had in 2006 complained in an interview that for all the traffic he snagged and media attention they'd gotten, what was really missing was a legitimate legal challenge. We haven't gotten a serious legal threat so far, he said. We're still waiting for a good, solid cease and desist and a good lawsuit."
+    },
+    {
+      "timestamp": "00:59:57",
+      "text": "They fired him for saying it, but they rehired him a few months later. Deep down, Denton had always shared the same swaggering belief, but he was just smart enough not to say it so in couthly. He and his writers had longed for a worthy challenger. They had dared the powerful to come after them. Again, this is not smart. This is not being, first, it's not being a good person. Second, it's just, I need somebody to explain why you would engage in this strategy, unless you were some kind of somebody that actually wanted harm to come to you. Sadomasochist is maybe the term."
+    },
+    {
+      "timestamp": "01:00:35",
+      "text": "There's somebody like Payne. They joked that you were nobody until somebody sued you. Now they had a good lawsuit, a nine-figure lawsuit in state and federal court. They were confident they would knock this opponent down as they had every other powerful person who had challenged them. A professional wrestler? That was Gawker's game too. This would be fun. This would be easy and good for business. Besides, it could always be made to go away if it wasn't. And so they sleepwalked on. And to me, when I say this is an example of what teaches us what not to do, is the result of this kind of incompetence is your entire life's work's destroyed. You're"
+    },
+    {
+      "timestamp": "01:01:23",
+      "text": "personally bankrupt. You have to beg for leniency so you can get some money out of after your company is basically dissolved, which he winds up getting a couple million dollars. Nick does. And you basically run away from the United States and you take exile. I think he lives in Switzerland now or somewhere in Europe. This was preventable. You could have done something else with your time."
+    },
+    {
+      "timestamp": "01:01:55",
+      "text": "I don't understand why you would do this to other people. It's so bizarre. It's not journalism. It's gossip. It's useless. To me, it kind of reminds me. I always talk about my favorite network is Twitter. I don't tweet. I just use it to get access information."
+    },
+    {
+      "timestamp": "01:02:10",
+      "text": "And sometimes I click on the threads that are interesting. And you just see people wasting time all day being negative and attacking other people. And for the life of me, I don't understand how. I understand. I'm not naive in that sense. I know that gossip is the vast majority of human communication. I just think it's useless. It's a useless way to spend your time. Like how many times, you listening to this podcast right now, think about in the last 12 months, how often did you spend your time being"
+    },
+    {
+      "timestamp": "01:02:36",
+      "text": "negative online? Have you watched a YouTube video and then left a negative comment? Have you attacked somebody on Twitter or Facebook or Instagram? Hopefully the answer is no because you see it's a giant waste of time. And first of all, it's not something you want to do to fellow individuals, but you're not doing anything. You're not adding any value to the world. And the idea that this,"
+    },
+    {
+      "timestamp": "01:02:57",
+      "text": "I always say the internet comments are the bane of our existence. I truly, for the life of me, don't understand why people waste their time doing stuff like that. And if for whatever reason you answer that question yeah you have you might want to consider like being instead of being a critic like i always say like okay this goes to people let me let me talk about the domain i'm interested in podcasts there's tons of podcasts where you know it's just people complaining about stuff they don't like. First of all, I don't know who."
+    },
+    {
+      "timestamp": "01:03:25",
+      "text": "They obviously have audiences because they can be popular. Some people, I guess, like to relish in that. But I just think the world needs far more evangelists than critics. And I think we should be talking about and spreading the ideas that we enjoy than just talking about things we don't like. It's a terrible, terrible way to spend your time. I'm sorry if I'm drowning on and on about this. I'm befuddled, to use a vocab word. All right, so a lot of this book is about the value of perseverance. And in this case, in the conspiracy, in our cases,"
+    },
+    {
+      "timestamp": "01:03:57",
+      "text": "we want to know about building something. So in this case, I'm skipping ahead now. They sue Gawker in federal and state court. In federal court, it's a First Amendment issue. They're just getting their butts kicked all over. So this is why perseverance is important. It says, it's been setback after setback after setback. The same judge telling them repeatedly, no, I'm not going to take down the sex tape for your client. Sorry, Terry. I don't care that it's stimulating for you. Telling Peter, hidden off in the showers, I don't care how well you thought this through. It's going to be harder than you thought. What that meant for Terry, however, and for Peter was that their odds did not look good early on. The Hollywood reporter would lay it out frankly,"
+    },
+    {
+      "timestamp": "01:04:40",
+      "text": "saying that if Hulk Hogan still wanted to win, his only chance was to, quote, say his prayers, eat his vitamins, and hope for one of those out-of-body moments that he once experienced during his professional wrestling days when he suddenly gains a new source of strength and makes a miraculous comeback. Hogan would say he never doubted himself, but after all that, there's no way that he couldn't have. The federal judge had said plainly that Gawker's publication of the sex tape was in conjunction with the news reporting function and that the factual findings supports a color, a colorable fair use defense. He had rejected Hogan and his lawyers on every single attempt to attempt, except the one they made to flee his courtroom. And an appellate court had done its own rejection of his case the headlines weren't any kinder the media not only thought he would"
+    },
+    {
+      "timestamp": "01:05:32",
+      "text": "lose they were rooting for him too so that's in federal court eventually it gets kicked out of federal court and they they do get one uh injunction and that's they're granted the right to proceed in Florida state court, which winds up being exactly what they needed. And so I'm skipping over a bunch of parts of this, but I want to give you another example of more of what not to do. And in this case, now it's in Florida. It's in front of a judge in Florida, and they grant the injunction. They tell Gawker, hey, you've got to take this down until the trial's settled. And then Gawker, in their infinite wisdom, does something unbelievably stupid. Perhaps it had been the rising sense of their own power that gave Gawker the confidence to make the decision in April 2013"
+    },
+    {
+      "timestamp": "01:06:20",
+      "text": "in response to Campbell's granting of the injunction that Hogan had sought. Campbell's the judge, Judge Campbell. It was obviously wrong, they believed, an aberration in the record of repeated rulings in their favor. John Cook, Gawker's then editor, writes a post titled, A judge told us to take down our Hulk Hogan sex tape. We won't. So they wind up not taking down the sex tape, writing a post about it, getting more attention."
+    },
+    {
+      "timestamp": "01:06:47",
+      "text": "And keep in mind, this is the judge that's going to decide the case that eventually bankrupts them. So another dumb move here. And Ryan comments on here. He goes, we asked earlier who the underdog was in the dynamic. It is probably not the party that can defy an order from a judge and get away with it. Setback after setback after setback. And now I'm going to go to a section which features more perseverance and just other good life advice. Okay."
+    },
+    {
+      "timestamp": "01:07:18",
+      "text": "It's the drive where you hit every red light. The project where everything else seems to go wrong at the same time. When you ask yourself, why can I not just catch a fucking break? It is the nature of conspiracy. If it was easy, everyone would do it. Fate rarely conspired to help conspirators, and if it was on their side, why were they forced to do all the sneaking around then? No, fate sends to the conspirators of the world the best of its Murphy's Law, an entropy and crisis of confidence. The essayist and investor Paul Graham, a peer of Peter Thiel's, has charted the trajectory of a startup with all of its ups and downs. After the initial bump of media attention,"
+    },
+    {
+      "timestamp": "01:08:07",
+      "text": "the rush of excitement from the unexpected success, Graham says that the founders enter a phase where the novelty begins to wear off and they quickly descend from their early euphoria into what he calls the trove of sorrow. A startup launches with its investments, gets a few press hits, and then smacks right into reality. Many companies never make it out of this ditch."
+    },
+    {
+      "timestamp": "01:08:28",
+      "text": "There's a great saying right here. The problem with Silicon Valley, and I wouldn't just exclude it to Silicon Valley, I think in general. The problem with Silicon Valley is that we tend to confuse a clear view with a short distance. Here, too, like the founders of a startup, the conspirators have smacked into reality. The reality of the legal system. The defensive bulwark of the First Amendment. The reality of the odds."
+    },
+    {
+      "timestamp": "01:08:55",
+      "text": "They have discovered the difference between a good plan and how far they'll need to travel to fulfill it. This is going to be harder than they thought. It always is. Machiavelli wrote that fortune, misfortune in fact, aims herself where dikes and dams have not been made to contain her. Clausewitz said that battle plans were great but ultimately subject to friction, delays, confusion, mistake, and complication. What is friction? Friction is when you're Pericles and you lay out a brilliant plan to defend Athens against Sparta, and then your city is hit by the plague. Friction is when your trusted research tells you one thing,"
+    },
+    {
+      "timestamp": "01:09:37",
+      "text": "but you come to find out the situation on the ground is completely different and the data had it all wrong. And so the essential trait of the successful man is not only perseverance, but also a perverse expectation of how difficult it is going to be. It is having redundancies on top of redundancies so you can absorb the losses you eventually incur. One must not just steal one's heart, but also one's spirit. I love this part. So there's no such thing as an obstacle, just information. The earlier you spot and anticipate setbacks, the less demoralizing they will be. We want things to be easy."
+    },
+    {
+      "timestamp": "01:10:17",
+      "text": "We want them to be clean. They rarely are. And on the very next page, this is great advice too about focusing, the power of focusing on doing a few things correctly, which we've heard about in other books that we've covered. So it says, this is Peter, if you think of what you're doing too probabilistically, where you have all these different steps and there's a chance that all these steps fail, then the conspiracy is very complicated, like a Rube Goldberg contraption, where something is just going to break down for one reason or another. What Mr. A convinced me of in 2011 was that this is not a statistical concatenation of probabilities."
+    },
+    {
+      "timestamp": "01:10:57",
+      "text": "It was that if we simply executed on a few of these things correctly, you could win. And so the next part, something that is personally important to me, that the understanding that we live in a world far too complex for our understanding, that the unknown unknowns are always greater than the known knowns. And to try to design your life to survive and hopefully thrive in a world beyond our understanding. So here's an example where the unknown unknowns are going to come back in the future and destroy Gawker. And then there was a big concrete step forward for the conspirators, one giant setback for Gawker, one that neither side would fully understand at the time. Gawker's lawyers were still focused on the immediate prior restraint notions in front of them, and it would"
+    },
+    {
+      "timestamp": "01:11:49",
+      "text": "be some time before Harder, remember that's the attorney, and Mr. A would see the huge advantage they had gained. In being forced to drop the case in federal court, meaning at the time they took it as a loss, which winds up being the opposite of a loss, and being forced to drop the case in federal court and limit their case entirely to state court, the conspirators were given a lucky break. Gawker's legal strategy since then, backed by the subsidy of $750,000 in insurance money, would be one of attrition, fighting until its opponent ran out of money or until the policy went dry and Gawker had to decide if it wanted to keep going. So they're backed by this insurance policy. It's picking up a large amount"
+    },
+    {
+      "timestamp": "01:12:30",
+      "text": "of their legal bills, right? But in Florida, where Gawker had driven harder to retreat after so many federal court victories, this strategy was not so favorable. Remember, the world is way too complex and there's no, like their attorneys didn't realize how complex. A quirk of Florida law held that in order to appeal a civil verdict, petitioners have to post, I don't even know how to pronounce it, supersedis. Petitioners have to post a bond, let's just call it a bond, equal to the amount of the verdict, essentially proving that they could pay what they would owe if the appeal was not successful."
+    },
+    {
+      "timestamp": "01:13:07",
+      "text": "A 2006 Florida statute had limited those bonds, but still the cap was $50 million. That means if Hogan could actually get to a trial, if he could get this case in front of a jury, and if that jury sided with him in any substantive way, Docker would be finished. So they would have to have 50, basically what they're saying is they'd have to have an extra 50 million lying around to even have the chance of appeal. So it continues here."
+    },
+    {
+      "timestamp": "01:13:36",
+      "text": "While Gawker's revenues would be strong this year, approaching 35 million, it was still an independent media company without deep-pocketed investors. Gawker, and least of all, Nick Denton, did not have $100 million to give Hulk Hogan, and Denton's insurance was not such that it would likely cover damages. Gawker didn't have $50 million on hand either, which would be the amount it would have to put in escrow with the state of Florida if it was to lose and seek to appeal to a higher court. Yet perhaps it was because of the company's growth or perhaps because a trial seemed so far away and the news had thus far been entirely in its favor that for years another mistake here nick denton"
+    },
+    {
+      "timestamp": "01:14:17",
+      "text": "would be talking about how many rounds he could go with hogan that his worst case scenario would be ultimately winning the case on appeal so he's's bragging about, oh, I can go rounds with this guy, and worse, I can win on appeal. No, you can't. You can't even get to appeal because you don't have the $50 million because you're fighting in a complex world that you don't understand. We didn't know every nuance of Florida law, Mr. A would say, of the conspirators' understanding about the potential strength of this position that they had almost fallen into. In 2013, they were still reeling too much from most of the setbacks to see much good in anything. Just trying to maintain equanimity in the face of that had been enough."
+    },
+    {
+      "timestamp": "01:14:56",
+      "text": "To be elated or even optimistic was too much just yet. Indeed, had they known how favorable their legal position in state court would be, they might never have even bothered with federal court in the first place. Still, fully aware of it or not, confident or filled with doubts, the conspirators had in fact gained a strategic position that could potentially give them everything Peter and Mr. A had hoped for when they began to plot Gawker's destruction in that restaurant in Berlin. The decision by Charles, that's their attorney, to attach a $100 million number to Hogan's lawsuit had been in part to get headlines, but now if they were to get anything close to it from a jury, it would be"
+    },
+    {
+      "timestamp": "01:15:37",
+      "text": "an immediate knockout blow to Gawker. No chance for appeal. A bankruptcy event. Better, Gawker didn't even seem to be aware of its glass jaw. This is just a quick thing about the mistake of not knowing your enemy. He had, this is Hulk Hogan now, he had via interviews told anyone thinking about publishing the tapes what his intentions were and articles had been sent directly to Gawker's editors by the outlets that ran them. When they had proceeded with the tape anyway, his lawyers sent Gawker cease and desist letters within hours. They had not listened. Instead, Gawker's writers laughed and made fun of him in some 30 pages of group chats,"
+    },
+    {
+      "timestamp": "01:16:22",
+      "text": "joking about his silky pubes and whether his penis had a matching do-rag if gawker had in 2012 are in the years to follow properly sized up what was in front of them perhaps they might have found a way to apologize and see the matter quickly fade away so not only did they not understand their enemy um but it's also what i was saying is like the the the the interesting part about spending so much of our time you know because i'm old enough where like the first time i got online i think it was like 12 years old on ibm pc using like aol right so part of my life the internet didn't exist for all intents purposes and even back then it was dial up and you you know you couldn't use a phone uh like you couldn't get online if somebody uses the phone in your house and but what's happening"
+    },
+    {
+      "timestamp": "01:17:08",
+      "text": "now is that we're all online there's a screen in between us and there's something about even like whether it's a screen or think about when you're driving in a car like somebody cuts you off like you might yell or or get mad just because you're you're siloed from that temporary siloed from that person like this is a another person and instead of sympathizing with the fact that you know he's got kids and a family and it's embarrassing that uh sex tape was recorded without his permission and then stolen um they're making fun of him and i just i mean i i i think I might have maybe even done something similar when I was younger. And maybe that's the issue here. That it takes time and to be like less selfish as you age. And certainly now having a relationship and a daughter, you know, you're going to change."
+    },
+    {
+      "timestamp": "01:17:59",
+      "text": "And maybe some of this is immaturity, but it's just not humane. And some of the stuff, I don't even know if I'll cover it all, but there's just one case in the deposition where, you know, there's the A.J. DiRuglio, the other guy that got sued with Nick Denton, jokes about, he's like, oh, I'll publish a sex tape of a celebrity because it's newsworthy. And they're like, well, is there an age limit? And he's like, yeah, four years old. And so they're like, so anybody over over four you'd publish a sex tape and he's like yeah and he says it's a joke but that's not that's not he's first of all he's saying that the deposition"
+    },
+    {
+      "timestamp": "01:18:39",
+      "text": "second of all that one thing buried deep in a deposition winds up maybe being the the actual reason that the judgment was so high because in the book they talk about that AJ's forced to go on a stand and of course Hulk Hogan's attorney is going to bring this up because you know that that's for many people undefensible it's you know many people are not going to want you joking about sex tapes of five-year-olds. Rightfully so. And they say at one point when this was brought up that you could visually see a juror white knuckling their chair, meaning that what they were hearing was so disgusting they had to restrain themselves from moving or from yelling out or from acting. So I'm not saying that everything that Peter is doing is defensible, but he's definitely more aware of human nature"
+    },
+    {
+      "timestamp": "01:19:33",
+      "text": "than I think the people in the bubble of Gawker are. And you just, again, like, what kind of person do you want to be? You know? So I just went off on a tangent there, but it's interesting because the very next page, the note I left myself is the danger of screens and the perseverance of Hulk Hogan. And maybe this was in the forefront of my mind"
+    },
+    {
+      "timestamp": "01:19:55",
+      "text": "when I just said what I said. It's, let me just tell you why. When Gawker's writers looked at Terry Borella, as they looked at so many of the people they wrote about, they saw not a person but a character in the game of their digital day-to-day existence they saw the comical cartoonish professional wrestler the stupid celebrity who like all celebrities must enjoy all kinds of publicity good or bad chosen or otherwise they did not see a man who had lost nearly everything"
+    },
+    {
+      "timestamp": "01:20:22",
+      "text": "and had been pushed to his breaking point so now we're going to detail the current position hulk hogan is in his life and so in addition to publishing a stolen sex tape for hulk hogan to making a joke about um sex tapes of uh you know people over the age of four there's also something uh in the deposition that they they had a hard time defending where this college-age girl is intoxicated. Most likely, you have a good argument for being raped. There's a video that takes place at a bar in some college town, I think in Indiana, and she's laying on a dirty floor, not really aware of what's going on, and there's a video of some guy on top of her having sex with her and gawker decides to publish this this is not a celebrity this is not this is just a"
+    },
+    {
+      "timestamp": "01:21:10",
+      "text": "normal person and there's emails revealed in discovery uh between that girl's father and aj the one that chose to uh publish this and he's begging him he's like i my daughter you know he uses the word my daughter's getting effed in a pile of piss is what he says please like be human and aj's response is oh don't worry these things will pass and so i i don't think everybody has to agree some people could think what happened to Gawker is justified. Some people can't. But, I mean, if you know that information, I want to know how you're going to defend the behavior of Gawker."
+    },
+    {
+      "timestamp": "01:21:53",
+      "text": "What would you do? And maybe I'm overly sensitive to this, having a daughter. But if that ever happened to my daughter, I'll tell you, it wouldn't stop at an email. Like these people don't, they didn't know what they were doing. Either they were arrogant or ignorant or a combination of both. I don't know the kind of person that could listen to a father begging, please take this tape of my 21-year-old daughter being raped on the bathroom floor in a bar off the internet."
+    },
+    {
+      "timestamp": "01:22:19",
+      "text": "And you tell them, oh, don't worry. It's no big deal. They still didn't go past. And again, what is the motivation that Gawker has here?'m getting a little too excited so i'm gonna calm down their their motivation is page views so they can sell advertising like that's not right that's not what we should be doing that's just not it's crazy to me so let's go into what the what's going on and the dangers of screens and what's going on in Hogan's life. Wow, I'm getting way too emotional."
+    },
+    {
+      "timestamp": "01:22:47",
+      "text": "I'm sorry, guys. There were signs. I got to calm down. Okay. That's the problem when you have a child. You immediately think of like, and I have a little sister too. Oh, okay. There were signs, though, if anyone had wanted to look that they might have had an enemy who would be difficult to appease so this is the enemy they made hogan by doing what they did the mansion that hogan"
+    },
+    {
+      "timestamp": "01:23:09",
+      "text": "filmed his reality tv show and had once been worth 25 million dollars it sold in 2012 for six million dollars the other houses the friends the family the glory days they were all gone this is another example of why you should know your enemy or in my my personal opinion why you should really try to avoid having any enemies his wife had taken 70 of their marital assets in the divorce settlement and promptly settled in with a younger man how long and how far had terry crawled from the shipyards of tampa to get to where he got how many chairs did he take to the head? How many dingy arenas did he perform in to build this character? How much did he love being loved by children and their parents alike as a caricature of American excess and goodness in the Cold War? This is the man who got to play the hero for a"
+    },
+    {
+      "timestamp": "01:24:01",
+      "text": "living, and now much of that is gone and here's some new york blog was and here some new york blog was humiliating him by parading his best friend's betrayal across the world wide web and putting his naked aging balding body on display in a sex tape he had never been asked to be in he was a man with little to, the kind of person to whom you wouldn't want to give a singular obsession and the kind of person whose singular obsession you likely do not want to be. I asked Denton repeatedly if he feels like he misjudged Hulk Hogan, but even now I think he cannot admit that he did. Peter was the one behind the conspiracy, so he gets all the credit and the blame. Yet Hogan deserves some too. He was the one who charged ahead, who could have accepted any of"
+    },
+    {
+      "timestamp": "01:24:52",
+      "text": "the settlement offers that would be forthcoming, who didn't need to and probably shouldn't have filed the lawsuit in the first place. It cannot be said that Gawker was not warned. Hogan's personal attorney makes many attempts to explain to Gawker's lawyers who his client is, what motivates him, what kind of man it takes to make it as a professional wrestler, where the act might be fake, but two bodies hurling each other down against the mat is real. Does Terry's many surgeries signify nothing to them? Do they think the injuries were fake too? This man fights. So skipping ahead, I just mentioned some of the stuff that Nick and AJ say on the depositions and I wrote reckless slash how you do one thing is how you do all things. A quote I always like to remind myself of and I try to bring up on the podcast as much as possible. What Teal learned watching those depositions of Denton and D'Aurelio was that these men were worse than whatever uncharitable assumptions he had previously held about them. Who says those things in a legal proceeding? Who jokes about publishing child porn while under oath?"
+    },
+    {
+      "timestamp": "01:26:05",
+      "text": "Who describes an illicitly recorded sex tape and the article that brought it to millions of people as sweet? Do these people not understand how they come off? And this is a really smart, like a smart conclusion to come from that. aj and and nick were delusional enough to say those things on record reckless enough to make those unforced errors there were there was"
+    },
+    {
+      "timestamp": "01:26:36",
+      "text": "no telling what other missteps they might make on this slow road toward a jury trial if they had never been deposed it meant that this was all unfamiliar territory to them, that the decisions Gawker would be making were going to be tinged with that arrogance. So what I took away from that and why I said how you do one thing is how you do all things is they're making these kind of unforced errors and depositions. So I think you could rightfully conclude that they've probably made a bunch of errors in running their business over the last 10 years, which winds up being true because they find not only Hogan's case, but many other cases that could be used to weaken Gawker."
+    },
+    {
+      "timestamp": "01:27:20",
+      "text": "This I just came across. So what I like about Ryan Holiday's writing is how he sprinkles in history. And I like, he talks about these maxims from this British historian, Liddell Hart. And it's comparing strategy to a tree. So here's some maxims that he has. Keep your object always in mind while adapting your plan to circumstances. Take a line of operation which offers alternative objectives. Ensure that both plans and the dispositions are flexible,"
+    },
+    {
+      "timestamp": "01:27:52",
+      "text": "adaptable to the circumstances. Do not throw your weight into a stroke whilst your opponent is on guard, whilst his well-placed parry are evaded. Liddell Hart would compare a strategic plan to a tree, saying that a healthy one has multiple branches and that a plan with a single branch is but a barren pole. And now moving ahead to some other parts of the book that I just found interesting. The other side of strategy is procrastination. At the end of the day, you had to go all in on the things that were most likely to work, Peter said."
+    },
+    {
+      "timestamp": "01:28:28",
+      "text": "The Hogan case was it. At some point, the word strategy becomes a euphemism for procrastination. And just another paragraph that I'm putting in, it's normal to second guess. There was a real second guessing, Peter explains. Are we totally wrong about everything here? And were our timelines wrong? Maybe none of our cases are going to work. Maybe this whole plan doesn't make sense. So I put that in there because somebody listening to this is surely second guessing an idea or something they're doing in life. I do all the time. And I just think it's useful to know that others do and it's perfectly normal. And so this is more perseverance from"
+    },
+    {
+      "timestamp": "01:29:13",
+      "text": "Hogan. And again, it relates to knowing your enemy. Better to not have an enemy, but they seriously misjudge Hogan. Although the number would creep upward in informal talks, it was never going to happen. So what they're talking about is the closer they get to trial, Cocker starts to see, oh crap, we've seriously miscalculated here. And they keep offering him more and more money. So at one point they offer Hogan, here, we'll give you $10 million to go away. And Hogan lost a lot of money. Like I just said earlier, he lost 70% of his assets to his wife. He needed the money. He did not accept it. I mean, that's quite remarkable. At the end of the day, Terry tells himself he just can't take the money."
+    },
+    {
+      "timestamp": "01:29:52",
+      "text": "After they had threatened, after they had been party to the destruction of his career, there was really no number, he admits to me, no matter what his wife said. So his wife was like, if it gets to his new wife, please, Terry, if it gets to $20 million, please just accept. And he told his wife yes, but he really wasn't going to not only were they trying to make me quit this is a direct quote from hogan talk me into quitting before trial they were trying to reward me for quitting that's a really interesting perspective there gawker's heavy persuasion from beginning to end had the opposite effect it only increased hogan's anger and hardened his resolve And a few pages later, I was struck by the difference in approach between Peter and Nick. And I wrote the question, how does this apply to your business?"
+    },
+    {
+      "timestamp": "01:30:50",
+      "text": "Peter is spending tens of thousands of dollars on a battery of market research as the trial approaches. Telephone surveys, in-person surveys, dossiers of social media comments about the trial analysis for media reporting jury consultants bankruptcy attorneys to prepare for the chance that gawker might try to escape a catastrophic verdict all this money all these avenues spent and pursued in order spent and pursued in order to leave nothing to chance and to find every edge every opportunity to land a decisive blow for nearly a year he had called mr a almost weekly to press one key issue are you sure if gawker are you sure gawker won't be able to squirrel out of the supersedes bond if they lose his team had been pouring over case law to figure it out to be sure they aren't missing anything to put themselves in a position not just to win, but to win decisively. Denton? He is winging it,"
+    },
+    {
+      "timestamp": "01:31:47",
+      "text": "hoping simply not to lose instead of trying to win. He is riding on the illusion of momentum he does not possess. He is making unforced errors and leaving opportunities open for his opponent. Perhaps he's simply struggling under the cumulative pressure, the mental burden of having a $100 million lawsuit hanging over his head for so long. Perhaps he's missing the insights he needs, having been led astray with bad legal advice. Or he could just be tired. Because here, when it matters, Denton doesn't seem to have much fight left in him. So what is he focusing on instead of fighting? The very next page, the note I left myself is,"
+    },
+    {
+      "timestamp": "01:32:34",
+      "text": "companies routinely focus on silly things. Does a gossip blog really need a $75 million lease? They had millions to offer in settlement talks. Nick had taken on his first ever outside investment in January 2016 when he raised money from a Russian billionaire to keep the site going through the lawsuit. But they didn't invest their time and ability"
+    },
+    {
+      "timestamp": "01:32:57",
+      "text": "into a good presentation. So what they're talking about not investing in a good presentation. Teal on his side, they invest tens of thousands of dollars into new audio visual equipment. So when they're in the courtroom, they're able to bring up all kinds of like pieces of media and basically show in pictures and video what the message they're trying to send to"
+    },
+    {
+      "timestamp": "01:33:18",
+      "text": "the jury. And even though Nick is the actual only one running a media site, his lawyers don't do any of that. And in many cases, they have a lot of technological, like things don't work as they want them to. And so most of the time, they're just left to lecture. So it says, if they didn't have time and money to invest in a quick presentation, and he goes, they had $75 million for a 15-year lease on three floors of new office space on Fifth Avenue,"
+    },
+    {
+      "timestamp": "01:33:48",
+      "text": "one with a special entrance just for its employees so they wouldn't have to interact with the rest of the rabble, but no money to tell the story of their lives. And so now we're going to continue to see the contrast between what Gawker's doing and what Peter's side is doing. And so there's this person, Heather Dietrich, she's the, I think the head strategist"
+    },
+    {
+      "timestamp": "01:34:12",
+      "text": "or the president of Gawker at the time. It said, Heather Dietrich would explain beliefs about the jury to reporters at the time. I think as a common sense matter, they're going to see that, see what he's talked about in the past, she would say. He's talked about really, really graphic details of his sex life again and again and again including on the shock jock show these are practical people i think they're going to see through him and say give me a break take responsibility for what you did here end quote now we're back to the author oh heather how could you she should have been telling her boss to settle, rectifying before it was too late the error Denton and the legal department had made in not seeing Hogan's perspective as a human being"
+    },
+    {
+      "timestamp": "01:34:51",
+      "text": "when that cease and desist first came in. Instead, she was needling the victim in the media. She was lying to herself and to the people who worked at Gawker. She had it all wrong. The external positioning for a year and a half leading up to the trial, Peter says of Gawker, was that Hogan's case was terrible and if he won, it would be a small amount that would get reversed on appeal. If you have a propaganda line that you"
+    },
+    {
+      "timestamp": "01:35:16",
+      "text": "keep telling people, there's some point at which you have to start believing it, end quote. Denton had done a lot of talking before the trial. He had expressed his confidence in Gawker's case, perhaps to intimidate Hogan, perhaps to keep the faithful at Gawker happy. They wouldn't have let Nick be anything else. They wanted their leaders to be brash and cocky as they were. They needed him to be that, and for a while it had worked, well enough that in 2015, Mr. A had begun to seriously consider hiring his own public relations team to fight back in the war of wards and now we get to the part that I left the note which says never interrupt an enemy making mistake but Peter had resisted let themselves"
+    },
+    {
+      "timestamp": "01:35:59",
+      "text": "let them talk themselves into a stupor he. Let them convince the troops that this is in the bag. Let them make us look stupid. Let them think they are winning. Let them use all the oxygen for bluster that they are going to need if they want to gather themselves enough to confidently say, lick them tomorrow. Another maxim from Napoleon. Never interrupt an enemy making a mistake."
+    },
+    {
+      "timestamp": "01:36:25",
+      "text": "So to me, that's one, really smart, and two, takes a lot of discipline. It really made me think of what Jeff Bezos says is how a lot of companies waste a lot of time running ads against their competitors, talking about their competitors in the media, trying to compare and contrast what they're offering to their competitors when he's like, don't just focus, use that energy instead of focusing on the customer because your competitors are never sending you money anyway. I just, I love that little anecdote there. And we're gonna end this part of the book"
+    },
+    {
+      "timestamp": "01:36:58",
+      "text": "with another great maxim, and it's the greatest sin for a leader. The greatest sin for a leader the greatest sin for a leader frederick the great once observed was not in being defeated but in being surprised this trial was an exercise in stupidity a smart person would have seen that even an insincere apology would have made all the difference a smart person would never have let it get this far whether the conspirators were brilliant or just rich can reasonably be argued, but what is indisputable is the fact that their victims marched toward their fate,"
+    },
+    {
+      "timestamp": "01:37:32",
+      "text": "quite sure that they were heading in the other direction. To try to argue newsworthiness when the tape at issue was illegally made, illegally procured, without the consent of the aggrieved? To say that this guy didn't deserve privacy even in his most intimate moments because he was famous? Seeing Hulk Hogan outside the courtroom early on in the trial, Gawker's lawyers see him interact with a few of the groundskeepers and employees. They see how much these people like him, how Hogan had cultivated that connection through his image. There was always a danger in letting a case go to jury,"
+    },
+    {
+      "timestamp": "01:38:11",
+      "text": "but to put this case with this defendant in front of these jurors was suicide. In Gatsby, Caraway had been in awe of Wolfsheim. How did he happen to do that, he asks of the 1919 World Series plot. Gatsby answers, he just saw the opportunity. Peter had seen the opportunity where no one else had. He had taken it, legally, and he had won. He had proven that, quote, nothing you can do about it is just what people who don't want to do anything about it say to make themselves feel better about their inaction. Peter Thiel had done what presidents, robber-bearers, and folk heroes had been unable to do. He had fought a battle with the people who buy ink by the barrel and come out the better for it."
+    },
+    {
+      "timestamp": "01:39:03",
+      "text": "On the day of the verdict, the New York Times editorial section would publish a debate of experts asking about the implications of the case. And this is really important. Two of the three experts would come down against Gawker and for Hulk Hogan, underscoring Thiel's early goal to predicate the dispute on privacy, not press freedom. One, a law professor and former journalist wrote, when human dignity is degraded by depictions of sex, nudity, or medical conditions, the quote-unquote journalism should not be called newsworthy. The next day, the former assistant general counsel of the New York Times would be quoted in another piece published in the paper. I think the damages are crazy, but I just don't see this as a terrible blow to the first amendment. The dean of the law"
+    },
+    {
+      "timestamp": "01:39:46",
+      "text": "school at UC Irvine would follow in the same story. I think this case establishes a very limited proposition. It is an invasion of privacy to make publicly available a tape of a person having sex without that person's consent. I don't think it goes any further than that. I do not see a First Amendment basis for claiming that there is a right to do this. So I'm going to leave the book Conspiracy there. I definitely recommend, just because it's an amazing story,"
+    },
+    {
+      "timestamp": "01:40:21",
+      "text": "that's the first reason I would recommend it. I really, really enjoyed the book. It was fantastic. So much that after listening to it on the audio book, I bought both the Kindle and the hardcover versions. I wanted to have this book in my house because I enjoyed it so much. So I would definitely read it for the story first. But secondly, I do think there's a lot of knowledge in the book that you can learn from and that you can apply to other areas of life. And so I want to move on to the second part of this podcast. And I want to just share a couple of the things and ideas that"
+    },
+    {
+      "timestamp": "01:40:59",
+      "text": "I like that Peter wrote about in his book, Zero to One, Notes on Startups or How to Build a Future. And you're going to see a lot of overlap here, I think. But before we get into Zero to One, I want to read to you something I found on Quora. It's written by Ryan Holiday, the author of Conspiracy, and it's his answer to how powerful and resourceful is Peter Thiel. And as I was doing additional research for this podcast, I came across this and a couple other answers that Ryan has written on Quora that I thought were actually really useful and had information that"
+    },
+    {
+      "timestamp": "01:41:42",
+      "text": "was interesting. And so I just want to read this one in its entirety before we jump into Zero to One. And now this is Ryan writing. In my study of the billionaire Peter Thiel over the last year for my book Conspiracy, I found that he was one of the few from Silicon Valley who understood the intense will to power as a precondition to success and was willing to openly discuss it. If you read his book Zero to One, it's all there. The necessity of secrets, the drive to monopoly, owning the future. He quotes Emerson, weak men believe in luck, strong men believe in cause and effect. Or as the deeply competitive Thiel supposedly said"
+    },
+    {
+      "timestamp": "01:42:26",
+      "text": "after a chess match, show me a good loser and I'll show you a loser. You can see in Peter's own development a hardening that mirrors the evolution of the startup scene. His first company, PayPal, began in an attempt to create a kind of early cryptocurrency, and as it got more successful, ended up, in one famous anecdote, having to debate whether to accept payments from pornographers, and then after 9-11, whether they were hiding money for terrorists. Facebook, his best investment, went from a fun place for college students to share party photos, to connecting the world to being a distributor of fake news. And Palantir, which he founded with PayPal's anti-fraud technology, began as a big"
+    },
+    {
+      "timestamp": "01:43:12",
+      "text": "data company that is now used for drone strikes and seal team six raids. Success raised their profiles, which raised the stakes. And Peter's merciless plot to destroy Gawker, itself a former startup that had become an enormously powerful media company. Teal was caught off guard when Gawker outed him as gay in 2007. There was a time he looked to resolve things amicably with Gawker. One Gawker editor would tell me about meeting Teal in 2008 and finding him almost painfully So I would just want to interject here. There's two things he talked about. One, where he says that he's one of the few people willing to openly discuss certain things. In this case, the will to power as a precondition to success."
+    },
+    {
+      "timestamp": "01:44:06",
+      "text": "And then the second part about him being naive about trying to rely on personal relationships with gossip bloggers. The reason that I included this section and then the larger point that I'm so interested in and learning about these company builders, but through these company builders as well, is because I feel that the world is full of this,"
+    },
+    {
+      "timestamp": "01:44:30",
+      "text": "where it appears one way or we believe it to be one way, when in actuality, it's very different. And I think naive is the perfect adjective there. I think almost all of us, myself included, are incredibly naive to the workings of the world. And I think by studying history, and not history for, oh, this is a legitimate, objective fact, but more to study human nature,"
+    },
+    {
+      "timestamp": "01:44:59",
+      "text": "to understand us as a species and what is likely, what our behavior is likely to be in the future and in the present is extremely useful. So let me, I just, I guess that's the end of my interjection there. Let me go ahead and get back to this. By 2012, he had hardened, sold a billion dollars in Facebook stock and become convinced that Gawker was an obstacle to his business plans, as well as his vision for the future and needed to be crushed. Part of that cold-eyed calculation was the belief that Gawker's power as a media outlet could not be met effectively in the marketplace of ideas, but rather had to be met with the power of his bank account, which is what he did. It took nearly a decade, but at the end, Gawker fell and he remained standing."
+    },
+    {
+      "timestamp": "01:45:47",
+      "text": "A $300 million company with 300 plus employees ceased to exist. And this is the important part. And I mean, it's all important, but this paragraph specifically is important. And it kind of mirrors my own personal opinion about this, which I don't think is actually that important, but I figured I'd share it with you. I'm not saying this to praise these kind of moves, but in fact to wash away the vestiges of naivete which allow them to happen unchecked. One of Gawker's editors would say in a documentary about Peter Thiel's plot, quote, it was scarcely believable that something so cinematically vindictive and conspiratorial and underhanded could have actually happened. It's going to continue, but my own personal opinion reflects what Ryan Holiday just wrote"
+    },
+    {
+      "timestamp": "01:46:41",
+      "text": "there. When I'm studying things's my personal opinion doesn't matter. I just want to know how things actually are. And I don't want to be naive. And so there's a lot of, I find myself discussing a lot of topics, not so much with like old close friends, because they kind of understand the way I think and how I probe different things. But in certain social settings, I try to have these discussions and I'm just met with a lot of resistance that people kind of, and I don't want to speak too broadly here, but something unbelievably brilliant little kids do and it's very simple they just keep asking why so my daughter's very curious about the world like any little kid is and they'll ask you a question you"
+    },
+    {
+      "timestamp": "01:47:34",
+      "text": "tell them this is you know what's taking place here and then you explain that why well and then you realize that by just repeating why okay you just you just gave me an answer. So then why is that true? And why is that true? And you get at the heart of the matter. And then most of the times under this almost, uh, under this line of questioning, most of what I know about the world falls apart and it's done by a five or six year old. So, um, I feel when I have these – for some reason, that innate curiosity and good way of getting at the truth is prevalent in kids but not – somewhere along the line as we morph into adults, we lose that. And so when I try to introduce that into discussions about all kinds of different things with adults, there's just i and maybe it's the wrong social group i don't know what the answer is but i get a lot of um unsatisfactory answers or the conversation goes nowhere so that's what what he's saying here basically is listen um this guy uh the one in the documentary the former gawker employee he's saying you know um i can't believe like this is"
+    },
+    {
+      "timestamp": "01:48:42",
+      "text": "unbelievable like how could this possibly happen? Where I think if you studied history, especially like Ryan Holiday clearly has and read a lot, you realize, of course, this is happening. You take the exact opposite opinion. So let me go back into what Ryan's saying, because he's going to elaborate on that probably better than I could. So he's saying, I'm not saying this to praise these kind of moves. And the next paragraph is, certainly that disbelief is exactly why it happened. We live in a world where people don't think conspiracies are possible, Thiel would tell me in an interview. We tend to denounce conspiracy theories because we are skeptical of privileged claims to knowledge and of strong claims of human agency. Many people think they are not possible that they can be pulled off."
+    },
+    {
+      "timestamp": "01:49:23",
+      "text": "That was the end of the quote. This is now Ryan speaking. and where power is raw and real and there to be used in furtherance of such conspiracies. Too many others, as Gawker was, are misled by their own cynicism and virtue signaling. They forget how the world works. Gawker certainly did, or they would not have acted so recklessly or indiscriminately not only outing married men with children that's another part that's in the book that i didn't talk about it's just it was a private citizen and they outed him he had three children he wasn't famous by any means and they just found this information out and basically tried to ruin his life and tweeting things like this and then he links to this tweet."
+    },
+    {
+      "timestamp": "01:50:27",
+      "text": "And it's a former writer, Gawker. And it says, when I was at Gawker, I wrote baseless posts accusing an actor of raping an ex-boyfriend. I did it because my boss told me to. But I wanted to, too. So before I go back to Ryan's writing, when I initially sat down to do this podcast about – the first half of this podcast was about conspiracy. I really tried to stay neutral in my opinion of Gawker. But as you heard in the past hour and a half, I had a really hard time doing that because I find that their behavior disgusting. I mean what Ryan – I didn't know – I've never even heard of this one writer, but the idea that you think it's funny and you want to just make up a baseless rape allegation about somebody and then put it on a website that you know gets millions, tens of millions of views every month, like that's disgusting behavior."
+    },
+    {
+      "timestamp": "01:51:20",
+      "text": "I can't just sit here and be like, oh, you know, I'm going to be neutral. No, they were evil, evil people. So let me go back to this. It's not only outing married men with children and tweeting things like this, but deliberately making enemies like Peter Thiel, again, which I said was really, really dumb on their part, men who accrued real power and expecting that there would never be reckoning. And then this is where the history part comes into so much. It's just so useful to me. And there's been so many other podcasts in addition to books. Like I always talk about my love and affection for Dan Carlin's Hardcore History."
+    },
+    {
+      "timestamp": "01:51:53",
+      "text": "And I've listened to every single one of his episodes and purchased his back catalog because of that, because I've learned so much from his podcast about human behavior that I just, I want to know how the world works and I want to know how the world works, and I want to know how we work, so he's going to get into that now. An immutable law of history, actions have consequences, so I'm going to get into the rest of this paragraph, but I thought about that too when I was reading the book where, you know, in Discovery, we revealed like all these private chats that people at Gawker are having about Hulk Hogan, and they're making fun of, I think they said, silky pubes and his balding naked body and all this other stuff."
+    },
+    {
+      "timestamp": "01:52:32",
+      "text": "Hulk Hogan's 6'7 and 260 pounds. Do you think for a minute any of the people at Gawker— this is the problem with interacting with people through screens— if they were face-to-face with Hulk Hogan, there is a zero percent chance they would ever say that to him and i think that's a good rubric for um like behavior is if i'm about to say first of all i shouldn't really i shouldn't be spending my time talking about other people i should be focusing on ideas um but if you are going to talk about somebody else, just imagine if that person was in front of you and not through a screen or not through another friend of yours or a third"
+    },
+    {
+      "timestamp": "01:53:10",
+      "text": "party. And I just think that's a good ethical way to behave because you're going to temper that. You might have a disagreement. A conflict is inevitable with human beings, but it's just not smart. It's just smarter. It's like, hey, let's take the mature, non-emotional thing. Hey, we have a dispute to resolve. Let's talk face-to-face in a calm manner. The bickering and the insulting, that's not leading anywhere. That's not getting us to our actual objective. It's really, really counterproductive. There is this story about Vanderbilt, Cornelius Vanderbilt, that is, after he was cheated by two business partners in Nicaragua and lost his license to operate in the country. He sent them a letter."
+    },
+    {
+      "timestamp": "01:53:51",
+      "text": "Gentlemen, you have undertaken to cheat me. I won't sue you for the law is too slow. I'll ruin you. Yours truly, Cornelius Vanderbilt. Power is sought so it can be wielded. Just as no one builds a multi-billion dollar empire without some sort of savage determination and intense will to power, otherwise they would have stopped at some earlier point, taken their winnings, and gone home. No one accumulates power and then declines to use it in the face of existential threats,"
+    },
+    {
+      "timestamp": "01:54:22",
+      "text": "of which Thiel counted Gawker as one to his business interests. A Mark Zuckerberg or an Elon Musk doesn't build an empire and allow others to encroach on their borders. And yet it says something about our reflective, childlike understanding of the minds of these people that we condemn. The Koch brothers or George Soros for various schemes, without stopping to think about why they are doing these things. It's not simply to save on their taxes, I will tell you that. It's because they have those same privileged claims to knowledge and strong claims of human agency that Peter was talking about. They are trying to own the future or direct it where they want to go. Sometimes we'll agree with their attempts, such as when Mark Zuckerberg donated $100 million to New Jersey public schools."
+    },
+    {
+      "timestamp": "01:55:21",
+      "text": "And other times we'll be shocked and upset as people have been with many of Peter Thiel when he set up scholarships for dropouts, funded seasteading, and of course destroyed a media outlet. I would argue that this is only a taste of what is to come. Silicon Valley was place of a..., perhaps epoch-level transfer of power. Nick Denton, the founder of Gawker, himself once observed that New York gossip had transitioned from Zuckerman, as in Mortimer Zuckerman, the media tycoon and former owner of the New York Daily News, to Zuckerberg. It's true, and he, and we, the public, are now experiencing what that will mean. The press, the public, and politicians need to understand this rising force if they wish to put up guardrails"
+    },
+    {
+      "timestamp": "01:56:21",
+      "text": "against it or put it to good use solving society's problems. By understand, I don't mean clutch at pearls constantly. I mean understand it at the way we recognize a riptide or the ferocity of a wild animal. Artists need to understand it too and create works that teach lessons about it. I wrote about Thiel's arc from technology investor to Straussian power broker for the same reason. I think we need a wake-up call about how all this works. 100% agree with him there. What kind of forces have been unleashed"
+    },
+    {
+      "timestamp": "01:56:57",
+      "text": "by the gold rush of California, just as powerful forces and names like Hearst and Stanford and Huntington were unleashed in the original gold rush. And his last sentence is perfect way to wrap, because we ignore them at our peril. Okay, so I think that is a good segue from the ideas that are in conspiracy to the more practical, straightforward ideas in Zero to One. So Zero to One to me is a book that, um, I mean, if you haven't read it yet, obviously read it, um, from start to finish. It's less than 200 pages, very"
+    },
+    {
+      "timestamp": "01:57:32",
+      "text": "short read, like I said earlier, but it's also a book that I just keep, um, as with all the books that I read, I highlight and have, if you were to see pictures of them, I probably have like 30, um, post-it notes in this book. Um, I just pick it up from time to time and read a chapter or read some highlights. And maybe I spend just 10 minutes with it. But he has a lot of good practical ideas as far as how to create a company. This is a little different from all the other books that we've read so far because most of them are about the stories of their lives. And then we pull the ideas out of this. This is not about Peter Thiel's life."
+    },
+    {
+      "timestamp": "01:58:06",
+      "text": "This is about his ideas. So you're going to see a lot that echoes, like I said earlier, from the previous book that we just spent the past hour or two talking about. So let's go. We're going to start back with this contrarian question. And I just want to elaborate on that because I think it's a very important question. And this is directly in the first chapter it's called the challenge of the future whenever I interview"
+    },
+    {
+      "timestamp": "01:58:29",
+      "text": "someone for a job I like to ask this question what important truth do very few people agree with you on the question sounds easy because it's straightforward actually it's very hard to answer it's intellectually difficult because the knowledge that everyone is taught in schools is by definition agreed upon and it is psychologically difficult because the knowledge that everyone is taught in schools is by definition agreed upon, and it is psychologically difficult because anyone trying to answer must say something she knows to be unpopular. Brilliant thinking is rare, but courage is even in shorter supply. A good answer takes the following form. Most people believe in X, but the truth is the opposite of X. Most answers to the contrarian question are different ways of seeing the present."
+    },
+    {
+      "timestamp": "01:59:09",
+      "text": "Good answers are as close we can come to looking into the future. When we think about the future, we hope for a future of progress. That progress can take one of two forms. Horizontal, or extensive progress, means copying things that work, going from one to n. Vertical or intensive progress means doing new things, going from zero to one. Vertical progress is harder to imagine because it requires doing something no one else has ever done. And the shorthand for that is one to n equals globalization, and 0 to 1 is technology. And he said the single word for vertical, 0 to 1 progress, is technology."
+    },
+    {
+      "timestamp": "01:59:53",
+      "text": "And now this is Peter's own answer to the contrarian question as of the time he published the book. My own answer to the contrarian question is that most people think that the future of the world will be defined by globalization. But the truth is that technology matters more. Without technological change, if China doubles its energy production over the next two decades, it will also double its air pollution. If every one of India's hundreds of millions of households were to live the way Americans already do, using only today's tools, the result would be environmentally catastrophic. Spreading old waste to create wealth around the world will result in devastation, not riches. So skipping ahead, I found this very interesting. He's more of a contrarian here. So he talks about what people specifically in Silicon Valley learned from the dot-com crash."
+    },
+    {
+      "timestamp": "02:00:49",
+      "text": "And let's call these the four principles for entrepreneurs. These are the four that people learned, and I'm going to share the four opposite principles he learned for entrepreneurs. One, make incremental advances. Two, stay lean and flexible. Three, improve on the competition. Four, focus on product, not sales. And now here's Peter's counter to that. Number one, it's better to risk boldness than trivial."
+    },
+    {
+      "timestamp": "02:01:20",
+      "text": "Didn't be trivial. I can't say that word. Number two, a bad plan is better than no plan. Number three, competitive markets destroy profits. Four, sales matters just as much as product. And this is the business version of the contrarian question slash an answer for entrepreneurs. The business version of our contrarian question is, what valuable company is nobody building?"
+    },
+    {
+      "timestamp": "02:01:55",
+      "text": "This question is harder than it looks because your company could create a lot of value without becoming very valuable itself. Creating value is not enough. You also need to capture some of the value you create. Americans mythologize competition and credit it with saving us from socialist breadlines. Actually, capitalism and competition are opposites. Capitalism is premised on the accumulation of capital, but under perfect competition, all profits get competed away. And so his answer to that is create some kind of unique dynamic monopoly where you're creating value for other people, but you're"
+    },
+    {
+      "timestamp": "02:02:40",
+      "text": "capturing that value. In the book, he compares the difference between the airlines who create a lot of value but capture none of it, and Google who create a lot of value but capture none of it and Google who creates a lot of value and captures almost all of it. And so this is him talking about the difference between dynamic and static. And it's a very good... If anybody misunderstands"
+    },
+    {
+      "timestamp": "02:03:00",
+      "text": "his opinion on creating a monopoly, they're thinking of like monopolies of old, like in a static world. Like if you were Cornelius Vanderbilt and you have a monopoly on, let's say, shipping traffic, well, there's nothing you could do. But that's completely different than a dynamic monopoly such as the one Google currently enjoys and Facebook. Okay. In a static world, monopolist is just a rent collector. If you corner the market for something, you can jack up the price. Others will have no choice but to buy from you. Think of like Comcast, or if you're in an area where you're limited, there's no choice between cable or"
+    },
+    {
+      "timestamp": "02:03:34",
+      "text": "internet providers. Think of the famous board game. Deeds are shuffled around from a player to player, but the board never changes. The monopoly that is. There's no way to win by inventing a better kind of real estate development. The relative values of the properties are fixed The monopoly, that is. by adding entirely new categories of abundance to the world. Creative monopolies are not just good for the rest of society, they're powerful engines for making it better. And this is his example. Apple's monopoly profits from designing, producing, and marketing the iPhone were the reward for creating greater abundance, not artificial scarcity. Customers were happy to finally have the choice of paying high prices to get a smartphone"
+    },
+    {
+      "timestamp": "02:04:27",
+      "text": "that actually works. So this next part I highlighted says, in business, equilibrium means stasis, and stasis means death. If your industry is in a competitive equilibrium, the death of your business won't matter to the world. Some other undifferentiated competitor will always be ready to take your place. So the note I left myself is what is the counter to this? So whenever I hear something like that, like what is an undifferentiated competitor? So a good way to think about that is what he said. If your business dies, then it doesn't matter. Somebody else is just going to come right along and do exactly what you were doing. So therefore you might be"
+    },
+    {
+      "timestamp": "02:05:01",
+      "text": "wasting your time. And so my example I always use is like a pizza place every city everywhere has a pizza place multiple pizza places if one of them goes out of business it's not really the end of the world because their product isn't really differentiated and so when I'm asking myself when I when I'm actually trying to learn okay I understand that concept but how do we counter that? And so I actually want to read something I saw on Twitter. So there was a tweet storm that I read a long time ago and I've saved in my phone. It's from Naval Rabakhan, who's the founder of AngelList, somebody I've personally learned a lot from. And he titles his tweet storm, How to Get Rich Without Getting Lucky. I would argue also it's what's the future of work"
+    },
+    {
+      "timestamp": "02:05:46",
+      "text": "could be another title, something I'm obviously personally interested in. I talk about all the time. So in this example, you're on a pizza shop. If it closes, no one gives a damn, right? So how can we make a business that people care about that is some way unique? And so some of his opinions on how to get rich without getting lucky may also be helpful in thinking about what kind of business you want to do. So it says, seek wealth, not money or status. Wealth is having assets to earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy, which I would say largely doesn't matter. Understand that ethical wealth creation is possible. If you secretly despise wealth, it will elude you."
+    },
+    {
+      "timestamp": "02:06:27",
+      "text": "Ignore people playing status games. They gain status by attacking people playing wealth creation games. You're not going to get rich renting out your time. You must own equity, a piece of a business to gain your financial freedom. You will get rich by giving society what it wants, but does not yet know how to get at scale. So the example, people love, they really want pizza, but they know how to get it. So you're not really adding anything. Pick an industry where you can play long-term games with long-term people. That echoes that famous quote that all the best things"
+    },
+    {
+      "timestamp": "02:07:03",
+      "text": "in life come from compounding. The internet has massively broadened the possible space of careers. Most people haven't figured this out yet. It's very similar to the podcast I did on Paul English. I think that might even be his quote. Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest. Well, there you go. Pick business partners with high intelligence, energy, and above all, integrity. Don't partner with cynics and pessimists. Their beliefs are self-fulfilling. That I would describe with most of the people as far as I can tell,"
+    },
+    {
+      "timestamp": "02:07:36",
+      "text": "at least the ones I've been exposed to that used to work at Gawker. All of them seem to be cynical and pessimistic. I cannot stand these people in real life. I don't have anybody that I keep around me in my social circle that is cynical or pessimistic. It's useless. Learn to sell, learn to build. If you can do both, you will be unstoppable. Arm yourself with specific knowledge, accountability, and leverage. And he describes what he means there. Specific knowledge is knowledge that you cannot be trained for. If society can train you, it can train someone else and replace you. Okay, so again, what he's talking about there, we're looking for undifferentiated or for"
+    },
+    {
+      "timestamp": "02:08:14",
+      "text": "differentiated businesses that we can run. He's going to talk about using that as actually like how you can do this as an individual in a minute. Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now. Building specific knowledge will feel like play to you, but it will look like work to others. That's a really good point. When specific knowledge is taught, it's through apprenticeships, not schools. Specific knowledge is often highly technical or creative. It cannot be outsourced or automated. Embrace accountability and take business risks under your own name."
+    },
+    {
+      "timestamp": "02:08:54",
+      "text": "Society will reward you with responsibility, equity, and leverage. And this is what he means here. The most accountable people have singular, public, and most importantly, risky brands. They have skin in the game. Oprah, Trump, Kanye, Elon. You also notice that almost everybody, maybe outside of Oprah, is polarizing that he named. Very polarizing. Give me a lever long enough and a place to stand and I will move the earth. Archimedes. Fortunes require leverage. Business leverage comes from capital, people, and products with no modulable cost of replication. That would be code and media. Capital means money. To raise money, apply your specific knowledge with accountability and show resulting good judgment. Labor means people working for you."
+    },
+    {
+      "timestamp": "02:09:46",
+      "text": "It's the oldest and most fought over form of leverage. Labor leverages will impress your parents, but don't waste your life chasing it. Capital and labor are permission to leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you. Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works while you sleep. An army of robots is freely available. It's just packed in data centers for heat and space efficiency. Use it."
+    },
+    {
+      "timestamp": "02:10:28",
+      "text": "If you can't code, write books and blogs, record videos and podcasts. Leverage is a force multiplier for your judgment. Judgment requires experience, but can be built faster by learning foundational skills. There is no skill called business. Avoid business magazines and business classes. I agree with him 100% there. It's funny because I've talked about this before. I went to school for business."
+    },
+    {
+      "timestamp": "02:10:56",
+      "text": "I was even in the entrepreneurship program, which is kind of like oxymoronic. And part of the reason that I focus this podcast on people instead of business books, because most of the business books that you're going to read should have been a blog post. Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers. Reading is faster than listening. Doing is faster than watching. You should be too busy to do coffee while still keeping an uncluttered calendar. Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate,"
+    },
+    {
+      "timestamp": "02:11:39",
+      "text": "ignore it. If outsourcing a task will cost less than your hourly rate, outsource it. Work as hard as you can, even though who you work with and what you work on is more important than how hard you work. So you should still work as hard as you can. Become the best in the world at what you do. Keep redefining what you do until this is true. That's almost similar to Peter Thiel saying the quickest way to monopoly is a very small but valuable niche. And he uses the example of PayPal starting out with just 20,000 power sellers on eBay."
+    },
+    {
+      "timestamp": "02:12:16",
+      "text": "There are no get-rich-quick schemes. That is just someone else getting rich off of you. Apply specific knowledge with leverage and eventually you will get what you deserve. When you're finally wealthy, you'll realize that it wasn't what you were seeking in the first place, but that's for another day. So I just love that. And I think it might be a quick way to understand how to frame your thinking when you're thinking about building a business outside of an industry that's not already in competitive equilibrium and then one that if it disappears there's no undifferentiated competitor that just"
+    },
+    {
+      "timestamp": "02:12:50",
+      "text": "pops back up in its space and it just keeps on moving um let's see here oh so this is interesting i'm always fascinated when people um opine about um thoughts on education. And I put my note here is podcast for learning versus podcast for entertainment. Think about the difference in feeling after you're done listening to a podcast or some other way of learning. You're excited compared to, let's say, so I'm not going to read my note because it actually doesn't make sense here, but let me tell you what I meant to write. The feeling I get when I listen to a podcast, so I'm just going to keep it for broadcast, but it could be videos, anything, any books, whatever the case is, that I learn something from that add value to my life."
+    },
+    {
+      "timestamp": "02:13:34",
+      "text": "I'm excited when I'm done compared to when I listen to something just for entertainment. I understand that a lot of people use podcasts for entertainment. That's fine. I want to make this podcast entertaining second you know, a second to it being, uh, have some kind of valuable ideas for your life. Um, but when I just waste an hour of my life, let's say I watch a show, I guess would be a better example. Or I listened to a podcast. It's just a bunch of guys making jokes or something, whatever the case is. I just feel like I'm not excited when it's over. I just, oh, okay, I just killed an hour of my time, as opposed to the feeling where you've come across an idea that sparks something in your"
+    },
+    {
+      "timestamp": "02:14:12",
+      "text": "mind, and it's just motivating. Like, there is a distinct difference in how you feel. So, here's Peter Thiel on education. We teach every young person the same subjects in mostly the same ways, irrespective of individual talents and preferences. Students who don't learn best by sitting still at a desk are made to feel somehow inferior, while children who excel on conventional measures like tests and assignments end up defining their identities in terms of this weirdly contrived academic parallel reality. And it gets worse as students ascend to higher levels of the tournament. Elite students climb confidently until they reach a level of competition sufficiently intense to beat their dreams out of them."
+    },
+    {
+      "timestamp": "02:14:56",
+      "text": "Higher education is the place where people who had big plans in high school get stuck in fierce rivalries with equally smart peers over conventional careers like management consulting consulting or investment banking for the privilege of being turned into conformists students or their families pay hundreds of thousands of dollars in skyrocketing tuition that continues to outpace inflation why are we doing this to ourselves? And a few pages later, we're introduced to a lesson from Hamlet on the dangers of competition. For Hamlet, greatness means willingness to—so there's a paragraph before that he quotes Hamlet. I guess I'll read that."
+    },
+    {
+      "timestamp": "02:15:42",
+      "text": "This is directly from Hamlet. Exposing what is mortal and unsure to all that fortune, and danger dare even for an eggshell rightly to be great is not to stir without great argument but greatly defying quarrel and a straw when honors at the stake and this is his description of that for hamlet greatness me greatness means willingness to fight for reasons as thin as an eggshell. Anyone would fight for things that matter. True heroes take their personal honor so seriously that they will fight for things that don't matter. This twisted logic is part of human nature, but it's disastrous in business. If you can recognize competition as a destructive force instead of a sign of value, you're already more sane than most. And I love this idea about durability and it echoes Jeff Bezos' quote that you should invest when you're setting up your business, you should invest in"
+    },
+    {
+      "timestamp": "02:16:41",
+      "text": "things that don't change. And this is Peter talking about durability. For a company to be valuable, it must grow and endure. But many entrepreneurs focus only on short-term growth. They have an excuse. Growth is easy to measure, but durability isn't. Those who succumb to measurement mania obsess about weekly active user statistics, monthly revenue targets, and quarterly earning reports. However, you can hit those numbers and still overlook deeper, harder-to-measure problems that threaten the durability of your business. If you focus on near-term growth above all else, you miss the most important question you should be asking."
+    },
+    {
+      "timestamp": "02:17:21",
+      "text": "Will this business still be around a decade from now? And this is the benefits of starting small. It was much easier to reach a few thousand people who really needed our product than try to compete for the attention of millions of scattered individuals. Oh, so I love this. And right after I read this, I'm going to read another thing from CORE. A definitive view favors firm conviction. So let me read my note first."
+    },
+    {
+      "timestamp": "02:18:01",
+      "text": "It says, Peter's philosophy of extreme manager focus, quote, one thing. A definitive view, by contrast, favors firm convictions. Instead of pursuing many-sided mediocrity and calling it well-roundedness, a definitive person determines the one best thing to do and then does it. Instead of working tirelessly to make herself indistinguishable, she strives to be great at something substantive, to be a monopoly of one. So in this post, you have Keith, I think it's Raboy, maybe it's how you pronounce his name. He's answering a question, what strong beliefs and culture did Peter, Max, and David have at PayPal? And I just want to read this one paragraph."
+    },
+    {
+      "timestamp": "02:18:45",
+      "text": "And he said, Extreme focus driven by Peter. Peter required that everyone be tasked with exactly one priority. He would refuse to discuss virtually anything else with you except what was currently assigned as your number one initiative."
+    },
+    {
+      "timestamp": "02:18:59",
+      "text": "Even our annual review forms in 2001 required each employee to identify the single most valuable contribution to the company. Although I resisted some of this approach during the PayPal years, I am now a proponent of it and even have devised a theory of why it is crucial. All right, so let's go back to the book. Okay, so this is interesting too, or at least I found it interesting. It's the most important lesson you can learn from Steve Jobs."
+    },
+    {
+      "timestamp": "02:19:30",
+      "text": "But the most important lesson to learn from Jobs has nothing to do with aesthetics. The greatest thing Jobs designed was his business. Apple imagined and executed definitive multi-year plans to create new products and distribute them effectively. Forget minimum viable products. Ever since he started Apple in 1976, Jobs saw that you can change the world through careful planning, not by listening to focus groups, feedback, or copying others' success. And this next part is when to sell your company. Founders only sell when they have no more concrete visions for the company, in which case the acquirer probably overpaid."
+    },
+    {
+      "timestamp": "02:20:24",
+      "text": "Definitive founders with robust plans don't sell, which means the offer wasn't high enough. When Yahoo offered to buy Facebook for $1 billion in July 2006, I thought we should at least consider it. But Mark Zuckerberg walked into the board meeting and announced, okay guys, this is just a formality. It shouldn't take more than 10 minutes. We're obviously not going to sell here. Mark saw where he could take the company and Yahoo didn't. A business with a good definitive plan will always be underrated in a"
+    },
+    {
+      "timestamp": "02:21:00",
+      "text": "world where people see the future as random. A startup is the largest endeavor over which you can have definitive mastery. You can have agency, not just over your own life, but over a small and important part of the world. It begins by rejecting the unjust tyranny of chance. You are not a lottery ticket. And I think that was the point I was making a little earlier, that some people are going to want to build businesses where, like the people that we're reading books on, that are huge and maybe lasted for a long time,"
+    },
+    {
+      "timestamp": "02:21:47",
+      "text": "even though all of them are temporary in the long term. Others, maybe you want a one person business, whatever it is, the important part is you have agency, not just over your own life, but over a small and important part of the world. And my personal belief is if more people had agency and control over that that as opposed to just going to work for somebody else they'd probably be a lot more satisfied"
+    },
+    {
+      "timestamp": "02:22:08",
+      "text": "so throughout the conspiracy book we're we're constantly um reminded of the importance of secrets and in zero to one there's an entire chapter uh there's an entire chapter on secrets chapter eight so i just want to pull a couple things from there. I don't think we have to go too deep into it, but every one of today's most famous and familiar ideas was once unknown and unsuspected. The mathematical relationship between the triangle sides, for example, was secret for millennia. Pythagoras had to think hard to discover it."
+    },
+    {
+      "timestamp": "02:22:43",
+      "text": "If you wanted in on Pythagoras had to think hard to discover it. If you wanted in on Pythagoras' new discovery, joining his strange vegetarian cult was the best way to learn about it. Today, his geometry has become a convention, a simple truth we teach to grade schoolers. A conventional truth can be important. It's essential to learn elementary mathematics, for example, but it won't give you an edge. It's not a secret. The next page, the note I left myself is great companies can be built on unsuspected secrets. If you think something hard is impossible, you'll never even start trying to achieve it. Belief in secrets is therefore an effective truth. The actual truth is that there are many more secrets left to find, but they will yield only to relentless searchers. The same is true for business. Great companies can be built on open but unsuspected secrets"
+    },
+    {
+      "timestamp": "02:23:42",
+      "text": "about how the world works. Consider the Silicon Valley startups that have harnessed the spare capacity that is all around us but often ignored. Before Airbnb, travelers had little choice but to pay high prices for a hotel room, and property owners couldn't easily and reliably rent out their unoccupied space. Airbnb saw untapped supply and unaddressed demand where others saw nothing at all. And now this is what to do with secrets. If you find a secret, you face a choice. Do you tell anyone or do you keep it to yourself? It depends on the secret. Some are more dangerous than others. Unless you have perfectly conventional beliefs, it's rarely a good idea to tell"
+    },
+    {
+      "timestamp": "02:24:34",
+      "text": "everybody everything you know. So who do you tell? Whoever you need to and no more. In practice, there's always a golden mean between telling nobody and telling everybody, and that's a company. The best entrepreneurs know this. Every great business is built around a secret that's hidden from the outside. A great company is a conspiracy to change the world. When you share your secret, the recipient becomes a fellow conspirator. See the echo? I guess hear the echo, do I really have a way to say it? So just a few more notes that are important to our discussion today, that is. This is counterintuitive sales as a secret"
+    },
+    {
+      "timestamp": "02:25:27",
+      "text": "the the most fundamental reason that even business people underestimate the importance of sales and the systemic effort to high is the systemic effort to hide it at every level of every field in a world secretly driven by it it's kind of like what um ryan holiday was saying how we're just naive to certain things, even though that's how the world works. The engineer's grail is a product great enough that it sells itself. But anyone who would actually say this about a real product must be lying. Either he's delusional, meaning lying to himself, or he's selling something and thereby contradicting himself. It's better to think of distribution as something"
+    },
+    {
+      "timestamp": "02:26:06",
+      "text": "essential to the design of your product. If you have invented something new but you haven't invented an effective way to sell it, you have a bad business no matter how good the product. Superior sales and distribution by itself can create a monopoly, even with no product differentiation. The converse is not true. No matter how strong your product, even if it easily fits into already established habits and anybody who tries it likes it immediately, you must still support it with a strong distribution plan."
+    },
+    {
+      "timestamp": "02:26:50",
+      "text": "This is something I actually agree with him on. He has an entire chapter called Man and Machine. Something I've become recently even more skeptical about is this common utterance that, oh, we're going to be careful, like we're going to automate away all of the jobs and humans are going to have nothing to do. at first i might have been receptive to it because i'm interested in technology and maybe i can't see clearly because of that um that bias but then you start looking back in history like wait a minute humans have been saying this over and over again"
+    },
+    {
+      "timestamp": "02:27:20",
+      "text": "constantly and so peter's uh chapter is saying the most valuable companies are not the ones that eliminate man with a machine. The most valuable ones are the combination of both. You take the strong attributes of a person and add the strong elements or attributes of a machine. The stark differences between man and machine mean that gains from working with computers are much higher than gains from trade with other people."
+    },
+    {
+      "timestamp": "02:27:51",
+      "text": "We don't trade with computers any more than we trade with livestock or lamps. And that's the point. Computers are tools, not rivals. When we design new computer technology to help solve problems, we get all the efficiency gains of a hyper-specialized trading partner without having to compete with it for resources. Properly understood, technology is the one way for us to escape competition in a globalizing world. As computers become more and more powerful, they won't be substitutes for humans."
+    },
+    {
+      "timestamp": "02:28:25",
+      "text": "They'll be complements. And I'm skipping over a bunch of chapters like I normally do, but I want to read. This is the longest part I want to read. And then I guess we can close with this. And he has this great chapter called the founders paradox and he's gonna talk about we're gonna talk right here about Howard Hughes Bill Gates and Steve Jobs and he makes a really good point so a few podcasts podcasts back, I don't know which one,"
+    },
+    {
+      "timestamp": "02:29:05",
+      "text": "but I was really distraught. I spent like 17 hours reading a book on Howard Hughes and I just picked the wrong book because his life is very fascinating and Peter's gonna get into why. And so the note I left myself is, I need to find a book about Hughes' first 40 years of his life"
+    },
+    {
+      "timestamp": "02:29:24",
+      "text": "because the book I spent like 17 hours thinking I was going to turn into a podcast I never did spent most of its time talking about the last like 30 years of his life when Howard Hughes just went mad he wound up being after a plane crash he wound up being addicted to to painkillers and just started behaving really erratically and it's just it was like torturous to get through that. So I haven't given up on that. I just got to find a better book because Howard Hughes is a weirdly interesting person and founder of multiple companies. So let's just get into this."
+    },
+    {
+      "timestamp": "02:29:56",
+      "text": "I don't need to belabor the point any longer. We alternately worship and despise technology founders just as we do celebrities. Howard Hughes' arc from fame to pity is the most dramatic of any 20th century tech founder. He was born wealthy, but he was always more interested in engineering than luxury. He built Houston's first radio transmitter at the age of 11. The year after that, he built the city's first motorcycle. By age 30, he had made nine commercially successful movies at a time when Hollywood was on the technological frontier. But Hughes was even more famous for his parallel career in aviation. He designed planes, produced them, and piloted them himself."
+    },
+    {
+      "timestamp": "02:30:47",
+      "text": "Hughes set world records for top airspeed, fastest transcontinental flights, and fastest flights around the world. Hughes was obsessed with flying higher than everyone else. He liked to remind people that he was a mere mortal, not a Greek god, something that mortals say only when they want to invite comparisons to gods hughes was a man this is a quote hughes was quote a man to whom you cannot apply the same standards as you can to you and me end quote his lawyer once argued in federal court hughes paid the lawyer to say that but but according to the New York Times, there was, quote, no dispute on this point from the judge or jury, end quote."
+    },
+    {
+      "timestamp": "02:31:29",
+      "text": "When Hughes was awarded the Congressional Gold Medal in 1939 for his achievements in aviation, he didn't even show up to claim it. Years later, President Truman found it in the White House and mailed it to him. The beginning of Hughes' end came in 1946 when he suffered his third and worst plane crash. Had he died then, he would have been remembered forever as one of the most dashing and successful Americans of all time. But he survived, barely. He became obsessive-compulsive, addicted to painkillers, and withdrew from the public to spend the last 30 years of his life in self-imposed solitary confinement. Hughes had always acted a little crazy on the theory that fewer people would want to bother a crazy person, but when his crazy act turned into a crazy life, he became an object of pity as much as awe. More recently, Bill Gates has shown how highly visible success can attract highly focused attacks. Gates embodied the founder archetype. He was simultaneously an awkward and nerdy college dropout outsider and the world's wealthiest insider. Did he choose his geeky"
+    },
+    {
+      "timestamp": "02:32:46",
+      "text": "eyeglasses strategically to build a distinctive persona? Or in his incurable nerdiness, did his geek glasses choose him? It's hard to know, but his dominance was undeniable. Microsoft Windows claimed 90% share of the market for operating systems in 2000. That year, Peter Jennings could plausibly ask, Who is more important in the world today, Bill Clinton or Bill Gates? I don't know. It's a good question. The U.S. Department of Justice didn't limit itself to theoretical questions. They opened an investigation and sued Microsoft for anti-competitive conduct. In June 2000, a court ordered that Microsoft be broken apart."
+    },
+    {
+      "timestamp": "02:33:31",
+      "text": "Gates had stepped down as CEO of Microsoft six months earlier, having been forced to spend most of his time responding to legal threats instead of building new technology. A court of appeals later overturned the breakup order and Microsoft reached a settlement with the government in 2001. But by then, Gates' enemies had already deprived his company of the full engagement of its founder, and Microsoft entered an era of relative stagnation. Today, Gates is better known as a philanthropist than a technologist. Just as the legal attacks on Microsoft was ending Bill Gates dominance, Steve Jobs' return to Apple demonstrated the irreplaceable value of a company founder."
+    },
+    {
+      "timestamp": "02:34:15",
+      "text": "In some ways, Steve Jobs and Bill Gates were opposites. Jobs was an artist, preferred closed systems, and spent his time thinking about great products above all else. Gates was a businessman, kept his products open, and wanted to run the world. But both were insiders slash outsiders, and both pushed the companies they started to achievements that nobody else would have been able to match. A college dropout who walked around barefoot and refused to shower, Jobs was also the insider of his own personality cult. He could act charismatic or crazy, perhaps according to his mood or perhaps according to his calculation. It's hard to believe that such weird practices as apple-only diets weren't part of a larger strategy. But all this eccentricity backfired on him in 1985."
+    },
+    {
+      "timestamp": "02:35:14",
+      "text": "Apple's board effectively kicked Jobs out of his own company when he clashed with the professional CEO brought in to provide adult supervision. Jobs' return to Apple 12 years later shows how the most important task, this is probably the most important sentence of this section. Jobs returned to Apple 12 years later shows how the most important task in business, the creation of new value, cannot be reduced to a formula and applied by professionals. When he was hired as interim CEO of Apple in 1997, the impeccably credentialed executives who preceded him had steered the company nearly to bankruptcy."
+    },
+    {
+      "timestamp": "02:35:56",
+      "text": "That year, Michael Dell famously said of Apple, what would I do? I'd shut it down and give the money back to shareholders. Instead, Jobs introduced the iPod in 2001, the iPhone in 2007, and the iPad in 2010 before he had to resign in 2011 because of poor health. By the following year, Apple was the single most valuable company in the world. Apple's value crucially depended on the singular vision of a particular"
+    },
+    {
+      "timestamp": "02:36:27",
+      "text": "person. This hints at the strange way in which the companies that create new technology often resemble feudal monarchies rather than organizations that are supposedly more modern. A unique founder can make authoritative decisions, inspire strong personal loyalty, and plan ahead for decades. Paradoxically, impersonal bureaucracies staffed by trained professionals can last longer than any lifetime, but they usually act with short time horizons. The lesson for business is that we need founders. If anything, we should be more tolerant of founders who seem strange or extreme. We need unusual individuals to lead companies beyond mere incrementalism. And that's where I'm going to leave it for today."
+    },
+    {
+      "timestamp": "02:37:26",
+      "text": "If you're interested in reading the books, which I would definitely recommend, and you want to help support the podcast, I leave links in the bottom of every podcast description. Those are Amazon affiliate links. So if you click on that link and you purchase the book through that link, Amazon will give me a small percentage of the sale at no additional cost to you. It's really an interesting way. You'll get a great read, some great ideas, and I'll get a tiny bit of money from that. And in case that"
+    },
+    {
+      "timestamp": "02:37:57",
+      "text": "you want to listen to the books instead of read, I just put a short little link in right underneath the links to the books that gives you two free audio books instead of one. So you can get two free audio books if you click that link. And that's it. I will be back very soon with another podcast. Actually, I'll be back on Monday with another podcast about a company founder."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:26:53.539Z"
+}

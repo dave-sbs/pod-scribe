@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "episodeNumber": 157,
+    "title": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+    "slug": "157-the-innovators-how-a-group-of-hackers-geniuses-and-geeks-created-the-digital-revolution",
+    "url": "https://podscripts.co/podcasts/founders/157-the-innovators-how-a-group-of-hackers-geniuses-and-geeks-created-the-digital-revolution",
+    "date": "December 7, 2020",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "The computer and the internet are among the most important inventions of our era, but few people know who created them. They were not conjured up in a garage by a solo inventor, suitable to be singled out on a magazine cover, or put into a pantheon with Edison, Bell, or Morse. Instead, most of the innovations of the digital age were done collaboratively. There were a lot of fascinating people involved, some ingenious and a few even geniuses. This is the story of those pioneers, hackers, inventors, and entrepreneurs, who they were, how their minds worked, and what made them so creative."
+    },
+    {
+      "timestamp": "00:00:39",
+      "text": "The collaboration that created the digital age was not just among peers, but also between generations. Ideas were handed off from one cohort of innovators to the next. I was struck by how the truest creativity of the digital age came from those who were able to connect the arts and the sciences. They believed that beauty mattered. I always thought of myself as a humanities person as a kid, but I liked electronics, Steve Jobs told me when I embarked on his biography. Then I read something that one of my heroes, Edwin Land of Polaroid, said about the importance of people who could stand at the intersection of humanities and sciences. And I decided that's what I wanted to do. The people who were comfortable at this humanities-technology intersection helped to create the human-machine symbiosis that is the core of this story."
+    },
+    {
+      "timestamp": "00:01:33",
+      "text": "Like many aspects of the digital age, this idea that innovation resides where arts and scientists connect is not new. Leonardo da Vinci was the exemplar of the creativity that flourishes when the humanities and sciences interact. When Einstein was stymied while working out general relativity, he would pull out his violin and play Mozart until he could reconnect to what he called the harmony of the spears. When it comes to computers, there is one other historical figure not well known, who embodied the combination of the arts and sciences. Like her famous father, she understood the romance of poetry."
+    },
+    {
+      "timestamp": "00:02:18",
+      "text": "Unlike him, she also saw the romance of math and machinery. And that is where our story begins. That was an excerpt from the introduction of the book that I'm going to talk to you about today, which is The Innovators, How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution, and it was written by Walter Isaacson. So let me tell you, before I jump into the book, let me tell you how I found this book. So a few weeks ago, I read the book Invent and Wander, The Collected Writings of Jeff Bezos. The vast majority of that book is just written directly by Jeff Bezos, right? But the introduction is written by Walter Isaacson. It's a fairly long introduction, and he's comparing and contrasting Jeff Bezos with other historical figures."
+    },
+    {
+      "timestamp": "00:02:53",
+      "text": "So Isaacson has done a bunch of biographies that I actually did podcasts on. So I did a podcast on his book by Benjamin Franklin, American Life. Steve Jobs, he wrote probably the most famous biography of Steve Jobs. And I also did his podcast on his biography of Leonardo da Vinci. So in that introduction, Invent and Wander, he's comparing Jeff Bezos to all these other people. And he also compares it to this person I don't recall. And it was this person named Ada Lovelace. And he mentioned writing a book on her. And I was like, how did I miss that? Because I went through, you know, once I find a writer, I usually, if I enjoy his books, I usually try to read others. And so I realized he's talking about this book."
+    },
+    {
+      "timestamp": "00:03:39",
+      "text": "So the first chapter of the book that I have in my hand is about Ada Lovelace. So let me read, just in case you're unfamiliar with her like I was, let me just read the first paragraph from her Wikipedia page. So it says she was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general purpose computer. This is in the 1800s. That computer was called the Analytical Engine. She is believed to be the first to recognize that the machine had applications beyond pure calculation and to have published the first algorithm intended to be carried out by such a machine. As a result, she's often regarded as the first to recognize the full potential of computers and and recognized as one of the first to be a computer programmer."
+    },
+    {
+      "timestamp": "00:04:22",
+      "text": "So when I read that, I was like, OK, I definitely have to read this book. Okay, so before I jump back into the book, I guess I'm going to tell you something right up front. Normally, when I sit down to talk to you, I'm really excited to tell you about the things I learned from reading the book. I don't feel that way right now. I feel very nervous because this is a much larger story than the life story of one individual. It's a biography of sorts of the digital revolution and then maybe, what, hundreds of people that influenced that. So today is not going to, there's not going to be much of a narrative here. The story is just too large. And Isaacson's books, I mean, he's incapable of writing small books anyways."
+    },
+    {
+      "timestamp": "00:04:59",
+      "text": "I'm looking at the biography of Da Vinci right now. All his books are gigantic, right? And every page is very, there's just a lot of information on there. So I'm just telling you up front, because I'm very hyper sensitive to ever wasting a minute of your time, it's going to be completely random. These are just the highlights that I thought were interesting. To get the full story, you definitely have to read the book because there's just so much information in there. So with that out of the way, I'm going to jump into talking about Ada Lovelace first, and then I'll go through some of the other characters that I found were interesting and parts of the book. And this is a little bit about her early childhood, her early life."
+    },
+    {
+      "timestamp": "00:05:36",
+      "text": "It says Lady Byron, that's Ada's mother, wanted to make sure that Ada did not turn out like her father. And part of her strategy was to have the girl rigorously study math as if it was an antidote to poetic imagination. So Lord Byron, in case you don't know, he was one of the most famous English poets that ever lived. He was alive in the end of the 1700s, died early. He died at 36 years old. So does Ada. And he dies in 1824. So he is a he's completely different than what his daughter winds up being."
+    },
+    {
+      "timestamp": "00:06:10",
+      "text": "You know, the term Luddite, it's now used as like shorthand to describe somebody. It's like anti-technology. It actually comes from these English textile workers who, in a form of protest, broke all these machineries, these textile machineries that were used to essentially replace workers. So Lord Byron was a large supporter of that. He was very anti-technology. He thought it would make us less human. His daughter is very different. She has the romantic and poetical sensibilities of her father. But then as we see with her mother, she also has a love of technology and mathematics"
+    },
+    {
+      "timestamp": "00:06:45",
+      "text": "and sees how the two fields relate. Okay. So that's just some background. Isaacson talks about Byron. He's actually a really funny, interesting figure. But that's in the book if you want to learn more about that. So it says, despite these efforts, Ada developed some of her father's propensities. She had an affair as a young teenager with one of her tutors. So what they're talking about there is, you know, Lord Byron was extremely famous in his day. Very much a playboy, a ladies' man. Constantly had affairs and, you know, just kept a stable of lovers. In addition, she had mood swings that took her from feelings of grandiosity to despair. And she suffered various maladies both physical and psychological she winds up getting"
+    },
+    {
+      "timestamp": "00:07:27",
+      "text": "she becomes addicted to gambling and painkillers i think uh so it just gives you an insight so she decided on her own at 18 to begin a new series of lessons this is a direct quote from her i must cease to think of living for pleasure or self-gratification she wrote to her new tutor i find that nothing but very close and intense application to subjects of a scientific nature now seem to keep my imagination from running wild. Her interest in technology was stoked when their mother took her on a trip through the British industrial midlands to see the new factories and machinery. Ada was particularly impressed with an automated weaving loom that used punch cards to direct the creation"
+    },
+    {
+      "timestamp": "00:08:06",
+      "text": "of the desired fabric patterns and she drew a sketch of how it worked and in this next section we see a little bit about her personality she's definitely a misfit like her father did not want to defer to authority she declared that she could relate to her father's defiance of authority referring to his misused genius she wrote to to her mother, if he has transmitted to me any portion of that genius, I would use it to bring out great truths and principles. I think he has bequeathed this task to me. I have this feeling strongly, and there's a pleasure attending to it. And we also see that she had a very, she was full of self-confidence. She developed a somewhat outsized opinion of her own talents and began to describe herself as a genius."
+    },
+    {
+      "timestamp": "00:08:48",
+      "text": "In her letters to Babbage, this becomes a mentor. He's, let's say, a generation older, maybe like an older brother, several years, maybe a decade and a half older than her. He's the one that is developing the analytical engine, which is you could think of as like a very early version of what's going to turn into a computer. So it says in her letter to Babbage, she wrote, do not reckon me conceited, but I believe I have the power of going just as far as I like in such pursuits. So there we see in her writing, her very developed sense of confidence. Again, Isaacson does a great job of putting this into historical context. So this is extremely rare for women at the time. And then you have to have this,"
+    },
+    {
+      "timestamp": "00:09:30",
+      "text": "this self-confidence to buck the trend of the culture that you're living in and the times that Ada was alive. And I'm going to tell you more about that in a second. This one sentence, I just want to include before I go back into her self-confidence. The whole concept of imagination, especially as it was applied to technology, intrigued her. So we see the why, like why she's so interested in this. Ada believed she possessed special, even supernatural abilities, which she called an intuitive perception of hidden things. That's a direct quote from her. Her exalted view of her talents led her to pursue aspirations that were, I just ran over my own point here. Here's another quote from her. So what winds up making Ada Lovelace famous is she writes what she titles at the time notes."
+    },
+    {
+      "timestamp": "00:10:37",
+      "text": "Other people, including Alan Turing and other people that are building the digital revolution, refer to it as Lady Loveless's notes. It's almost like a small book, 20,000 words, on what she feels is the potential for a machine like Babbage's analytical engine. And a lot of what she's going to predict winds up coming true with the invention of the personal computer. So it says, in her notes, Ada explored four concepts that would have historical resonance a century later when the computer was finally born. Actually, not even the personal computer, the computers that came before them when they were the size of rooms. The first was that a general purpose machine, one that could not only perform a preset task, but could be programmed and reprogrammed to do a limitless and changeable array of tasks. In other words, she envisioned the modern computer. And what's really interesting about this is she's seeing things that the inventor, Babbage, couldn't even see. So it says,"
+    },
+    {
+      "timestamp": "00:11:31",
+      "text": "this insight would become the core concept of the digital age. Any piece of content, data, or information, music, text, pictures, numbers, symbols, sounds, video, could be expressed in digital form and manipulated by machines. She's having this insight in the 1800s. That's what makes her so unique. Even Babbage failed to see this fully. He focused on numbers, meaning straight up calculations, just math, right? But Ada realized that the digits on the cogs could represent things other than mathematical quantities. Thus, did she make the conceptual leap from machines that were mere calculators"
+    },
+    {
+      "timestamp": "00:12:04",
+      "text": "to ones that we now call computers but then she takes it even further which is she's talking about artificial intelligence again in the 1800s this is wild there was one other significant concept that she introduced in her notes it raised what is still the most fascinating metaphysical topic involving computers that of artificial intelligence can machines think think? Ada believed not. A century later, this assertion would be dubbed Lady Loveless's Objection by the computer pioneer Alan Turing. Now, Isaacson summarizes why he feels that she's worthy of her reputation and respect. She deserves respect as a person who, rising above the expectations of her background and gender"
+    },
+    {
+      "timestamp": "00:12:40",
+      "text": "and defying plagues of family demons, dedicated herself diligently to complex mathematical feats that most of us never would or could attempt. Her impressive mathematical labors and imaginative insights came in the midst of bouts of illnesses that would cause her to become dependent on opioids that amplified her mood swings. And now he tells us about her response to her notes being published and her response to her contribution to what would be a brand new field. For a while, she was able to bask in acclaim from her friends and to hope that she would be taken seriously in scientific and literary circles. Publication made her finally feel like a, quote, completely professional person. She wrote to her"
+    },
+    {
+      "timestamp": "00:13:20",
+      "text": "lawyer, I really have become as much tied to a profession as you are. It was not to be. Babbage got no more funding of his machines. They were never built and he died in poverty. As for Lady Loveless, she never published another scientific paper. Instead, her life spiraled downward and she became addicted to gambling and opioids. She had an affair with a gambling partner who then blackmailed her. During the final year of her life, she fought an exceedingly painful battle with uterine cancer accompanied by constant hemorrhaging. I thought she died of a drug overdose. When she died in 1852 at age 36, she was buried in accordance with one of her last requests in a country grave next to her poet father that she never knew who had died at the same age and now isaacson"
+    },
+    {
+      "timestamp": "00:14:07",
+      "text": "summarizes uh her impact for us here the reality is that ada's contribution was both profound and inspirational more than any other person of her era she was able to glimpse into the future in which machines would become partners of the human imagination her appreciation for a poetical science led her to celebrate a proposed calculating machine that was dismissed by the scientific establishment of her day, and she perceived how the processing power of such a device could be used on any form of information. Thus did Ada, Countess of Lovelace, help sow the seeds for a digital age that would blossom 100 years later. Okay, so now this is where the part of the book where Isaacson starts to build the history of the digital revolution through the people that contributed to it. So I just want to read this one section to you. I've talked about him on a number of podcasts. Definitely the one on Claude Shannon. He's also a figure in Tuxedo"
+    },
+    {
+      "timestamp": "00:15:01",
+      "text": "Park and a couple other podcasts I've done. And I've been, I'm embarrassed now because we all know I can't pronounce anything correctly, but I've been calling this guy Vannevar Bush. In, Isaacson says, he writes what I thought, what I was reading is Vannevar. And he says, rhymes with beaver. It's Vannevar, Vannevar Bush. So it says Van Iver Bush, and I'm going to most likely read his autobiography, maybe another biography of him. He's definitely going to come in the future because he's such an important figure. And he appears in those are the two books that come off time of mine, but I'm pretty sure he's been in a bunch of others. So this is Van Iver Bush. Remember his name for he is a key character in this book, was able to build the world's first analog electrical mechanical computer. He dubbed his machine a differential analyzer."
+    },
+    {
+      "timestamp": "00:15:50",
+      "text": "Okay, so if you listen to the podcast I did on A Mind at Play, the fantastic biography of Claude Shannon, that is the machine that Bush hires Shannon to run that machine. And so that's how their two lives connected. Now he also is going to, this is where we could just get into some random stuff. Um, because again, the story is just much too large to, to build into any kind of narrative here. Uh, this is a little bit about Alan Turing. It's just amazing. It is absolutely amazing how many historical figures are in this book. And there's maybe like 10 of them that I've done podcasts on. So says this on Turing, there was a lonely intensity to him. He also had a trait so common among innovators that was charmingly described"
+    },
+    {
+      "timestamp": "00:16:35",
+      "text": "by his biographer. And he says, Alan was slow to learn that indistinct line that separated initiative from disobedience. This is actually a writing his mother wrote in her memoir. She describes her son. He could be abstracted and dreamy, absorbed in his own thoughts, which on occasion made him seem unsociable. Indeed, he surmised that the seclusion of a medieval monastery would have suited him very well. He was very introverted, did not, he was very"
+    },
+    {
+      "timestamp": "00:17:07",
+      "text": "comfortable in paying attention to his thoughts as opposed to other people. Although he did work hand in hand with a lot of people, Claude Shannon being one of them. Claude Shannon, obviously, is going to pop up in this book. It's extremely important because he wrote what people consider the Magna Carta of the Information Age. There was another seminal theoretical breakthrough in 1937. This one was the work of an MIT graduate student named Claude Shannon, who that year turned in the most influential master thesis of all time. That is a hell of a statement. A paper that Scientific America later dubbed the Magna Carta of the Information Age."
+    },
+    {
+      "timestamp": "00:17:41",
+      "text": "And I'm not going to cover too much about Shannon that I already covered in other podcasts, but I thought this was interesting because it's really a thesis behind the whole book and i'd say thesis behind founders is the fact that we're constantly building on the ideas of people that came before us so it's just better to know about those ideas right not to be ignorant of all that humans accomplished before we were born at bell bell lab shannon saw up close the wonderful power of the phone system circuit uh somebody just sent me a book recommendation on Bell Labs. I can't remember the name of the book, but it's a history of Bell Labs I might cover in the future. So it says, This is what I love, taking an idea from one field and applying it to another. In his mind, he began concocting the workings of these circuits to another subject that he found fascinating."
+    },
+    {
+      "timestamp": "00:18:28",
+      "text": "The system of logic formulated 90 years earlier by the British mathematician George Boole. Boole revolutionized logic by finding ways to express logical statements using symbols and equations. He gave true propositions the value of one and false propositions a zero. A set of basic logical operations such as and, or, not, either or, and if then, he's talking about computation there, isn't he, could then be performed using these propositions just as if they were math equations. Shannon figured out that electrical circuits could execute these logical operations using an arrangement of on-off switches."
+    },
+    {
+      "timestamp": "00:19:14",
+      "text": "He says it is possible to perform complex mathematical operations by means of relay circuits. He summed up at the end, this became the basic concept underlining all digital computers. Okay, so I'm skipping over large parts of the book. There's a bunch, I have a bunch of highlights I'm not going to share on the podcast just because they're just, it's like one or two sentences about a person. I'm going to focus instead on the people that"
+    },
+    {
+      "timestamp": "00:19:39",
+      "text": "I highlighted a lot of. So it gives you like mini stories within a story. I found this guy named John von Neumann to be very interesting. and this is just one of these people that have a broad set of knowledge about different subjects he's a mathematician a physicist a computer scientist an engineer and i just thought his way that he would collect a bunch of ideas and then assimilate all those ideas together to create new unique ideas was very fascinating so it says at this point one of the most interesting characters in the history of computing reenters the tale, John von Neumann, the Hungarian-born mathematician who is a mentor to Alan Turing in Princeton, or at Princeton. And to give you an idea of the formidable intellect of von Neumann, it says,"
+    },
+    {
+      "timestamp": "00:20:18",
+      "text": "this is a quote from one of the developers of the hydrogen bomb, Edward Teller, who once said, if a mentally superhuman race ever develops, its members will resemble John John von Neumann. Von Neumann was an elegant bon vivant who hosted sparkling parties with his wife once or twice a week at their huge house in Princeton. Von Neumann wore a three piece suit at almost all times,, including on a donkey ride down the Grand Canyon. He ate so heartily that his wife once said he could count anything except calories. And he drove cars with an abandon that was reckless. So I just found his personality very interesting. He's very full of life. Again, just exciting."
+    },
+    {
+      "timestamp": "00:21:00",
+      "text": "Von Neumann developed an interest in ways to mathematically model explosive shockwaves. This led him to become, in 1943, a member of the Manhattan Project. Later on, Neumann embarked on a mission to understand the potential of high-speed computers. So he starts interacting with all these other people working in the same field. One of his main criticisms is that he talked about concepts this is a quote from another person in the book, he says he talked about concepts without worrying where they came from. He would go around talking to people, had a very extensive network,"
+    },
+    {
+      "timestamp": "00:21:30",
+      "text": "constantly connecting with people together. And if he learned something from you, he'd repeat it. And sometimes he'd forget where he learned these things from. I don't really see an issue with that. I think all ideas, no one really owns ideas."
+    },
+    {
+      "timestamp": "00:21:43",
+      "text": "They're just, they're constantly built and manipulated through time and added upon by other people. But again, people, they rubbed, that part of Newman's personality rubbed people the wrong way. I didn't see, based on Isaacson's writing, any like malice or, you know, I don't think he was doing it. He wasn't saying, hey, I'm credited with this. He was just very interested in sharing everything he knew. Von Neumann had also mastered the integrating art of feigning humility. He was an amazing combination of a brilliant man who knows that he's brilliant, but at the same time, he's very modest and shy about presenting his ideas to other people. He was very restless and"
+    },
+    {
+      "timestamp": "00:22:19",
+      "text": "would march back and forth across the room. Yet when he presented his ideas, it was almost as though he was apologizing for disagreeing with you or thinking of a better idea. And almost everybody that met him was like, this guy's a flat out genius. And so we hear a little bit about that here. It says it was a manifestation of his broader talent, which was to get the essence of a new idea. The thing that von Neumann had,"
+    },
+    {
+      "timestamp": "00:22:38",
+      "text": "which I've noticed that other geniuses have, is the ability to pick out in a very particular problem, the one crucial thing that was important. Okay. I want to skip ahead to, to, so as much as I admired Newman on the other end of the spectrum, I, I, along with many people disliked William Shockley. So you might know the name if you've listened to all these podcasts by now, I think way back on founders number eight, maybe I did the book, the Intel Trinity. It's about the founding story of Intel. I focused on Bob Noyce, who I found really interesting. He was the mentor of Steve Jobs, but he worked for"
+    },
+    {
+      "timestamp": "00:23:13",
+      "text": "William Shockley. Before he started his own company, he winds up leaving Shockley's company because Shockley was so inept at managing and just a distasteful person in general. So this section is really not about qualities that we want to emulate, but ones we want to avoid, right? Which I think is the other part, the benefit of learning from history. William Shockley impressed the others and sometimes frightened them with both his intellect and his intensity. Definitely, definitely smart, really crappy people skills though. Even as a baby, he had a ferocious temper with fits of rage so loud and so long that his parents kept losing babysitters and apartments. His tenacity was ferocious. In any situation, he simply had"
+    },
+    {
+      "timestamp": "00:23:50",
+      "text": "to have his way. He was incisive, creative, and ambitious. He never learned to be easygoing or friendly. He had an intellectual and personal intensity that made him difficult to deal with. The pride he should have felt in the success of his team was overshadowed by his intense and dark competitive drive. He wanted all the credit. This is what I mean about he was not a good person to run a company. And he later admits this being like a defect in his personality. He says, my emotions were somewhat conflicted, he later admitted."
+    },
+    {
+      "timestamp": "00:24:20",
+      "text": "My elation with the group's success was tempered by not being one of the inventors. I experienced some frustration that my personal effort, this is the, he winds up inventing an improvement on somebody else's invention. That's what he's credited for. But that's what he's referencing here. He got so mad that he made him work harder so he could actually get the credit. Okay, so it says, I experienced some frustration that my personal effort started more than eight years before had not resulted in a significant inventive contribution of my own. There were demons that increasingly gnawed away deep in his psyche. He would never again be friends with Bardeen and Brattain."
+    },
+    {
+      "timestamp": "00:24:56",
+      "text": "These are the two people he was working with. Instead, he started working feverishly to claim equal credit for the invention and to create on his own an even better version. And this is where we see more of what I would describe petty behavior from him. claim equal credit for the invention and to create on his own an even better version. And this is where we see more of what I would describe petty behavior from him. Shockley became increasingly disconcerted, so much so that he had trouble sleeping. His will to think, as he called it, was driven by my own motivation to play a more significant, personal, rather than managerial role in what was obviously becoming a development of enormous potential importance so he's talking this is all ego here right i'm just doing this not for the betterment of anybody else but because i want adulation from other people at odd hours of the"
+    },
+    {
+      "timestamp": "00:25:36",
+      "text": "night he would pace around searching for better ways to make the device and this is just more on the faults of shockley here one One problem with successful teams, particularly intense ones, is that they sometimes break up. It takes a special kind of leader, inspiring yet also nurturing, competitive yet collaborative, to hold such teams together. Shockley was not such a leader. He was just the opposite. He was autocratic, often snuffing out spirit by quashing initiative."
+    },
+    {
+      "timestamp": "00:26:03",
+      "text": "His prickly personality meant that he was passed over for promotions. The hell with that, he told a colleague. I'll set up my own business. I'll make a million dollars that way, and I'll do it out in California. And this move to California is what many people believe is the very beginning of Silicon Valley. He traveled the country trying to figure out his new venture. This is actually smart. He visited technology companies and met with successful entrepreneurs such as William Hewitt and Edwin Land."
+    },
+    {
+      "timestamp": "00:26:28",
+      "text": "He winds up getting funding. Shockley Semiconductor is going to be like a subsidiary of another company. And the person that he wants to get funded from is this guy named Beckman. And the only way I left myself on this page was just facepalm because shockley didn't you again he's extremely arrogant but the problem is like part part of the problem with being arrogant is you you think you know everything and he didn't know what he didn't know so he he starts assembling this board of directors and what does he do he puts on all his competitors about it on it and this one more experience actually is like that's really stupid shockley. Like your board is going to be privy to information that could help their business and in turn harm your business."
+    },
+    {
+      "timestamp": "00:27:10",
+      "text": "What are you doing? So he says, I asked him a little bit more about who else was going to be on the board. And it turned out he was going to have a board composed of almost everyone who was in the instrument business, all of whom would be his competitors. Beckman realized how unbelievably naive Shockley was. This is interesting. Shockley also insisted that the company be located in Palo Alto, where he had been raised so that he could be near his aging mother, which then had the historical significance of helping to create Silicon Valley. So he starts his company. This is actually a smart move that he does. I love Bob Noyce. So he says he set up he set about compiling a list of the best semiconductor semiconductor engineers in the country and calling them cold. The most notable of them all destined to be the most notable of them all destined to be a momentous choice was Robert Noyce, a charismatic Iowa golden boy with a doctorate from MIT, was at the time a 28-year-old research manager."
+    },
+    {
+      "timestamp": "00:28:07",
+      "text": "In January 1956, Noyce picked up the phone and heard the words, Shockley here. He knew immediately who it was. It was like picking up the phone and talking to God, Noyce declared. And so Noyce talks about why he had obviously great respect for Shockley, didn't work closely with him, didn't realize how deficient his personality was. He winds up leaving Shockley Semiconductor, taking a bunch of seven other people with him."
+    },
+    {
+      "timestamp": "00:28:32",
+      "text": "They're called the Traders Eight. It's a very famous event in the early days of the technology industry. But what Noyce is saying here was very interesting, talking about why he spent so much, like why he was so excited to work in this field. He says, i suppose that was one of the things that influenced me to get involved in transistors noise described his excitement more vividly the concept hit me like an atom bomb it was simply astonishing just the whole concept it was one of those ideas that just jolt you out of the rut and get you thinking in a different way honestly this is exactly how i feel about podcasts"
+    },
+    {
+      "timestamp": "00:29:03",
+      "text": "and now we get to the point where Shockley unravels. Some leaders are able to be willful and demanding while still inspiring loyalty. They celebrate the audaciousness in a way that makes them charismatic. Steve Jobs, for example, his personal manifesto, dressed in the guise of a TV ad, began, here's to the crazy ones, the misfits, the rebels,"
+    },
+    {
+      "timestamp": "00:29:24",
+      "text": "the troublemakers, the round pegs in the square holes. Amazon's founder, Jeff Bezos, has the same ability to inspire. The knack is to get people to follow you even to places that they may not think they can go by motivating them to share your sense of mission. So that's what Jobs and Bezos are able to do. Shockley could not do that. Many transformative innovators have been similarly stubborn about pushing a new idea, but Shockley crossed the line from being visionary to being hallucinatory. I don't, that's not how you pronounce that word. Turning him into a case study in bad leadership. I do not want to get to, after I die, I don't want people to write about me in this way. Like this is a, this is a cautionary tale we're learning here. Turning him into a case study in bad leadership."
+    },
+    {
+      "timestamp": "00:30:07",
+      "text": "That's terrible. He couldn't face up to the fact that he made a bad decision, so he started blaming everyone around him. His paranoia, already diffusing into his personality layers, was manifest in disruptive incidents. For example, when a secretary at the firm cut her finger opening a door, Shockley became convinced it was a sabotage scheme. I don't even understand what he's talking about here."
+    },
+    {
+      "timestamp": "00:30:31",
+      "text": "He ordered everyone in the firm to take a lie detector test. This guy's nuts. When Shockley returned from Stockholm collecting his Nobel Prize, the atmosphere at the firm deteriorated very rapidly. He got way too high on his own supply. It began to resemble a big psychiatric institute, Noyce told. Noyce told Shockley of the general feeling of resentment that was accumulating, but his warning had little effect. So this is where Noyce and he actually has to be convinced later by Gordon Moore and other people to jump."
+    },
+    {
+      "timestamp": "00:31:03",
+      "text": "And this is where they're going to do Fairchild Semiconductor. But this was a surprising way that the Trader's Eight wind up getting funding. And this is, you're going to see a character that's appeared in several other books. I want to find, see if there's a biography on him, because he was an early investor in Apple. His name's Arthur Rock. I didn't, I forgot, or maybe I never knew. He's going to wind up being an early investor in Intel."
+    },
+    {
+      "timestamp": "00:31:25",
+      "text": "He was an early investor on the board of Teledyne, Henry Singleton's company. Like, how is this even possible? So it says, we believe that we could get a company into the semiconductor business within three months. So the traders are trying to raise money. There's really no venture capital industry to speak of at the time."
+    },
+    {
+      "timestamp": "00:31:41",
+      "text": "And so they're sending letters to institutions, investors, just trying to figure out how to do this. And so they're sending letters to institutions, investors, just trying to figure out how to do this. And it says the letter ended up on the desk of Arthur Rock, who at the time was a 30-year-old analyst who had been succeeding with risky investments. Rock was impressed. As soon as I saw Noyce, I was struck by his charisma, and I could tell he was the natural leader. They deferred to him. At that meeting, the group, including Noyce, made a pact that they would all leave together to form a new firm. It was hard to get money."
+    },
+    {
+      "timestamp": "00:32:11",
+      "text": "The idea of seed funding for startups was not yet well established. When someone suggested, so Arthur Rock's trying to be the one to do this deal, he's not having success, so he winds up, someone tells him, hey, go meet with this guy named Sherman Fairchild."
+    },
+    {
+      "timestamp": "00:32:29",
+      "text": "Maybe I should find a book on this guy too because he's an outlandish character. Fairchild was the owner of Fairchild Camera and Instrument. He was an inventor, a playboy, entrepreneur, and the largest single stockholder in IBM, which his father had co-founded. A great tinkerer, as a Harvard freshman, he invented the first synchronized camera and flash. He went on to develop aerial photography, radar cameras, specialized airplanes, methods to illuminate tennis courts, high-speed tape recorders,"
+    },
+    {
+      "timestamp": "00:32:56",
+      "text": "color engraving machines, and a wind resistance match. In the process, he had a second fortune to his inheritance, and he was as joyful in spending it as he had been making it. He put up $1.5 million to start the new company. And he has an option that if it's successful, he can buy the whole company for $3 million, which he winds up doing. And then that part leads to the founding of Intel later. Shockley's semiconductor never recovered. Six years later, Shockley gave up and joined the faculty at Stanford. The traitorous eight who had formed Fairchild Semiconductor, by contrast, turned out to be the right people at the right time at the right place. The demand for transistors was growing."
+    },
+    {
+      "timestamp": "00:33:36",
+      "text": "The civilian space program, along with the military program to build ballistic missiles, propelled the demand for both computers and transistors. So I just included that part because you and I have talked about this over and over again. There's just something, you see this example in history over and over again, that there's the right person at the right place with the right set of skills at the right time. Okay, so I want to talk more about Arthur Rock. He's the one that, noise is going to go to him when he leaves Fairchild Semiconductor. Well, let me not run over my point. Let me just read this. This is really about the beginning of venture capital."
+    },
+    {
+      "timestamp": "00:34:06",
+      "text": "And again, I think this Arthur Rock character is very interesting. I'm not going to talk too much more about Noyce. I have another biography of his coming. It hasn't arrived yet. So it'll probably be a New Founders episode of him, I would say, in the next few weeks. All right. So it says, in 11 years since he assembled a deal for the Traders 8 to form Fairchild Semiconductor, Arthur Rock had helped to build something that was destined to be almost as important to the digital age as the microchip venture capital."
+    },
+    {
+      "timestamp": "00:34:30",
+      "text": "For much of the 20th century, venture capital and private equity investing in new companies had been mainly the purview of a few wealthy families, such as the Vanderbilts, Rockefellers, Whitney's, Phipps's, and Warburg's. And it talks about one of the first, you can consider like venture capital firms, actually came from the Whitney family fortune. It says they set up a company called J.H. Whitney & Company. And listen, this was really interesting, which specialized in what they originally called adventure capital. And their purpose was to fund entrepreneurs with interesting ideas who could not get bank loans. Adventure capital sounds way better than Venture Capital."
+    },
+    {
+      "timestamp": "00:35:06",
+      "text": "They should have kept that name, right? Adventure Capital. I'm an adventure capitalist. That's fantastic. Arthur Rock took this concept west. Oh, so this is interesting. So Arthur Rock is learning about what the Whitney's are doing. And this is going to remind you of the idea."
+    },
+    {
+      "timestamp": "00:35:19",
+      "text": "Remember we talked about Milton Hershey? You know, at the time he had failed, I think he had two or three failed businesses, goes out west, I think to Colorado if I remember correctly, and realizes, hey, they have an idea out here. I think it was making like caramel, good tasting caramel that didn't spoil, if I remember correctly. And he's like, I'm going to take this idea that's out in the middle of nowhere and transport it back east. And that's where he built his first successful company, sells that company and starts Hershey Chocolate."
+    },
+    {
+      "timestamp": "00:35:48",
+      "text": "Right. Arthur Rock does something very similar. He's like, oh, the Whitney's have a good idea. Why don't I take that idea what they're doing and take it out west to California? Arthur Rock took this concept west, ushering in the Silicon Age of venture capital. When he put together Noyce's Traderous Eight, Rock took a stake in the deal. After that, he realized that he could raise a fund of money and do similar deals without relying on one corporate patron. The money, and then this is what he says about that. The money was on the East Coast, but the exciting companies were in California. So he decided to move west knowing"
+    },
+    {
+      "timestamp": "00:36:19",
+      "text": "that it could connect the two. I like that idea because it could be, again, there's a lesser known idea that's in a different place that maybe you could bring, whether it's one geography or one industry, whatever the case is. I like the transfer of that and building value, bringing something new to an area, whether it be an industry or an actual location that wasn't there before. One of his key investment maxims was to bet primarily on the people rather than the idea. We're going to see how he does that with noise i believe so strong this is arthur rock speaking i believe so strongly in people that i was that i think talking to the individual is much more important than finding out too much"
+    },
+    {
+      "timestamp": "00:36:55",
+      "text": "about what they want to do that part reminded me of this uh famous quote that's in the book creativity inc by ed catmull the co-founder of pixar he talks know, he gives these talks like what's more important, people or ideas? And he's like, it's obvious, like ideas come from people. So people are more important. And the best illustration of that was this quote where he's like, listen, if you give a good idea to a mediocre team, they'll screw it up. But if you give a mediocre idea to a brilliant team, they will either fix it or throw it away and come up with something better."
+    },
+    {
+      "timestamp": "00:37:23",
+      "text": "So I think that's what Arthur Rock is echoing there. He's like, listen, I'm all about people because that person is going to figure it out. I'm betting on the person. It doesn't matter if their idea changes or not. So it says two of his first bets were on Teledyne and scientific data systems, which both paid off handsomely. So he's talking about the early days of venture capital. So now Noyce comes up to him and says, hey, if I wanted to start a company,"
+    },
+    {
+      "timestamp": "00:37:47",
+      "text": "Noyce asked, could you find me the money? Rock assured him it would be easy. What could better fit his theory that you place your money on the jockeys that you invest based on your assessment of the people running the company than an enterprise that would be led by Robert Noyce and Gordon Moore?"
+    },
+    {
+      "timestamp": "00:38:02",
+      "text": "This is Intel, obviously. He barely asked what they were going to make. It was the only investment that I ever made that I was 100% sure would succeed, he later said. So then they go into the early days of Intel. I'm not going to cover that. I do want to talk to you about Andy Grove real quick. There's just a few paragraphs that I thought were very, very interesting."
+    },
+    {
+      "timestamp": "00:38:21",
+      "text": "This is about his early childhood, which is just insane. I should read this book, actually. It's highly recommended by a lot of people. So it says, as Grove wrote in his memoir, Swimming Across, By the time I was 20, I had lived through a Hungarian fascist dictatorship, German military occupation, the Nazis' final solution, the siege of Budapest by the Soviet Red Army, a period of chaotic democracy in the years immediately after the war, a variety of repressive communist regimes, and a popular uprising that was put down at gunpoint."
+    },
+    {
+      "timestamp": "00:38:54",
+      "text": "I just can't imagine the kind of person. If you survive all that, what kind of person are you going to be? It's very interesting. And I always talk about this idea of, you know, it maybe puts the stress of building a company in the proper context. Yeah, it's difficult, but it's not like that, which I'd have lived to. So just a few more quotes about Andy Grove. Grove had a blunt, no bullshit style. It was the same approach Steve Jobs would either use."
+    },
+    {
+      "timestamp": "00:39:18",
+      "text": "Brutal honesty, clear focus, and a demanding drive for excellence. So technically, Grove wasn't a co-founder of Intel, but Arthur Rock talks about this, and Gordon Moore and Bob Noyce both acknowledge, too. He was the person that should have been running the company. Both Noyce and Moore served temporarily as the head of the company, and they're like, no, we need to get this guy. Grove's mantra was success breeds complacency."
+    },
+    {
+      "timestamp": "00:39:48",
+      "text": "Complacency breeds failure, and only the paranoid survive. So we have another extreme character there. There's an entire chapter on video games, which I love. But really, it's a chapter on Nolan Bushnell. And you already know about him because I read his book, Finding the Next Steve Jobs. He's the founder of Atari and Chuck E. Cheese, also hired a 19-year-old Steve Jobs. I'm just going to share one paragraph from this because he talks about, you know, there was no funding for a video game industry when he was building Atari."
+    },
+    {
+      "timestamp": "00:40:15",
+      "text": "Like, are you kidding me? And he talks about he had a runaway hit with the video game Pong. But he says, I'm proud of the way we were able to engineer Pong, but I'm even more proud of the way I figured out and financially engineered the business, he said. Engineering the game was easy. Growing the company without money was hard. So now we get to the part about the very beginning, like what's laid the foundation for the internet. I'm going to talk more about Van Eever. Got his name right."
+    },
+    {
+      "timestamp": "00:40:41",
+      "text": "Yeah. Van Eever Bush. Real quick. Just as a brief overview over before i jump into a book on him i found him to be a very interesting character bush was well suited to this task because he would start in all three camps he was the dean of the mit mit school of engineering a founder of the electronics company raytheon and america's top military science administrator during world war ii no American had had a greater influence in"
+    },
+    {
+      "timestamp": "00:41:05",
+      "text": "the growth of science and technology than Vannevar Bush. Again, that's a hell of a statement. This is more about crisp decisions and an overview of his life and work. Like many successful technology leaders, he was an expert in both engineering products and making crisp decisions. All of my recent ancestors were sea captains, and they have a way of running things without any doubt, he once said. That left me with some inclination to run a show once I was in it. Lean, sharp, salty. Van Bush is a Yankee whose love of science began in a passion for tinkering with gadgets. While studying at Tufts, he and his roommates consulted with a series of small companies and then after graduating, founded Raytheon, which grew into a sprawling defense contractor"
+    },
+    {
+      "timestamp": "00:41:52",
+      "text": "and electronics firm. He earned a PhD in engineering. He's one of these guys we've come across a few times where you read everything they accomplish and you just don't believe it's possible. I felt this way reading about Theodore Roosevelt last week, too. So he says, he earned a PhD in electrical engineering jointly from MIT and Harvard. Then he became a professor and a dean of engineering at MIT, where he built his differential analyzer. His passion was elevating the role of science and engineering in society at a time, the mid-1930s,"
+    },
+    {
+      "timestamp": "00:42:21",
+      "text": "when not much exciting seemed to be happening in either field. The advent of World War II would change that, producing an explosion of new technologies with Vannevar Bush leading the way. He oversell the Manhattan Project to build the atom bomb, as well as projects to develop radar and air defense systems. Time magazine dubbed him General of Physics. He was a man of strong opinions, which he expressed and applied with vigor, yet he stood in awe of the mysteries of nature, had a warm tolerance for human frailty, and was open-minded to change. When the war ended, World War II that is, Bush produced a report at Roosevelt's behest. He had to give the report to Harry Truman because Roosevelt winds up dying,"
+    },
+    {
+      "timestamp": "00:43:03",
+      "text": "that advocated government funding of basic research in partnership with universities and industry. Bush chose an evocative and quintessentially American title, Science, the Endless Frontier. So a lot of people that read that report later on and became inspired in their own careers. It's also referenced in the book later. The war, Bush wrote, had made it a clear beyond all doubt that basic science, discovering the fundamentals of nuclear physics, laser, computer science, radar, is absolutely essential to national security. It is also crucial for America's economic security. New products and new processes do not appear full grown. They are founded on new principles and new conceptions, which in turn are painstakingly developed by research in the purest realms of science. A nation which depends upon others for its new basic scientific"
+    },
+    {
+      "timestamp": "00:43:51",
+      "text": "knowledge will be slow in its industrial progress and weak in its competitive position in world trade. So he's talking about the country level. I say on a personal level that you can't, you got to build your own personal curriculum. I love that. Let me go back to that. A nation which depends upon others for its new basic scientific knowledge will be slow in its industrial progress and weak in its competitive position in world trade. The creation of a triangular relationship among government, industry, and academia was in its own way one of the significant innovations that helped produce the technological revolution of the late 20th century the return on that investment was huge leading not only to the internet but to many pillars of the american post-war innovation and economic boom okay so that's bush we'll get to more i promise i would do a podcast in the future on him for sure"
+    },
+    {
+      "timestamp": "00:44:38",
+      "text": "okay so i'm skipping way ahead there's this guy named douglas engelbart um i've heard the name i've read his last name a few times. I just found a book on him because it's just unbelievable. Let me just read. I'm just going the mouse, and there's a picture in the book of the first mouse, and it was created by this guy named Engelbert. So it says, in addition to the mouse, it included many other advances that led to the personal computer revolution. So these are all his ideas. So let me back up. Engelbert's working on these ideas in the 1960s."
+    },
+    {
+      "timestamp": "00:45:18",
+      "text": "So he's working on it for several years, and he's doing presentations on all this stuff. So it says, over the next six years culminating in 1968, Engelbert went on to devise a full-fledged augmentation system, augmentation system for computers, trying to make them have more functionality, that he called online systems."
+    },
+    {
+      "timestamp": "00:45:35",
+      "text": "In addition to the mouse, it included many other advances that led to the personal computer revolution. On-screen graphics, multiple windows on a screen, digital publishing, blog-like journals. Listen to, this is insane because this is the world we live in."
+    },
+    {
+      "timestamp": "00:45:46",
+      "text": "I mean, this is in 1968. Blog-like journals, wiki-like collaborations, document sharing, email, instant messaging, hypertext linking, Skype-like video conferencing, and the formatting of documents. One of his techno-charged protégés, Alan Kay, who would later advance each of these ideas at Xerox PARC, said of Engelbart, I don't know what Silicon Valley will do when it runs out of Doug's ideas. Okay, moving forward, we get to the part on software. Bill Gates is at like half the chapter on software."
+    },
+    {
+      "timestamp": "00:46:18",
+      "text": "A lot of what, I'm only going to read a few sentences from this section because I went back and looked at the notes that Isaacson used. A lot of them come from that book Hard Drive, which I did a few weeks ago, maybe a few months ago by now. So if you haven't gone back to listen to that, make sure you do. It's really interesting because it's the history of Microsoft and Bill Gates up until the time he IPOs and just how crazy it was. So it says, like many innovators, Gates was rebellious just for the hell of it. He decided that he would, this is, this is hilarious. He decided that he's in at Harvard at the time."
+    },
+    {
+      "timestamp": "00:46:48",
+      "text": "He decided that he would not go to lectures for any course in which he was enrolled and instead would audit lectures only on courses that he was not taking. He's just being, again, rebellious for the hell of it. And this is him talking about his personality at the time. Gates was the prime example of the innovators personality. An innovator is probably a fanatic. Somebody who loves what they do, works day and night, and may ignore normal things to some degree and therefore be viewed as a bit imbalanced, he said. Certainly, in my teens and twenties, I fit that model."
+    },
+    {
+      "timestamp": "00:47:17",
+      "text": "Gates was also a rebel with little respect for authority. He did not believe in being deferential. Then they start talking about Steve Jobs and his time at Atari. I thought this was very interesting. Jobs showed up dressed in his hippie garb and said he wouldn't leave the lobby until he was hired. Bushnell decided to take a chance on him. And this is just a great line."
+    },
+    {
+      "timestamp": "00:47:35",
+      "text": "Thus, the torch was passed from the most creative entrepreneur of video games to the man who would become the most creative entrepreneur of personal computers. Now, again, I'm not going to cover about six podcasts on Jobs here, but I do think this is, I am actually going to repeat myself because I think it's important. This is just a few brief lessons of what Steve Jobs learned at Atari. Jobs would later say he learned some important lessons at Atari, the most profound being the need to keep interfaces friendly and intuitive."
+    },
+    {
+      "timestamp": "00:48:02",
+      "text": "Instructions should be insanely simple. They give an example of an Atari game. Insert quarters, avoid Klingons. Four words. You know exactly what to do, right? Devices should not need manuals. That simplicity rubbed off on him and made him a very focused product person. Bushnell was able to help mold jobs into an entrepreneur There is something indefinable in an entrepreneur And I saw that in Steve, Bushnell said He was interested not just in engineering but also the business aspects I taught him that if you act like you can do something"
+    },
+    {
+      "timestamp": "00:48:39",
+      "text": "Then it will work I told him, pretend to be completely in control and people will assume that you are. And there's just a quote from Jobs in here that I think is a really it's an interesting way to think about a new market, which is what he was doing when he invented his the first Apple computer. Right. My vision was to create the first fully packaged computer. We were no longer aiming for the handful of hobbyists who like to assemble their own computers who knew how to buy transformers and keyboards and this is the interesting part the interesting way to think about a new market for every one of them there were a thousand people"
+    },
+    {
+      "timestamp": "00:49:16",
+      "text": "who would want the machine to be ready to run and there's something i don't recall in the other books i read on jobs he starts talking about um the the the apple one as an information appliance not as a computer like just like you you have a fridge or anything else you plug it in and just it's very obvious how you use a fridge or an oven or anything else and i like that idea it's like i'm going to do the same thing for appliances for information it's's very, very fascinating. Going back and forth now, there's a lot, again, you got to read the book because this is insane,"
+    },
+    {
+      "timestamp": "00:49:52",
+      "text": "but I want to use that idea where Bushnell just told him, act like you know what you're doing and people will believe you. This is, Gates goes and has the most important meeting of his life, right, when they meet with IBM and this is, he comes back"
+    },
+    {
+      "timestamp": "00:50:04",
+      "text": "and I thought this was interesting. So let me read the paragraph to you and then I'll tell you my interpretation of it. Once Gates began his presentation, however, they quit focusing on his disheveled appearance. He wowed the IBM team with his mastery of details, both technical and legal and projected calm confidence when insisting on terms. It was largely an act. When he arrived back in Seattle, Gates went into his office, laid on the floor and agonized aloud about all his doubts. So one, act like you're in control and people will believe it. From Nolan Bush now, right? Now two, this is the big, this is why reading these stories are so important because, you know, everybody's image of Bill Gates now is"
+    },
+    {
+      "timestamp": "00:50:42",
+      "text": "completely different than that person, right? That young Bill Gates created the old version. The biggest deal of his life, and he's full of self-doubt. What's the lesson there? It's not that you're going to be immune to self-doubt. It's that you move forward anyways. In just a few more sections on Steve Jobs, this is really about Steve Jobs, competition, personality, stealing ideas, the importance of competition. Let me just read it."
+    },
+    {
+      "timestamp": "00:51:09",
+      "text": "Steve Jobs and his team at Apple bought a new IBM PC as soon as it came out. They wanted to check out what the competition looked like. The consensus was, to use Jobs' phrase, it sucked. Jobs was aroused by competition, especially when he thought it sucked. He saw himself as an enlightened zen warrior fighting the forces of ugliness and evil that's funny one reason Jobs was dismissive"
+    },
+    {
+      "timestamp": "00:51:31",
+      "text": "was that he had already seen the future and was embarked on inventing it just like there's a history of Bell Labs there's also a book I think it's called Dealers of Lightning or something like that on the history of Xerox Park I'm actually going to read there's a two part series I'm going to do on Xerox the founders of Xerox soon and then maybe'm actually going to read, there's a two-part series I'm going to do on Xerox, the founders of Xerox soon. And then maybe I'll do,"
+    },
+    {
+      "timestamp": "00:51:47",
+      "text": "maybe make a three-part series and do the Xerox PARC, because that might be interesting. But it says, on visits to Xerox PARC, he was shown many of the ideas that Alan Kay, Doug Eglobart,"
+    },
+    {
+      "timestamp": "00:51:56",
+      "text": "the guy I just told you about, and their colleagues had developed. Jobs' two main visits with his team on Xerox PARC were in December 1979. This is where he's going to steal a bunch of ideas he uses at Apple. Jeff Raskin, an Apple engineer who was designing a friendly computer that would eventually become the Macintosh, had already seen what Xerox was doing and wanted to convince Jobs to look into it."
+    },
+    {
+      "timestamp": "00:52:15",
+      "text": "One problem was that Jobs found Raskin insufferable. The technical terminology he used for Raskin was a shithead who sucks. You've got to love the way the young Steve Jobs, man, the way he communicated. But eventually Jobs made the pilgrimage. He had worked out a deal with Xerox that allowed the Apple folks to study the technology in return for allowing Xerox"
+    },
+    {
+      "timestamp": "00:52:35",
+      "text": "to make a million dollar investment in Apple. He was great at making products, but Jobs was really good at making deals too. Jobs was certainly not the first outsider to see what Xerox PARC had wrought. Its researchers had given hundreds of demonstrations to visitors, but here's the important part. So hundreds of people saw the exact same thing Steve Jobs did. They didn't do what he did next, though. That's the difference."
+    },
+    {
+      "timestamp": "00:52:56",
+      "text": "But Jobs was the first to become obsessed with the idea of incorporating PARC's interface ideas into a simple, inexpensive personal computer. Once again, the greatest innovation would not come from the people who created the breakthroughs, but from the people who applied them usefully. Yes, that's the whole point. You're sitting on a gold mine, he shouted. I cannot believe Xerox is not taking advantage of this. When he was challenged about pilfering Xerox's ideas, Jobs quoted Picasso, good artists copy, great artists steals. We've always been shameless about stealing great ideas. He also crowed that Xerox had fumbled its ideas. They were copier heads who had no clue about what a computer could do."
+    },
+    {
+      "timestamp": "00:53:36",
+      "text": "They just grabbed defeat from the greatest victory in the computer industry. Xerox could have owned the entire computer industry, he said. In fact, neither explanation does Jobs or Apple justice. What really matters is execution. Jobs and his team took Xerox ideas, improved them, implemented them, and marketed them. Just a few more random things. This is on Steve Case and the founding of American Online, AOL. I should find a book on him because I found this very interesting."
+    },
+    {
+      "timestamp": "00:54:01",
+      "text": "I ask you, that's the first time I saw the internet. I was, I don't know, 12 years old maybe on IBM PC and using American Online to get online. Case came up with American Online, which caused many of his colleagues to gag. So they're creating a service that helps people get onto the Internet for the first time. This is really early. What, maybe 90s, early 90s? I can't remember when it was founded. But he says, but Case liked it. He knew, just as Steve Jobs had when he named his company Apple, that it was important to be, as he later said, simple, unintimidating, and even a bit sappy."
+    },
+    {
+      "timestamp": "00:54:33",
+      "text": "With no marketing dollars, Case needed a name that clearly described what the service did. And the name American Online accomplished that. Case applied the two lessons he had learned while working at Procter & Gamble. This is why I'm reading you this section. Make a product simple and launch it with free samples. America was carpet bombed with software disks offering two months of free service. That's how you got online back in the day. You connected to your phone."
+    },
+    {
+      "timestamp": "00:54:58",
+      "text": "And the way we got online, they mailed it to your house. You put in the CD-ROM and you download it. And they give you a few months free, got you download it and then you did you give you a free month a few a few they give you a few months free got you hooked and then you start paying for the service it now seems really really silly but up until 1992 oh this is another thing that was interesting it's just one highlight but they had to get a law changed this is hilarious it now seems really silly but up until 1992 it was illegal to connect a commercial service like aol to the internet and i gotta include this this quote in here it's uh they talk about the beginning of the mosaic browser created by mark andreessen um and this is mark"
+    },
+    {
+      "timestamp": "00:55:38",
+      "text": "andreessen on pioneers andreessen was a fan of the pioneers of the internet and their writings inspired him when i got a copy of vannevar bush's As We May Think, I said to myself, yep, there it is. He figured it out. Bush envisioned the internet as fully as you could, given that they didn't have digital computers. He and Charles Babbage are in the same league. That's the end of Andreessen's quote. Another hero was Doug Engelbart. That's the guy I keep mentioning."
+    },
+    {
+      "timestamp": "00:56:03",
+      "text": "His quote from, there's a quote from Andreessen about Engelbart. That's the guy I keep mentioning. It's a quote from Andreessen about Engelbart. His lab was node four on the internet, which was like having the fourth telephone in the world. He had the amazing foresight to understand what the internet would be before it got built. And finally, we're going to close back on Ada. And this is about Lady Lovelace's objection. And really what this is saying is Ada's intuition was right. Lady Lovelace's objection, and really what this is saying is Ada's"
+    },
+    {
+      "timestamp": "00:56:25",
+      "text": "intuition was right. Ada Lovelace would have been pleased. To the extent we are permitted to surmise the thoughts of someone who's been dead for more than 150 years, we can imagine her writing a proud letter boasting about her intuition that calculating devices would someday become general purpose computers. Beautiful machines that can not only be that can only manipulate numbers but can make music and process words and combine together general symbols in successions of unlimited variety the analytical engine has no pretensions whatsoever to originate anything ada lovelace declared really what she's saying she's saying that man and machine complement each other."
+    },
+    {
+      "timestamp": "00:57:05",
+      "text": "They're not replacements for one another. Peter Thiel in his book Zero to One has an entire chapter about this. In her mind, machines would not replace humans, but instead become their partners. What humans would bring to this relationship, she said, was originality and creativity. Innovation will come from people who are able to link beauty to engineering, humanity to technology, and poetry to processors. In other words, it will come from the spiritual heirs of Ada Lovelace, creators who can flourish where the arts intersect with the sciences and who have a rebellious sense of wonder that opens them"
+    },
+    {
+      "timestamp": "00:57:45",
+      "text": "to the beauty of both. And that is where I'll leave it for the full story. Get the book. If you want to, if you buy the book using the link that's in the show notes, you'll be supporting the podcast at the same time. I read this book over, I think, five days. I do not recommend doing that. I would spend more time on it. Maybe you spend a few days really digesting, which each chapter says. Isaacson does an amazing job of building. He links all these ideas together, all these people together. It's just a fantastic book. It's just a ton of information. So what I would recommend if you do care to read it is just take your time with it. So that is 157 books down, 1,000 to go. And I'll talk to you again soon."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:09:24.567Z"
+}

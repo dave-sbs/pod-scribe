@@ -1,0 +1,785 @@
+{
+  "metadata": {
+    "episodeNumber": 77,
+    "title": "Steve Jobs (The NeXT Years)",
+    "slug": "77-steve-jobs-the-next-years",
+    "url": "https://podscripts.co/podcasts/founders/77-steve-jobs-the-next-years",
+    "date": "June 23, 2019",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "When Jobs left Apple in 1985 to start another computer company from scratch, the next in its name referred to Steve Jobs' next bid to shape history, to present to a grateful world the next big thing. Intermittently, the world had heard from him and his company in press releases or in stage events for the media. But though eight years had passed and the fire of ambition burned as brightly in Jobs as ever, another business miracle had yet to materialize. Reporters who wrote about Next would often forget when exactly Next had been founded, and as late as 1992 would still refer to Next as a company that was two or three years old, an error that Jobs, of course, was happy to let stand uncorrected."
+    },
+    {
+      "timestamp": "00:00:44",
+      "text": "The less attention paid to his failures to repeat at Next his earlier success at Apple, the more attention he could direct towards Next's future, clean and untarnished, always bright with possibility. Better to look anywhere but to past record, where Jobs' attempt to build a profitable rival to Apple had led him from one strategy to another from blunder to blunder disaster to disaster what makes his next story especially intriguing however is the gullibility of many others who lent money careers and prestige to Steve Jobs quest the greater portion of investment capital came not from Jobs' own pocket,"
+    },
+    {
+      "timestamp": "00:01:29",
+      "text": "but from that of others. The amount of money that was sunk into the next venture made it a story for the history books, but not in the way that Jobs intended. Well over $250 million of capital and royalties disappeared in Next without a penny of net profit to show for the investment. Next's dismal scheme of business misjudgments threatened to go down in the books as the most expensive flop in the history of entrepreneurship. Okay, so that was from the introduction of the book that I read this week and the one I'm going to be talking to you about today, which is Steve Jobs and the Next Big Thing by Randall Strauss. So I guess I should start right at the beginning. This is going to be one of the most bizarre podcasts that I've ever done because I think there's only I think there's only one like good idea in the entire,"
+    },
+    {
+      "timestamp": "00:02:27",
+      "text": "that you get from reading the entire book. And that makes a lot of sense when you think about the book. Let me grab it real quick. Was published in 1993. So at the time the author is writing this, he's burned through, as he just said, 208 years and $250 million in capital. And the book ends with the decision by Steve Jobs. It's not even by Steve Jobs. It was forced on him, which I guess I'll get to later on, to abandon manufacturing hardware and just focus on the next step operating system. So that's 93. And so as you can imagine, if you study, if you just look at the history of Next from the time it was founded to 1983, it's a giant failure. We know because we have the benefit of hindsight"
+    },
+    {
+      "timestamp": "00:03:16",
+      "text": "that the author did not, that about four years later, Steve Jobs somehow convinces Gil Emilio, the CEO at the time of Apple, to buy Next for $450 million, which of course leads him to running Apple a year later. Now, I do want to say one thing, though, I'll just say this real quick and then we'll get into the book, is every single one of the four books that I've read, not including the two that I do on the Revere Only podcast feed, which was just about product design at Apple, which is not necessarily just to focus on Steve Jobs. But I guess what I'm saying is if all four of the books, so you have Return to the Little Kingdom, then you have The Next Big Thing, then you have Steve Jobs by Isaacson, and then you have Becoming Steve Jobs. If I could do it over again, I would read all of them, but I would do it in the order of the time period that they study."
+    },
+    {
+      "timestamp": "00:04:18",
+      "text": "So I'd start with the book I did last week, which is Return to the Little Kingdom, because what's fascinating about that is the subtitle is Steve Jobs, The Creation of Apple, and and how it changed the world. It focuses on a hugely successful company right at the beginning. So focus on the first few years of Apple. So if you haven't heard that podcast, listen to it, because I think it's good, because then you have an understanding of what happens, like what happens when you build a truly revolutionary product and it takes off like the Apple II computer did. Okay, so that was really interesting because it only focused on the first like seven years of Apple's corporate history."
+    },
+    {
+      "timestamp": "00:04:50",
+      "text": "Now this book, it only focuses on eight years of Next history and it's the opposite lesson. What happens when you have a product that no one wants to buy, which is what the Next computer was. And then I would read the two other books, Steve Jobs and then Becoming Steve Jobs because it's more of like a it's a more of a typical biography it takes his life in in totality in totality I think is the word I'm looking for okay so I just wanted to put that out there I'm gonna jump right in we're gonna still learn a lot um but most of it is you know studying the the the decisions and the strategies that Steve Jobs decided to go with and realizing, basically learning what not to do."
+    },
+    {
+      "timestamp": "00:05:30",
+      "text": "So going back into the introduction of the book, which has tons of really interesting information for us. So Nexus is a private company. They take about three years from the time it was founded before they actually have a product. And as such, Steve had to do like, they kind of compare, I think the author compares him to like the Wizard of Oz, like the man behind the curtain. Like kind of only letting you see what you wanted to see, but it's not a clear picture. And there's really no way for me to characterize this as other than just blatant lying. And it's something that still goes on to this day, which I find interesting."
+    },
+    {
+      "timestamp": "00:06:09",
+      "text": "I was just reading this article about the company WeWork, which is still private, and they come up with their own way to determine. I think it's like community-adjusted earnings before, just like a made-up metric. Again, they got a lot of flack on Twitter and otherwise for doing so, but that's not really new. Steve Jobs was making up his own metrics, and this is an example of that. So companies making up profits by removing expenses is nothing new. That's the note I left myself. And it said, the profits that Next wanted the world to notice"
+    },
+    {
+      "timestamp": "00:06:37",
+      "text": "were an accounting phantom and excluded interest payments for loans. Next had a loss for the quarter. Next did not. So they're saying, hey, we had our first profitable quarter. So this is just an introduction. We're going to go back. So he's giving us like a, you know, general like kind of like a summary for the book, if you will. And then we're going to go back in time to before they even have a product. But he says Next did not reveal that for the year the company had fallen about $40 million short of break-even. So let me give you context here. He says, hey, look, Next had our first ever profitable quarter."
+    },
+    {
+      "timestamp": "00:07:11",
+      "text": "Steve was like a master at, you know, for lack of a better word, manipulation. And especially manipulating the press and like the public image of the company, even though it was doing poorly for basically all of its existence. He would highlight, you would highlight things like this. Like, oh, we had a first profitable quarter. No, you didn't because you excluded legitimate expenses that your company has. But not only that, who really cares if you have one quarter that's profitable and you lost $40 million for the year? And again, to some people that may not seem like a relatively big deal in isolation,"
+    },
+    {
+      "timestamp": "00:07:45",
+      "text": "but to me it is a big deal because the problem is like the problem occurs when you actually, when the actual company believes in bullshit. And that's exactly what happened with Next. So it says, Next management was so persuasive in its denials of recent or imminent change and in its serene pronouncements about profits that have fooled not only the public, again, that was Jobs' objective, I would guess, and he says, but also the company's own employees. So that's a really big problem because now the author's talking about what's going to"
+    },
+    {
+      "timestamp": "00:08:16",
+      "text": "happen a few years in advance from this point. He says, hence, the news that leaked on Tuesday, February 9th caught almost everyone by surprise. And this is how the book ends the company was immediately abandoning computer manufacturing and laying off 330 of its 500 employees cutting not only in manufacturing and design but also in sales marketing and administration many and this is so messed up many of the affected employees learned of the layoffs in a fashion that made awful news all the worse from the radio the day would be remembered by victims and survivors alike as black tuesday here is a"
+    },
+    {
+      "timestamp": "00:08:51",
+      "text": "company that could claim that its business was healthy and profitable one moment then announce again that's that's what it's saying to the public right then announce the abandonment of its sole existing source of revenue the hardware and the decimation of more than 60 of its sole existing source of revenue, the hardware, and the decimation of more than 60% of its workforce, and then reassert with innocent equanimity that it was simply capitalizing on its assets. Steve Jobs offered no explanations of the discrepancy between the earliest sanguine announcements and the apparent need to change direction radically. He directed attention forward to the future, to the beckoning opportunity of leading Next into the ranks of first-tier software companies. And that's interesting that he uses the word first-tier software company because at the very beginning,"
+    },
+    {
+      "timestamp": "00:09:36",
+      "text": "when he was starting Next and recruiting all the people, he said he wanted to be a first-tier hardware company. So now he completely changed. This actually was a decision, the right decision to make. Unfortunately, it didn't come from Steve Jobs. It kind of was forced on him from outside, not only from employees who kept badgering, hey, we need the market has spoken, the hardware is not going to sell. We need to actually, the one thing we've actually built that has value is the operating system. So he had internal pressure and then external pressure from like people like Andy Grove, who was leading Intel at the time, which I'll obviously tell you more about."
+    },
+    {
+      "timestamp": "00:10:07",
+      "text": "Okay. So the reminder here, again, my goal with this podcast is not, it's not to criticize the business decisions of other people. Like I'm, we're doing this purpose, like the explicit purpose of this podcast is for like educational purposes right but it's not like a negative thing like to me this was very um like because you know Steve Jobs we don't have to worry about his place in in history like he he came back in and led the company that created the most successful consumer product of all time um But what I find motivating or inspiring is that, what I always say is like,"
+    },
+    {
+      "timestamp": "00:10:48",
+      "text": "these people are not idols. Like they're flawed, just like you and I. And the very fact that we have an entire book, 400 pages dedicated to, of mistakes to somebody, like the mistakes are not fatal. Like everybody is capable of making mistakes. So like even great entrepreneurs are prone to strategic mistakes. I always go back to what Marc Andreessen describes like the act of starting a company. And he says it's a complex adaptive system. These things behave in ways that are unpredictable. They're not just going to line up with your vision. Like your vision, once it interacts with the real world which is exactly what what the book is about like steve jobs vision for next and then"
+    },
+    {
+      "timestamp": "00:11:29",
+      "text": "was completely different than what it was than the like when it interacted with the real world what the result was so i think that the main takeaway for the book for me is like okay well listen you can make mistakes if you as long as you learn from them which it took steve jobs many years to and if you look back at how he how he talked later on his life he says listen man i got hit and he calls getting going getting fired from apple and having to start next getting head and hitting head with a brick um but he's like it's probably the best thing i needed because you were going to see like he's there's a difference between like being confident and then steve jobs level of confidence which i'm going to pull out some quotes in the book that are just jaw-dropping um but anyways let me jump back into this part where I left a note that says, listen, even great entrepreneurs are prone to strategic mistakes."
+    },
+    {
+      "timestamp": "00:12:11",
+      "text": "And the very founding of Next, what the product they decided to build was a strategic mistake. The market they went after was a strategic mistake. How they managed their resources was a strategic mistake, like just over and over again. It's almost like Dr. Jekyll and Mr. Hyde, like the idea that you have somebody as skilled as Steve Jobs was later in his life is the same person as the person being described in this book, which again, I think Randall Strauss said, okay, the book, you know, it's clear next is a, it's going to be a failure no matter what. He wound up being wrong about that, but he was right about making that decision at that time based on the information."
+    },
+    {
+      "timestamp": "00:12:50",
+      "text": "I can understand why he reached that conclusion after you finished the book. All right, so it says, even with an accelerated schedule, Next still found itself in an unenviable predicament. The company pulled out of the computer business before it had a replacement product, the Intel software, ready for sale. They're saying they're going to create before. Of course, you know Steve Jobs, M.O., you most likely do, that he wants to control the hardware and the software. He would not make Next software compatible with other machines. Eventually, that's the exact decision he's doing. So that's what"
+    },
+    {
+      "timestamp": "00:13:19",
+      "text": "we're talking about. He did a deal with Intel to do that. So it says all it had to offer in the interim was the older version of the software that ran only on Next computers. The only potential customers, that is, those who owned a computer that could actually run it, had already been given the software when they purchased the machine. So clearly that's not, he did not decide to do this well in advance. He was forced into this decision when the company was running out of resources, basically. Next was an eight-year-old company that was attempting the most awkward of all possible transitions, going months without a single revenue-producing product."
+    },
+    {
+      "timestamp": "00:13:58",
+      "text": "Hard to argue this was like a worse position the company could be in. This is a random line that i think is really interesting um so the author compares and contrasts what's happening with in steve jobs life with other people in the computer industry like sun uh the huge success of uh sun microsystems um there's actually an entire chapter i was thinking about doing like a standalone podcast because there's one chapter that the author compares uh the by Next, and he compares and contrasts it with their main competitor, or I guess the one dominating the workstation industry, which is Sun Microsystems at the time. I might still do that. It's very fascinating. But they also do – they talk a lot about Bill Gates and just other people that are running computer companies at this time."
+    },
+    {
+      "timestamp": "00:14:42",
+      "text": "So there is a line about Steve Jobs and Bill Gates in the early 90s that I believe is still true today and accelerating. And I just think it's a fascinating thing to remind ourselves. And it says their personal fortunes, meaning Jobs and Gates, their personal fortunes chart changes in the landscape of the American economy. And I would replace American economy with the global economy, the world economy. As money shifts from the solid, the bulky, the tangible, toward the transitory and rapidly obsolescent,"
+    },
+    {
+      "timestamp": "00:15:10",
+      "text": "the miniature, the cerebral. So a lot of the people I've covered on this podcast made their money in atoms, physical infrastructure. I think Cornelius Vanderbilt, Rockefeller. We just did, there's no we, just me, obviously. I just did a three part series on Henry Frick and Andrew Carnegie"
+    },
+    {
+      "timestamp": "00:15:27",
+      "text": "these are they're the world of atoms Gates and Jobs are in large part especially Gates are making money in the world of bits and so I love"
+    },
+    {
+      "timestamp": "00:15:37",
+      "text": "how they talk about this and he's writing this in 93 you know so it says it's going away from the solid towards the transitory"
+    },
+    {
+      "timestamp": "00:15:43",
+      "text": "the rapidly obsolescent. Think about like your iPhone. If you had an iPhone, it's like that. You still use the iPhone to the iPhone three. Probably not to the rapidly obsolete, to the miniature, into the cerebral. It's very interesting. And so now he's he's going to do a little like he talks a little bit about like the psychology of Steve Jobs jobs like why you know he's already been successful if he would have just kept his apple stock he would have never had to work again in his life obviously it's not what motivates steve jobs"
+    },
+    {
+      "timestamp": "00:16:12",
+      "text": "but um let me just read this part and then i'll tell you the new i left myself then what what i thought of when i came across this paragraph it says this is this suspicion troubles entrepreneurs of all ages and many have embarked upon a succession of new ventures. This is interesting when he talks about this, the desire to create new companies. What is that? He says these are self-imposed tests that could confirm that it was their own internal resources and not luck that accounted for their first success. Almost all fail in their quest to repeat earlier history. And so this is a reminder that all good things come,"
+    },
+    {
+      "timestamp": "00:16:49",
+      "text": "all good things in life come from compounding. That if you have a business that's working, it's best to stick with it. A lot of people, you know, they have this, I always say like the Holy Grails, like your Von Chouinard of Patagonia. Not only do I think it's like his philosophy and ethos on business is fascinating,"
+    },
+    {
+      "timestamp": "00:17:04",
+      "text": "but this guy is a 40-year-old private company that's made him a billionaire that he still controls and produces something that he loves, like that he's proud of the product that he makes, right? Compare and contrast that to a lot of literature on entrepreneurship. It's like, okay, get an idea, scale a company and sell it, and then you're not going to be happy sitting in your ass. So this idea that like you just want to constantly be a serial entrepreneur, if that's what you are, you have to be who you are. I just think like what the author is saying is usually like your best idea,"
+    },
+    {
+      "timestamp": "00:17:38",
+      "text": "like if you're not working on your best idea, you're doing it wrong. And then like usually when you have – you've built up a company that other people want to acquire, like it's kind of in some senses a validation of that idea. It's probably better to stick with it and more of the sense of like a like a Yvonne Chouinard. That's what I mean by all good things come come all good things in life come from compounding. Imagine Warren Buffett and Charlie Munger sold Berkshire Hathaway 15 years ago. If you look at the net worth, the chart of Warren Buffett's net worth,"
+    },
+    {
+      "timestamp": "00:18:10",
+      "text": "it's skewed to the right. Like he would have given up 50%, 60% because all good things in life come from compounding of his net worth if he would have sold it. So anyways, that made me think of this tweet I saw on Twitter a long time ago. It just stuck with me. And I guess it was, I forgot who wrote the tweet, but they were – I think their mentor, one of their mentors had like died recently or whatever the case is."
+    },
+    {
+      "timestamp": "00:18:34",
+      "text": "And he talks about some advice that he was given. And he's like – he told the younger person. He's like, stick with what works. And he said, rabbit- I rabbit eyed kid, stop jumping focus. And I think that's really good advice in general. And it's interesting that out of all the advice that that person was given over the, the, uh, the relationship he had with that person, like that's the one thing that, that really, um, like stuck out. Um, this could be a one sentence summary of the book, uh, for eight years, he pursued at Next a quixotic quest to conjure back the elusive magic that had borne Apple. About the same amount of time as Jobs was at Apple with nothing like the same result."
+    },
+    {
+      "timestamp": "00:19:15",
+      "text": "So his first stint at Apple was about seven, eight years. Hugely successful. Apple II prints hundreds of millions of dollars constantly. And yet, I just found it fascinating. Time is clearly not the... It's not all things... The way you spend your time and what you're working on, of course, is not just, oh, I gave eight years, so I should expect the same results."
+    },
+    {
+      "timestamp": "00:19:37",
+      "text": "No, he had literally one of the most successful products ever made in the Apple II and one of the least successful products made in the next cube. Okay, so if that's a one sentence summary of the book, this is probably a one paragraph summary of the book. So it says, the plot line is simple. Our central protagonist introduces a new product and carrying it proudly runs straight into the wall of customer indifference. He picks himself up and tries and tries again, each time with a new approach and a new set of supporting characters, and each staging is a bit different. An infamous temper, a mullish will, and a capacity, when needed, to apply a mesmerist charm gives Jobs numerous opportunities to dominate all scenes in which he makes an appearance. So here's actually, I guess there's"
+    },
+    {
+      "timestamp": "00:20:26",
+      "text": "two good ideas in the book. Jobs did what you're doing this very second. And that's he studied from the entrepreneurs that came before him and he learned from them. And then their ideas obviously influenced and enhanced his ideas. Now you could say that he should have studied like he only studied like people like Henry Ford and you know, because he wanted to be like, if there was a mouth if there's such thing as like a Mount Rushmore of entrepreneurship, like he would definitely wanted to be on it. So that was you could study people like that definitely learn from them, certainly, but you could also study from people"
+    },
+    {
+      "timestamp": "00:21:01",
+      "text": "like smaller successes, which he fails are smaller failures, rather, which he fails to do later on which i'll tell you about in a little bit so this is him uh well just let me read it to you he likened his own introduction of the easy to use macintosh computers to what alexander graham bell had done when he filed patents for the telephone in the 1870s he was replacing existing technology with a new way of accomplishing the same task much more easily. That's actually a good way to build it. If you're able to find something that you can do that, it's a fantastic way to build a business. Without blushing, Jobs compared Bell's breakthrough, which was replacing the hard-to-learn code of the telegraph"
+    },
+    {
+      "timestamp": "00:21:34",
+      "text": "with a telephone that anyone can use immediately without training, to his own replacement of the hard-to-learn commands of the IBM personal computer with his Macintosh, which anyone could also use immediately. And just as the telephone permitted greater range of expression than dots and dashes of Morse code, even permitting one to sing, Jobs' Macintosh permitted greater expressiveness too. The historical comparisons that fill Jobs' mind"
+    },
+    {
+      "timestamp": "00:21:56",
+      "text": "are all of grand scale. Another recurring favorite is to compare his work with computers to that of henry ford when the automobile industry was in its infancy in 1986 after he'd left apple and started next jobs looked back to ford and said it must have been the most incredible feeling to know this was going to change america the thing is i'm not sure they knew that at the time i'm pretty sure they didn't know at a time referring to next he said if we can create the kind of company and i only based that off like the the few books i've read on on henry ford i would say he didn't know like the impact he was going to have i mean he had the idea of making it so cheap"
+    },
+    {
+      "timestamp": "00:22:34",
+      "text": "that anybody could afford it and maybe says hey if anybody could afford it they're gonna buy this this card but there's no way he could have predicted like think about if you live in america think about the the invention of the automobiles. I don't know if there's another single product that has ever shaped like the geography of the country. It's mind-blowing. Okay, so it says, referring to next, he said, if we can create the kind of company I think we can,"
+    },
+    {
+      "timestamp": "00:22:58",
+      "text": "it will give me an extreme amount of pleasure. This is what makes jobs unusual among the business gentry, the naked chasing of not money, but a place in history. And you have to ask, like, why did he believe that one single person can have such a huge impact? And so this is Steve Jobs on the leverage technology provides a single individual. Jobs is correct. The computer industry is still at a young formative stage. And if its future development is imagined as a long arc, this is actually an interesting idea, too. So maybe there's a couple of good things that he says in here. Maybe it's not just one or two."
+    },
+    {
+      "timestamp": "00:23:32",
+      "text": "So it says the computer industry is still a young formative stage and its future development is is imagined as a long arc. Then a single individual like himself can exert significant lasting influence by nudging the industry's path at an early point. And so the metaphor he uses here is a really good illustration of his point. Jobs put it into the vocabulary of space shots. You have to move the vector a little bit in its first inch, and the swing will be enormous by the time it gets to be three miles long. Okay, so now this is a lesson that Steve Jobs ignored."
+    },
+    {
+      "timestamp": "00:24:08",
+      "text": "So now we're moving... Well, let me just read this to you then. What saved Apple from financial catastrophe at the time was the primitive little Apple II. Though it belonged to the Pleistocene era of personal computers, Apple continued to sell hundreds of millions of dollars"
+    },
+    {
+      "timestamp": "00:24:24",
+      "text": "with a machine every quarter long after demand had been expected to drop so that's what i mean why i recommend reading listening to the podcast i did last week and then reading the book return to the little kingdom because it's describing like what like with a with a real in-depth like inside look at what what happens to a company when they when they create a product that's an unexpected mass of success. It's really, I don't know if I've come across another book that's only kind of constrained itself to that period in a company's life."
+    },
+    {
+      "timestamp": "00:24:55",
+      "text": "So it says, how ironic that the Apple II with a microprocessor that's only eight bits, skip, skip, skip, proved stalwart stalwart meaning lasting when the Lisa based on a more advanced 32-bit microprocessor faltered and collapsed so the point they're making here is like yeah Lisa might have been technology technologically more superior than Apple to but your customers might not care about that the lesson that one could draw from the Lisa debacle included these keep in touch with the intended customers and avoid the"
+    },
+    {
+      "timestamp": "00:25:25",
+      "text": "pitfalls of isolation. Do not assume that customers will pay any price to secure the latest computer technology. Ease the way for customers to adopt a new computer standard by providing software and hardware bridges that help connect older machines to new ones. Rely upon less expensive products that have fewer features or less advanced technology to pay the bills while the top of the line flagship computer establishes a secure place in the market these are hardly profound yet steve jobs would ignore every one of these when he launched next and that's what so like this book uh i i was thinking to myself like how would you even describe it and it's like what the I think when I was reading the book there's so many times where I'd pause and look up and be like what the hell"
+    },
+    {
+      "timestamp": "00:26:11",
+      "text": "what the hell did I just read what the hell just happened like what the author is describing there is is ostensibly like firsthand lessons that Steve Jobs learned through previous experience and yet for whatever reason he ignored them all it's not like it may be even like shouldn't it be hard it shouldn't be easier to learn from first-hand experience than it is from like second-hand experience at least that's what most people say but that's not at all uh like certain either uh it's it's this is such a, like, we're going to get into these decisions and you're just like, what the hell is going on here? Okay. So, um, he's, he founds next and he says, Hey, uh, we're not going to build a cheap personal computer like Apple. We're not going to build these huge main"
+    },
+    {
+      "timestamp": "00:26:56",
+      "text": "frames like IBM, but sorry, guys, I'm getting over another little cold. I don't know what the heck's going on. Um, but we're going to build something like in between and he calls us like a way so the the there was a category at the time called workstation eventually jobs even narrows that down and he uses the term like personal workstation but he's like we're not going to go after business like we're not going to go after fortune 500 we're not going to go after individuals we're not going to go after small businesses we're going to go after universities but selling universities is really really complicated and again this is another bad strategic move by steve jobs he says jobs did not have a clear understand a clear idea of what universities needed nor did he understand the collective nature of university decision making"
+    },
+    {
+      "timestamp": "00:27:39",
+      "text": "his own inclination was to go to lunch with the president of Stanford, lift a sheet off the Macintosh, and say, how would you like to buy a thousand of these for a million dollars? But such a decision was not primarily the prerogative of a single person. Rather, it was a collective decision that involved varying combinations of computer center directors, deans and associate deans, academic vice presidents, university council, and faculty committees. Jobs did not have the skill or the patience for persuading the lower levels of the academic power structure, which is really weird why he would choose that strategy moving forward. So it says Steve Jobs had many reasons. Then the note I left myself is like, it's understandable why he would target the educational model,"
+    },
+    {
+      "timestamp": "00:28:31",
+      "text": "but he was just wrong. So it says Steve Jobs had many reasons to be grateful for higher education's early embrace of the Macintosh. And the reason I say it's understandable, it's understandable only in the sense that Apple early Apple was very successful with like a guerrilla sales tactic to selling to universities, which I think like at the time, there's something like four or five salespeople that were all spread out throughout the United States, like doing selling on campus."
+    },
+    {
+      "timestamp": "00:28:57",
+      "text": "And they were doing like something like, I forgot the exact number, but let's say it was like four or five million people and they're doing like 50 million in sales or 100 million. So there's something like disproportionate to the size of the team. Right. But that's also misunderstanding that at first it's way less expensive, you know, talking about 2000 or sub $2,000 at the time compared to when next finally unveils it's, um, it's cube it's, you know, $7, dollars for a really stripped down model really it's like ten to twelve thousand dollars um so he i guess what i'm saying is like he fundamentally misunderstood why that strategy was successful when he tried to duplicate it with next it didn't work um and"
+    },
+    {
+      "timestamp": "00:29:38",
+      "text": "we'll get into more i'll get into more detail about that so it says it was universities that provided early purchase commitments even before the machine was introduced to the public it was universities that were willing purchase commitments even before the machine was introduced to the public. It was universities that were willing to support and improve computer standard, defying the overweening muscle of the standard bearer, IBM. It was universities that had voted to support the Macintosh. So, again, these are all lessons that he kind of ignored or maybe misinterpreted is a better word of why it would work at Next, even though he's selling a fundamentally different product. Even though it would be years before a wide variety of software could be available for it university was for flexible appreciative of new technology and not incidentally constituted a renewable market the one millionth macintosh was sold in early 1987 a mere a mere three years after the machine's introduction and the author has a a side note here, and he says, keep this in mind"
+    },
+    {
+      "timestamp": "00:30:25",
+      "text": "when we look at Next's subsequent history. He's going to compare and contrast that. I think in the entire history of Next, they sold like 50,000 computers over like eight years. So vastly different than the Macintosh. So I guess I tripped over my own point, or I guess the author's point here. He says, Jobs drew one lesson above all others from"
+    },
+    {
+      "timestamp": "00:30:45",
+      "text": "this experience if universities back superior computer technology once they could do it again for next so again that's what i mean where i say it's understandable why he would target the educational model it was he was just wrong because he was selling a fundamentally different product um okay so last week i talked about jobs had this idea when they're creating the Macintosh, he took a small team and basically with what at the time his employees called his reality distortion field, he gave them the impression that there wasn't a huge successful billion dollar company already but there's a small group and they're scrappy and struggling and they're working in a garage, not an office office that was obviously not true but that's the kind of um"
+    },
+    {
+      "timestamp": "00:31:29",
+      "text": "environment that he cultivated now that the weird thing is that was hugely successful just like it was hugely successful when they made the apple one right he didn't do that at all and next he abandoned the frugal beginning you know the the mythical like entrepreneur in a garage kind of uh ethos and the problem is like this the early forced resourcefulness of a company is partially responsible for its initial success because it was just a matter of resources big companies would obviously dominate forever but but he started another company and just skipped over that part but you can't that's's like one of the fundamental foundations that you're building your company on, right? So he says, he was not about to return to the frugal circumstances of the beginning of his business career."
+    },
+    {
+      "timestamp": "00:32:13",
+      "text": "He had started Apple in his family's garage and had evoked the image of the metaphorical garage when he later took control of the Macintosh Group. But this time and next, he would start off not in a garage but in a mansion his home in woodside which he purchased from the gianni family who are the founders of bank of america interesting enough this served as the company's temporary office for four months until they could move into formal offices the advance of age and personal fortune promoted his intolerance of anything but the absolute best instead of choosing the least expensive office space available in the area like your parents garage for example he chose some of the most expensive. But even if you don't want to work in a garage, you don't have to go crazy like he does. And what I mean by that, think about how"
+    },
+    {
+      "timestamp": "00:32:53",
+      "text": "ridiculous this is. When I'm about to send this, I'm about to read to you. Keep in mind, they don't have a product. They're like three years from having a product they can sell. And the only funding they have is $7 million that Jobs gave him himself, right? This is the next decision, just like, what the hell are you doing? He hired a full-time interior designer as one of the first 10 employees at Next. Long before a computer would be ready for unveiling, Jobs talked with architects. Now, think about this. Long before a computer would be ready for unveiling."
+    },
+    {
+      "timestamp": "00:33:29",
+      "text": "Another way to put that is, i have not built a product yet there is no product it doesn't exist but this is what i'm doing with my time jobs talk with architects about designing next sales offices in major cities around the country what jobs pursued his own set of priorities and the look of the next offices took precedence over most everything else. Steve Jobs is not a stupid person. He's not a stupid person. But this was a really stupid decision. And then, again, you have to be who you are. This is another weird thing I read."
+    },
+    {
+      "timestamp": "00:33:57",
+      "text": "So he decides, hey, we're going to have complete transparency of all the metrics and everything in a company. So wait a minute, though. I've read a bunch of books on Steve Jobs at this point. He's famous for being super secretive. So I read this part and I left a note to myself. I was like, wait, complete transparency from a super secretive founder? How long is this possible this will last? So I'm going to describe what he sets out at the beginning. And of course it doesn't last long. So he says, Jobs had adopted the policy of making all information internally available as a"
+    },
+    {
+      "timestamp": "00:34:30",
+      "text": "deliberate departure from standard operating procedure in business. He reasoned that Next individuals' employees were like human cells. Each was specialized, but each one possessed a genetic code for the whole body. This organic model underlay his management philosophy. Now this is a direct quote from Jobs. We think Next will be the best possible company if every single person working here understands the whole basic master plan and can use that as a yardstick to make decisions. That makes sense if that's who you are, but you have to be who you are and that's not who he is. The internal openness was virtually forced by the small size of Next. Starting with a handful of employees in an industry dominated by giants, Next could not begin to match the resources deployed by its much larger competition."
+    },
+    {
+      "timestamp": "00:35:09",
+      "text": "By necessity, the company could only grow by what Jobs called outthinking the others. So you might ask yourself, like, how, why was Steve Jobs able to win over so many recruits against other companies like Apple, Microsoft, and IBM, all three of which were vastly more successful at this time than the next was um he says but here's the reason why how many rainmakers had track records like his an unemotional review of jobs past success led to the conclusion that remarkable success had been fallen in many people in his immediate vicinity in the past and it was a simple step to assume that the odds favored the similar success would continue uh would continue to come to those who stood by him"
+    },
+    {
+      "timestamp": "00:35:51",
+      "text": "in the future so saying hey my success is is ensured just by proximity to this guy who has a great track record that's not really um something this is not if you've listened to every single episode i've done this isn't something new if If you remember Paul English, he was one of the founders of Kayak and a bunch of other companies. Tracy Kidder wrote this great book on him called Truck Full of Money. And the interesting part in the book, it's revealed like why did you call this book Truck Full of Money? It's because Paul had already sold like a couple companies before he found Kayak. And he kind of like, they described him like falling ass backwards into success. He's trying to recruit a programmer who has his own company,"
+    },
+    {
+      "timestamp": "00:36:32",
+      "text": "and that programmer decides to leave the company he founded to join Paul, and he's telling his co-founder why. He's like, listen, he goes, one day in the future, that dude's going to get hit by a truck full of money, and I'm going to be standing next to him when it happens. So I thought that's a story that stuck with me. It's been a long time since I read that book, and I think a lot of the people that joined Next in its early days assumed the same about Steve Jobs."
+    },
+    {
+      "timestamp": "00:36:59",
+      "text": "This is a funny story, the fine line between charisma and lunacy because the book talks about Steve Jobs did have a superpower. There is like this abstract trait that a human can have that's extremely effective with other humans. And it's charisma. But there's a fine line between charisma and lunacy. And we're going to hear this great story about how you determine if you're, if you just have a, if you're following a charismatic leader or if you're following a lunatic. So charisma, when used today to refer to a business leader, usually refers to some form of magnetism. The charisma that Jobs had, however, was more than this."
+    },
+    {
+      "timestamp": "00:37:34",
+      "text": "It was the power that a leader, religious or not, possesses that derives from a perceived connection to the overarching questions of human existence. And this is how he frames his mission. It's not, I'm starting a company. He's like, I'm on a mission. Jobs was not engaged in the business of selling breakfast cereal or bathroom faucets."
+    },
+    {
+      "timestamp": "00:37:52",
+      "text": "He was not even focused on pursuit of profits. Others could pursue the mundane. He was after the much larger quarry of changing the world, rescuing computer users from the existing prison of mediocrity, making a dent in the universe carrying out revolution claiming an enduring place in history it was the extraordinary"
+    },
+    {
+      "timestamp": "00:38:10",
+      "text": "scope of his ambition that was the ultimate source of his appeal charismatic power cannot exist in isolation however without followers so says this guy brian wilson a student of charisma put the matter colorfully if a man runs naked down the street proclaiming that he alone can save others from impending doom, and if he immediately wins a following, then he is a charismatic leader. A social relationship has come into being. If he does not win a following, he is simply a lunatic. I was listening, I was taking notes on this talk. I think it was a podcast actually that Elon Musk was on."
+    },
+    {
+      "timestamp": "00:38:48",
+      "text": "And he made the point, it was interesting because now, you know, you hear this ad nauseum. Every single person starts a company. He's like, I'm making a dent in the universe. I'm changing the world. And Elon was kind of like poking fun at this. He's like, it's extremely hard and extremely rare for people, single companies to literally make it like to change the world yet you hear everybody that has like a dog walking app that says i'm changing the world so he i just thought it was funny that elon pointed that out he's just like this is ridiculous"
+    },
+    {
+      "timestamp": "00:39:13",
+      "text": "and a lot a lot of this comes you know a lot of people rightfully so try to um to like replicate replicates the word that's coming to mind but it's not the right meaning like replicate certain traits of jobs um or they're maybe they're inspired by him but again like we could just say hey i have a i have a i started a company it solves a problem it's valuable because it saves you time or money or it's useful to you in some way like there's nothing wrong with just saying that you don't have to say that, you know, this guy is saying, like, rescuing computer users from the existing prison of mediocrity. Like, it's just funny. I find it hilarious. And the idea of, you know, that if you don't find any – there is an element of truth in the sense that, like, the size of the fact that you can convince other people to follow you does lend credence to your charisma,"
+    },
+    {
+      "timestamp": "00:40:06",
+      "text": "but that same charisma, when rejected by society, makes you crazy. I don't know. I guess that's why I said it's a fine line. Okay, so here's the problem. One of the problems. There's a multitude of problems here. Next begins with too much money and no sense of urgency. So it says, Next began its life with a major, if unrecognized, problem. It had too much money, courtesy of a"
+    },
+    {
+      "timestamp": "00:40:29",
+      "text": "single person, Steve Jobs, whose plan for the company were unformed and innocent of financial analysis. It says, others may have envied Next and the $7 million that Jobs bestowed upon it. Again, I would say it's maybe counterintuitive to a lot of people. I think if you listen to this podcast, you know it's not counterintuitive that starting a company with no sense of urgency and a lot of money is usually not how any of these companies in the biographies that we've covered start. They may have envied this, but in fact, time would show that relying upon a founder benefactor like jobs for its financing ultimately hurt next because it meant that the company did not have to face the discipline of assembling financial"
+    },
+    {
+      "timestamp": "00:41:10",
+      "text": "numbers that made sense looking hard at itself as a business proposition and defining milestones milestones by which it could measure whether it was on track or not again like it's somebody gave you that the same thing with anybody raising money as opposed to getting cut from customers. Like somebody gave you that $7 million. Now you may be able to turn that $7 million into a product and get a return for your investors and make the company profitable. But you can't confuse $7 million from investor or your own personal bank account as $7 million given to you by customers who want what you're selling. Those are two fundamentally different things. So not only do they have too much money, no sense of urgency because all this money, which is bizarre, but they're also like, they have too much."
+    },
+    {
+      "timestamp": "00:41:54",
+      "text": "He recruited a bunch of people that previously successful with him at Apple, but they had too much belief in their own infallibility. Now there's, again, another fine line just between charisma and lunacy, but there's also a fine line between confidence and reality distortion. And this is not the only time I'm going to share a quote with you like this. So it says, the founders proceeded by seat of the pants instincts because of the underlying feeling of invincibility that their earlier success at Apple had instilled in them. At Apple and later at Next, they might have liked to talk about serving ordinary people, but they themselves were not mortals they were god they were the gods who had created a personal computer universe out of"
+    },
+    {
+      "timestamp": "00:42:29",
+      "text": "nothingness jobs for example displayed little modesty in next press releases describing himself as a person who had overseen the growth of apple into a two billion dollar company now here's the problem something we've talked about a lot we're like there's a lot of people a lot of smart people out there that believe the most, the most important cause of a company's success is actually the market you're in. And that even if you're just an okay company, if you're, if you're, if your timing is right and the market wants where you're like, the market will pull a product out of a company, right?"
+    },
+    {
+      "timestamp": "00:42:59",
+      "text": "That's a, that's actually a good description of what happened with Apple too. Like internal company forecasts were way lower than actual sales. Next is the reverse. Internal company forecasts are way higher than actual sales. So the market you're in is the most important cause of success is something that other people believe. This is an example of that and why I included it right after telling you that the founders that came, the other co-founders with Steve Jobs for Next that came out of Apple, you know, like, oh, we did that. We were the cause of Apple's success."
+    },
+    {
+      "timestamp": "00:43:31",
+      "text": "You played a role undoubtedly, but maybe you didn't even understand what the success was caused by, right? So it says Next was born at what now, and this is the point, the creation of Apple II happened very different time period in history than the creation of the next cube it says next was born at a time what we now see was the twilight of the early era of the personal computer apple 2 was the beginning this is the end right the apple exiles and next were pumped with adrenaline and self-confidence and unaware of how the incredible growth that the industry had experienced obscured misjudgments which would have been fatal in any other setting. Otherwise, the demand was so high that you could fuck up and the demand is going to paper over some of these mistakes, right?"
+    },
+    {
+      "timestamp": "00:44:13",
+      "text": "The market in its early 1980s had been forgiving because personal computers were in such demands. That's why this act of building, especially if it's hard enough to build one successful company but doing it over and over and over again it's very hard these are complex systems very hard to tell when you have a complex system it's very hard to determine cause uh first correlation like our causation excuse me first correlation um and you're we see some of these mistakes being made by you know even people that were widely revered to be,"
+    },
+    {
+      "timestamp": "00:44:45",
+      "text": "you know, quote unquote, the best in their field or best at what they do. Another huge flaw in their plan. I don't understand this at all. I just read my note first. So, well, let me read it after. Okay. The next employees in the fall of 1985 were clear eyed about the problems that they faced. Okay. So now the company's up and running. They know what they want to build. They know the target market."
+    },
+    {
+      "timestamp": "00:45:11",
+      "text": "They just don't know if they're going to be able to do it in time. They knew that in order to break the allegiance of university customers to establish computer lines, the next computer would have to be more than just marginally better. It would have to be an order of magnitude better. They knew that time was working against them. They had to deliver the computer to the market by the spring of 1985 in order to be considered for fall 1987 purchases. So again, it goes back to that strategic mistake that you're"
+    },
+    {
+      "timestamp": "00:45:35",
+      "text": "targeting universities, yet they only make purchases in one time of year. So if you miss that date, you're pushed back another year, which means you have to float the company. Universities usually make large purchase decisions only once a year. I next was late, it would not have another chance until the following academic year's purchase cycle again. Okay, so that's a huge flaw in their plan, right? We have to create something that's an order of magnitude better than what already exists from other companies that have way more resources than us, and we have to do it in 18 months. What? But this is a note of myself. Given this, why would the founder focus on interior design of office space and $100,000 logo? Which is, again, this is the objective of the company, but where is the founder's focus?"
+    },
+    {
+      "timestamp": "00:46:15",
+      "text": "On stuff that does not matter. The interior design of your office space is a moot point if you don't have a product that's successful. You're confusing the order of operations here. A successful product gets you office space. Jobs reversed it. I have the best office space in the world and no product. Well, what did you think the outcome was going to be? Again, I say it's predictable because to us, it's predictable because to us it's pretty good though because we know how it already already occurred it's not at all clear i mean i guess it is kind of clear in the sense like his confidence was like yeah okay oh i'm a freaking"
+    },
+    {
+      "timestamp": "00:46:54",
+      "text": "product genius i need to make the the product an order of magnitude better than anybody else in 18 months with no resource i could do that Now, that's proved to not be true. And I guess the cautionary tale for you is like, you may be really smart and really successful at what you do, then just stick with what you're doing. Don't get kicked out of your company. Don't try to do it again. And again, why bet the company?"
+    },
+    {
+      "timestamp": "00:47:19",
+      "text": "There's another note of myself. Why bet the company on one thing? That seems hugely irresponsible. he said he returned to the idea of the opportunity of the present moment to deliver a machine that others could not next had an open window that provided the perfect entree to the university market and this quote from him we have been given it and thank god we've been given it nobody else has done it it's a wonderful window we have 18 months i guess that's one way to look at it if they failed to deliver the machine"
+    },
+    {
+      "timestamp": "00:47:45",
+      "text": "on time he said the company would fail so why are you doing that why are you betting your entire company on that um and now so now i'm gonna skip forward uh almost a year and um now you have jobs bemoaning the idea that like we stopped acting like we needed to be resourceful. Never stop acting like you need to be resourceful. Isn't that a fundamental premise of running a company? We know what happens when companies get fat and happy. Inevitable decline. And it's weird it's coming from Jobs because he's the one making a lot of these decisions."
+    },
+    {
+      "timestamp": "00:48:23",
+      "text": "So it says, if delivering a finished machine in the spring of by the spring of 1987 it seemed difficult to achieve in the fall of 1985 remember the beginning of their 18 month window it seemed even more unlikely by the time the company held its second retreat in 1986 so he titles this retreat the honeymoon is over"
+    },
+    {
+      "timestamp": "00:48:39",
+      "text": "no longer would they be able to rest on past laurels a lot has changed in a year apparently or to seek the solace of feeling victimized by the lawsuit and lost time lawsuits Apple suing them bottom line is the world doesn't really care he said next was now just another startup and would be judged henceforth"
+    },
+    {
+      "timestamp": "00:48:56",
+      "text": "by what his product was by what his product was which doesn't exist by the way at this time and in how timely a fashion it would be delivered to market which is several years from now. Not only was time slipping by too quickly, but so too was money. Like, this should have been obvious from the beginning. This is why I don't understand."
+    },
+    {
+      "timestamp": "00:49:12",
+      "text": "It's so bizarre. Jobs complained aloud that we're not scrounging. Yeah, you hired an interior designer as your first 10 hire. Like, come on. The company had just bought new Macintoshes instead of finding friends at Apple to buy them for next at a deep employee discounts. He complained, we stopped nickel and diming for all that stuff and it adds up."
+    },
+    {
+      "timestamp": "00:49:29",
+      "text": "So that's, you never started. Now what he's confusing is, and something that was unknown to me until I read Michael Moritz's book last week was, Steve Jobs was like a penny pincher like no other. He would negotiate on end with every single vendor and supplier and like he was just relentless about that at the beginning of apple those are probably good traits to have at the beginning of a company and next he didn't ever do that um and now he's complaining that we stopped we stopped nickel and diamond you never did you're like you did at apple but you didn't do it next and the author picks up on this he says it is certainly strange however that the man whom"
+    },
+    {
+      "timestamp": "00:50:03",
+      "text": "ink magazine would later name as entrepreneur of the decade conserved his $7 million in Next no better than a child deposited at a candy store with a bulging piggy bank. Born too rich for its own good, Next was a startup that was privileged and crippled with fiscal complacency. By the time Jobs and other senior managers"
+    },
+    {
+      "timestamp": "00:50:22",
+      "text": "awakened to the limits of a founding capital and tried to practice economies, try to basically lower expenses, it was too little too late. The money was gone. And this is something I also didn't know. When Next had been founded, Jobs intended that the company would remain solely in the hands of himself and his employees. This was part of the pitch to the early recruits that Next would always be employee-owned. Well, when you run out of money, you can't. So now he goes around trying to get investment from venture capitalists he wants like a 30 million dollar valuation or something like"
+    },
+    {
+      "timestamp": "00:50:48",
+      "text": "that everybody says no so he's uh he's actually really screwed at this point he's running out of money doesn't know what he's going to do and there's this tv show that came and profiled him and a bunch of other entrepreneurs it's called the on the entrepreneurs and just how happened ross perot the billionaire uh the texas billionaire that winds up trying to run for president of the united states as an independent like 92 sees the film and he didn't care he's like i want in and so he calls up just his jobs doesn't know what to do he's getting declined for a 30 million dollar valuation by everybody um no one wants to invest ross perot's like hey i, I'll give you $100 million."
+    },
+    {
+      "timestamp": "00:51:28",
+      "text": "And this is what he said. This is Ross Perot's quote about investing in Next. And this all came from a TV show. Like, the world we live in is so strange, man. He had made up his mind to invest on whatever terms were proposed. He did not care about the numbers. He would let the Next people worry about such things. He told them, I picked the jockeys, and the jockeys picked the horses and ride them."
+    },
+    {
+      "timestamp": "00:51:48",
+      "text": "You guys are the ones I'm betting on, so you figure it out. So he winds up getting $126 million valuation. Steve Giles parlays Ross Perot's investment. He throws in a little bit more money and then convinces some colleges, Stanford and Carnegie Mellon, to join and invest. But that's not the weird, I mean, that is kind of bizarre,"
+    },
+    {
+      "timestamp": "00:52:12",
+      "text": "but the weird part was this is like, he's going to brag about something that I'm just not sure is something you should be proud of. It says Jobs bragged that the $126 million valuation was the highest for any company in Silicon Valley history"
+    },
+    {
+      "timestamp": "00:52:23",
+      "text": "without a product. Jobs' pitch was simple and impatient we have built successful products in the past and you can roll the dice on us if you want but this remains our show and won't stand for extended investigation what's surprising to me is a lot of people ross perot is not an idiot he agreed to this ostensibly the people running stanford and carnegie mellon are an idiot they He agreed to this. Ostensibly, the people running Stanford and Carnegie Mellon aren't idiots. They also agree to this. He did no better with universities than with venture capitalists, even a cursory grant so that the valuation measured by any conventional ruler was far too high. However, Perot's blessing convinced two universities, Stanford and Carnegie Mellon,"
+    },
+    {
+      "timestamp": "00:52:58",
+      "text": "to join in and invest too. And then this is how Ross Perot saw Steve Jobs. To me, it's just a reminder that there's many different interpretations of the same thing and that a lot of, it seems to be like a tenet of human nature is that we tend to see what we want to see."
+    },
+    {
+      "timestamp": "00:53:14",
+      "text": "It's kind of dangerous when you're trying to build a company, right? I'm going to close with a brief story and this is Ross Perot speaking. I'm going to close with a brief story about one interesting experience I've had. A young man, so, it's describing Jobs,"
+    },
+    {
+      "timestamp": "00:53:24",
+      "text": "so bright that they let him sit in the engineering classes at Stanford in high school. So poor that he couldn't afford to go to college. Working in his garage at night, playing with computer chips, which was his hobby,"
+    },
+    {
+      "timestamp": "00:53:34",
+      "text": "his dad came in one day and said, Steve, either make something you could sell or go get a job. 60 days later, in a wooden box that his dad made for him,"
+    },
+    {
+      "timestamp": "00:53:43",
+      "text": "the first Apple computer was created. And this high school graduate literally changed the world. Well, that's not really what happened, though. And so the author says, what are we to make of Perot's description of the impression that Jobs had made upon him? Smart, modest, and not of any kind of an ego trip? Steve Jobs, modest, able to contain his ego? Not even his closest friends would make such claims on his behalf. Or what about Perot's summary of Jobs vanquishing the evil giant?"
+    },
+    {
+      "timestamp": "00:54:10",
+      "text": "This young man went up against IBM in a capital intensive business and ate him alive. That was a quote from Ross Perot. But was that true? What happened to the instant success of the IBM personal computer when introduced in 1981 in the blow at Delta Apple? Who ate whom alive? Or how could we join Perot in paying opsiants to Jobs' business sagacity, the equivalent of what Perot called 50 years of business experience, when we can now look back and see that Jobs had committed"
+    },
+    {
+      "timestamp": "00:54:37",
+      "text": "the most dunder-headed blunder in modern finance. He sold off most of his Apple stock in 1985 at its absolute nadir instead of holding on for two more years in which time its value would increase eightfold and so he talks about he's like listen that what he's this is an interesting part so that gave him 700 million dollars in paper losses that could be attributed to the timing of the sale and so he actually makes an interesting point there he says next would have to be very"
+    },
+    {
+      "timestamp": "00:55:03",
+      "text": "very successful if Giles were to simply recruit what he might, what one might say he lost by liquidating his Apple holdings at an opportune time. So he could have made $700 million just by sitting on his butt and holding onto his stock"
+    },
+    {
+      "timestamp": "00:55:17",
+      "text": "instead of starting a company. But again, I don't think he was, I mean, that's an interesting point by the author's making, but I don't, it doesn't appear that Steve Giles ever optimized optimized just for like he wanted to be rich. But once you're, you know, a couple hundred million dollars rich, I don't think he was optimizing for the highest number from there. But it was an interesting like parallel reality for Steve Jobs, if that would have happened."
+    },
+    {
+      "timestamp": "00:55:43",
+      "text": "Now, here's more unclear thinking thinking which is weird because i always talk about like steve jobs especially if you read like the book creative selection which if you're designing products i think you definitely should um it's about like a apple programmer that um created it was worked on creating safari browser and then uh like the keyboard for the iphone but reading these books you're're like, wow, I've never come across such clear thinking from a person. That's later Steve Jobs. This Steve Jobs is full of unclear thinking, which is really interesting."
+    },
+    {
+      "timestamp": "00:56:15",
+      "text": "That's also inspiring in the sense that this is a skill we can learn to improve. And I think it's like a meta skill. If you can clarify your thinking, that affects all other parts of your life. You can apply it to other domains. So this is Jobs and Esslinger. Somebody worked at Next. We're oblivious to the possibility the next prospective customers would be more interested in what the computer could do than how its sleek shape gave its claim to a place in smithsonian meaning they're optimizing for making the most beautiful computer on the outside but because they've spent so much time in engineering this they wound up releasing"
+    },
+    {
+      "timestamp": "00:56:43",
+      "text": "something that was slower it was black and white, from a technical perspective, you're charging two to three times as much for something that's half as good. Most important of all, the cube needed to be offered at a competitive price, yet the very details that comprise its perfect appearance were chosen without heed to cost."
+    },
+    {
+      "timestamp": "00:57:02",
+      "text": "So again, he meets with his prospective customers, which the university is saying, listen, we're going to be paying for this thing. It can't be more than $3,000. Cannot be. Steve Jobs tries to sell him a computer that's $10,000 or $12,000. And they don't buy it"
+    },
+    {
+      "timestamp": "00:57:20",
+      "text": "because they told you it needed to be $3,000. But he spent a lot of money frivolously and that caused the price to go up when all they wanted, because they told you it needed to be $3,000. But he spent a lot of money frivolously, and that caused the price to go up when all they wanted, they really wanted a little bit more powerful Macintosh. You could have just built that, but he wasn't interested in that. He wanted, again, to make something of magnitude better,"
+    },
+    {
+      "timestamp": "00:57:35",
+      "text": "which, again, really wasn't better, though. And I think if anything has been apparent by the biographies and the podcasts so far, if there was any fundamental laws of company building, I think one of the laws would have to be watch your costs, which Steve violates repeatedly in Building Next. And here's a paragraph description of this. Costs were not of primary concern."
+    },
+    {
+      "timestamp": "00:58:04",
+      "text": "That one sentence on its own is ridiculous and so the cost of manufacturing finishing a single cube case turned out to be higher than next original estimates by a factor of 10 costs escalated well beyond initial projections on all other fronts too yet jobs could not be swayed from adjusting his course in the slightest so again these are self-inflicted wounds they told you they're good so here's the interesting part 85 in 1985 they say hey it needs to be three thousand dollars right 18 months later when they find out the next still doesn't have a computer they're like okay that's okay it'd be better if it was closer to a thousand dollars so he knew that he was told both of those things three thousand and you know what if you can make"
+    },
+    {
+      "timestamp": "00:58:45",
+      "text": "a close to a thousand that's even better and his estimates are off by a factor of ten in the opposite direction uh so the author makes the case so one thing that steve wanted to do he's like he did he was uh dismayed that all of uh like electronic manufacturing was being moved from america to japan at the time and he's saying no we're not going to do that we're going to uh he wanted like complete vertical integration so he wanted to build a completely completely automated factory in the next headquarters and he invested heavily in this and this this is going to tell you why that's probably a bad idea,"
+    },
+    {
+      "timestamp": "00:59:25",
+      "text": "especially when you don't have a, like you want to manufacture your own product, you don't even know if that product is successful, right? Like why don't you get to this later on in life? That may make sense, right? Not at the beginning. So the author says this, he calls this the single most expensive and unwise commitment that Steve made. The fact that like insisting on manufacturing computers inside Next."
+    },
+    {
+      "timestamp": "00:59:44",
+      "text": "But this is how Steve Jobs goes around describing why he's doing this. And this is another what the hell moment. So he said he compared the appeal of the Next computer to the appeal of purchasing a BMW. He explained to employees, if you're going to buy a great sports car, what's the best way to do it? You fly to Europe, go to the factory and buy it there. So let me pause before I go any further. How many people on the planet are way to do it? You fly to Europe, go to the factory, and buy it there. So let me pause before I go any further. How many people on the planet are able to do this? And your target market is college students."
+    },
+    {
+      "timestamp": "01:00:15",
+      "text": "What? So you'll understand what I mean when I continue. Jobs imagined that future customers, reading college students, would do the same and fly to California so that they could watch the particular computer that they had ordered go through the assembly line. The decision to build an automated manufacturing plant in addition to simultaneously designing new hardware and new software led to an enormous drain of attention and money. So those three things by themselves are next to impossible. He's doing them all at the same time. The investment in its own factory"
+    },
+    {
+      "timestamp": "01:00:45",
+      "text": "would also prove costly over the long term in another sense. And this is a hugely important point that the author's making. By creating a vested interest in computer hardware that would make, so you invest all, you have all these sunk costs, right?"
+    },
+    {
+      "timestamp": "01:00:57",
+      "text": "And we know from human psychology that it's really hard to overcome this and make a good decision. So he says, by creating a vested interest in computer hardware that would make it much more difficult for Next to evaluate objectively the wisdom of continuing to market"
+    },
+    {
+      "timestamp": "01:01:10",
+      "text": "its own hardware instead of focusing on what would become its real strength, which is its software. It's weird. Could you imagine how many people would want to be like, oh, I'm going to order a computer. Now I'm going to fly across the country and go watch it be assembled?"
+    },
+    {
+      "timestamp": "01:01:25",
+      "text": "What? So this is interesting. Also, like he was bad managing at this point because he wouldn't accept bad news. So what happens when you, when people give you bad news, but it's true. So the news is true, but bad, right? And you penalize them for giving you true"
+    },
+    {
+      "timestamp": "01:01:45",
+      "text": "but bad news what are they going to do they're going to give you false good news or false like time frames in this case so it says um they kept like they're trying to do their chip design and they need the work would take at least another year. But they had it because of examples I'm about to explain to you. Like they would tell jobs, oh, just one more month over and over again. One more month. One more month. Because Steve refused to accept bad news. And why did they have to lie to him? Because he'd do stuff like this. Screaming at the head of the chip design team. Do you realize you're killing our company?"
+    },
+    {
+      "timestamp": "01:02:21",
+      "text": "Jobs transfer responsibility for delays to his underlings and then smeared them with his contempts not much thanks for working 18 hour days for the previous year the other next employees witnessed this bloody spectacle and drew the appropriate conclusions from then on no one dared to be the one who would deliver the bad news that's the exact opposite conclusion that you would want right if you If you're running the company, put yourself in his shoes. Don't you want to know realistically how long it's going to take? More unclear, weird, strategic decision-making. They go to these like educational conferences. This is 1987. We still don't have a prototype to show you. The finished product won't come anywhere close to the price you have stated you're willing to pay. But hey, here's 18 pages on how our logo was designed. What? Question mark. That's the note I left myself."
+    },
+    {
+      "timestamp": "01:03:08",
+      "text": "At the 1987 meeting of Educom, Next kept details of the cube hidden and instead distributed a beautifully printed 18-page brochure about the Next logo. organizations economizing that jobs no longer could even imagine were not a good choice of an audience for telling them in such length in such lengthy form the tale of the hundred thousand dollar logo why would you do that right isn't it bizarre we're in this is like bizarro steve jobs um okay so when next was finally ready to sell computers the price was seven thousand dollars the response and that's like a dumbed down, like basic. It was really not $7,000. And then the response from the universities was, this is not the computer you promised us. This is not the computer we wanted."
+    },
+    {
+      "timestamp": "01:04:00",
+      "text": "And so they're going on trying to solicit pre-orders. It says Next was open to whatever number schools were willing to pledge. But even under pressure, the advisory board could not muster orders from more than a handful of machines total. Jobs was stunned. His best customer prospects were unwilling to commit. This is what happens when there's no urgency"
+    },
+    {
+      "timestamp": "01:04:21",
+      "text": "and you've isolated yourself from the real-world constraints of making a profit because you've raised so much money from Steve Jobs and Ross Perot, eventually Canon, the Japanese company, throws up a couple hundred million dollars, I think maybe like $150 million in total. Then you're like, what do you mean? We have beautiful offices. We have this great machine."
+    },
+    {
+      "timestamp": "01:04:41",
+      "text": "No one wants to buy it? I'm stunned. And you realize that maybe he would have picked up on this earlier because steve himself was even having trouble positioning the machine he was building he wasn't really sure what it was it says jobs decided to try to finesse this by thinking of his machine as a never seen before hybrid what he called a personal workstation providing the ease of use of a personal computer and the power of a workstation except it didn't that. It was a beguiling idea that neatly ignored the reality that it would be too expensive to be a standalone personal computer and too technically deficient to be an attractive workstation. He's in the messy middle. By positioning his machine as a personal workstation,"
+    },
+    {
+      "timestamp": "01:05:20",
+      "text": "Jobs would in effect double his competition. He not only would be he not only would be taking on all the personal computer world like the apples the ibms and all the rest but also the workstation world too it was like purposely whacking two hornets nests instead of one um so this next part talks about like the idea of computer companies targeting the education market was not anything um was not anything new. I was taking notes. If you haven't got on my personal email list, I'll leave a link in the show notes. But basically I take notes anytime,"
+    },
+    {
+      "timestamp": "01:05:53",
+      "text": "obviously there's like podcasts on entrepreneurship or I've been going to a lot of talks on YouTube. Like I found one of Charlie Munger's commencement addresses like from like 13 years ago or 15 years ago, something like that. And I just sent it to my email list this week. And Charlie Munger is one of the most interesting thinkers I've ever come across. And he quotes Cicero in this commencement address he's giving before a bunch of, I think, graduating law students at USC. And he says one of his serious quotes is from Cicero."
+    },
+    {
+      "timestamp": "01:06:23",
+      "text": "It says, a man who doesn't know what happened before he was born goes through life like a child so it's Charlie saying like the benefits of studying history Steve Jobs studied history in the sense of like Thomas Edison Edwin Land Henry Ford but he should have also looked to see if anybody done a bit tried what he's exactly doing because he would have found this story right here he says the pattern continued where computers and education were matched in the 1960s with universities and colleges such as mit university of michigan and darth maith leading the way american higher education was for a brief historical moment caught up in a blinding vision of computer-based revolution um so talks about they had they want to develop all they had hundreds of courses"
+    },
+    {
+      "timestamp": "01:07:02",
+      "text": "uh that would be put on the computer you, very similar to what people talk about doing now. And at the time, and you see how extreme this got up, this was taking place, the optimism at the time. This is the 1960s. At about the same time, a new college in Michigan purposely built its library in such a way to accommodate only a few thousand books, leaving room for the new media of the audiovisual and computer age. It's not that we don't like books, said the architect."
+    },
+    {
+      "timestamp": "01:07:29",
+      "text": "It's just that they aren't the best way to transmit information anymore. Jobs was too young to have any personal memories of this earlier period. This was unfortunate because he might have done things at Next a bit different if he had paid attention to the history of computers and revolutionary delusions found on campuses 25 years earlier. So now we're going to find out there's an individual study because obviously Steve Jobs is not going to do market research. And they find out the market that he's targeting is actually small and uninterested. From the perspective of universities, the Next was not really a personal computer it was a workstation and this market was not as big nearly as big as jobs had assumed so it's the study comes out it's"
+    },
+    {
+      "timestamp": "01:08:14",
+      "text": "called the staple study says the staple study concluded that given its hardware and software limitations such as the lack of color and the unfinished operating system software the next cube would not be welcoming welcomed in the engineering and computer science departments, where workstation spending was the greatest. They had already had workstations in place that they were happy with. The grandiose overestimate of the education market was hardly new. Going back to the 1960s again, in 1966, two decades earlier, American business had rushed into expensive schemes to make a buck in education with 1966, two decades earlier, American business had rushed into expensive schemes to make a buck in education with computer-aided instruction,"
+    },
+    {
+      "timestamp": "01:08:48",
+      "text": "committing a similar error of latching upon the seemingly fat numbers in education budgets and disregarding the fact that most spending went for salaries and brick-and-mortar construction. Okay, so not only is the market small and interested, the sales process doesn't make any sense either. So this is trying to sell tens of thousands of tens of thousands of balkanized departments turned out to have absolutely nothing to do with a leveraged model meaning steve wanted to like when you get"
+    },
+    {
+      "timestamp": "01:09:17",
+      "text": "attention from the press he sort of leveraged for sales right like oh they're going to hear about my product because the press picks it up and then they'll come to us but that's not what happens they have to actually build this this huge sales force and they have to go to all these different departments there's tens of thousands of the united states alone and so that's not really leverage that's the opposite of leverage right so it's next faced an insurmountable problem of having to spend a lot of money dispersed across a bewildering number of academic fields in order to generate extremely modest sales. By the end of 1988, Next employees had absorbed the news that few in higher education were willing to buy the machine."
+    },
+    {
+      "timestamp": "01:09:56",
+      "text": "It was a shock to most people. Again, when you're lying to the public, those lies are internalized by your company employees. They believe what you're saying. And they're like, what the hell is happening? Well, it's three years later. We've spent all this time in it. Why is nobody buying this machine? I thought we were great. So at this time, they make this decision. Okay, well, we're not going to focus on education anymore, or not as much. We're going after businesses. So they line up with this hugely successful at the company at the time, a computer company called Businessland,"
+    },
+    {
+      "timestamp": "01:10:27",
+      "text": "which is in itself is going to be out of business in a few years. It goes from like $0 to like over a billion dollar run rate in sales in like four or five years. And then three years later, it's three or five years later, something like that."
+    },
+    {
+      "timestamp": "01:10:38",
+      "text": "It gets basically sold for nothing. And again, this is more unthoughtful strategy. Like you're expanding to business customers, but with academic features. Business customers need to do budgets, not calculus. And business-lang customers were also different from next academic customers in their software requirements. They had little need of the software"
+    },
+    {
+      "timestamp": "01:10:57",
+      "text": "that was bundled with the next cube, which allowed them to render three-dimensional models of molecules or to write artificial intelligence routines in esoteric languages or to blast through Shakespeare. Instead, they wanted a database program. None was available. They wanted computer-aided design program. None was available. They wanted a good word processing program. None was available. They wanted a spreadsheet like Lotus 1-2-3. None was available. And then Businessland also has a leader that gets caught up in fairy tales because Businessland forecasts sales of $150 million in Next computers"
+    },
+    {
+      "timestamp": "01:11:32",
+      "text": "in its first year that they signed a contract to be its exclusive distributors. And so they say, okay, we're going to do $150 million in sales just for Next. This is the result. Next did not disclose to the public that at the end of 1989, Businessland had sold a grand total of 360 Next computers. 360 computers on a projection of $150 million. This was painful to absorb, especially for the Next employees who had worked at Apple,"
+    },
+    {
+      "timestamp": "01:12:03",
+      "text": "which sold more than 400,000 Macintoshes in its first year after its introduction. And then this is a problem. Remember that factory I talked about earlier? The next factory had a run rate of fewer than 100 machines a month. Not 100,000 just plain 100. It was created to produce 100,000 computers a month. Now this is a summary of where we're at in the next history more than four years after its founding 16 months after the cube had been unveiled nine months after announcing its partnership with businessland and six months"
+    },
+    {
+      "timestamp": "01:12:35",
+      "text": "after receiving the massive investment from japanese giant canon the marketplace was not cooperating with the script that steve Jobs and his associates had written for themselves. And I chuckled. It's really not funny. Like I couldn't imagine the heartache of being in this position. If you like think about all the time and effort and money you put into this and you sold 360 computers after four years, I just, it's devastating. It's not, I don't mean like I'm not laughing at them. Um, it's just, yeah, I just couldn't imagine like I wouldn't, it's heartbreaking."
+    },
+    {
+      "timestamp": "01:13:11",
+      "text": "Um, I mean, it's their own fault. Don't get me wrong, but it's definitely, it'd be heartbreaking. Um, more problems,"
+    },
+    {
+      "timestamp": "01:13:18",
+      "text": "uh, caused by overconfidence on the, on the public record, Jobs would speak eloquently about how he liked to hire self-motivated people. So again, this is a different level. I shouldn't even use the word overconfidence. This is a different level. So he's saying, hey, I only hire self-motivated people. I, you know, point them in the direction that you're going to get the hell out of the way. But that's not how he actually managed. In fact, Jobs could not resist doing the opposite of what he prescribed. He reserved all decisions for himself, interceding in every trivial matter."
+    },
+    {
+      "timestamp": "01:13:44",
+      "text": "So let me give an example of that. He has a, he's walking into the next headquarters with a group. I think that might be from business land executives having a meeting about like the sales process for Apple. He, as they're walking in the pathway before they get to the front door, jobs notices some gardeners outside of next doing something he doesn't like. So he spends 20 minutes telling them exactly where he wants the sprinkler headers,"
+    },
+    {
+      "timestamp": "01:14:06",
+      "text": "sprinkler, like the sprinklers to go while he just makes the executives wait. Again, you're not selling any computers. Those 20 minutes, probably a better idea to work out why, like how you could do a better job in the sales process than where the sprinkler is going to go. So that's what i mean about every trivial matter that's just one example perhaps java's behavior is best explained by his"
+    },
+    {
+      "timestamp": "01:14:28",
+      "text": "egoism if no one was his equal then it would be best to have all decisions made by the most competent person available available that is himself but we know that that's impossible it's impossible for one person to have all the great ideas he believed his grasp of all functional areas of business was was as sure as it was intuitive. And he saw himself as a self-taught creator of an entire industry in the same way that Henry Ford and the Wright brothers had no formal business background. Now this is maybe one arguably the craziest example of his level of confidence in himself. On a hot summer day during a hike in the Stanford Hills"
+    },
+    {
+      "timestamp": "01:15:05",
+      "text": "with a fellow employee that took them up to a vantage point from which the sprawl of Silicon Valley could be glimpsed beneath the thick smog, Jobs could look out and say, in all apparent seriousness, I feel responsible for that. And a great description by somebody that used to work at Next and then left, talked about what one of their main problems was in the sense that they would focus,"
+    },
+    {
+      "timestamp": "01:15:31",
+      "text": "they would over-focus on things that don't matter and not focus at all on the things that actually do matter. And he said, they were doing little things down to the gnats ass while other more important matters remained out of our control. Another serious flaw in the Steve jobs of this era is that he had, he took no ownership. If anything went great, it was his, his idea. He was the reason for success. If things went poorly, it was everybody else's fault. That's a, this a terrible, like no one would want to work under a person like that."
+    },
+    {
+      "timestamp": "01:16:06",
+      "text": "So after nine months of really crappy sales, he decides, was it my fault for designing a product nobody wants? Nope, it's not. It's business land. They're the problem. He convinced himself that he had set up a quality organization that produced a quality computer."
+    },
+    {
+      "timestamp": "01:16:22",
+      "text": "At the same time, he could not avoid seeing that his intended customers were not nearly as delighted and surprised as the company's mission statement said they were supposed to be, and that sales failed to take off even after the operating system was completed. So the only possible explanation left in his mind was that his new business partner, Businessland, was bungling the task of selling the machine. In the spring of 1989, Businessland had been hailed by Next as the very best of what it did by the fall business land was hopelessly incompetent inept incapable of selling without next holding his hand in every way"
+    },
+    {
+      "timestamp": "01:16:51",
+      "text": "well the question that naturally begs the question like if business land is so incompetent then why did you pick them and what does that say about you we'll never know the answer to that question right um so what do you do when your product is not spelled is not selling what would And what does that say about you? We'll never know the answer to that question, right? So what do you do when your product is not selling? What did Steve Jobs of Next do at this time? Spend more frivolously, of course. Susan Barnes, which is also one of the co-founders of Next, in charge of finance, had voiced a heretical thought. Since the cube was not selling, perhaps it would be best for Next"
+    },
+    {
+      "timestamp": "01:17:22",
+      "text": "to shift back to research and development mode. Pull the product from the shelves, concentrate on writing a new one, and conserve its money in the meantime. But Jobs would hear nothing of it. He felt it was best to maintain an image of success. Next's sales representatives were always dogged by questions concerning the company's viability, and Jobs sought to provide reassurance that the company was healthy and would be long-lived by spending in the manner of a healthy company. More buildings were leased,"
+    },
+    {
+      "timestamp": "01:17:47",
+      "text": "even though some would remain unoccupied. Weird decision, right? Next's own direct sales force was greatly expanded with an experienced cadre of computer salespeople. The travel and entertainment experiences, the travel and entertainment excesses of the staff on the road soon became legend. Even at Next, where the word excess was not in anyone's vocabulary,"
+    },
+    {
+      "timestamp": "01:18:07",
+      "text": "and a single month's catering bill for the company's 24-member executive staff had come to $13,000 a month. Next's sales figures were kept secret so Jobs could point to outward appearances and say to the world, does this look like a company that's not going to be around? Eventually, Ross Perot figures out what's going on, and they have a huge argument over Next having its own factory. If you create a factory that was created to manufacture a billion dollars a year in computers,"
+    },
+    {
+      "timestamp": "01:18:35",
+      "text": "when the actual sales were in the low millions, we need to ditch the factory. Steve Jobs wouldn't do that. Perot winds up resigning, but he says the bad news about the failure to achieve profitability had to be delivered to next small board of directors, and Ross Perot did not take the news well. He interrupted the presentation. So what you're telling me is the cockpit's on fire and the plane is in a tailspin. Tell me something I don't know. And then this is the inevitable outcome of a company that is not a good steward of the resources next should have been it's a it's amazing that steve jobs able to keep it alive and then swing"
+    },
+    {
+      "timestamp": "01:19:09",
+      "text": "it an apple because it should have been dead many many times it says the company that only two years earlier had gotten an injection of 100 million dollars from the japanese remember this is after 100 million dollars from perot too uh we're once again out of money perot before he left had become extremely unhappy with the way jobs had burned through the money, as if he or Cannon or another sugar daddy would always be on him to bail him out. Perot saw that paradoxically, Nex had been hurt,"
+    },
+    {
+      "timestamp": "01:19:34",
+      "text": "not helped, by the generous funding it had been given because jobs never had to learn how to stick to a budget. I shouldn't have let you guys have all that money, Perot told Nex. This is the biggest mistake I made made he was not about to make it again so next could not get any more money from him nor could it get any more money from licensing fees from ibm the only other major part partner remaining was canon and canon"
+    },
+    {
+      "timestamp": "01:19:56",
+      "text": "was faced with an unsavory choice it could either inject additional capital in the next or watch its 100 million dollar investment land in chapter 11 bankruptcy whether next lives or died depending on what Cannon decided to do. Another bad position to put yourself in. In too deep to shut the cashier window at this point, Cannon came through with $10 million in an inverted disaster. That money quickly disappeared, so another $10 million had to be put in. I think after that they had to lend him another $40 million after this too."
+    },
+    {
+      "timestamp": "01:20:25",
+      "text": "So now we get to the point in the story where it's evident. Next computer is done. You have to find another course. And the weirdest thing is the best decision they made was switching from selling hardware to just software. Right? But that decision didn't even was switching from selling hardware to just software, right? But that decision didn't even come from Steve Jobs. He was forced into that,"
+    },
+    {
+      "timestamp": "01:20:53",
+      "text": "which is another surprising aspect that I found out by reading the book. And part of the reason was he wouldn't believe things that were true that he didn't want to. So one of his partners, I think his name is Bud Tribble, Jobs resisted switching from selling hardware to software partly because he believed there's no money in selling operating systems uh next was near financial collapse compare that with microsoft's margins that's what the note of myself is in this particular matter jobs should not have accepted tribbles presentation of the facts so by triple tells him like because people in the company and even outside the company why don't you just sell me your operating system like that's legitimately"
+    },
+    {
+      "timestamp": "01:21:24",
+      "text": "good it has value sell it to me and operating system? That's legitimately good. It has value. Sell it to me. And Jobs refused. He's refusing to sell something that has huge marginal profits and even though his company is near financial collapse. It's bizarre. And the point was not only was it bizarre, but Tribble's wrong."
+    },
+    {
+      "timestamp": "01:21:40",
+      "text": "It says, Tribble's just plain wrong. Microsoft continued to prosper from its high margin sales of the DOS operating system and the window environment that ran between dos and applications in 1991 no less than 36 percent of microsoft's 1.8 billion in revenue came from its operating system and language software so they're selling you know what is that so close to 600 500 million something like that in uh in in operating systems it's gross margins and this is the main point though it's gross margins in the first first quarter in fiscal 1983 were in we're 83 that's insane but microsoft was not the company that next would would best be compared to no matter how he"
+    },
+    {
+      "timestamp": "01:22:19",
+      "text": "wished uh that it that it was otherwise job had no realistic hope hope of displacing Microsoft in the operating system business. But there was somebody else they could compare to, right? And he says a more practical comparison would have been to the privately held Santa Cruz operation. Now this is very interesting."
+    },
+    {
+      "timestamp": "01:22:40",
+      "text": "I never heard of this company before. I was having a conversation with a friend last night looking confused about all the different opportunities. It's kind of hard like this idea that the Internet has massively broadened the scope of careers and all kind of like especially the leveraging technology. Like what there's people that you've never heard of building hugely profitable businesses and like and enjoying like the product they make. And some people even call them lifestyle businesses, whatever, whatever the hell you want to call them. But like there's just there's no limits like the opportunities they make. And some people even call them lifestyle businesses, whatever the hell you want to call them. But there's no limit to the opportunities out there. We're just in a weird time period, a great time period."
+    },
+    {
+      "timestamp": "01:23:11",
+      "text": "I mean weird in the most positive way possible. But this is also not relatively new because look at what Santa Cruz was making back in the, what is this, late 80s, early 90s. So this is the company that, they're obviously saying, hey, you might not be able to do billions of dollars in sales like microsoft but there's tons of other companies that are"
+    },
+    {
+      "timestamp": "01:23:28",
+      "text": "selling operating systems they're making tons of money at this time so it says santa cruz operation was a small company which sold a version of the unix operating system to businesses that needed unix for computers built the same microprocessors as ibm something that ibm wanted uh next to do um compared to microsoft DOS operating system, the Santa Cruz operation Unix was not well known, but it was used by businesses. This is my point, that there's all these weird niches out there"
+    },
+    {
+      "timestamp": "01:23:52",
+      "text": "that can lead to a very profitable, successful business. Not everybody has to build a Microsoft, but it was used by businesses that needed to write customized software for uncommonly demanding tasks and which permitted the computer user to run many separate programs simultaneously. This was exactly what the next software excelled at."
+    },
+    {
+      "timestamp": "01:24:10",
+      "text": "And Santa Cruz had a tiny company and they were generating annual revenues of 160 million only selling software at high margins. So again, if you're Steve Jobs, you want to be like Henry Ford, then you're not going to do that. But you know how many people would love to run a business that was doing 100 million in sales,"
+    },
+    {
+      "timestamp": "01:24:28",
+      "text": "160 million in sales at high profit margins? So it says, but there was little likelihood of high visibility and glory of the power to set standards of the mainstream computer industry, let alone likelihood of collecting billions of revenue annually, like Microsoft. So to step in that direction and become an obscure santa cruz"
+    },
+    {
+      "timestamp": "01:24:47",
+      "text": "operation which i really find like demeaning like i don't think that's again like there's only going to be a handful of of huge companies let's say you have a generation like there's generations of those right there's a tiny bit handful maybe a couple handfuls whatever it is like there's just what i'm saying is like the opportunity to do that is a lot smaller than the opportunity to build, you know, 100 million or 200 million or whatever the number is. Like Santa Cruz level businesses, what I'm saying, which are still hugely successful. But for jobs, it's like, he calls it the obscure Santa Cruz operation."
+    },
+    {
+      "timestamp": "01:25:20",
+      "text": "He's not calling it, but this is the author describing like what his opinion would have been, would be to acknowledge that next would remain marginal not in a business sense but in a historic sense i guess that's a better way to frame it so he they're not marginal business sense it's he's successful but in a historic sense you know most people never hear them um again i just think optimizing for to go down in history is like i mean steve jobs clearly did uh optimize for that and it wound up working out for him but that's such a like a tiny percentage like you don't want to we only have one life i wouldn't waste it like what okay so what i'm saying is like if you set"
+    },
+    {
+      "timestamp": "01:25:56",
+      "text": "that as your life goal what happens when you don't hit it you're just gonna look back at your one life you have the one experience you have on this planet as like over like a waste like a regret like i would just would never set myself up like that that just doesn't make it seem to me make much sense so anyways eventually because he's running out of money and he's getting pressure internally and externally the the most important this is a fascinating decision or fascinating idea the most important decision about the fate of next didn't even come from steve jobs now this was the right decision you could argue maybe years late but definitely the right decision and i just it was amazing to me that it did not come from steve jobs he would have to be pulled forcefully into to ditching hardware and going into software"
+    },
+    {
+      "timestamp": "01:26:40",
+      "text": "it says it took six full months of campaigning including the appeals of intel's andy gro from It says, as sales of Next's own hardware plummeted that summer and sputtered through the fall of 1992. Next's hopes of a reprieve from oblivion shifted increasingly, later desperately, to the Intel project, which is doing software. And so that's where the book actually ends. And I could see why Randall was a little harsh on Jobs, even though I think we can learn from that. Because, you know, the book goes to publishing in 1993. And at this point, next is a colossal failure. So it kind of, I guess those kind of constraints limiting, just like I thought it was beneficial to limit the history in Michael"
+    },
+    {
+      "timestamp": "01:27:45",
+      "text": "Moritz's book to that seven-year window or whatever it is of the beginning of Apple. And what happens when you have a hugely successful product, I think it was equally as important to do so on literally the opposite end of the spectrum. I'm holding the Michael Moritz book in my left hand and the Steve Jobs in the next book thing in my right hand, and they are literally on opposite ends of the spectrum. That's why I would read them both because it's fascinating to me but I do"
+    },
+    {
+      "timestamp": "01:28:10",
+      "text": "want to end on a positive note because this is my favorite thing from Steve Jobs that Steve Jobs said in the book and it says he's on a panel at this conference"
+    },
+    {
+      "timestamp": "01:28:26",
+      "text": "and they're talking about the computer industry. This is the early 90s. And it says, Jobs as the house philosopher for the personal computer industry, the one who made everyone feel fortunate to be working in a historically significant moment. And so this is what he says."
+    },
+    {
+      "timestamp": "01:28:41",
+      "text": "He talks about like, why is working in the computer industry a, like why should should we feel for I like this perspective, by the way, feeling fortunate, like, I feel the same way, though, I've said before, like, we're really, really lucky, especially for introverted people like myself, and I'm sure a lot of you to being alive and introverted and curious and wanting to learn like, there could not be another more beneficial invention than the internet for that, right? And that's why I feel like we're really, really lucky to be alive in this time. And being born 30 years early, like, 30 years, if we were born, let's say, you know, 30 years ago, 40 years ago, like, it's a completely different life. And that's a very small time in the grand scheme of, like, how long humans have been alive. So anyways, he's saying, listen, people are fortunate to be working in a historically significant moment. And I love this comparison he does here."
+    },
+    {
+      "timestamp": "01:29:30",
+      "text": "He says, the petrochemical revolution of 100 years ago freed mechanical energy, Jobs had said. The information revolution just begun frees intellectual energy and will dwarf the petrochemical revolution in its impact i think that's a beautiful thought i don't think it's done that yet probably will in the future um but this is something you know he said this back in the 90s which is uh like very prescient is that the word i'm looking for? The idea that"
+    },
+    {
+      "timestamp": "01:30:06",
+      "text": "he internalized this and was able to comprehend this at such an early time relative to the time we're living now is rather impressive. So that's where I'll leave the story. I can't recommend enough. I think it's really important to study this. I buy both the books. If you want to support the podcast, my work at the same time, I'll leave a link in the show notes like I do for everything. Or you can go to founderspodcast.com and you can obviously get everything there. Or you can go to amazon.com, 4-slash-shop, 4-slash-founderspodcast. That's where I put every single book that I do for the podcast. If you buy through that link, Amazon sends me a small percentage of the sale, no additional cost"
+    },
+    {
+      "timestamp": "01:30:42",
+      "text": "to you. It's a great way to support yourself and the author and me. So you support yourself by getting a great book to read. You support the author by buying their work because they spent a lot of time doing this. And then you support me because Amazon sends me a small percentage of the sale. And hopefully I made you aware of the book and everything and some of the interesting things. And keep in mind, like, um i owned the hardcover of this book which is really interesting because i got a used copy off of i couldn't find any new copies on um on uh on amazon and i also own the kindle version and just to give you an idea of"
+    },
+    {
+      "timestamp": "01:31:17",
+      "text": "like that and every single podcast i do i'm i'm telling you about these are basically my think about is like my notes and highlights. It's a tiny percent. I think I've been talking for like an hour and a half or something like that. And when I exported all my notes and highlights out of the Kindle version, it's 5%. It's such a tiny percent. There's just so much information in this book that it can't, and all the books."
+    },
+    {
+      "timestamp": "01:31:41",
+      "text": "So I guess my point is I've found a lot of good books through Um, so it's, I guess my, my point is like, I've, um, found a lot of good books through podcasts. And usually when I, when I listened to a podcast and I, and I'm, and I like the podcast and I wind up buying the book that the podcast is based on, I usually, and I think it's a good proxy to determine if you're going to like the book or not, I guess is my point. Um, so yeah, pick that up, buy as many as you want. I've been like, I basically only give books as like if I buy somebody a gift I'm very bad at giving gifts outside of like for my daughter and wife but like friends family members they know like Christmas time your birthday whatever I'm giving you books I just think it's like the and usually books I've read oh no almost always books I've read so like I don't know I think"
+    },
+    {
+      "timestamp": "01:32:20",
+      "text": "that's a it's like the best thing to give somebody. It's like, hey, I spent 10 hours reading this. I really enjoyed it. I thought of you for some specific reason. So if you have anybody in your life that you want to give gifts to, buy books. And if you can, buy them from Amazon.com forward slash shop forward slash founders podcast. If you've gotten this far and you have not signed up for the Misfit Feed, you're missing out on half of my podcasts. I don't have ads in this podcast. So that means I rely on the support of the people that learn from my work, that get value from my work."
+    },
+    {
+      "timestamp": "01:32:48",
+      "text": "And the best way to support my work is just sign up for the Misfit Feed. You'll get two additional podcasts every month from me, including the two free ones that I could do. Obviously, the people that sign up for the Misfits allow me to dedicate the time to do the free ones. So in a sense, you're getting two that no one else gets, but you also get all the free ones available for everyone else. And that's the best way to do the free ones. So in a sense, like you're getting two that no one else gets, but you also get all the free, you make it the free ones available for everyone else. And that's the best way to do it. It takes, I leave the link in the show notes. You can open it up on your podcast player, 10 to 20 seconds. You don't even have to put in your credit card number. You can do Apple pay super fast. The software program I use will automatically generate the private feed and automatically install it into your podcast player of choice."
+    },
+    {
+      "timestamp": "01:33:26",
+      "text": "You can be listening to all the Misfit Feed podcasts in 20 seconds from now. So please do that if you get value from my work and you want to see this project continue. That's the best way. The more people sign up, the more the opportunity cost of doing the podcast is basically eliminated."
+    },
+    {
+      "timestamp": "01:33:42",
+      "text": "So if, God forbid, you're scared that this podcast would disappear one day best way to avoid doing that is to tell your friends sign up for the misfit feed and then tell your friends to listen as well i would greatly appreciate it um what else do i need to talk about so we talked about misfit we talked about buying books on the the link oh so i haven't talked about this in a little while. If you... I'm so confusing. Okay, so I have all these different podcast feeds, don't I? I have a Misfit feed. I have the main feed, the one you're listening to now. I also have a reviewer-only feed."
+    },
+    {
+      "timestamp": "01:34:19",
+      "text": "So for the life of me, I don't understand why, you know, I've been obsessed with podcasts for 10 plus years. Almost all of the podcast hosts will be like, hey, please rate and review because it does actually help. What I never understood is like, so a lot of people leave reviews and recommendations because they want to. But like, why don't you, we know from studying human nature, from studying business, from studying history, that like humans are governed by incentives. So why don't other podcasts further incentivize you for doing that? You know? Um, and so my idea was like, Hey, why don't I just make a private podcast feed? I'm not going to sell it. I'm not going to give it away for, uh, for everybody either. Um, and"
+    },
+    {
+      "timestamp": "01:34:56",
+      "text": "it's for people that are willing to leave a review. And so if you, like, let's say you listening to most people live, listen to podcasts, like 90 something percent of the people listen to founders do it on either Overcast or Apple Podcasts, right? There's other ones you can do this on, but let's say for Overcast. Overcast doesn't have a review function, right? But it does have a recommend function. And it's when you're listening to this, you see that on your podcast on the screen, you'll see like a little star. Once you tap that star, that means you're recommending this individual episode. So you tap the star, it turns gold. Take a screenshot of that, email it to me"
+    },
+    {
+      "timestamp": "01:35:32",
+      "text": "at foundersreviews at gmail.com and I will reply back with a private podcast feed. I have seven other podcasts that are available nowhere else. They're only available for people that are willing to take a minute or two out of their day to help me out. And what happens is, you know, you recommend that Overcast will show that to more people. That helps the podcast grow, which is sensibly if you don't"
+    },
+    {
+      "timestamp": "01:35:52",
+      "text": "want this podcast to disappear, you want to help grow, right? The other way, if you're listening on, you know, other podcast apps like Apple Podcasts where you can leave a review, leave a review, take a screenshot, email it to me. I'll send you that link as well with instructions on how to add it to your Apple Podcast player. You can do it really, really fast. So anyways, I'm asking you to do this because it really does help out. It helps other people find it. It's also the people that actually leave detailed reviews gives me a good indication of, like I have an idea of what I'm doing here but it's seeing how you interpret it it is also really helpful I guess and how I think about it I'm losing my voice if you haven't already join my private email list you"
+    },
+    {
+      "timestamp": "01:36:34",
+      "text": "could just go to David's David's notes at David's notes that substack calm or just click the link enter in the email address the email address is for our the email list is free. I'm doing an audio version now. If you want me to read my notes to you instead of read it yourself, you can upgrade. And then that actually turns into like this weird like mini podcast thing, I don't know. People seem to like that a lot more."
+    },
+    {
+      "timestamp": "01:37:00",
+      "text": "They like the idea of me reading to them than them having to do it. And I kind of like that too. If I can get more information audibly where where i can do other things i definitely would i'm doing that because i would want that as well i guess is what i'm saying like that just makes more sense it makes it makes sense why people have said that they like it better this way because i also like better that way too all right well anyways i've talked enough i need to figure out what i'm reading for the next week and i need to get on that as soon as possible so we can keep"
+    },
+    {
+      "timestamp": "01:37:23",
+      "text": "this train running thank you very much for support. Thank you for listening. Thank you for telling your friends. I guess that's it. I'll talk to you next week."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:20:30.677Z"
+}

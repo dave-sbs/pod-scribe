@@ -1,0 +1,705 @@
+{
+  "metadata": {
+    "episodeNumber": 376,
+    "title": "Jensen Huang: Founder of Nvidia",
+    "slug": "376-jensen-huang-founder-of-nvidia",
+    "url": "https://podscripts.co/podcasts/founders/376-jensen-huang-founder-of-nvidia",
+    "date": "January 13, 2025",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "There's an idea in this book where it says Jensen prioritized technical skill and maximum effort above all. And as I was reading, I noticed a lot of similarities between the way Jensen thought and ran his company with the way that Steve Jobs and Jeff Bezos thought and ran their companies as well. In fact, from day one in Jeff Bezos' very first shareholder letter, Jeff wrote about the importance and emphasized the importance of having the very best team. He wrote, setting the bar high in our approach to hiring has been and will continue to be the single most important element of Amazon's success. Jeff's focus on talent is very similar to this quote that I found from Steve Jobs in an interview that Steve gave that very same year in 1997."
+    },
+    {
+      "timestamp": "00:00:41",
+      "text": "And this is what Steve Jobs said. He said that, I think I've consistently figured out who the really smart people were to hang around with. You must find extraordinary people. The key observation is that in most things in life, the dynamic range between average quality and the best quality is at most two to one. But in the field that I was interested in, I noticed that the dynamic range between what an average person could accomplish and what the best person could accomplish was 50 or 100 to 1, given that you're well advised to go after the cream of the cream. He says you want to build a team that pursues the A-plus players. And this is exactly what Ramp did. Ramp has the most talented technical team in their industry. Becoming an engineer at Ramp is nearly impossible. In the last 12 months, they hired only 0.23% of the people that applied."
+    },
+    {
+      "timestamp": "00:01:31",
+      "text": "When you use Ramp, you now have top-tier technical talent and some of the best AI engineers working on your behalf 24-7 to automate and improve all of your business's financial operations, and they do this all on a single platform. That means the longer that you use Ramp, the more efficient your company becomes. This is important because as Sam Walton said in his autobiography, you can make a lot of different mistakes and still recover if you run an efficient operation, or you can be brilliant and still go out of business if you're too inefficient."
+    },
+    {
+      "timestamp": "00:02:01",
+      "text": "Ramp helps you run an efficient organization. In the end of that interview that Steve Jobs gave, he added, a small team of A-plus players can run circles around a giant team of B and C players. From a customer's perspective, what does it sound like when you have a small team of A-plus players? It sounds like this customer review that I read,"
+    },
+    {
+      "timestamp": "00:02:21",
+      "text": "which said that Ramp is like having a teammate who you never need to check in on because they have it handled. Ramp gives you everything you need to optimize all your financial operations on a single platform. Ramp's website is incredible. Make history's greatest entrepreneurs proud by going to ramp.com to learn how they can help your business today. That is ramp.com. So the book that I want to talk to you about today is the NVIDIA way Jensen Wong and the making of a tech giant. And it was written by Tay Kim. The book is a company history of NVIDIA, but that is not what I want to talk to you about. I want to talk to you about how the founder Jensen has learned to run his company after decades of experience and learning and practice and failure and pain. And so there is 19 different ideas that popped out to me."
+    },
+    {
+      "timestamp": "00:03:12",
+      "text": "And they're like reoccurring themes. And I think they distill an idea from Charlie Munger. Charlie Munger has this idea that he talks about over and over again. He talked about over and over again for decades. He talked about the Lollapalooza effect and how there's these economic and social implications of these different ideas inside of a company that interplay with one another and the combination of them actually make the traits more powerful. And in typical Charlie Munger fashion, he said, the person, the man who doesn't understand this is a damn fool. And so I organized my notes into this list of 19 ideas that I learned from Jensen, specifically how he runs his company from reading"
+    },
+    {
+      "timestamp": "00:03:51",
+      "text": "the book. Before I get there, though, I got to take another idea from Munger where he talks about the importance of why he read so many biographies. And he says that when you're trying to teach the great concepts that work, I think it helps to tie them into the lives and personalities of the people who develop them. So before I get to my list of 19 ideas, I want to give you this brief overview of Jensen Wong's early life and then the pre-history of NVIDIA. And I think doing so will add context because Jensen runs NVIDIA in a very unique way. He has built, which I think all of he has in common with a lot of history-based entrepreneurs, he built a company building philosophy that is natural and authentic to him. He's been running NVIDIA for over three decades, and I think it's impossible to do something"
+    },
+    {
+      "timestamp": "00:04:34",
+      "text": "for such a long period of time unless it is natural and authentic to you. So one of the most important things that happened in Jensen's life happened when he was four years old. He was born in Taiwan. His father visits America. He goes to New York City and he realizes, oh, this is the land of opportunity. I want if I want the best opportunity for my two sons, I need to get them to America. And doing so had to feel like a daunting task to his father. Jensen's family did not have money. In fact, they didn't"
+    },
+    {
+      "timestamp": "00:05:05",
+      "text": "even have a lot of stability. They had to move around Taiwan, depending on where his father could find work. They did not, the two brothers, Jensen and his brother, did not speak English. In fact, I thought it was very fascinating how Jensen's mother decided, hey, the kids need to go to America. And if they're going to America, they need to learn English. And so she would select 10 random words from the dictionary every day. She'd make her sons memorize the definition and learn how to spell the words. So 10 English words every single day. And so in addition to reading this book, I watched a bunch of interviews with Jensen and he talks about the fact that he has, he feels a great debt, the fact that sacrifices that his parents made to give him access to essentially unlimited opportunity. One of the great things about reading, you know,"
+    },
+    {
+      "timestamp": "00:05:55",
+      "text": "this is not technically a biography of Jensen, but it can function as one. And one of the reasons I become an evangelist for, you know, reading biographies, I try to get people to read as many as possible because you're not really, really yes we're studying and we're learning about the lives of other people but it is natural it's human nature to put yourself in their shoes and think about how their story or their ideas relate to your own and this was you know actually surprisingly it hit me like an emotional point because I was just thinking about the fact that, you know, this was outside of Jensen's control. He's four years old when this is happening. And yet the decisions that were made before Jensen even had a memory affected the entire"
+    },
+    {
+      "timestamp": "00:06:39",
+      "text": "trajectory of his life. And I thought about the fact that my paternal grandfather was born in Cuba. He died before, I have no memory of him. He died when I was really young. I think I was actually four, as a matter of fact, maybe even younger. And yet I owe the entire trajectory of my life was changed by a decision of an uneducated, relatively poor man who was living in Cuba. He was 38 years old. He was working any kind of job."
+    },
+    {
+      "timestamp": "00:07:10",
+      "text": "He worked as a butcher in a factory that made shoes. He was not a prosperous man. He was not an educated man. He was married. He had a baby, okay, a two-year-old, which was my dad. And Castro takes over, and decides, somehow, he knew, he's like, this is really bad. I have to get out of here. He winds up, imagine living your entire life in a country."
+    },
+    {
+      "timestamp": "00:07:34",
+      "text": "You're 30 years old. You have a wife and a kid. You don't have any money. You don't speak the language. And you just, and you take that risk and you come to America. And that decision based on somebody i don't have any memory of changing the entire trajectory of my of my life which is the luckiest the kindest thing that ever anybody's ever done for me the luckiest break ever had in my life and i think there's a"
+    },
+    {
+      "timestamp": "00:07:55",
+      "text": "lot of similarities between the what his parents are willing to do what jensen's parents are willing to do the fact that they send their their, imagine sending your kids, they send Jensen and his brother to Washington, to Tacoma, Washington, to live with their aunt and uncle before they can get over to America themselves. And then what happens? They decide, okay, our boys are here. We know they need to get a good education. We're going to send them to an American boarding school. Okay. So they think what they find this place called Oneida Baptist Institute, which is located in Kentucky to pay the tuition. Jensen's parents sell off all their possessions. Now here's the problem. It's not a"
+    },
+    {
+      "timestamp": "00:08:35",
+      "text": "prep school. It's not a boarding school. I mean, technically a boarding school, but they thought the family thought it was a prep school. It is a school, a reform school for troubled young people. So really the reason I want to add this like extra context for Jensen's early life for you is because I think this entire section and all the notes and stuff that I want to talk to you about before the founding of NVIDIA and really the first like 10 years of NVIDIA too, you could really summarize it by one of my favorite maxims in the history of entrepreneurship, and that is excellence is the capacity to take pain. Jensen has unfathomable levels. I can't I have not discovered the end of his capacity to take pain."
+    },
+    {
+      "timestamp": "00:09:13",
+      "text": "He talks about this a lot. So there's two things actually happen at the reform school. I think are really important. One, the school holds the students to a very strict routine and you have to work every single day, which Jensen does and loves to do now. The other thing that was beneficial to him that probably didn't feel beneficial at the time is that the first few months Jensen was smaller and younger than all of his classmates and they beat the crap out of him. His roommate at the boarding school was eight years older than Jensen. And they said, there's a great description of in the book that he's covered in, in tattoos and, and scars from stab wounds. And so after getting his ass kicked a bunch, they wind up like finding his footing, gaining respect. He's obviously somebody that's,"
+    },
+    {
+      "timestamp": "00:09:57",
+      "text": "that's not going to back down from a fight. And Jensen much later on in life is talking about this formative experience, uh, going to the school. And he says, as later on in life, is talking about this formative experience going to the school. And he says, as a result of this experience, I don't get scared often. I don't worry about going places I haven't gone before. I can tolerate a lot of discomfort. So then the next thing I want to talk to you about is I want to fast forward. And at this point, we find Jensen is already graduated college. He is working for a microchip company."
+    },
+    {
+      "timestamp": "00:10:26",
+      "text": "It's AMD, Advanced Micro Devices. And this is just his capacity to take pain. He's got large, I would say he's got a lot of endurance. And he's got a phenomenal work ethic. And so by day, he's designing microchips at AMD. And at night and on weekends, he's married and has two kids, by the way. So he's got a young family. He's got a full time job. And he decides he wants to go to Stanford, he wants to get a master's degree, it's going to take him eight years to finish his master's degree, because"
+    },
+    {
+      "timestamp": "00:10:54",
+      "text": "he can only go on nights and weekends, and spare time while he's working and then raising his very young family. But again, he took away a very valuable lesson. He says, I have a very long-term horizon. I can be impatient about certain things, but infinitely patient about others. I plug away. And so here's another example that excellence is a capacity to take pain. Everywhere that Jensen works, everywhere he goes, people realize he's really smart. And then he winds up getting promoted rapidly, almost everywhere he's at. And there's this line in the book that's fantastic. It talks about like, why does he think that he was able to be propelled from scrubbing toilets to managing entire divisions of microchip of a microchip company. And he believes it's his willingness and ability to put in more effort and tolerate more suffering than anyone else. And"
+    },
+    {
+      "timestamp": "00:11:39",
+      "text": "again, this is something he repeats in a bunch of the interviews I watched with him as well. He says people with very high expectations have very low resilience. Resilience matters in success, Jensen said. Greatness is not intelligence. Greatness comes from character. And character, in Jensen's view, can only be gained and actually earned as a result of overcoming problems, setbacks, adversities, and refusing to quit. Perseverance is one of, I think, Jensen's most valued traits. And it is also advice that he doles out. So if you were to ask Jensen, what is your advice on how to achieve success? His answer is relatively consistent over the years. He says, I wish upon you ample doses of pain and suffering. So I want to get into a"
+    },
+    {
+      "timestamp": "00:12:24",
+      "text": "very important part of like the prehistory of NVIDIA. And Jensen is working at this company called LSI Logic. And there's a few actually, there's three important things that jumped out at me that I think were important for the time that Jensen spent at LSI Logic. One, he's going to pick up this maxim that he'll repeat throughout as he's building NVIDIA. It's called honing the sword. And it's the idea that, and again, this is something that Jensen has in common with Jeff Bezos, Steve Jobs, and a bunch of other people. But I want to give you two examples there that you should seek conflict. If you're working on something you care about, don't avoid confrontation. You actually seek conflict. And Jeff Bezos said"
+    },
+    {
+      "timestamp": "00:13:01",
+      "text": "the greatest example of this. He says, if I have to choose between agreement and conflict, I'll take conflict every time. Why? Because it always yields a better result. So they're having these explosive fights and arguments inside of like what to build, what direction, how to run the company. And he realizes that it might be temporarily uncomfortable to go through that experience when it's happening. But on the other side of that is a better idea a more refined idea so the reading reasons i was called honing the sword honing the sword how do you sharpen a sword you you hit it against a wet store a wet zone and doing that over and over and over again um creates a sharper and a better sword this winds up becoming one of his main philosophies and one of the 19 things I want to talk to you about when we get there. But again, every time I read anything, it could be a book, an article, a tweet, I always think about like, how does what I'm reading now"
+    },
+    {
+      "timestamp": "00:13:55",
+      "text": "relate to all the other, you know, 375 other books that you and I have studied on this podcast together. And so honing the sword actually reminded me of Steve Jobs' rock tumbler story. So there's this great interview. I think it's called Steve Jobs' The Lost Interview. I think it occurred right before he went back to Apple. So this was right around 1997. So he tells a great metaphor. Steve, you know, master storyteller,"
+    },
+    {
+      "timestamp": "00:14:18",
+      "text": "has a great metaphor for teams working on a product that they are passionate about. And this is what Steve said. There was an 80-year-old man that lived on my street. One day he showed me a dusty old rock tumbler. We took regular old ugly rocks and some liquid and powder and put them in the tumbler. And he said to me, come back tomorrow. The next day we opened the can. We took out these amazingly beautiful polished rocks, the same common stones that had gone in through rubbing up against each other, creating a little friction, creating a little noise, had come out these"
+    },
+    {
+      "timestamp": "00:14:49",
+      "text": "beautiful polished rocks. It is through a group of incredibly talented people bumping up against each other, working together. They polish each other. They polish their ideas. So the first thing that happened when he's working at El LSI Logic, he grabs this one philosophy that he's going to use, you know, for multiple decades into the future. The second thing, which is arguably the most important thing, is this is where he's going to meet his future co-founders. And there's another maxim I want to put into your brain that reappears over and over again in the books all the time."
+    },
+    {
+      "timestamp": "00:15:23",
+      "text": "Opportunity handled well leads to more opportunity. So Jensen is working at LSI, right? And he's assigned the Sun Microsystems account. He is going to meet, there's two gifted programmers and engineers. Jensen said this, you know, this is one of the luckiest things that ever happened to him. The fact that he met Chris Malachowski and Curtis Preem. These are going to be his co-founders. So he is their liaison between Sun Microsystems, where they work, and LSI, where Jensa works. And so Chris and Curtis actually get upset at Sun Microsystems. They decide to leave, and they have this idea that they want to be consultants and advisors. They want to tell, they want to essentially pitch Samsung on taking one"
+    },
+    {
+      "timestamp": "00:16:05",
+      "text": "of their ideas. And they're like, hey, we'll just, you know, design it. We'll be consultants for them. And they're like, wait a minute, we're like really good technologists. We might have a lot of technical brilliance, but we don't know anything about contracts or business really. We need to get somebody to help us. And they're like, who's the best person that can help us? And they loved working with Jensen so much. And they thought he was so brilliant. They're like, oh, we immediately reach out to Jensen. So originally, Curtis and Chris are like, hey, can you help us like write this contract for this idea that we want to pitch Samsung, we want to make sure we don't get screwed over. They start meeting. And eventually, Jensen's just like, well, why are we doing this for them? Why don't we start"
+    },
+    {
+      "timestamp": "00:16:40",
+      "text": "our own company? And that's why I think it's so important to repeat over and over again, that opportunity handled well, leads to more unexpected opportunity. You can never possibly predict the fact that, you know, every single job that Jensen does, he does the best possible job he can. And that as the time passes, as you, as you read the book, as you go, as his life unfolds, that the fact that he handled the opportunity the best, he did the best possible job he did unlocks all these other opportunities. I remember there's actually a great way to think about this and one way i think about this all the time like if you hear my own inner monologue um there's this basketball player he's a young basketball player named anthony edwards and he plays for the timberwolves and they were"
+    },
+    {
+      "timestamp": "00:17:15",
+      "text": "like really outperforming what people thought they were going to do in the playoffs and i heard one of his i saw a clip of one of his post-game interviews, and I thought what he said was fantastic. And he had a very, Anthony Edwards had a very simple, like, modus operandi or way to approach thing. He's like, hey, I'm just trying to kill everything in front of me. I'm just trying to kill everything in front of me is another way of saying that whatever opportunities in front of me, I'm going to do the best damn job possible. And if I do that every day, that opportunity to handle well is going to lead to more unexpected opportunity."
+    },
+    {
+      "timestamp": "00:17:49",
+      "text": "Now, that also combines with another maxim that you and I talk about, that relationships run the world. So Jensen's working for LSI, okay? He goes to the CEO, Wilfred Corrigan, and he's like, hey, I'm going to leave. I'm going to do this business with Curtis and Chris. And what is LSI's CEO? The first thing he's like hey I'm gonna leave I'm gonna do this this business with Curtis and Chris and what is LSI's CEO the first thing he says can I invest because he's like you're you're brilliant you're one of the smartest people at this company and this this is the third reason that I wanted to talk about Jensen's time at LSI logic and how it was so important to the prehistory of NVIDIA because what does Corrigan do? Corrigan actually introduces Jensen to Don Valentine, the founder of Sequoia. And Sequoia and Valentine had invested in LSI. Now, here's the reason I say opportunity handled"
+    },
+    {
+      "timestamp": "00:18:37",
+      "text": "well leads to more opportunity and relationships around the world. When Wilfred Corrigan calls Valentine, he's not saying, hey, you should, these guys want to make graphics cards or they want to do, he didn't even pitch him the startup idea. He pitched Jensen. He's like, hey, this guy wants to start his own company. He's really smart. He is really good. You guys should go talk to him. Now, this is the fascinating thing, because not only did like Jensen gets this introduction, they suffer his reputation. Jensen talks about this and something you and I will talk about later too. And I think again, another trait, I hate to repeat myself, but I have to because I think it's a reputation is"
+    },
+    {
+      "timestamp": "00:19:15",
+      "text": "persuasive. It's really important. Jensen has so many traits, he fits right in with all the people that you and I study. And one of them is this fierce habit of self-criticism, of never thinking anything is good enough. And so there's tons of highlights or quotes in the book where Jensen's just like, I suck. I cannot believe I did that. And he talks about the fact that when he goes and pitches what's going to be NVIDIA to Don Valentine, he's like, my pitch was horrendous. I couldn't explain what I was building. I couldn't explain what I was building. I couldn't say who I was building it for. I couldn't even tell him why I was going to be successful. And yet the end of the meeting, Sequoia decides to invest. And there's a great"
+    },
+    {
+      "timestamp": "00:19:54",
+      "text": "quote on Don Valentine in this. He goes, against my better judgment, based on what you just told me, I see this as a crappy pitch. I'm going to give you my money. But if you lose my money, I will kill you. Valentine told him. And so Jensen's like, listen, the important takeaway here, again, he goes to school and everybody. So your reputation, reputation will precede you. He's like, they succeeded on the strength of your reputation, not their business plan, not their pitch. And this is a very important point because I always think of what there's a line where like if you go and read Buffett's shareholder letters and you go and watch his way he answers questions at the AGM and you can go see these YouTube videos where he actually testifies in front of Congress. You'll see that Buffett for over four decades talks about the fact that you have to be very and you should be making all your decisions that protect your long term reputation in mind."
+    },
+    {
+      "timestamp": "00:20:47",
+      "text": "In fact, when Buffett is testifying in front of Congress, when that he was going to the Salomon Brothers scandal, he talks about the fact that he told he's telling the congressman that he told everybody inside the organization that if you lose, you can lose money for the firm. I won't be understanding. you lose a single shred of reputation and i will be ruthless he put that into the congressional record and he again i think he talks about the fact that you know the reason is is because if you're making decisions with the importance of your long-term reputation in mind that's going to pay dividends and it can also destroy and and abort future opportunities if you have a bad reputation jensen says the same thing it's like it is a lesson that jensen would never forget your reputation will precede you obviously it pays"
+    },
+    {
+      "timestamp": "00:21:34",
+      "text": "dividends in business i was thinking about this with brad jacobs i became friends with brad jacobs as a result of this podcast brad is on his i've lost count eight nine i think he's on his ninth separate billion dollar company and when i'm reading this part when i got to this part about about jensen i was like you know what brad jacobs could do a horrible job with a pitch too yet because of his track record because of his reputation the fact that his great reputation precedes him if he's starting a new project or he wants to raise money for his new company he's going to have a line out the door around the block and down the street waiting for people to invest in him in his next idea because of that track record because of that reputation so there's just a few more things before we get to this list of 19 ideas that i want to spend hopefully the bulk of the conversation"
+    },
+    {
+      "timestamp": "00:22:22",
+      "text": "you and i are going to have today but i do have to get to the beginning of NVIDIA because it's funny he describes this because I went back and actually looked at like the financial performance of NVIDIA and the market cap. It is almost like this harshness that Jensen applies to himself, which I think is a good idea. If you're listening to this, you probably do this. I definitely do this to myself. But he kind of describes the first five to 15 years of the company is like just a series of fuck ups. And I just want to get to this idea of, well, I'll just give some background. Their first product, right, is a flop. And it's called the NV1. And so Jensen is actually doing like this post-mortem and he realized they made several critical mistakes with the NV1. And so I'm going to read a section from the book to you. So some"
+    },
+    {
+      "timestamp": "00:23:11",
+      "text": "of these critical mistakes from the NV1 starts from positioning to product strategy. It says they had over-designed the card, stuffing it with features no one cared about. The market simply wanted the fastest graphics performance for the best games at a decent price and nothing else. The Envy one could simply not stack up against other cards that were more narrowly designed. This is what Jensen said. We learned it was better to do fewer things well than to do too many things. Nobody goes to the store to buy a Swish Army knife. It is something that you get for Christmas. So"
+    },
+    {
+      "timestamp": "00:23:47",
+      "text": "that's an idea that James Dyson realized. So my number one recommendation for all out of every single book that I've read is still James Dyson's first autobiography. It's called Against the Odds because the entire book is just 14 years of struggle. It's James making every single mistake possible that a young entrepreneur can make. It's him persevering and enduring through 5,127 failed prototypes. But James realized the same thing when he started building products. And he has a great line in that book that describes what Jensen's teaching us at this point in Davidia's history. And he says, people, this is what Dyson said, people do not want all purpose."
+    },
+    {
+      "timestamp": "00:24:21",
+      "text": "They want high tech specificity. Another lesson Jensen learned from this. He was embarrassed the fact of how little he did not know. Again, he is ruthless, like the self-criticism. He's really ruthless to himself. But I think there's a benefit because it's forcing himself to learn. And this is something he's going to apply, this public criticism that he's known for in building NVIDIA."
+    },
+    {
+      "timestamp": "00:24:43",
+      "text": "So he was talking about the fact that one of the first board meetings, you know, this NV1 almost killed the company. And yet at the board, one of the board members was asking, he's like, well, how are you going to position this? And this is what Jensen said. He goes, he asked me a simple question and I had no idea how simple it was. And it was impossible for me to answer because I didn't understand it. The answer is supremely deep. You'll spend your whole career answering that question. And again, the issue was that NVIDIA's message with the MV1 was far too complicated. He didn't put enough thought into how you position it. What's very weird about product positioning is everybody comes up with their own definition of it. I think David Ogilvie's definition that he wrote in like 1965 has not been improved on."
+    },
+    {
+      "timestamp": "00:25:23",
+      "text": "I still think it's the best simple way to think about how to position your product. And so David Ogilvie's definition of product positioning is simple. It's what the product does and who is it for. There's a great line that the author Tae Kim wrote in this section that I think is beautiful. It says seduction requires a simple message. The marketing and the positioning of the NV1 was far too complicated. And also Tay, I got to thank Tay as well. He sent me a bunch of supplemental material to help me make this podcast. And Tay wrote an absolutely fantastic book because it gives you this insight into the unique mind of Jensen. Jensen does not shy away from how bad he was during this period. He talks about this."
+    },
+    {
+      "timestamp": "00:26:06",
+      "text": "Here's another quote from the book on the early days of NVIDIA. We were just bad at our jobs. The first five years of our company, we had really talented people working super, super hard, but building a company is a new skill. And that is why the main value I got out of the book is that we're able to benefit in the fact that Jensen learns. He's going to adjust. You'll see in the future his maniacal working habits. He picks up all these ideas about the dangers of complacency, the importance of having a flat, fast organization. He's got a lot of new ideas on how to run NVIDIA, and he wouldn't have had them had he not gone through the painful and tumultuous time in the company's early history."
+    },
+    {
+      "timestamp": "00:26:45",
+      "text": "So their first two products fail. They got mass layoffs. They're in a cash crunch. He goes back to, again, do you want to be great? Well, then I wish you pain and suffering. He's speaking. He's giving advice that had benefited him. And again, I think all these failures that happen is like you see him developing his"
+    },
+    {
+      "timestamp": "00:27:04",
+      "text": "endurance. You see him developing his endurance. You see him developing his pain tolerance. Because it's impossible to run a company for 30 years and not confront, endure, and overcome adversity and discomfort. It's just not going to happen. So at this point in the company history, Jensen has to lay off. He has to do mass layoffs. He goes down from over 100 employees to down to 40."
+    },
+    {
+      "timestamp": "00:27:25",
+      "text": "And Jensen also realizes that NVIDIA is not going to be able to raise more money. So in the words of Jeff Bezos, what do they have to do? They have to invent their way out. They need to create a great product and sell it. The third product they're making is called Riva 128. And since he's running out of money, he realized, hey, we have to shorten the amount of time it usually takes us to build a new product. One way to do that is to actually shorten the testing cycle. So let me read this from the book. Jensen heard about a company, I think it's called ECOS, that made machines that enabled engineers to run tests on digital chip prototypes, bypassing the need to make an actual chip for testing and thus saving time. But an ECOS machine cost a million dollars and would cut"
+    },
+    {
+      "timestamp": "00:28:07",
+      "text": "NVIDIA's runway from nine months down to six months. But Jensen realized it would speed up the testing process by significantly more time. That saved time actually saved the company because this third product was a success. And then you see that Jensen's has, he's a very good salesperson. He's very charismatic. He's got a showmanship to him. And so let me give you an example. Once they, they, they build a Riva 128, he gathers all of the entire company, which not many people left in the company cafeteria. He pulls out a piece of paper from his pocket and he reads off a dollar amount. It is a small dollar amount. And then he folds the paper back, puts in his pocket. He's like, hey, that's how much money we have in the bank. That's not good. The room was like, oh shit, we're in big, big trouble."
+    },
+    {
+      "timestamp": "00:28:55",
+      "text": "And then he pulls out another piece of paper from his pocket. He opens it up and he goes, one purchase order from STB systems for 30,000 units of Riva 128. And the entire company erupted in cheers. Okay, so I say all that really to say this, this is now this list of 19 reoccurring ideas that I think connect and interplay with each other. And it's really like, again, how Jensen, what has Jensen learned on how to run a company and how to build a company after decades and decades of experience and learning and practice and failure and pain? And the very idea number one out of 19 is Jensen as a teacher. So I want to start here because the very first sentence in the book is, in another life, Jensen might have been a teacher. That, of course, is going to mean a lot to you and I, because a common trait of history-based founders"
+    },
+    {
+      "timestamp": "00:29:48",
+      "text": "is the fact that they spend a lot of their time teaching their organization. So I actually went and talked with Sage about this, or prompted Sage about this. And there's a lot of great examples. So many of the great founders saw themselves primarily as teachers. People like Sol Price, Henry Singleton, Warren Buffett, Bill Walsh, Steve Jobs. In fact, Jim Sinigal, the founder of Costco, who was a mentee of Sol Price, has the best quote on this. He says, as a leader of the company, if you're not spending 90% of your time teaching, you're not doing your job."
+    },
+    {
+      "timestamp": "00:30:22",
+      "text": "And so one of the ideas that Sage reminded me of that I forgot is that the cynical learned that from Sol Price. Sol Price had this idea of what, like, why are you teaching? What are you actually doing? And he says, you actually, the best leaders create alter egos through teaching the end result of the leader teaching all their employees to become alter egos. Now you have somebody that can understand and perform their jobs as well, as well as are better than the owner or the leader of the company would. This is why I think distilling things down to a list of principles or a handful of maxims is so common and so important, because essentially what the leader of the company is doing, what Jensen's doing is you're continuously teaching and reinforcing your company philosophy and the values over time by repeating"
+    },
+    {
+      "timestamp": "00:31:04",
+      "text": "the principles and the maxims. The great founders essentially become evangelists who relentlessly teach about the company's mission and their values. And in fact, the people that work with Jensen, they call him Professor Jensen. And they talk about the fact that he's really good at explaining complicated concepts in a way that almost anybody can understand. And the way he does this, he has a tool for this, actually. He likes to use his preferred medium for teaching is the whiteboard."
+    },
+    {
+      "timestamp": "00:31:31",
+      "text": "And so in the book, it says at many of the meetings that he attends at NVIDIA, he will leap up with marker in hand and diagram a problem or sketch an idea, even if someone else is speaking or whiteboarding themselves at the same time. Okay, so idea number two, NVIDIA is Jensen with 29,000 lives. Right now, NVIDIA has 29,000 employees. So one of the first sentences or the first sentence in the book is that in another life, Jensen might have been a teacher. One of the last sentences in the book is the most succinct definition of the NVIDIA way is that it's Jensen's way or that it is simply Jensen himself. There's a lot of similarities between Steve Jobs and Jensen. In one of the 10 or 15 books I've"
+    },
+    {
+      "timestamp": "00:32:12",
+      "text": "read about Steve Jobs and Apple, there's a line that's stuck in my brain that I never forgot. And it's talking about how he built Apple. He said he's made and remade Apple in his own image. Apple is Steve Jobs with 10,000 lives. What Jensen and Steve Jobs both learned, the importance of managing, learning how to manage your company as an extension of yourself. It says everyone at the company shared Jensen's singular focus on the mission. Everyone shared his work ethic. Everyone worked as fast as humanly possible in order to keep NVIDIA one step ahead of the competition. He is NVIDIA, and the company is Jensen. The way I think about this, there's another note I left myself. You"
+    },
+    {
+      "timestamp": "00:32:50",
+      "text": "could say, you know, NVIDIA is Jensen with 29,000 lives, or you can say you need to build an F1 organization because he has a great line about this. He says, ultimately, my e-staff, which is his direct reports, which we'll talk about later, is something that I have to know how to work with. The company's organization is like a race car. It has to be a machine that the CEO knows how to drive. Michael Moritz wrote this book called The Little Kingdom, and it is about the first few years of the history of Apple. He updated the book in, I think, 2009, 2010. That book's called The Return to the Little Kingdom, and he wrote a forward."
+    },
+    {
+      "timestamp": "00:33:23",
+      "text": "And there's a line in that book where he's describing in the introduction or in the forward, he's describing Steve Jobs that I think is very appropriate here. He said, founders, at least the very best of them, are unstoppable, irrepressible forces of nature. That is certainly true for Jobs. That is certainly true for Jensen. And I think what he said there is very smart. The company's organization is like a race car. It has to be a machine that the CEO knows how to drive. And that's why he has built a company in his image. He has made and remade NVIDIA in his"
+    },
+    {
+      "timestamp": "00:33:55",
+      "text": "image. So let's go to the third idea, the whiteboard. I already gave you a hint. At NVIDIA, the whiteboard is a primary form of communication and meetings. It's very fascinating how, you know, again, there's no one right way to do it. It should be right for you. You know, some people like Bezos wants a six-page, you know, memo. Jobs wants a demo. Jensen wants the whiteboard. So the whiteboard represents both possibility and ephemerality. I can't pronounce that word. I'm sorry. The belief that a successful idea, no matter how brilliant, must eventually be erased and a new one must take its place. One of the reasons Jensen likes to use the whiteboard"
+    },
+    {
+      "timestamp": "00:34:31",
+      "text": "as the primary form of communication in meetings says everybody must demonstrate their thought process in real time in front of an audience. With the whiteboard, there is no hiding. I lost count how many times in the book they're talking about how central, like how important whiteboarding is to running NVIDIA. And actually, one of the things that Tay Kim was gracious to send me, he sent me this Wall Street Journal, like write up a review of the book written by this guy named Ben Cohen. Ben has some great writing here in terms of like"
+    },
+    {
+      "timestamp": "00:35:02",
+      "text": "what he learned from reading the book and the importance of of the whiteboard. It says instead of cloistering himself in a private office, Jensen prefers to work from conference rooms. He does his best thinking at the whiteboard, which he uses so frequently that he has a favorite brand of marker that is only sold in Taiwan. And so even when he's traveling, they have to travel with this specific brand of marker, and they have to travel with whiteboards. He's going to use this everywhere else. This, again, I think explains why this is so important to Jensen. Whiteboarding forces people to be both rigorous and transparent. It requires them to start from scratch every time they step up to the board, and therefore lay out their thinking as thoroughly and clearly as possible. It becomes immediately apparent when someone hasn't thought something through."
+    },
+    {
+      "timestamp": "00:35:46",
+      "text": "At the whiteboard, there is no place to hide. Idea number four, flat organizational structure. So Jensen's famous or infamous, the fact that he has 60 direct reports and he refuses to do one-on-one. So Jensen, I think one of the main reasons he designed a flat organization is a flat structure fights against the danger of slow decision making."
+    },
+    {
+      "timestamp": "00:36:07",
+      "text": "Jeff Bezos has this great thinking about how dangerous making decisions slowly inside an organization can be. This is what Jeff said about this. You can drive great people away by making the speed of decision making really slow. Why would great people stay in an organization where they can't get things done? They look around after a while and they say, hey, look, I love the mission, but I can't get my job done because our speed of decision making is too slow. This is something that Jensen learned through trial and error and through failure. He says when we were a small company, we were really bureaucratic and really political. And so as a result of that, Jensen thought about how he'd create this ideal organization from scratch. And he realized he would choose a much flatter structure so that employees could act with more independence."
+    },
+    {
+      "timestamp": "00:36:47",
+      "text": "He also saw that a flat structure would weed out lower performers who were unaccustomed to thinking for themselves and acting without being told what to do. And he just said flat out, I want to create a company that naturally attracts amazing people. And so Jensen describes this flat organizational structure. The first layer is the senior people. This is his e-staff. You would think that they need to lease them out of management. He said, they know what they're doing. They're experts in their field. He did not want to spend time on career coaching because the majority of them had already reached the pinnacle of their careers. He rarely held one-on-one meetings with his direct reports. Instead, he focused on"
+    },
+    {
+      "timestamp": "00:37:18",
+      "text": "providing them collectively with information from across the organization, as well as his own strategic guidance. And what I love about this is that he's adamant about running the company based on the best way to do it for him. And he refuses to change his management philosophy. He is insistent on a flat structure. It says he steadfastly refused to change his management philosophy, even when new board members joined and recommended that he hire chief operating officer to reduce his administrative burden. No, thanks. He replied. This is a great way to talk about the way he runs the company in this"
+    },
+    {
+      "timestamp": "00:37:49",
+      "text": "flat organizational structure. It's a great way to make sure everybody knows what's going on. Really think about what he's doing here, what he's saying. You create a company building philosophy that fits you. It does not matter what other people are doing. What is natural and authentic to you? And are you going to enjoy doing that so you can do it for a long period of time? Jensen created a company that he could manage directly. There is a vast cultural difference between NVIDIA and other companies."
+    },
+    {
+      "timestamp": "00:38:14",
+      "text": "Jensen talks again about this. I mean, these ideas are, you know, I organized them all like under a topic, but they are spread through hundreds of pages in the book. So Jensen repeats again, the benefits of keeping his company flat. It turns out by having a lot of direct reports, not having one-on-ones, we made the company flat."
+    },
+    {
+      "timestamp": "00:38:30",
+      "text": "Information travels quickly. Employees are empowered. That algorithm was well conceived. And finally, another benefit, he says, you want a company that's as large as necessary to do the job, but as small as possible and not bogged down by over-management and process. Number five. And again, this is why I think all of these really, you know, it doesn't really matter"
+    },
+    {
+      "timestamp": "00:38:50",
+      "text": "what order you take them in. Other than I think number one probably has to be that Jensen's a teacher because he's really teaching his philosophy to the entire organization, but very public criticism. This is something he's known for. This is probably repeated more than any other idea in the book. And the reason I put this after number four, which is, you know, build a flat, fast organization, because it turns out very public criticism works very well if you want a flat, fast organization. So Jensen does not believe, you know, there's this maxim like praise publicly, criticize privately. No, he does not. He criticizes publicly so that the entire organization can learn from a single person's mistake. There's so many examples throughout the book. There's a lot of parallels to, again, Steve Jobs"
+    },
+    {
+      "timestamp": "00:39:28",
+      "text": "here. I'm going to read Jensen's words of like why he's doing this. Over the years, I realized that what was happening, how people protect their turf and how they protect their ideas. So he's anti, you know, he does not want bureaucracy to build up inside his company. So I created a much flatter organization. His anecdote to backstabbing, to gaming of metrics, and to political infighting is public accountability and if need be, public embarrassment. I just say it out loud. I've got no trouble calling people out."
+    },
+    {
+      "timestamp": "00:39:57",
+      "text": "So let me give you an example of Jensen's public criticism so that the entire company can learn from an individual's mistake and his constant fight against complacency, which would be another idea that you and I will talk about. JEDSA was furious at the poor planning and execution on the chip. He called out its engineers at an all company meeting. Is this the piece of shit you intended to build? He shouted. The architects did a shitty job putting the product together. How could you not see the"
+    },
+    {
+      "timestamp": "00:40:23",
+      "text": "issue before it happened? Someone should have raised their hand and said we have a design issue here this is a product they called the nv30 and so yelling at the people or cursing at them you know some people are like i can't like can we kind of moderate our language can we be a little you know more kind or more respectful i was reading this uh actually actually, no, it came from, it's not even from Johnny Ives' biography. It actually comes from an interview Johnny Ives gave after Steve Jobs passed. And he talked about one of the best criticisms that he ever got from Steve"
+    },
+    {
+      "timestamp": "00:40:58",
+      "text": "was the fact that Steve called Johnny vain. And this is what Johnny said. He goes, I remember asking steve about this i could be perceived that his critique of a piece of work was a little harsh right didn't that just sound like what we just the example we just went over with with jensen seems pretty harsh it's like calling you a piece of he called what you did a piece of shit i can't believe he did this he's screaming and so johnny's recounting this conversation with steve he's like you know you were kind of harsh with your criticism."
+    },
+    {
+      "timestamp": "00:41:27",
+      "text": "We had put a lot of heart and soul into this. And I asked Steve, could we not moderate the things that we said a little? And he said, why? And I said, because I care about the team. And Steve said this brutally brilliant, insightful thing. He said, no, Johnny, you're just really vain. You just want people to like you. I'm surprised at you. I thought you held the work up as the most important,"
+    },
+    {
+      "timestamp": "00:41:50",
+      "text": "not how you believe you were perceived by others. And Johnny's response was, I was terribly cross because I knew he was right. Jensen is not doing this to intentionally hurt people's feelings. He's doing this because he puts the work up as the most important. He has this great line where he says he tortures people's, I guess I'm laughing. He tortures people into greatness. So Jensen offers NVIDIA employees direct criticism in large meetings so more people can learn from a single mistake."
+    },
+    {
+      "timestamp": "00:42:20",
+      "text": "This is what he says. Feedback is learning. For what reason are you the only person who should learn from this? We should all learn from that opportunity. He says that Jensen displays his trademark directness and impatience in all settings. He does this all the time in small meetings too. He just can't let go. He has to make it punitive a little bit. Again, public criticism is very important to Jensen. It's repeated, I don't know, a dozen times over and over again. In fact, I saw it so much, I wound up leaving myself the same note over and over again. I go, oh, this is just like Steve Jobs telling Johnny that he's vain, that you're putting people's emotions over the work. Again, Jensen is going"
+    },
+    {
+      "timestamp": "00:42:58",
+      "text": "to hold up the highest, he's going to hold the work as the quality of the work as the most important. So I don't want to seem like a, like a, like a crazy obsessed person, even though I definitely am. Um, I play, I play, uh, the, the, the documentary, the last dance in the background while I work. And the last dance is obviously about Michael Jordan and the final season with the bulls. And there's actually a, a that was is going over the outline and reading the book while this is playing in the background and there's actually a line in the documentary where one of jordan's teammates is describing jordan and because i was like"
+    },
+    {
+      "timestamp": "00:43:33",
+      "text": "eyeballs deep in the world of jensen the past few weeks at the same time i'm re-watching the documentary i was like oh this this sounds just like jensen so this is this is jordan's teammate describing michael mich Michael wanted to be the best player on the best team. He's raising his voice. He's calling guys out. He's talking about how he's treating his teammates, right? He's raising his voice. He's calling guys out. So we're not playing well as a team. We're lazy. He's not worried about hurting your feelings. If he did, you could leave. He would gladly tell you, you don't want to play hard? Fine, get out. And then right after this Michael was explaining"
+    },
+    {
+      "timestamp": "00:44:05",
+      "text": "this leadership style and why he played the game the way he did and I feel like there's an echo of of Jensen Jensen is not trying to be like oh just you know just another founder he's trying to be the best of the best to create a company that nobody else on the planet could create and he has done that and so he's talking could create. And he has done that. And so he's talking about the fact that he's being really harsh on his teammates. He's calling out how lazy they are and not working hard enough, not practicing enough, not playing well in games. And this is a time when the second best player, Scotty Pippen, was out. And he was really worried because they're losing games."
+    },
+    {
+      "timestamp": "00:44:40",
+      "text": "He goes every, this is Michael Jordan speaking now. He goes every day that Scotty wasn't playing gave someone else the confidence that they could beat us. And if you're trying to maintain dominance over people, you don't want to give them a chance to gain confidence. So that drove my energy. Let's get this thing rolling. That leads into idea number six, tortured into greatness, this habit of self-criticism. So Jensen is not just publicly criticizing other people. He does this to himself. He has a great line about this where he talks about, I want to torture people into greatness, which he realizes he's tortured himself into greatness as well."
+    },
+    {
+      "timestamp": "00:45:16",
+      "text": "So I'll talk about this a little bit later on, but Jensen believes that complacency kills. And Jensen has this combination. These traits may even seem contradictory, but I would just say that this combination of traits I'm about to describe to you is very common for a lot of history's greatest entrepreneurs. And as a result of the podcast, I get to meet a lot of world-class entrepreneurs today that listen to the podcast, and they have these traits too. So Jensen has this combination of extreme self-confidence and charisma matched with this inner voice that says he sucks. An inner voice that says nothing he ever does is good enough. And that inner voice typically is impossible to satisfy. Uh, so he tortures his team into"
+    },
+    {
+      "timestamp": "00:45:59",
+      "text": "greatness, but he tortures himself into greatness as well. And so let me talk about this intense habit of self-criticism. This is much later in the video's history. They just, they smash this quarter. The financial performance, the products are great. They're just like, we just blew the doors off this quarter. We're having a meeting with Jensen and figure we're going to like congratulate ourselves. ourselves and he stands up in front jensen stands up in front of the room and he goes i wake up every morning i look at myself in the mirror and i say you suck and so the person working in the video just could not understand it's like this guy's why all counts one of the most successful people in the world how could he still think in such terms and my answer to that by spending eight years and four months and reading 375 hours for his greatest research. So of course he does. Of course he does. Jensen has a great line in the book. He says, I don't like giving up on people. I'd rather torture them into greatness. Idea number seven. This is very fascinating. I don't think I've ever heard this idea before. It's Jensen's speed of light idea. So the speed of light idea is the only benchmark"
+    },
+    {
+      "timestamp": "00:47:06",
+      "text": "that we're going to judge ourself and how fast we move will be the absolute maximum speed possible. What the hell does that mean? So he wants all of the work done in NVIDIA to be contained by only one thing, and that's the law of physics. So the speed of light means that you have to take every single project inside your company, you break it down into its component tasks, and then each task must have a target time to completion that assumes no delays, no queues, or no downtime. Why? Of course, you're going to have some kind of unexpected things pop up because he wants to set the theoretical maximum, which he calls the speed of light. He wants to know what is the fastest this could be done."
+    },
+    {
+      "timestamp": "00:47:49",
+      "text": "And you know it's the fastest it could be done because it's physically impossible to exceed that time. And then he says, we're not going to judge ourselves on what we used to do. We're not going to judge ourselves on what other companies do. I don't give a shit what other companies are doing. We are going to judge ourselves against what other companies do. I don't give a shit what other companies are doing. We are going to judge ourselves against the speed of life. So it's our speed of life. Speed of light says Jensen would reprimand subordinates who set goals that referred to what the company had already done before or what the competitors were doing at that moment. As he saw it, he needed to prevent that kind of eternal rot that he observed at other companies."
+    },
+    {
+      "timestamp": "00:48:26",
+      "text": "So I'm going to give you an example of Jensen's speed of light idea. I already gave you a little hint earlier. This is about the Riva 128. To save time, Jensen decreed that NVIDIA would have to develop their driver software for the Riva 128 before the prototype chip was completed. This was a reversal of the customary process. This would say shave nearly a year off the production timeline. You have to shave a year off the production timeline. Cause if you remember he's running, he's got nine months of cash. Now he just bought that machine. So he's got six months of cash. There is no time. So it says this would shave nearly a year off the"
+    },
+    {
+      "timestamp": "00:49:00",
+      "text": "production timeline, but it required the company to find a way to bypass the step of testing the software and physical chips. That's why NVIDIA invested a million dollars in that EICOS emulator. Even though every dollar was precious, it would allow them to approach the speed of time. Here's another description of the speed of time. NVIDIA employees did not let themselves think about what was likely to work or what they could reasonably achieve. They only cared about what would be possible with the maximum amount of effort and minimum amount of wasted time. Idea number eight, Jensen is unapologetically extreme."
+    },
+    {
+      "timestamp": "00:49:35",
+      "text": "He's extreme in all things. He works all the hours and he says, no one will outwork me. So these ideas, I grouped all under idea number eight. So, you know, I'm obsessed with Edwin Land, founder of Polaroid, Steve Jobs hero. And there's a great line in one of the many biographies of Edwin Land. I think I've done like five or six podcasts on Edwin Land. So if you haven't listened to them, you should go on the back catalog and definitely listen to as many as possible."
+    },
+    {
+      "timestamp": "00:49:57",
+      "text": "Steve was studying Edwin Land when he was 20. Steve was still studying him when he was dying. Just incredible, incredible person. But Edwin Land is, you know, one of one. And there's a great line in one of his biographies. Somebody worked with Edwin Land. He goes, this man never had an ordinary reaction to anything. Jets is the same way."
+    },
+    {
+      "timestamp": "00:50:14",
+      "text": "So there's this hilarious meme, and any guy knows this. Like you walk into a public restaurant, or a public restroom. There's a series of urinals. It is plight. It is etiquette. If there's a bunch of empty urinals, do not stand next to me. Like give me some space. And so there's this meme you always see where this guy's using urinal. There's like 50 empty urinals. And then guy walks into the"
+    },
+    {
+      "timestamp": "00:50:35",
+      "text": "bathroom and use the one right next to him. Jensen literally does that. He did that. This guy is so relentless. He will, if you work for him, he will grill you at the urinal i gotta read this to you no place in a video headquarters was safe from a drive-by grilling from jensen let me pause there actually i just thought about this i didn't think about this earlier there's a line again another pair of less jobs uh it talks about how intense his focus and like he'll stare at you and he like he should completely focus on you it's kind of like would scare some of the employees at apple and if they found him in like an elevator or something they would like try to skip the elevator because you don't want his attention i think there was an example where like you get in the elevator"
+    },
+    {
+      "timestamp": "00:51:12",
+      "text": "by the time you get off you've lost your job it seems like focus on what you're doing and you couldn't explain where you're working i was very upset so there's a there's an element to that with jensen as well so jensen this guy named kennethley is at a urinal. Jensen walks up and starts using the one next to him. And Hurley goes, I'm not the kind of guy who likes to talk in the bathroom. And Jensen had other ideas. He goes, hey, what's up? And Hurley replied with not much, which earned him a sidelong glance from Jensen. Hurley panicked thinking, I'm going to get fired because he thinks I'm not doing anything. Hurley proceeded to list 20 things he was working on. Okay, Jensen replied, satisfied with the answer. When I first read that,"
+    },
+    {
+      "timestamp": "00:51:51",
+      "text": "I absolutely lost it. I just started laughing. Go back to this idea. I was like, no one's going to outwork me. He's unapologetically ashamed. He says, there may be people smarter than me, but no one is ever going to work harder than me. When part of his e-staff mentioned to Jensen that some employees were griping about the long work hours, Jensen's response was typically direct. People who train for the Olympics grumble about training early in the morning too. Jensen was sending a message. Long hours were a necessary prerequisite for excellence. Over and over again, these examples of Jensen just being completely unapologetically extreme. There's like some kind of like, like award given by a magazine or some kind of like industry,"
+    },
+    {
+      "timestamp": "00:52:29",
+      "text": "you know, publication. And they thought they were happy. Like, oh, look, we finished second. This is the early days of NVIDIA. And Jensen sternly tells them second place is the first loser. Jensen's guidance was direct. Just go win."
+    },
+    {
+      "timestamp": "00:52:41",
+      "text": "The idea was whoever could run faster is going to grab all the land. Jensen's unapologetically extreme when he was recruiting. He invites this guy that working at, he's a chief engineer at Silicon graphics. He invites him to lunch. He goes, listen, John, you should really think about coming to Nvidia because ultimately I'm going to put SGI out of business. Jensen is completely relentless about work. He says, you have to allow yourself to be obsessed with your work. I work every day. There's not a day that goes by that I don't work. If I'm not working, I'm thinking about working. Working is relaxing for me. And so here's an example of how just being unapologetically"
+    },
+    {
+      "timestamp": "00:53:12",
+      "text": "extreme actually created a lot of value for NVIDIA. And some might call this story like, how do you work three times as hard and three times as fast as your competitors? But there's just a lot of anecdotes in the book where there's people that used to work in a video, they got used to the culture, and then they leave and they go work at other like tech companies. They're like, wait, why is everybody like, everybody else is moving like slow motion."
+    },
+    {
+      "timestamp": "00:53:33",
+      "text": "There's like way, their culture is a lot less intense. So it's not just to be unapologetically extreme for the sake of being unapologetically extreme or throwing a lot of like hours at something. It's like doing this, you have an advantage that other people don't. And so Jensen, this is before the AI boom. NVIDIA is just a PC graphics,"
+    },
+    {
+      "timestamp": "00:53:54",
+      "text": "still just in the PC graphics industry. And he's trying to figure out, he's like, okay, like the top of this industry, there's like a lot of turnover. I've gotten to the top. I want to stay here. How do I do that? And one way he does this is by being unapologetically extreme. So he says, if you look at the PC graphic industry, why is it that one company can never hold a lead for more than two"
+    },
+    {
+      "timestamp": "00:54:11",
+      "text": "years? Now that NVIDIA was the market leader, Jensen became obsessed with this problem. He realized the whole industry moved according to the rhythms of the computer manufacturers who refresh their product launches twice a year. Chip makers, NVIDIA included, took 18 months to design and launch a new chip and typically only worked on one chip at a time, which means chips were functionally obsolete long before chip makers could come out with a new product. Jensen had figured out how to keep NVIDIA"
+    },
+    {
+      "timestamp": "00:54:39",
+      "text": "ahead of its competition. He said, We were going to fundamentally restructure the engineering department to line up with the refresh cycles, which how do you do this? NVIDIA would split the design team into three groups. The first would design a new chip architecture, while the other two worked in parallel to the first to develop faster derivatives based on the new chip. What is that? Why? Why would you do that? Because this allows the company to release a new chip every six months. The competitors are releasing a chip every 18 months. And he has a line for this. He says, this was called three teams, two seasons. Now the company would have"
+    },
+    {
+      "timestamp": "00:55:15",
+      "text": "three times as many chips on the market. Even if a competitor offered a slightly better product, PC makers would have no motivation to switch away from NVIDIA knowing that a faster part would arrive within six months. Idea number nine. This is one of my favorite ideas. I've never heard this either. It's Jensen's top five email idea. Really, this is just a genius way to get unfiltered information from the entire company. So Jensen asks every employee at NVIDIA at all levels that you have to send an email and they're called like T5T. So you need the top five things that you're working on or what you've recently observed in the market. Things like customer pain points, what some competitor is doing, any kind of new development and technology, if there's any kind of project delays."
+    },
+    {
+      "timestamp": "00:55:59",
+      "text": "And so the ideal top five email is five bullet points where the first word is an action word. And so something like finalize, build, secure. And to make it easier for Jensen to filter these emails, he has each department tag them by the topic and the subject line. So let's say he wants to get all the recent emails on hyperscaler accounts. He can just easily do a keyword search, see all that, and then read through all these bullet points. Now, top five emails is a crucial, they are crucial feedback channel for Jensen. And he"
+    },
+    {
+      "timestamp": "00:56:26",
+      "text": "would tell his employees why he, why he, the top five emails are so important. He says, it's easy to pick up on the strong signals, but I want to intercept them when they are weak, which he winds up doing, which I'll tell you back in one second. But again, I think all these ideas are combined, unapologetically extreme, top five emails. So he's like, you know, I want to pick up on these weak, these signals when they're weak, and then we can develop into something that's strong. But to his e-staff, he said it this way, don't take this the wrong way, but you might not have the brainpower or the wherewithal to detect something that I think is pretty significant. So every day he reads, you know, over a hundred top five emails to get a snapshot at what's happening inside of the company."
+    },
+    {
+      "timestamp": "00:57:07",
+      "text": "And so I want to read from that Wall Street Journal article that was written by Ben Cullen that Tay Kim sent me. He says, employees have been sending notes known as T5Ts, top five things, that they're working on, things they're thinking about, or things they're noticing in the corners of the business. And for decades, Jensen has been reading them, all of them. If you send it, Jensen says, I'll read it. Top five thing emails have become his preferred method of flattening hierarchy. Strategy isn't what I say, it's what they do, Jensen said. That's a good line. Strategy isn't what I say, it's what they do. So it's really important that I understand what everybody is doing. He does that by reading top five thing emails. He doesn't want information that has already made"
+    },
+    {
+      "timestamp": "00:57:43",
+      "text": "its way through layers of management. What he wants is information from the edge. That's a direct quote from Jensen. He says, I want information from the edge. He is looking for the next zero billion dollar market, a frontier that has not been explored because it barely exists, but one day could be a thing. One of the weak signals that he intercepted years ago was a wonky but exciting development in machine learning that kept popping up in t5t emails jensen decided that nvidia needed to invest more in tools for accelerating workloads on its gpus this is why they're a three trillion dollar company today that decision clearly paid off these days those gpus are the brains of artificial intelligence. And again, the hilarious part about him being unapologetically extreme, he says, this is what he does for fun."
+    },
+    {
+      "timestamp": "00:58:30",
+      "text": "He's like, I drink a scotch and I do emails. And the one funny thing, there's an anecdote in the book that's pretty funny, where people hate when Jensen goes on vacation because he emails them more. They're like, what are you supposed to be on vacation? He's like, no, I'm doing emails. I'm like watching my kids play or whatever when they were younger they have there's a very intense email culture at uh they say the email culture in a video is like unrelenting there's nothing he doesn't let anything stay or anything fester if you get an email from him you need to act on it right away"
+    },
+    {
+      "timestamp": "00:58:58",
+      "text": "he does not want anything to fester and in fact i finished reading this book quite a while ago and we're working on outline and organizing the ideas for way longer than I normally do because I really do think it's, you know, he's probably, he is one of the most important founders alive right now. And I think there's just a lot of good ideas that you and I can hopefully use in our work too. So I've been like having nonstop conversations with a bunch of my founder friends about this. And I was actually telling a friend about this intense email culture described in the book. And I didn't know that NVIDIA invested in my friend's company, this company called Together AI. And the company's, again, this is just an investment from NVIDIA. And he's like, oh yeah, like he's like that in real life. I go, what do you mean? He"
+    },
+    {
+      "timestamp": "00:59:33",
+      "text": "goes like, he invested in our company and we'll send emails. And the response is super fast. And at the same lunch, when we're having lunch, I met a young guy. I shouldn't say kid. But a few years ago, he was a kid. He was probably like 19 at the time. And he was working for like some chip company. I can't remember the name. But he heard what we were talking about. And he's like, oh, yeah, I emailed Jensen."
+    },
+    {
+      "timestamp": "00:59:55",
+      "text": "What do you mean you emailed Jensen? He's like, well, I was an intern at this chip company. And inside that company, they kept talking about they're developing like the NVIDIA killer or whatever. And so this intern at another chip company cold emails jensen and within you know a few minutes jensen writes back with like his perspective on is there like is it true what their company's saying is it possible is the nvidia killer but again he just wants to know what's going on he wants information from the edge idea number 10 this won't come as a surprise. Jensen's communication style, blunt, concise, and direct. He says over and over again that he believes in direct, truthful, blunt communication."
+    },
+    {
+      "timestamp": "01:00:33",
+      "text": "We're not worried about people's feelings. We're putting the work above everything else. But I just have to read one line that I absolutely loved. Jensen's emails are short and sweet, like a haiku. This is something that even outside of work that he has in common with a lot of history's greatest leaders. Napoleon was the same way. Let me read this line from this biography Napoleon that I read. It says, long orders, which require much time to prepare, to read, and to understand are the enemies of speed. Napoleon could issue orders of a few sentences,"
+    },
+    {
+      "timestamp": "01:01:00",
+      "text": "which clearly express his intentions and required little time to issue and to understand Winston Churchill during World War II when he's fighting the Nazis. He would limit the size of the memos that you could write him and he would tell his staff it is slothful not to compress your thoughts. One of my favorite examples of this, what did he just say? Napoleon could issue an order in a few sentences which is clearly expressed his intentions and only required little time to issue and to understand. If you have not read the book Creative Selection, highly recommend that you do. It's written by a programmer that would demo and work with Steve Jobs. You could also listen to the episode, which is episode 281 called Working with Steve Jobs, which is on that book. Here's a line from the book. It's going to sound just"
+    },
+    {
+      "timestamp": "01:01:41",
+      "text": "like Jensen. It's going to sound just like Napoleon, just like Churchill. Steve was always easy to understand. He would either approve a demo or he would request to see something different next time. Whenever Steve reviewed a demo, he would often say with highly detailed specificity what he wanted to happen next. He was always trying to ensure the products were as intuitive and straightforward as possible. And he's willing to invest his own time, effort, and influence to see that they were. I chuckle to myself over how much time I've spent thinking about this iPad demo and how much Steve taught me in one meeting where he spoke just four sentences."
+    },
+    {
+      "timestamp": "01:02:18",
+      "text": "Idea number 11, Lua. Again, all these ideas interact with each other. I think they build upon one another. We just talked about how important being direct, important of having a flat organization structure and going really fast. So if you start rambling, Jensen will just say Lua. Okay, this is a maxim in a shorthand. It's an acronym. It means listen to the question, understand the question, answer the question. So if he says Lua, he wants you to stop and just do those three things in order. Listen to the question, understand the question, answer the question. Number 12. This is so cool. Again, I love, there's a bunch of ideas in this book that are truly novel and unique. So number 12, the mission is the boss and pilot in command. I think he really picked up on"
+    },
+    {
+      "timestamp": "01:03:03",
+      "text": "the fact that as you build an organization over time as it grows it starts to exist for the sake of perpetuating itself and he's like no no we want a flat organization one like we want to just focus on the mission but as the mission changes and if you read the book and you obviously clearly like they started on the video game industry what are they doing now they're dominating the video game industry. What are they doing now? They're dominating the artificial intelligence industry. Like that is because he had this flat, fast, reactive culture and organization, and he can switch the mission and then take all the resources onto that new mission. This is what Jensen says. The concept of the mission is the boss makes a lot of sense because ultimately we're here to realize a particular mission, not in service of"
+    },
+    {
+      "timestamp": "01:03:41",
+      "text": "some organization. Under the mission is the boss philosophy, Jensen starts every new project by designing a leader. And I love what they call their leader. They call the leader a pilot in command. This pilot in command now is the one accountable for that mission and reports directly to Jensen. He says, we have a PIC, a pilot in command for every project. Nobody can hide behind such and such team is working on it. No, it's a person."
+    },
+    {
+      "timestamp": "01:04:08",
+      "text": "There's a goddamn name attached to it. The pilot in command is accountable. Jensen organized Navidia's employees into groups centralized by functions, sales, engineering, operations, and so on. They're treated as a general pool of talent and not divided by business units or divisions. Why? Because when you have a new mission, you take all these functions, sales, engineering, operations, whatever, and now you can turn them or point them at a new mission. And now they're under the direction of a pilot in command. And then that pilot in command directly reports to Jensen. Again, I think this is really, really important."
+    },
+    {
+      "timestamp": "01:04:42",
+      "text": "I dedicated an entire episode to this. There's episode 360. If you haven't listened to it, it's on Bob Kierlin, the founder of Fastenal. He wrote a book that that book has one, really one idea that you, that the leader's job is to keep everyone inside of the organization working for the company's core objective. That is very natural in human nature to drift. And the leader's like, no, no, no, back over here, back on the company's core objective. One other section from this, he gives, Jensen gives his employees"
+    },
+    {
+      "timestamp": "01:05:11",
+      "text": "a high degree of independence over their individual projects, but only if they can keep those projects perfectly aligned with the company's core objectives. After you're done listening to this, if you want, I think you should spent an hour really digging into episode 360 the book is almost impossible to find uh i had a friend of mine actually write to the company and that's how we were able to get like 20 or 30 copies of the book i don't know if you can buy it anymore but episode 360 again you can summarize that by it's the leader's job to keep everyone working towards the company's core objective number 13 it's one of my favorite lines in the book. Johnson says, strategy is not words, strategy is action."
+    },
+    {
+      "timestamp": "01:05:53",
+      "text": "Strategy is not words, strategy is action, Johnson said. We don't do periodic planning. The reason for that is because the world is a living, breathing thing. We just plan continuously. There is no five-year plan. Okay. So again, I'm going to read that paragraph and I'm going to filter that paragraph through every other thing that I've read for this podcast and every other thing that you and I've talked"
+    },
+    {
+      "timestamp": "01:06:15",
+      "text": "about. It's that line, strategy is not words, strategy is actions. One of my favorite lines in the book. And immediately I think of Henry Singleton. So Henry Singleton had a very distinct philosophy around planning. I did, I think one or two episodes on him years ago. I got to redo this. He's too important. And I didn't know how to podcast back then. So I got to do another episode on him. But Charlie Munger, for example, said Henry Singleton was the smartest person he ever met. crime that business schools don't study singleton and i think he said you could take the top 100 business school uh graduates and combine their record and still wouldn't compare to singleton's record there's a lot of uh ideas because i discovered buffett and munger before i discovered singleton that i thought were buffett and mungers and they were actually they learned from singleton because he was building a very successful conglomerate uh Teledyne. So I go and I ask Sage for these ideas, like how did, what did Henry Singleton say about planning? And Sage did an excellent job summarizing"
+    },
+    {
+      "timestamp": "01:07:14",
+      "text": "Singleton's philosophy, which to me sounds a lot like Jensen's philosophy. So number one, flexibility over rigid plans. Singleton said, I know a lot of people who have very definitive plans, they follow assiduously, but we're subject to a great number of outside influences on our business and most of them can't be predicted. So my plan is to stay flexible. Sounds a lot like what Jensen just said. Number two, daily steering versus long-term planning. Singleton's approach was summed up in the quote where he says, my only plan is to keep coming to work every day. I like to steer the boat each day rather than play plan way ahead into the future."
+    },
+    {
+      "timestamp": "01:07:49",
+      "text": "Number three, rather than getting caught up in detailed strategic plans, Singleton focused on retaining flexibility and keeping options open. He believed excessive planning constrains freedom of action. Number four, recognition of complexity, which is exactly what Jensen said. The fact that the world is a living, breathing, changing thing. Singleton understood that businesses are subject to numerous outside influences that cannot be predicted, making detailed long-term planning potentially counterproductive. And then this is, I think, what Jensen would agree with. Number five, independent thinking. When others were doing something, Singleton was often skeptical. For example, late in his career, when many companies were doing share repurchases,"
+    },
+    {
+      "timestamp": "01:08:23",
+      "text": "Singleton said, if everyone's doing them, there must be something wrong with them. And so when Jensen also said, hey, there's another line that popped up to me. He's like, we don't have a five-year plan. That is exactly the same kind of thinking that Michael Bloomberg used to build his company. In fact, in Bloomberg's autobiography, this is what he wrote. I never let planning get in the way of doing. Don't devise a five-year plan. Central planning didn't work for Stalin or Mao, and it won't work for an entrepreneur either. Okay. Idea number 14, choke you with gold. This is a very, very old idea. Brad Jacobs in his book, How to Make a Few Billion Dollars, talks about the fact that, you know, between all his companies,"
+    },
+    {
+      "timestamp": "01:09:04",
+      "text": "there's like 140,000 employees or something. He goes, listen, money animates people everywhere. You really should overpay for top talent because it's nearly impossible to overpay for top talent. And the reason I distilled this down to the maximum, choke you with gold, is because I was reading this old book of David Ogilvie. And David Ogilvie talks about this. He says the Medici family persuaded this very famous sculptor in Florence to enter their service where they wrote him a letter which concluded, come, I will choke you with gold. If you are talented in contributing to NVIDIA's mission, Jensen will choke you with gold. Jensen pours over the stock allocation reports."
+    },
+    {
+      "timestamp": "01:09:45",
+      "text": "Managers can refer an employee for special consideration to senior executives. Jensen will review this list of top contributor, which they call TC list. Okay. Jensen will review the list of top contributor candidates and give out special one-off grants of stock that vest over a four-year period. Once such a grant is approved, the employee receives an email from a senior executive with Jensen copied on the email. The subject line will say special grant, which authorizes the RSU grant in recognition of your extraordinary contributions"
+    },
+    {
+      "timestamp": "01:10:16",
+      "text": "with a clear description of the rationale behind the award. This is really important, I think, too, about when you do this thing, when you when you decide to grant these. Jensen also reaches down into the organization anytime and awards stock directly without waiting for an annual compensation review. This allows him to ensure that people who are doing great work feel appreciated in the moment. It is another sign of his interest in every single aspect and every level of his company, which leads us to idea number 15, which is a quote from Walt Disney. Walt Disney said, if we lose the detail, we lose it all. Jensen is in the details. I'm sure people would accuse him of being a micromanager, just like they would accuse Walt Disney of being a micromanager or Steve Jobs and so on and so forth"
+    },
+    {
+      "timestamp": "01:10:58",
+      "text": "for his entire... Keep in mind, Jensen has run NVIDIA for over three decades. And the way he's done that is he manages the company directly. He involves himself deeply in product decisions, sales negotiations, investor relations, and more. He does not work in a private office. He involves himself in everything at NVIDIA. And so all of these company building philosophies that he has learned and implemented really allow him to get out of the get the most out of the organization that he built and he built that organization in the bet that in the way that makes it the best for him to run remember what michael morton said on steve jobs and the great founders founders at least the very best of them are unstoppable"
+    },
+    {
+      "timestamp": "01:11:38",
+      "text": "irrepressible forces of nature walt disney to fall into that category steve jobs will fall into that category jensen falls into that category. Steve Jobs would fall into that category. Jensen falls into that category. Idea number 16. Complacency kills. No looking back. No resting on our laurels. Innovation is a necessity, not an option, and paranoia. And so there's a line in the book that says Jensen runs the company the way he does because he believes that Nvidia's worst enemy is not the competition, but itself, the complacency that grips any successful company. And this is, he applies this to complacency that is both real and imagined. Remember, he is a ruthlessly self-critical and blunt about his failures and his mistakes. And so, you know, people are looking at video now, it's like one of the best companies ever created, but he, it's very fascinating that he doesn't like looking back. And when you do look"
+    },
+    {
+      "timestamp": "01:12:29",
+      "text": "back, it says he resists overly positive accounts of NVIDIA startup period and his own missteps. When we were younger, we sucked at a lot of things. NVIDIA wasn't a great company on day one. We made it great over 31 years. It did not come out great. You don't build NV1 because you're great. You don't build NV2 because you were great. The failure of those nearly killed the company in its infancy. And so he has a great line about this. He says, we survived ourselves."
+    },
+    {
+      "timestamp": "01:12:59",
+      "text": "We were our own worst enemy. Jensen believes that for the first 15 years when he was CEOs, he sucked. He says this, he actually says it in third person. He goes, if Jensen, meaning himself, wasn't even involved in the first 15 years of the company, I would really like that. He was not proud how he managed the company. And he says, I don't love talking about our past, but I don't want to like, I think this is an important thing too. It's like, yeah, he doesn't love talking about his past. He's not just talking about his past failures."
+    },
+    {
+      "timestamp": "01:13:28",
+      "text": "He applies that even after a massive success. Remember that one story when they're smashing the quarter and he tells his team that he woke up that morning and wakes up most morning mornings, looks at himself in the mirror. And it's like, you suck. And I actually think there's a very productive way to do this. So this idea of not looking back back not resting on your laurels again this is something he has common with steve jobs and he has a great way i think summarizes what jensen's doing here not resting on his laurels not like he i think later on the book jensen says something like you know wasting"
+    },
+    {
+      "timestamp": "01:13:58",
+      "text": "there's nothing worse than like looking back at your own accomplishments or um just not good use of your time and so what what Steve says is I say, he says, I think if you do something and it turns out pretty good, then you should go do something else that's wonderful and not dwell on it for too long. Just figure out what's next. The reason I think this is important that it also fits into like Steve Jobs' overall philosophy. If you go back and ask, if Steve was asked one time, like what his favorite quote is, and it was actually a quote by Aristotle where it says, we are what we repeatedly do. Excellence then is not an act, but a habit. And so I think Steve would tell you the key is keep"
+    },
+    {
+      "timestamp": "01:14:37",
+      "text": "pushing forward, stay hungry and continue to create really wonderful things rather than dwelling on past achievements. And so throughout this book is this theme just reoccurs over and over again that complacency kills. I went back and searched all my notes and highlights and you just see this over and over again. Andy Grove, he had this mantra. Success breeds complacency. Complacency breeds failure. Only the paranoid survive."
+    },
+    {
+      "timestamp": "01:15:06",
+      "text": "Herb Keller, the founder of Southwest, said a company is never more vulnerable to complacency than when it's at the height of its success. We must not let success breed complacency, cockiness, greediness, laziness, indifference, preoccupation with bureaucracy, hierarchy, or obliviousness to threats posed by the outside world. There's a great line from one of the biographies of Bernard Arnault, founder of LVMH that I read, he abhors complacency so much. Les Schwab, who's one of Charlie Munger's favorite founders, he said, We must constantly remind ourselves as to why we are successful and what we must do to continue to be successful. Because if we become complacent, brother, it's all over with. Warren Buffett, you need to fight off the ABCs of business decay, arrogance, bureaucracy, and complacency. When these of Jensen's favorite books is The Innovator's Dilemma. One of the main takeaways he took from reading the book is that the threat is actually going"
+    },
+    {
+      "timestamp": "01:16:12",
+      "text": "to come from the low end of the market. And I actually love what he did here. So number one, the threat comes from the low end of the market. Number two, ship the whole cow. And this is going to be fascinating. So this is Jensen talking about how to avoid the invader's dilemma and that innovation is a necessity. It's not an option for them at Nvidia. He says, we build Ferraris. All of our chips were designed for the high end,"
+    },
+    {
+      "timestamp": "01:16:34",
+      "text": "the best performance, the best triangle rate, the best polygons. I don't want to let someone come in and be the price leaders and lock me out of the bottom and climb their way to the top. So he said that theme reappears throughout history obviously uh cleaton christian talks a lot about that in the individual lemmas gen assault and nvidia could stop throwing away parts that failed quality tests this is fascinating ship the whole cow is his idea here okay we're building ferraris our chips are the best of the best the best best performance really high prices fat margins margins, right? So if I wanted to attack myself, what would I do? And then I'll just go do that before somebody else does it to me, right? So Jensen saw that NVIDIA could stop throwing away parts that failed quality tests."
+    },
+    {
+      "timestamp": "01:17:14",
+      "text": "They failed quality tests if you're building a Ferrari, but not if you're building a Ford Fusion, right? So true, these parts were not suitable for the company's Ferrari grade ships, but if they were otherwise functional at lower speeds, NVIDIA could repackage them into a less capable and therefore cheaper version of the company's mainline products. This looked like a clear opportunity to make something out of nothing. Rejected parts were generating no revenue for NVIDIA. They were thrown out. Think about how many different products, byproducts that Rockef again, he was just throwing in the garbage. Now he's like, oh, we need to find uses for our waste materials, package them up, and sell our byproducts. Exact same thing that Jensen is doing here. NVIDIA could create a whole new derivative product line that could turn a profit without the expense of time and consuming process of research and development."
+    },
+    {
+      "timestamp": "01:18:19",
+      "text": "This line would serve as a defense against competitors for whom the low-cost chip was their main product. NVIDIA could easily afford to price its chip down so much that a competitor would be forced to sell at a loss. This strategy was dubbed ship the whole cow, a reference to how butchers find ways to use almost every part of the carcass, not just the prime cuts. Idea number 17, Jensen goes to school on everybody already mentioned this earlier this is somebody this is this idea going to school and everybody was described in one of the biographies i read of about a young jeff bezos they said he went to school on everybody obviously before he founded amazon and during and after um but jensen has the exact same you know tendency same idea so this is conference on neural information processing systems."
+    },
+    {
+      "timestamp": "01:19:05",
+      "text": "Essentially an academic conference where all the machine learning and neuroscience experts present their latest findings. And so there's an actual NVIDIA employee who's there. And he runs into Jensen unexpectedly. He's like, well, Jensen, what are you doing here? You're not scheduled to speak. What are you doing at the conference? And Jensen told him, I'm here to learn. And what he noticed was that Jensen was sitting towards the front row."
+    },
+    {
+      "timestamp": "01:19:31",
+      "text": "And it's not like he hired somebody to take notes on. He's sitting there taking notes, showing up himself and trying to absorb, absorb all the recent developments in artificial intelligence. Because again, it goes back to Jensen wanting to be involved in every aspect of NVIDIA. He's not trying to outsource things. He's trying to be in the details. Jensen also talks about the fact that, you know, at conferences like this,"
+    },
+    {
+      "timestamp": "01:19:52",
+      "text": "he meets a lot of smart people and winds up recruiting and they become employees and assets of NVIDIA. So this again, I think is a reoccurring theme, the importance of going to school and everybody. There's this guy named Mitch Rails. Mitch Rails is the co-founder of this company called Danaher. Mitch Rails goes to school and everybody."
+    },
+    {
+      "timestamp": "01:20:08",
+      "text": "Danaher is like $170 billion company today. And a friend of mine was just at the small intimate conference with Mitch recently. And he was blown away by how focused Mitch was. And the entire time, Mitch was sitting towards the front, listening to speakers, and he was taking pages and pages of notes. And my friend had this thought where he's like, I don't get this, Mitch. You're more successful than anybody else here. Why are you taking notes? And"
+    },
+    {
+      "timestamp": "01:20:34",
+      "text": "when my friend told me this story, I go, no. Wrong answer. So there's a great line in Bill Walsh's book, The Score Takes Care of Itself, and he says, champions behave like champions before they're champions. I guarantee you, Mitch Rails did not build $170 billion company and then start taking notes. He was going to school and everybody and taking notes and learning from every single experience way before he builds $170 billion company, way before he is quote unquote, the most"
+    },
+    {
+      "timestamp": "01:21:04",
+      "text": "successful person in the room. Because this goes back to the Max and the David O is quote unquote, the most successful person in the room, because this goes back to the Max and the David Ola we said, the good ones know more. There's another example of Jensen being one of the good ones that know more. Jensen shows up to this party at NVIDIA. It's a party for new hires. Introduce this guy named Peter Young. Jensen already knew who he was. He says, you're Peter Young. You've been here for a year from Sony PlayStation, and then you worked at 3DFX prior to that. Jensen had similar recall of all the biographical details of the other 50 attendees of that party. Okay. Idea number 18, create markets. don't do anything someone else can do. Don't do anything someone else can do is the motto of Edwin Land."
+    },
+    {
+      "timestamp": "01:21:49",
+      "text": "But what Jensen was setting out to do, he really believed he was building a company that was unlike any other company. And he knew he didn't want to build an undifferentiated commodity product. He wanted some kind of pricing power. And so it says, NVIDIA doesn't believe in building commodity products because commodities are subject to downward pricing pressure as competition increases. Jensen has always said that we should be doing things that other people cannot. That is exactly what Edmund Land said. We need to bring unique value to the marketplace. And you do that by doing work that's cutting edge,"
+    },
+    {
+      "timestamp": "01:22:21",
+      "text": "that's revolutionary work that no one else can do. We do not, and this is really the punchline, we don't have a culture of going after market share. We would rather create the market. Okay, so all of these ideas leads us up to the final idea. Idea number 19 is swarm your greatest opportunity. And the reason this one is last is because it's going to describe the massive historical opportunity that NVIDIA has pursued in artificial intelligence. And it's obvious when you read the book that all the things that you and I just talked about enabled and helped NVIDIA seize what is going to be likely one of the greatest opportunities that humanity has ever seen. And a single company has been able to essentially corner the market and reap most of the profits so far. So this is going to, the wild thing here, and this is going to be probably the longest section,"
+    },
+    {
+      "timestamp": "01:23:14",
+      "text": "is the fact that this played out over multiple decades. Jensen is going to recognize the AI trend very early. He's going to invest heavily, you know, when other people are telling him not to do this. And he's going to, by doing so, he's going to maneuver his company into position to take advantage of it better than anybody else in the world. So I'm going to read a couple highlights. We're just going to go through, obviously, this is what mainly the book is about, but I'm going to give you what I feel are like the basic framework of important actions, I think, that Jensen did. And so there's an idea that reoccurs throughout these books. It's the idea that you have to stay in the game long enough to get lucky. So the idea that's going to turn NVIDIA into a multi-trillion dollar company actually came from their customers coming up with unique ways to use their"
+    },
+    {
+      "timestamp": "01:24:05",
+      "text": "product. So the first reference to using NVIDIA GPUs for non-graphical purposes was in a 2002 research paper on using computers to simulate the movement of clouds. You could think of these like really weak signals that Jensen was referencing earlier. So it says an increasing number of computer science researchers were using GPUs for non-graphics applications. Researchers who ran their simulations on computers with GPUs reported significant speed improvements over computers that relied on CPU power only. These simulations required computers to learn how to reframe non-graphics computations in terms that graphical functions are in terms of"
+    },
+    {
+      "timestamp": "01:24:48",
+      "text": "graphical functions that a GPU could perform. In other words, the researchers had hacked NVIDIA's GPUs. Now Jensen's response here was brilliant. He sees this way, right? This unexpected opportunity as a way to expand the market for his products. And he's interested in making it easier for other people to do that. So what does he do? Number one, he hires the guy who discovered how to do this. Number two, he picks a mission. He wants to make it easier for people like the guy who discovered this to find more non-graphical applications of GPUs. Why? Because anytime you make something easier for people to do, that will expand the market. And so this guy's name is Harris. Harris is the guy that coins the phrase GPGPU, which means general purpose computing on GPUs,"
+    },
+    {
+      "timestamp": "01:25:34",
+      "text": "which he's describing this phenomenon that he is witnessing. Now, this is why Jensen's saying, you know, I want direct unfiltered information. I want information from the edge. Jensen quickly grasped that GPGPU had the potential to open up the markets for NVIDIA's GPUs way beyond their existing market, which was just computer graphics. And so Jensen's next thought is, well, how do I make this easier? The way I make this easier, I want to generate more demand. I need to make it easier to program these GPUs. So they create this new programming model for chips that they"
+    },
+    {
+      "timestamp": "01:26:06",
+      "text": "call the Compute Unified Device Architecture. It's called CUDA. CUDA makes it possible and easier for scientists and engineers to leverage the GPU's computing power. Now, keep in mind, we're like a decade and a half before all this huge AI explosion. Because the reason that's important is because Jensen believed that this could expand NVIDIA's reach into every corner of the tech industry. And this next section is why number 19, idea number 19 is swarm your greatest opportunity."
+    },
+    {
+      "timestamp": "01:26:34",
+      "text": "So this is happening in 2008, 2007, 2008 is where we are. So the error of the GPU would create so many opportunities that Jensen saw as his mission to prepare NVIDIA to take advantage of it. Even if no one could know exactly what those opportunities would be. Everything else was secondary. So again, this is one of the most mind-blowing parts of the book for me because it's 2007, 2008. Jensen's decision to go all in on this is literally going to create"
+    },
+    {
+      "timestamp": "01:27:00",
+      "text": "trillions of value for the company in the coming decades. It's a crazy amount of foresight on his part. And it's also going to require him to endure even more pain. So Jensen's way to do things is like, I'm going to push this everywhere. I want to make what I'm doing a foundational technology. And if Jensen has conviction for that, this is going to work. He's willing to invest heavily for the long term, even when other people and the market are telling him not to do that. So let me just read this section. It'll make a lot more sense. Jensen understood the importance of saturating the marketing with the market with it. The more people who had CUDA in their hands, the faster the"
+    },
+    {
+      "timestamp": "01:27:37",
+      "text": "technology would establish itself as a standard. We should push this everywhere. We need to make it a foundational technology, Jensen told the CUDA team. The move was extremely expensive. It took four years and the company invested so much in converting its GPUs for CUDA compatibility that its gross margin fell from 45% to 35%. As NVIDIA increased spending on CUDA, the global financial crisis destroyed consumer demand. And NVIDIA's stock price fell by more than 80% from October 2007 to November 2008. Jensen believed so strongly in CUDA's market"
+    },
+    {
+      "timestamp": "01:28:13",
+      "text": "potential that he remained committed to the course he had chosen, even as his investors demanded a strategic course correction. I believe in CUDA, Jensen said. We were convinced that accelerated computing would solve problems that normal computers couldn't. We had to make that sacrifice. I had a deep belief in its potential. And then the video does something really smart here. This is something, there's been a couple examples throughout history of the importance of doing so. When you're doing something brand new, you have to make a commitment to spend a lot of time and energy and resources into educating the market about this new invention. So Intel did this when they"
+    },
+    {
+      "timestamp": "01:28:50",
+      "text": "invented the microprocessor. In fact, they knew they were on to the biggest, they swarmed their greatest opportunity. It was very confusing to the market, very, in some cases, scary to the market. So they wind up sending all the founders and all the executives inside of Intel, including their founders, spent the majority of their time educating the market and running classes. In fact, what NVIDIA does here, it sounds a lot like what Intel did when they invented the microprocessor. So developers don't know what to do with CUDA. That's fine. NVIDIA is going to teach them. We are going to educate the market. So NVIDIA's chief scientist, this guy named David Kirk,"
+    },
+    {
+      "timestamp": "01:29:28",
+      "text": "begins offering and sending colleges and universities CUDA-capable machines if they committed to teaching a class on the subject. David Kirk winds up visiting universities. He would start educating students, professors, and department heads on all the changes on how they were teaching computer science because parallel computing was going to become far more important. David Kirk gave over 100 talks over the course of a year on this. He winds up teaching a class himself at the University of Illinois on the subject. NVIDIA took it upon themselves to go over and spread the religion of GPU computing before it really took off. In fact, this computing before it could, it really took off."
+    },
+    {
+      "timestamp": "01:30:06",
+      "text": "In fact, this was a necessary step for it to take off. There was no textbook on this. So Kirk decides to write one. There's always like this book, this foundational book. It's hilarious. If you're trying to get a movement going, I think one step is to write a book on this. So Kirk writes the textbook on this. That textbook sells tens of thousands of copies, winds up getting translated into all these different languages. And, winds up getting translated into all these different languages, and it winds up being used by hundreds of schools to teach thousands, maybe tens of thousands of students. Again, the idea is that we need to educate the market. In addition to doing this at universities, they would host the business development and marketing"
+    },
+    {
+      "timestamp": "01:30:41",
+      "text": "people at NVIDIA would host summits. They'd have like these two day technology summits at NVIDIA where researchers and computer scientists, scientists and engineers could come and talk about like how they're using CUDA and the GPUs. And so dozens of researchers from life science industry, chemical engineers, biologists, pharmacologists,"
+    },
+    {
+      "timestamp": "01:30:58",
+      "text": "software developers would, would attend. And then Jensen would show up and he would sit down and get feedback with the real world users of CUDA and then use the insights that he learned from them to inform the development of the product. And so again, this is where now we're in 2012, 2013, and Jensen just realizes, oh my God, this is going to want to be the biggest opportunities in history. We are going to, this opportunity of GPU powered deep learning is going to be massive and we need to go all in. And so let me read this part from the book for"
+    },
+    {
+      "timestamp": "01:31:30",
+      "text": "you. There was considerable debate within the executive team on this topic. Several of Jensen's key lieutenants were against investing more in deep learning in the belief that it was just a passing fad, but Jensen overruled them. Deep learning is going to be really big. He said, he said this in 2013. We are going all in on it. So if you think about it, everything that you and I have been talking about and highlighting and studying has led up to this. Jensen had built a company in the image of his own focused yet far-ranging mind."
+    },
+    {
+      "timestamp": "01:31:57",
+      "text": "Now he would pull every lever at his disposal to navigate NVIDIA to the very center of the tech industry as the company whose hardware could bring about the AI-powered future. It was definitely not a single day when the entire company changed forever. It was a period of several months where Jensen was increasingly interested and started asking increasingly deep questions and then started encouraging the company to swarm to machine learning. Jensen announced a change in strategic focus in a company all-hands meeting. We need to consider this work as our highest priority. AI was going to be more important than anything else they could possibly be doing."
+    },
+    {
+      "timestamp": "01:32:38",
+      "text": "Again, incredible, incredible insight and foresight, rather, on Jensen's part. He believed this was going to be the cause. And now 10 years later, it's obviously true, obviously accurate. It was going to be the largest TAM expansion. Within a decade, Jensen was sure that AI would create the largest total addressable market expansion of software and hardware that we've seen in decades. And so the book does a great job of describing how the interplay of all these ideas, the decisions that Jensen and everybody in NVIDIA made over the course of three decades allowed them to build this very formidable moat. And I thought it was very"
+    },
+    {
+      "timestamp": "01:33:15",
+      "text": "fascinating. Jensen actually doesn't like the term moat. He prefers what he's really trying to build and what he has built is a strong self-reinforcing network. And there's a great description of the strong self-reinforcing network, this moat that NVIDIA has built. Since it's hard to describe NVIDIA's action as anything other than the construction of a competitive moat, NVIDIA made a general-purpose GPU that represented the first major leap forward in computational acceleration since the invention of the CPU. The GPU's programmable layer, CUDA, was easy to use and opened up a wide range of functions across scientific, technical, and industrial sectors."
+    },
+    {
+      "timestamp": "01:33:52",
+      "text": "As more people learned CUDA, the demand for GPUs increased. Jensen's strategic brilliance ensured that competitors would have difficulty breaking into a market that NVIDIA had created. And I think the best way to close is a reminder that the most succinct definition of the NVIDIA way is that it is Jensen's way, or it is simply Jensen himself. And that is where I'll leave it. For the full story, highly, highly, highly recommend. It's a no-brainer. Reading the book."
+    },
+    {
+      "timestamp": "01:34:22",
+      "text": "Everyone I know that's read the book so far has loved it. I know a bunch of people have bought multiple copies for their team. If you buy the book using the link that's in the show notes available on your podcast player or available at founderspodcast.com, you'll be supporting the podcast at the same time. That is 376 books down, 1,000 to go, and I'll talk to you again soon. Okay, so I have a big update for you for Founders Notes. I am eight years into this podcast. By the end of the year, I will have a big update for you for Founders Notes. I am eight years into this podcast. By the end of the year, I will have read well over 400 biographies and autobiographies of some of history's greatest founders. I'm doing this because my organizing principle, my life's work is I want to organize and distill the collective knowledge of history's greatest founders."
+    },
+    {
+      "timestamp": "01:35:00",
+      "text": "And I want to do that better than anybody else on the planet. It's why I work on the podcast seven days a week. So as you can imagine, eight years into this, 375 different, 376 different books, it's impossible for me to remember and recall everything that I've read. So I built a tool that allows me to recall and tap into this collective knowledge of history, greatest founders on demand anytime I want. And I use this tool every day. And it's a tool that I've. And I use this tool every day."
+    },
+    {
+      "timestamp": "01:35:26",
+      "text": "And it's a tool that I've been telling you about for the past year. It's called Founders Notes. You can subscribe and access the tool that I built and the one that I use. This is very important. What you see when you subscribe, that is the same version that I use. I don't have a different version."
+    },
+    {
+      "timestamp": "01:35:38",
+      "text": "It's the exact same thing that you can use. So the big update that I have for you is that I've been working with the team at ReadWise. The of Readwise and the team at Readwise are the ones that have helped me actually build and design this tool. So for the past few months, we've been working on this major redesign of Founders Notes, and that redesign is done, and it's available now. I need to give you the prehistory, just like I spent a bunch of time in this NVIDIA episode and this Jensen episode talking about the importance of the prehistory of what was going on before we got to the 19 key ideas I want to talk about. So the prehistory of this project is that for the past"
+    },
+    {
+      "timestamp": "01:36:13",
+      "text": "six years, I've been using this app called Readwise to store all of my notes and highlights for every book that I've read the podcast that gives me ability to search it and pull it up anytime I want it. Okay. And the reason I partnered with ReadWise last year was because a bunch of people listen to the podcast kept saying, Hey, because I would talk about ReadWise, I talked about the app, I talked about how valuable it was. And the fact that I just, like, it was very helpful and useful to be able to recall and pull everything up. And I didn't do it with ever thinking I was going to build a tool around this. But so many people were asking, it's like, Hey, is there a way I can actually like, all of your notes? And so we built a tool called Founders Notes and allows you"
+    },
+    {
+      "timestamp": "01:36:47",
+      "text": "to do that. You can still do that. You can still read all my notes, all my highlights, and I keep adding to them every week and I will always do so. But over time, what I realized because I use this tool every day is like the AI assistant called Sage that sits inside of Founders Notes is actually the most valuable feature. And there's a line in the book that I didn't talk about in the podcast, but it's in the book where Jensen's talking about what we can expect in this AI-enabled world that we all live in right now."
+    },
+    {
+      "timestamp": "01:37:15",
+      "text": "And he says, you'll be able to have a virtual assistant, almost like a brilliant intern, with near-perfect memory, capable of instantly recalling any piece of knowledge stored on computers and the internet. Sage is this, but for the collective knowledge of history's greatest entrepreneurs. So how I use it is like when I ask Sage a question, it reads all of my notes, all of my highlights,"
+    },
+    {
+      "timestamp": "01:37:35",
+      "text": "all of my transcripts, and then provides a concise summary and answer to the information I'm looking for. So, and the key here is its memory is way better than mine. In fact, this is why I think you should subscribe and use Sage as a way to supplement the decisions that you make in your work. You just heard me do this multiple times in the episode. So think about when Jensen was struggling with figuring out what product positioning is. The definition that I recalled was just me asking, what is product positioning? Summarizes the best definition, gives us examples for every single thing we've talked on the podcast. When we talked about how the importance of educating a market, when you're creating a new technology or a new product like Intel did, what I was reading you came directly from Sage."
+    },
+    {
+      "timestamp": "01:38:17",
+      "text": "When I talked about how Henry Singleton, what did Henry Singleton say about planning that five point, I think it was five point bullet list that came directly from Sage when he talked about the importance of what's the leader's job. You think of yourself as the leaders, think of yourself as teachers. All the examples from Sol Price, from Henry Singleton, from Warren Buffett, from Bill Walsh, from Steve Jobs, that came from Sage. And so the big update is now when you log into Founders Notes, it looks completely different. If you haven't used it in a while, or if you've never used it, the very first thing you see is the ability to ask Sage a question. The other update that was really important to me was we added the ability to toggle between AI models. So we built the thing on ChatGPT, and you can still use that if you want. But the default now is Claude 3.5 Snet because that's the one I use. And it's spooky because when I ask Sage a"
+    },
+    {
+      "timestamp": "01:39:06",
+      "text": "question, it sounds like me, except with a much better memory. Again, you can toggle between whichever one you want and you'll find the one that actually you feel is most helpful. But that's the one I've been using. Another cool thing that we added as well. When you log in, you see all these like suggested questions. Okay. All of the suggested questions that well. When you log in, you see all these like suggested questions. Okay. All of the suggested questions that you see when you log in, these are questions that I have asked Sage and I'm continuing to add to that list of suggested questions because as I keep searching and finding good questions and good answers, I add it to the suggested"
+    },
+    {
+      "timestamp": "01:39:39",
+      "text": "prompts or the suggested questions list. So even if you didn't have a question, you wanted to ask it, you could log in, see what I've been asking it and actually read and learn from that. But again, I think the main purpose is like to use it as you have any questions in your business, you should be asking Sage because then what happens is it's essentially like if you could prompt all of history's greatest entrepreneurs to help you solve the problem that you're dealing with inside of your business. I'm going to continue improving it, continuing adding to it, because again, this is a tool for myself. I literally cannot make the podcast without it. I'm constantly adding to it just as a natural byproduct of the work that I do. So every single book, every single podcast,"
+    },
+    {
+      "timestamp": "01:40:21",
+      "text": "every single transcript, every single note, and just keep adding to it. So if you want a way to tap into the collective knowledge of history-based entrepreneurs on demand and use it to supplement the decisions that you're making in your work, highly recommend you go to foundersnotes.com. That is founders with an S, foundersnotes, just with an S, just like the podcast, foundersnotes.com and sign up today."
+    },
+    {
+      "timestamp": "01:40:41",
+      "text": "Thank you very much for the extra support. Thank you for listening. And I'll talk to you again soon."
+    }
+  ],
+  "scrapedAt": "2026-03-23T18:36:47.786Z"
+}

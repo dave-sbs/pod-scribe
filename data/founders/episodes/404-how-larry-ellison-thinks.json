@@ -1,0 +1,505 @@
+{
+  "metadata": {
+    "episodeNumber": 404,
+    "title": "How Larry Ellison Thinks",
+    "slug": "404-how-larry-ellison-thinks",
+    "url": "https://podscripts.co/podcasts/founders/404-how-larry-ellison-thinks",
+    "date": "November 4, 2025",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "So the book I want to talk to you about today is called Soft War, an intimate portrait of Larry Ellison and Oracle by Matthew Simmons. The book is about 25 years old. The first time I read this book was about five to six years ago. And think if you're going to read a biography or a book on Larry Ellison, this is the very first one you should read because the author had access to Larry Ellison and traveled extensively with him for two years. And they have these unbelievably, just brutally frank conversations in the book."
+    },
+    {
+      "timestamp": "00:00:28",
+      "text": "And so I wanted to read the book and look at it through the lens of like, can I get inside of the mind of Larry Ellison? Ellison has had a very unique set of life circumstances. He found at Oracle all the way back in 1976. He's one of the wealthy. Fast forward, you know, 50 something years later. He's still one of the wealthiest people in the world. And so I wanted to understand how he thought. Now, the interesting thing about this book is Ellison annotated this book."
+    },
+    {
+      "timestamp": "00:00:52",
+      "text": "So he made an agreement. He could not change anything that the author wrote, but he was able to add his own footnotes in his own words. And so in addition to these brutally frank conversations, by reading the footnotes, you start to understand his point of view in the way his mind works. So that's what I just want to talk about a few of those things today. I want to start with the very first thing. Ellison is his own harshest and most unrelenting critic."
+    },
+    {
+      "timestamp": "00:01:14",
+      "text": "A huge chunk of this book is Ellison being embarrassed by his performance as CEO of his own company for the first decade and a half of its existence. Another thing that Ellison has in common with a lot of his history. She just gets entrepreneurs and really great entrepreneurs. He has extraordinarily little interest in the recent past combined with an obsession to read voraciously about history. Ellison refuses to and I think is incapable of resting on his laurels. He was best friends with Steve Jobs for 25 years."
+    },
+    {
+      "timestamp": "00:01:45",
+      "text": "And I think Steve just absolutely nailed it with why it makes no sense to rest on your laurels and instead you should do this. This is what Steve said. If you do something and it turns out pretty good, then you should just go do something else wonderful and not dwell on it for too long. Just figure out what's next. What interests Ellison is not the last five years. It's the next five years and what he's going to do in that period."
+    },
+    {
+      "timestamp": "00:02:05",
+      "text": "Another thing, Ellison is naturally contrarian. Larry and the author get to know each other in the late 90s. The book is written in the early 2000s. And one thing that pops up over and over again is he understood. Ellison understood the truth of the internet earlier and in a more clear way than almost anybody else. And so everybody at the time, their main product, Oracle's main product was a database. And they're like, oh, it's over. They said that the internet is going to end the database market."
+    },
+    {
+      "timestamp": "00:02:31",
+      "text": "And Ellison said, no, the internet is not going to end the database market. It will drastically expand it. Ellison understood better than anyone else the potential impact on the internet on enterprise computing in general and on Oracle in particular. While the technology analysts in the investment banks confidently predicted the maturing of the database market, Ellison realized that the internet would exponentially increase both the number of database transactions and the number of people who would interact with Oracle's database. basis. That would mean the opposite of what the analysts were predicting. That would mean more licensed growth than the analyst had ever dreamed of. And so that's something he's going to"
+    },
+    {
+      "timestamp": "00:03:05",
+      "text": "repeat over and over again. He is very comfortable. He's probably only comfortable when he believes and then acts on the belief that very few if no one else is doing or understands. And when Ellison believes is something, he acts on it in a big way. This term burning the boats reappears over and over again the book. He likes to burn the boats. Ellison's decision to the horror of many colleagues and customers to abandon all further development of client server-based applications and concentrate Oracle's entire engineering effort on building for the new computing architecture of the internet. This idea was fueled by his mantra, which he would repeat over and over again, which is the internet changes everything. And during this part of the book, he realized, oh my God, we're in the wrong"
+    },
+    {
+      "timestamp": "00:03:49",
+      "text": "business. And if we stay here, we're dead. He talks at length why he went all in on the internet early. By getting to the internet first, assuming that the software could be made to work, Ellison would force Oracle's competitors to become followers. What distinguished Ellison's take on the internet from that of many other enthusiasts was that he saw it not just as a great way to get information or to go shopping, but as a platform for a completely different and infinitely superior kind of computing. There's a lot of parallels, in my opinion, between what Ellison is seeing in the late 90s, early 2000s and what was going on in AI today. Right from the outset, he believed that the internet really did change everything."
+    },
+    {
+      "timestamp": "00:04:28",
+      "text": "Another thing that he repeats, which I guess won't be a surprise since already's mentioned that he was best friends with Steve Jobs for 25 years, I don't think you could hang out with Steve Jobs for two and a half decades and be neighbors with and go on vacation with. If you didn't have this just visceral disgust and hatred for complexity, Ellison says that the cardinal sin of the computing industry is the creation of complexity. And he is constantly trying to get Oracle to actually do. the work for the customer and then limit the amount of decisions that the customer has to make. And he actually has a great analogy for this. This is something I repeat over and over again."
+    },
+    {
+      "timestamp": "00:05:01",
+      "text": "He's a phenomenal storyteller. And even now, I just watched this video where he's talking about AI. He's in his early 80s. He still has this ability. Very clear communication, very simple messaging, which he repeats over and over again, and an unbelievably charismatic communication style. And so he gives this analogy of what everybody else in Silicon Valley is doing and what he wanted to try to do, with Oracle. He says, if Detroit ran like Silicon Valley, nobody would sell cars. They would just"
+    },
+    {
+      "timestamp": "00:05:28",
+      "text": "sell parts. Customers would have to figure out which were the best parts. Maybe you'd grab a Honda engine, a Ford transmission, a BMW chassis, a GM electrical system, and buy them and try to assemble them into a working car. Good luck. I know it sounds crazy, but that's how companies put together business systems today. He repeats over and over again. He likes picking enemies. one of the biggest enemies he ever picks in his entire life is Bill Gates. The way they push their work is vastly different. Larry Ellison is a sprinter, not a grinder. And so it says, although he always talked about technology and Oracle with passion and intensity,"
+    },
+    {
+      "timestamp": "00:06:03",
+      "text": "he didn't have the methodical restlessness that made Bill Gates so formidable and feared. By his own admission, Ellison was not an obsessive grinder. I'm a sprinter. I rest. I sprint. I rest. I sprint again. Ellison had a reputation for being easily bored. This is, I think, will shock you, especially if I haven't read about him. He had the reputation for being easily bored by the process of running a business and often took time off leaving the shop to senior colleagues. This has mentioned several times in the book."
+    },
+    {
+      "timestamp": "00:06:29",
+      "text": "Ellison, by his own admission, had never really wanted to be a CEO and never really wanted to run a company. He will alternate between apathetic indifference and complete obsession depending on what's going on inside of Oracle. And what is so fascinating is he's constantly criticized for opposing traits. He's criticized for having an excessively dominant role. in the business and he's criticized for being detached from the business he will talk a lot about the importance of marketing he says in marketing simple messages always win we're going to talk about"
+    },
+    {
+      "timestamp": "00:07:00",
+      "text": "that over and over again today another thing he watches his costs excessively closely he will spend his money but not company money so there's actually a story in the book where he's meeting with this founder of a giant health care company called health south and he sees that this founder essentially had like this private fleet of jets and it says Ellison was taken aback and made a joke about this kind of shareholder abuse Ellison is surprisingly puritanical about such things. He was always quick to point out"
+    },
+    {
+      "timestamp": "00:07:32",
+      "text": "that his own indulgences such as his private plane are paid for from his pocket and not the company's pocket. And Larry was right about this because he's like this is obviously shareholder abuse a few years later this guy that he was meeting with actually gets convicted of racketeering, money laundering, and a series of other crimes. But this idea that Ellison honed in on, the fact that he was obsessed about watching costs, obviously he has this in common with a lot of people you and I speak about."
+    },
+    {
+      "timestamp": "00:07:57",
+      "text": "Just the fact he understood that if you control your expenses better than your competition, that is where you can always find a competitive advantage. Sam Walton talked about this in his autobiography, says, for 25 years running. Long before Walmart was known as the nation's largest retailer, we ranked number one in our industry for the lowest ratio of expenses to sales. Anyone who is committed to being great at building their business is obsessed with watching their costs. Andrew Carnegie made cost control an obsession. He would repeat this mantra"
+    },
+    {
+      "timestamp": "00:08:26",
+      "text": "time and time again. Profits and prices are cyclical, subject to any number of transient forces on the marketplace. Costs, however, could be strictly controlled and any savings achieved were permanent. This is something I was talking about with my friend Eric, who's the co-founder and CEO of Ramp. Ramp is the presenting sponsor of this podcast. I've gotten to know all the co-founders of Ramp and spent a ton of time with them. They all listen to the podcast and they've all picked up on the fact that the main theme from the podcast is on the importance of watching your costs and controlling your spend and how doing so gives you a massive competitive advantage and that is the reason that Ramp exists to give you everything you need to control your spend. Ramp gives you everything you need to make cost control an obsession. Ramp gives you easy to use corporate cards for your entire team, automated expense reporting, bill payment, accounting, and cost control all in one place."
+    },
+    {
+      "timestamp": "00:09:13",
+      "text": "I read a Ramp customer review that sums this up perfectly. RAMP is like having a teammate who you never have to check in on because they have it handled. RAMP's website is incredible. Make history's greatest entrepreneurs proud by going to Ramp.com to learn how it can help your business control costs. That is ramp.com. In one of the conversations that Larry is having with the author, keep in mind these conversations are having 25 years after Larry started Oracle, he identified that the true challenge of the technology industry is that it's a human problem, not a software one. So this is what he says."
+    },
+    {
+      "timestamp": "00:09:42",
+      "text": "It has been my experience that people will reflexively resist change. Change requires people to rethink the way they work and the way they are organized. When people write down their current processes and the reasons why those processes cannot be simplified, it forces them to carefully and methodically rethink their business. This usually results in business processes being changed as opposed to our software. Simplified, modernized business processes are at least as important as good business software in delivering efficiencies to the enterprise. And so one thing that reappears in the book a bunch is the fact that Larry is obsessed with understanding incentives and how they drive human behavior."
+    },
+    {
+      "timestamp": "00:10:21",
+      "text": "I love this Charlie Munger quote where he says that you should never, ever think about anything else when you should be thinking about the power of incentives. And many times in the early history of Oracle, Larry found a bunch of perverted incentive structures in his sales organization. And so he says one of the oldest and worst habits of the Oracle sales organization was the use of aggressive discounting to get existing customers to buy software before they actually. actually needed it. A customer might be planning a $2 million software purchase next year, but the Salesforce would offer the same software for a million dollars if the customer bought it now. And the salespeople would do that over and over again if it was the last month or the last week or the last day of the quarter. Customers quickly figured out that the best time to negotiate for discounts was the last day of our quarters. It has taken years and a lot of management"
+    },
+    {
+      "timestamp": "00:11:09",
+      "text": "changes before we were able to break this habit. Going back to Larry's preference, of doing something different than everybody else is doing. The core of his business philosophy, he says, is that you can't get rich by doing the same thing as everyone else. He also says he's only happy when everyone else thinks he's wrong, and he's, quote, walking way out on the end of the limb and then jumping up and down. And so he gives an example in 1977, everyone said it was nuts when I said we were going to build the first commercial relational database."
+    },
+    {
+      "timestamp": "00:11:37",
+      "text": "He then paused and laughed. On the other hand, when people say you're nuts, you just might be nuts. you've got to constantly guard against that possibility. One of Larry Ellison's favorite maxims is the brain's primary purpose is deception, and the primary person to be deceived is the owner. Another thing that may be surprising that he repeats multiple times in the book"
+    },
+    {
+      "timestamp": "00:11:57",
+      "text": "is he talks about how important the names of your products are. My friend Jack Butcher has this great line where he says ideas spread via language and a great name does a massive amount of lifting. And so Ellison said, we had to change the product's name. Network computing architecture got absolutely no traction in the marketplace. So we announced a successor called Internet Computing Architecture,"
+    },
+    {
+      "timestamp": "00:12:21",
+      "text": "and sales took off. The big difference between the two? The name. It never ceases to amaze me how the product name can be the difference between success and failure in the technology industry. He then repeats the importance of picking a fight and burning the boats. Later on, we'll go into a lot of detail of this fight, this intentional fight that he picks against Bill Gates and Microsoft"
+    },
+    {
+      "timestamp": "00:12:42",
+      "text": "and how beneficial the positioning was that he chose and how this message spread through the media and actually greatly enhanced not only his individual stature, but the stature of his company's products and brand. So he says once I'm finally certain over the right direction, I pick a fight. It helps me make my point and it makes it impossible to do an about face and go back. Once a course has been plotted, I sail a long way off and I burn the boats. it is win or die. And as you can imagine with somebody"
+    },
+    {
+      "timestamp": "00:13:11",
+      "text": "that has a quote like that, Ellison has a lot of passion and charisma and people report of his charisma and passion being very infections. It says when you're around him, you cannot escape being evangelized. He can't help it. The ideas come bubbling out and he's so excited about them that he has to share them."
+    },
+    {
+      "timestamp": "00:13:27",
+      "text": "I have begun to think that selling software is a secondary objective. What's far more important to him is to recruit believers. And so I used to think this book was kind of like a biography of Larry Ellison, after reading it for the second time, I think it is more just what the subtitle says. It's just an intimate portrait of him and Oracle, but it does give you some of his life history because I think it's just impossible to understand anybody, any human being without understanding the collection of experiences and events and in many cases tragedies"
+    },
+    {
+      "timestamp": "00:13:55",
+      "text": "that happen in their younger life. And so it takes him an unbelievable, a long time, a long amount of time to figure out what he wanted to do in life. He knew he was smart, but he never thought he was disciplined. He never thought he was going to run a company. So he says, I never had the discipline to do things I didn't like. I had such a short attention span. So the only job he liked was freelance contract programming. And what he realized in that is that he didn't need discipline and his short attention span actually worked to his advantage. My short attention span didn't work against me because I could get programs written very quickly. I ended up making quite a lot of money and I only had to work a few days a week. It was fun and it was easy and no one cared if you"
+    },
+    {
+      "timestamp": "00:14:32",
+      "text": "a PhD from MIT or had never finished high school. Either you could do the job or you couldn't, and I love that. And so I think one thing is really important to understand. Like he kept talking about, you know, I was very comfortable and, you know, people think differently than I do. I want to go on on that limb and I want to jump up and down. It's very obvious from his early life. He's got a lot of pain and suffering like, you know, most of us do, that the outside world and their existing standards of behavior never made any sense to him. And it took him decades to figure out that he could actually used that for his advantage. So he says, for Ellison, discovering that he was good at programming was both a validation of his intelligence and liberation from what he regarded"
+    },
+    {
+      "timestamp": "00:15:09",
+      "text": "as absurd conventions. This is what Larry said. People, teacher, coaches, bosses, they want you to conform to some standard of behavior they deem correct. They measure and reward you on how well you conform, how you arrive on time, dress appropriately, exhibit a properly differential attitude, as opposed to how well you do your job. Programming liberated me from that. I could work in the middle of the night. I could wear blue jeans and a t-shirt. I could ride my motorcycle to work, and I'd make money if I could solve the problem faster and better than anyone else. Programming gave me the freedom to screw around through my 20s. He's going to get divorce multiple times. He has this great line later on that his first wife left him because he didn't"
+    },
+    {
+      "timestamp": "00:15:45",
+      "text": "work enough, and his second wife left him because he worked too much. All I knew was I was I was capable of short bursts of energy. Keep in mind, he's describing himself in his 20s. When he said, hey, I'm a sprinter, not a grinder. He's saying that when he's in his 50s. It's the same idea. So I found jobs working on the weekends. Most people didn't want to work weekends, so I had no trouble getting those jobs. Monday through Friday, I'd be hiking or rock climbing or kayaking or on a long bike trip down the California coast. So this is what he's doing the very first time he gets married. He gets married young, but it had an effect on the way he worked. The breakup triggered all sorts of feelings of self-doubt in Ellison. My father, this is his adopted"
+    },
+    {
+      "timestamp": "00:16:23",
+      "text": "father he's adopted. My father had told me that it would never amount to anything. I got to pause there. How many times do you and I see this over and over and over again in these books? This Maxim repeats again and again and again. You can always understand the son by the story of his father. The story of the father is embedded in the sun. Larry Ellison is one of the most ruthlessly competitive and driven people that have ever walked the face of the earth. He's in his 50s when he's saying this. It clearly will always affect us. My father had told me I would never amount to anything, and now it seemed he might be right."
+    },
+    {
+      "timestamp": "00:17:03",
+      "text": "That's going to happen in his early 20s. Oracle almost goes out of business when Ellison is in his 40s, and he'll talk about this later on. I couldn't give up because I couldn't prove my father right. I knew I could earn a living as a programmer, but where was my life going? I wondered if I could ever be disciplined enough to be anything more than a technology, peace worker. he actually gets a job, gets promoted."
+    },
+    {
+      "timestamp": "00:17:26",
+      "text": "He has a title for the first time in his life. He's working at this company. He's the vice president. And this was so important because from the outside makes everybody, from the outside looks like, oh, these companies must know what they're doing. That is not the view normally from the inside. I had always believed that at the top of these companies, there must be some exceptionally capable of people who make the entire technology industry work."
+    },
+    {
+      "timestamp": "00:17:45",
+      "text": "Now, here I was working near the top of a tech company, and those capable people were nowhere to be found. The senior managers I saw were conformist, bureaucratic and very reluctant to make decisions. I gradually became convinced that I was better at solving problems and making decisions than they were. Or at the very least, I was willing to make a decision and do something while they seemed paralyzed by endless analysis and fear of making the wrong decision. Ellison suddenly began to think that maybe he could run a company, but he wasn't motivated by either a great ambition or the vision to do anything in particular. Having his own company would"
+    },
+    {
+      "timestamp": "00:18:18",
+      "text": "simply allow him to go on with his life, but with more control over it and with better rewards. This is one of the most important parts of the book. I already mentioned it. It took him a while to figure out. It took him a while to figure out what he wanted to do and how he wanted to live his life. He was 34. When he started Oracle,"
+    },
+    {
+      "timestamp": "00:18:34",
+      "text": "Oracle was called Software Development Laboratories, and he did not have any grand ambition for it. He says, my original goal was to build a company doing about $10 million a year in revenue and employing about 50 people. What motivated me was the desire to control my environment so wouldn't have to do things I didn't want to or spend time with people I didn't enjoy working with."
+    },
+    {
+      "timestamp": "00:18:51",
+      "text": "So he convinces two other people who is working with. to start S.D.L. Software development laboratories. They started as just a consulting shop. So they bid on this contract and they're like, great, this is a great way to make a lot of money. Ellison, he's like, you can make a lot of money, but it's way too much work. I wanted to, so almost immediately, says I wanted to get out of the consulting business. Consulting proved to be much more work than I ever imagined."
+    },
+    {
+      "timestamp": "00:19:14",
+      "text": "I wanted to go into the software product business. A software product offered the ultimate leverage, build it once and sell it over and over and over again. So they want to make a product, they just don't know what product to make. And the way they find their very first product, which is going to be this relational database that they're going to name Oracle, is actually very fascinating. They scoured the technical literature about databases for new ideas, and IBM had this research division that was publishing all these papers about this prototype relational database that they were building. And so Larry says, I decided we should use the IBM papers as an architectural blueprint for our new database product. The opportunity was huge. we had a chance to build the world's first commercial relational database why because no one else was even trying so i actually read other books i've read two or three other books on ellison and one of them was just about his love of and his competitive drive for racing sailboats here's the crazy thing he does the exact same thing in that domain too he is always looking for what other people are not doing and then finding an edge that way he continues the other relational database projects were purely research efforts they were spending no time on over"
+    },
+    {
+      "timestamp": "00:20:21",
+      "text": "overall system performance and reliability, both of which were essential for a successful commercial database product. If we could build a fast and reliable relational database, we could have it made. At the same time, I thought it would be smart to avoid the very competitive and highly conservative IBM mainframe market. So we decided to build our database for the mini computer market. And he talks about, I liked, this is again, he very clearly knows who he is and has spent a lot of time understanding that, in my opinion. I liked the fact that it was risky. The bigger the apparent risk, the fewer people will try to go there."
+    },
+    {
+      "timestamp": "00:20:57",
+      "text": "We would surely lose if we had to face serious competition. But if we were all alone in pursuit of our goal of building the first commercial relational database system, we had a chance to win. This was the first in a pattern of apparently high risk decisions I made throughout my life at Oracle. But I only ever picked the highest risk approach. when I thought it would increase our chance of winning. And he talks about why many people can't do this."
+    },
+    {
+      "timestamp": "00:21:22",
+      "text": "Whenever you travel an untravelled path, there is going to be risk. Let's go back to his flair for storytelling, his flair for marketing, he's just understanding of humans. The first version of our database was called Oracle Version 2. I didn't think anyone would buy version 1 of a database from five guys in California. And so the very first customer turned out to be the CIA. And then once he sells it to one government agency, he hits it hard. Ellison had to hit the road and sell."
+    },
+    {
+      "timestamp": "00:21:49",
+      "text": "One week, I flew to and from Washington, D.C. three times. In a little over six months' time, we had won several deals. The CIA, Navy intelligence, Air Force intelligence, and the NSA. Ellison was working harder than he ever imagined, and it contributed to the breakdown of his second marriage. Again, he doesn't hide who he is. Self-absorption will crush a marriage, and I was completely absorbed by my own ambition. I was totally immersed in making the business succeed. I neglected everything else."
+    },
+    {
+      "timestamp": "00:22:16",
+      "text": "I was writing computer programs, writing documentation, answering customer support calls, giving training classes, and sending out marketing literature. The very last thing I would do every evening was stamp a stack of Manila envelopes stuffed with a spiral-bound Oracle introductory manual I had written. Everyone and anyone I spoke with on the phone that day would get one. I'd arrive home around midnight most evenings. Nancy eventually got tired of this and left. She was the second wife I managed to drive away."
+    },
+    {
+      "timestamp": "00:22:43",
+      "text": "the first left because I refused to work enough. The second left because I worked too much. Both cases were caused by myself indulgent without compromise mode of living. So at this time, Oracle is growing really fast. He actually went up meeting a venture capitalist who works in their very same business. His job is to obviously buy equity."
+    },
+    {
+      "timestamp": "00:23:03",
+      "text": "Larry hates selling equity. He refuses to sell equity. And for some reason, this guy's name is Don Lucas. Don Lucas just wanted to help Larry. So even though he wouldn't, Larry wouldn't sell him equity, he actually helps arrange a loan for Larry Ellison and the company. And Don has some great insight onto the early days of Oracle. People just didn't believe that the relational model will work. There was a great need to do a very high level sell and say, hey, this is going to be a thing."
+    },
+    {
+      "timestamp": "00:23:30",
+      "text": "And these are the things that you could use it for. I will never forget being with an analyst. And he said that the relational database will never work. It is just a toy. We had to fight that for maybe 10 years. Larry was very good at this. He was like a spiritual leader, an evangelist for the relational database model. The technical press at the time was saying that the relational database would never be useful."
+    },
+    {
+      "timestamp": "00:23:57",
+      "text": "So again, goes back to Larry's contrarian nature, being very comfortable, going against the grain. I also think he's just, he's an obviously very special individual. So I'm sitting here thinking, you know, analysts are saying this just a toy, this is never going to work. The technical press saying, it's never going to be useful. what are you doing? For some reason, this quote from Napoleon came to mind that made me think of Larry Ellison at this point. In war, men are nothing. One man is everything. Now, the biggest crisis that Oracle ever has in 1991, they almost go out of business. It's a combination of massive accounting and sales crisis, aggressive sales practices, premature revenue recognition, over-expansion, and then at the same time, a deterring product quality. The sales teams would often book multi- year contracts up front, they would recognize the revenue immediately for software that wouldn't be delivered or paid for for months or years and in many cases never paid for it. So this has led to what they call phantom revenue. Oracle was literally recording sales that didn't exist. And when"
+    },
+    {
+      "timestamp": "00:24:58",
+      "text": "they had to restate earnings, their stock price dropped by over 80%. So a huge chunk of this book is Larry, like I said earlier, talking about the incentive structure and the lack of controls in his sales organization. And he has this great analogy when you're building your sales organization that you want farmers, not hunters. The salespeople we hired in Europe were very professional and service oriented. The European management team strategy was to build long-term relationships with our customers and do business with them on a regular basis. This European farming strategy was in stark contrast to United States sales organizations hunting strategy. U.S. salespeople tried to sell the largest possible transaction to any given customer and then move on to the next customer and the next deal."
+    },
+    {
+      "timestamp": "00:25:38",
+      "text": "It took me until 1991 to figure out that the U.S. hunting strategy was both short-sighted and unsustainable. It took another decade to change the culture of the U.S. sales force from hunters to farmers. Again, just like Jensen, we talked last week, Jensen was embarrassed by his performance as CEO of NVIDIA for the first 15 years. Larry Ellison is the same with his performance as CEO of Oracle. He says over and over again, I was incompetent. I didn't know what I was doing. very much like Jensen. He simply didn't regard himself as competent"
+    },
+    {
+      "timestamp": "00:26:11",
+      "text": "to concern himself with other things that a CEO is supposed to be responsible for. Ellison's approach was extreme delegation. That's how other people described it. That's not how Larry describes it. He says you could say that, but it's closer to abdication than delegation. Now, one of the most glaring contrast in this book"
+    },
+    {
+      "timestamp": "00:26:29",
+      "text": "is, you know, you start out with Larry's young, he's just he wants to kayak and hike, maybe set up a little bit of a company, but not do too much. and then once he has something to lose, he shifts into a completely different gear. A gear I don't think he's ever left. So Oracle is going to go public in 1986."
+    },
+    {
+      "timestamp": "00:26:45",
+      "text": "The fact that he now had something to lose intensified the demands that he was prepared to make on himself and his company. His goals in life have changed. So this original idea of Oracle's being a vehicle to provide him with a nice life, you know, he's got a reasonable amount of money, and he's got plenty of time to take off,"
+    },
+    {
+      "timestamp": "00:27:04",
+      "text": "that is gone. That no longer. exist. It completely evaporates. In his early 40s, Ellison was willing to say and do whatever was necessary to defeat Oracle's rivals. Again, quoting Napoleon, appetite comes with eating. Larry Ellison's version of that is, the more you win, the more you want to win. And so he's going back and he's talking about the mistakes he made that almost put, that almost put Oracle out of business in 1991. Again, he's embarrassed by how bad he was at CEO. What kind of CEO, let's salespeople write their own contracts. I just didn't know any better. U.S. sales was now"
+    },
+    {
+      "timestamp": "00:27:41",
+      "text": "responsible for oversight on its own deals. They were reviewing contracts and booking revenue without any interference from the corporate center. Huge discounts were offered to induce customers to buy software that they didn't need for years. Risks were taken in selling to companies that didn't have the money to pay their bills. Exotic, this is so nuts. Exotic barter deals were entered into. In one, Oracle was given a couple of jets by an Israeli aircraft industry, by Israeli aircraft industries in exchange for software. And yet one thing is consistent at the very beginning of Oracle. He was very reluctant to sell any equity."
+    },
+    {
+      "timestamp": "00:28:14",
+      "text": "Even as they're going out of business, very close to going out of business, Ellison did not want to sell any of his equity. I'll get to them one second. For Ellison, this goes back to this deep, seated pain and fear from his childhood from his father. First of all, what kind of dad, adopted or not tells their son or their daughter? You're destined to be a loser. So for Ellison, a personal as well of professional disaster was unfolding. He had borrowed heavily against his shares that had now slumped to a point where he faced the equivalent of a margin call from his creditors."
+    },
+    {
+      "timestamp": "00:28:43",
+      "text": "His marriage to Barbara had broken up, that's his third wife. And Bob Minor, his closest friend at Oracle, wanted out. It was personal in another way. His adoptive father, Lou Ellison, had always told him that he would never amount to anything. My father said I would never succeed. It seemed he might be right after all. Although he was clearly shaken and depressed, it didn't occur to him to give up."
+    },
+    {
+      "timestamp": "00:29:09",
+      "text": "There was desperation, but what he clung to was his belief in the company. And so we get the perspective of people that were working with Larry at this time. My observation is that he dealt with it in a forthright and manly way. No one was happy about it, but there were things that he had to do"
+    },
+    {
+      "timestamp": "00:29:23",
+      "text": "and decisions that he had to take. I never saw petulant or childish behavior. I never saw withdrawal or a, Fear to face facts. Pressures can make us react in perverse ways, but I never saw any of that. He dealt with it. This is what Larry said. I couldn't run away."
+    },
+    {
+      "timestamp": "00:29:41",
+      "text": "I had to save Oracle to save myself. He goes back to the fact that he was using an abdication model of management. I was interested in the technology. I wasn't interested in sales or accounting or legal. If I wasn't interested in something, I simply ignored it. Keep in mind, again, I'm telling you this over and every. so important. He's doing this. He's got 15 years of experience running the company. He's still making mistakes. Very few people work on anything for 15 years. Maybe we should use his life story and"
+    },
+    {
+      "timestamp": "00:30:12",
+      "text": "his experiences to put our own in some perspective. All I had to do is keep legal and accounting organized as separate control functions and a lot of the problems we had could have been avoided. You cannot run a company without strong checks and balances. I just wasn't paying proper attention to my job. I was doing only the things that interested me. It was the same problem I had in school, but this happened in my 40s. I was not a kid anymore. He talks about another mistake that he makes, the fact that he over-emphasizes. He would hire really smart people, and he thought, oh, if they're smart, that means they must be good at their job. Wrong. He thought this guy was smart, so therefore he'd make a good CFO. He was not a good CFO. Ellison had genuine"
+    },
+    {
+      "timestamp": "00:30:52",
+      "text": "respect for Walker's intellect, which blinded him to his other faults. I like very smart people, and Walker's very smart. In those days, whenever I was defending somebody, my defense, would be to point out how smart they were. Jeff was not impressed by this argument. He said, yeah, Larry, he's very smart, but can he do his fucking job? I just stared at Jeff and said nothing, but I was thinking, oh my God, he's right. Brilliance is not enough. Ellison's claim that he was incompetent is only half true."
+    },
+    {
+      "timestamp": "00:31:21",
+      "text": "He combined arrogance and recklessness to a degree that was very nearly lethal for Oracle. But against that, he built something so inherently resilient and valuable that both he and Oracle would have a chance to reinvent themselves. As Jeff puts it, if you take a brilliant, compulsive personality and you subject them to a learning experience, they learn brilliantly and compulsively. The blowup of the business made Larry modify some views that he had held for a long time. I had a couple blind spots, and now I needed to go work on them. And so then he talks about, he's like, I thought of myself, I thought of myself as an engineer. He realizes, okay, engineering is not just product development. I should engineer"
+    },
+    {
+      "timestamp": "00:32:05",
+      "text": "every single process in my company. I believe that every process within an organization, marketing, sales, service, everything should be carefully engineered. I'm still an engineer at heart, but now I apply engineering discipline to our entire business, not just product development. And then he talks about what is truly, again, taking the time to know yourself, what actually motivates him. He says, I've always been more motivated by fear of failure than greed. I hate to lose. Silicon Valley is a killing field. Very few technology companies survive, and we did. I love that quote. Silicon Valley is a killing field. We are very few technology companies survive. We did. Before I get to the rest of the story, I want to tell you about two tools that I hope you survive."
+    },
+    {
+      "timestamp": "00:32:51",
+      "text": "The first one is Vanta. Vanta's value prop is very clear. Vanta helps your company prove that you're secure so more customers will use your product or service. Many companies will not sign contracts unless you're certified, and this is causing you to lose out on sales. That is why the average Vanta customer reports a 526% return on investment after becoming a Vanta customer. Vanta can help your company automate compliance, security, and trust. Vanta helps you pass audits without tons of manual work, so not only do you make more money with Vanta, but you also save more time with Vanta. The best companies will not tolerate wasting valuable company time doing something with labor when technology can help you move faster. And Vanta helps you move faster. Vanta helps you win trust, close deals,"
+    },
+    {
+      "timestamp": "00:33:36",
+      "text": "and stay secure faster and with less effort. Go to vanta.com for slash founders to learn more and you'll get $1,000 off. That is, vanta.com for slash founders. The second tool that will help you survive collateral. Collateral transforms your complex ideas into compelling stories. We're in the middle of a podcast of a phenomenal storyteller. You will find a lot of the best founders are great storytellers. This is important because the best story wins. And that is exactly what collateral helps you do. Don Valentine, founder of Sequoia, said that the art of storytelling is critically important. Most of the entrepreneurs who come talk to us can't tell a story. Larry Ellison could tell a story. Learning to tell a story is incredibly important because that's how the money works. The money"
+    },
+    {
+      "timestamp": "00:34:18",
+      "text": "flows as a function of the stories. And that is exactly what collateral helps you do. Collateral helps you build a compelling story. I need you to remember their website, which is easy to remember because it's Collateral.com. Collateral crafts institutional-grade marketing collateral, and they do this for private equity, private credit, real estate, venture capital, family offices, hedge funds, oil and gas companies, all kinds of corporations. There's actually big companies using Collateral now because they discovered it on this podcast."
+    },
+    {
+      "timestamp": "00:34:45",
+      "text": "I have friends that have used Collateral for their marketing collateral and have raised billions of dollars of capital and have made hundreds of millions of dollars. I will leave a link down below, but make sure you go to collateral.com and improve the way that your company tells its own story. Ellison does this masterfully later in the episode, which I'll get to. Storytelling is one of the highest forms of leverage, and you should invest heavily in it, and you can do that by going to collateral.com. So now, this quote of Mark Benioff, who's the founder of Salesforce, used to work for Larry Ellison. He was present during this very difficult time in Larry Ellison's life, and this, he says something fascinating about"
+    },
+    {
+      "timestamp": "00:35:21",
+      "text": "Larry. I don't see Larry as conventionally resilient. I see him as a driving force. Larry gets what he wants, and when he focuses on something, he gets it. Larry had his foot to the floor at 150 miles per hour trying to leave all of his competitors behind. He knew that eventually he would shoot the car over the cliff, but it was like in a James Bond movie. The car makes it across the cliff on the other side, even though it's broken into 10,000 pieces. Now I mentioned earlier. that Ellison loathes selling equity. So even when their stock price drops and even when they're almost running out of cash, this is still in 1991, he's still searching for innovative and unique ways to raise cash without doing so. So says the most urgent was Oracle's dangerous cash"
+    },
+    {
+      "timestamp": "00:36:05",
+      "text": "crunch. Ellison knew that a conventional financing solution would not be available on anything less than the most punitive terms, terms that would undermine his position as Oracle's dominant shareholder. So he tells one of his employees, your mission is to get around $200 million while giving away as little of Oracle equity as possible. Instead of surrending equity, they came with really creative solutions to this. Instead of surrendering equity in Oracle to pay off the banks, Ellison had secured a deal that gave him an $80 million loan on highly favorable terms. He does this by going to Japan, which their economy was doing great at the time. So in exchange for this loan, Nippin Steel, which is his Japanese company, had warrants to buy up to 25% of"
+    },
+    {
+      "timestamp": "00:36:49",
+      "text": "Oracle, Japan, at a price that gave the value of this subsidiary of $400 million. So that's just one example. At the same time, he needs to rebuild his sales organization, which got him in this trouble to begin with. He obviously blames himself for that because he was the one that's supposed to be in charge. And what's very fascinating is he's recruiting someone. He feels he finds the right person to rebuild the U.S. sales organization. And so he is recruiting this person to fix and run his sales organization."
+    },
+    {
+      "timestamp": "00:37:17",
+      "text": "and this is the feedback that this guy got when asking other people, should I take this job at Oracle? I started talking to people I could trust about Oracle, about 10 in all. All but one said that the company was gone and that the earth would be better if it was gone and everyone said Larry couldn't be trusted. Larry was legitimately hated. I just want to pause here."
+    },
+    {
+      "timestamp": "00:37:37",
+      "text": "Imagine if Larry quit here. He would have foregone the incredible experiences he'd have over the next three decades. They were saying, you're going from a classy, professional environment to a bunch of wolves. The one dissenting voice out of ten people, only one said this. The one dissenting voice said that he thought Oracle had more potential than any other company in the valley."
+    },
+    {
+      "timestamp": "00:38:01",
+      "text": "Larry was a lunatic, but a lunatic with vision. And that one dissenting voice wound up being correct. And one thing that worked to Ellison's favor is the fact that once a customer, and Larry understood this right away, once a customer committed to a database vendor, he was pretty well locked in for the next 10 years or so. And so when you have a winning system like Oracle's database, or if you go back and read Jeff Bezos's his shareholder letters, he realized that he had a winning system in Amazon in the early days of his shareholder letters."
+    },
+    {
+      "timestamp": "00:38:27",
+      "text": "He says, hey, we're going to invest heavily in new introductions to customers. Because once we get a customer, we keep them forever. If you have a business like this, you do exactly what Jeff Bezos did and Larry Ellison did. They start investing heavily in introduction to new customers. One way Larry does this in addition to sales is he starts to use the media to do this. And he's really good at getting attention. And one way he gets attention is by picking a fight and having an enemy. Larry has to have an enemy. Larry's the most focused individual I've ever seen"
+    },
+    {
+      "timestamp": "00:38:57",
+      "text": "when he has something to beat. Now, but this is really smart. He's going to pick an enemy. He's not going to pick a smaller database company. He does not want Oracle positioned relative to them. He's saying, no, no, no. Oracle may not be as well known as IBM or Microsoft, but that's our class. That is our category. That's who you should compare us. to this is brilliant positioning and just the way he got oracle in the media ellison had set out to stop people talking about oracle and other database companies and to get them talking about oracle and microsoft oracle was now perceived as a software heavyweight this is larry talking by the way oracle was now perceived as a software heavyweight ranked just behind microsoft and ibn"
+    },
+    {
+      "timestamp": "00:39:34",
+      "text": "customers who bought our products could trust that we were going to be around for a long time we were a survivor the same could not be said for cybase and informics and if customers don't believe you're going to survive. You won't. I wanted, Larry continues, I wanted to knock out Sybase while they were technically behind and vulnerable, even if it meant sacrificing profits in the near term. If we were successful, the profits would be greater in the long run. If you work in Silicon Valley long enough, you can't help but notice how much the technology industry resembles the women's clothing business. Both are fashion-driven. Fashionable ideas are hot, while others are not."
+    },
+    {
+      "timestamp": "00:40:15",
+      "text": "And one of the most fashionable ideas that he leaned into was building internet applications while everybody else was building client server applications. And he took the lead in educating the market. This is, again, Jensen did this at Nvidia"
+    },
+    {
+      "timestamp": "00:40:28",
+      "text": "with Kuda and GPUs. We talked about this last week. Intel did this with the microprocessor. Oracle is going to do the exact, is going to use the exact same idea. You have to educate the market. You have to educate the market. Everywhere Oracle, Salesforce,"
+    },
+    {
+      "timestamp": "00:40:42",
+      "text": "went, it was pushing the idea of the internet as being about business, not just this consumer thing. We were educating customers long before the competition. And when he's doing this, people are always telling him he's crazy. This is what Larry said. He didn't want to bet the farm on internet applications. He thought what I was doing was risky to the point of being crazy. He thought that we should do client server too, but had already decided that the internet applications were our best shot at being successful. I had heard this all before. They told me that a relational database will never be commercially viable either. The customers want client server, blah, blah, blah, blah, blah."
+    },
+    {
+      "timestamp": "00:41:15",
+      "text": "They were mistaking the present for the future. It is the worst mistake a tech company can make. Client server was dead, and the people in the room would figure it out at the funeral. By then, it would be too late for Oracle to change course. We had to change to internet applications now before the rest of the field figured it out. I knew I was right, and then, they were wrong. This wasn't simply about our applications. This was about predicting the future of computing. We needed to move everything, our tools, our database, as well as our applications to the internet as soon as possible. Again, there's so many analogies, this sounds like AI now to me. And so in addition to changing the product strategy and to move to what he thinks is the future, he goes"
+    },
+    {
+      "timestamp": "00:42:05",
+      "text": "through with a fine-tooth comb and starts analyzing all of the business processes as an Oracle. And he finds a lot of poorly thought-out or probably not thought-out ideas and processes. And what you realize is one way that he discovers this, he just, a great, when he figured out, it's just like, hey, if I just ask why repeatedly, it's a really great way to find poorly thought-out strategies. And so it says, whenever Ellison looked, he seemed to find glaring examples of inefficiency, wastefulness, and intellectual sloppiness. A prime example with something called the energy center of excellence. This was intended as a place to showcase Oracle's software for the energy industry. Ellison uncovered plans to spend millions of dollars to run the center. So I asked"
+    },
+    {
+      "timestamp": "00:42:44",
+      "text": "how much energy software are we planning to sell next year? The answer was $10 million. So I said, does it bother anybody here that we're forecasting sales of just $10 million and we're spending $5 million to run an energy center of excellence? Does that strike anyone else as strange? Goes back and finds out more complexity, more poorly thought out, or not thought out processes at all. You have to keep it simple. He's like, you don't need 200 slides. You need to be able to answer four questions. So he says, getting hold of the basic information required for our budgeting process was"
+    },
+    {
+      "timestamp": "00:43:16",
+      "text": "disturbingly difficult. The most basic questions for budget planning we have to ask is just a few basic questions. Number one, how much did you sell last year? Number two, how much are you going to sell this year? Number three, how much did you spend last year? And number four, how much are you going to spend this year? This sounds simple, right? Wrong."
+    },
+    {
+      "timestamp": "00:43:36",
+      "text": "It took many hours and multiple meetings to pry answers to these four basic questions from some senior managers. One senior manager came in with 200 slides. I said, I've got four questions. Once you've answered these four questions, I'll look at however many slides you want me to. He was quite offended. He thought it was very important for me to look at his slides first. Larry does more digging and then he's reminded about the truth of Charlie Munger saying that don't ever think about anything else. When you should be thinking about incentives?"
+    },
+    {
+      "timestamp": "00:44:05",
+      "text": "And Larry says, one of the worst ideas I can remember was when we decided we didn't do enough selling through partners. The Salesforce convinced their boss that the best way to fix this was to pay more money to the sales force if the deal went through a partner than if the deal came directly to Oracle. For example, if you sold a million dollar deal directly, Oracle would get a million dollars and you'd get $100,000 commission. But if you sold a million dollar deal through a partner, Oracle would get $600,000 and you would get $120,000. commission. Needless to say, our Salesforce pushed as many deals as they could through partners that year. So the partners were happy. The Salesforce got higher commission payments for going through partners and they were happy. The only loser was Oracle. And so Larry does something really smart. Again, I really do think he knows, he fundamentally knows who he is as a person and"
+    },
+    {
+      "timestamp": "00:44:51",
+      "text": "kind of lives unapologetically in a very authentic way, even if you disagree with it, which I tend to admire. And so he's like, I have a lot of weaknesses. I need to hire somebody that doesn't have these weaknesses because I don't think I can actually fix those weaknesses. And so he hires Sappra Katz. She starts out as kind of like his right hand. She eventually becomes CEO of Oracle. And she said something describing Larry that was very fascinating. She says, Larry has the ability to think without walls. And then she also thinks very clearly because she thinks about the job that Larry hired her to do. And she had a very simple organizing principle as Larry's right hand. She says, I came in with absolutely no agenda other than to help."
+    },
+    {
+      "timestamp": "00:45:30",
+      "text": "help Larry. That actually made my job incredibly easy. If Larry wants something done, now it happens because I'm going to check that it has. That was the thing that was really missing. Larry would make a decision and nobody would check to see if they'd been carried out. People would hope that because he had so many things to do, he would forget. This is what Larry Ellison said about Saffircats. She makes up for one of my biggest areas of weakness. She's disciplined and thorough and I'm not. I'm pretty good at separating the good ideas from the bad ideas and I'm pretty good at drilling into detail on solving problems. But once a problem is understood, once a plan is in place, I usually move on to the next thing rather than following up and making sure that the agreed upon plan"
+    },
+    {
+      "timestamp": "00:46:06",
+      "text": "is actually implemented. It's called execution, and Safra is brilliant at it. And so he gives an example of some of the problems he was trying to solve. Again, go back to what Larry's best friend Steve Jobs said. He says, the further that you get away from one, the more complexity you invite in. And so here's a very simple example. Oracle had 70 separate HR systems, each with its own database. To find out how many people worked at Oracle, you had to look into 70 separate databases. If we had one HR database, we would know. But we had 70."
+    },
+    {
+      "timestamp": "00:46:38",
+      "text": "Now, 70 HR systems cost a lot more than one HR system. So we were paying extra to not know. Why are we doing that? I felt like an idiot and he had a great description of this. Data, data, everywhere, and not a drop of information. not a drop of information that actually we're not just in the business of collecting data we want that data to provide information on how we should be running our business they got the collecting of the data part they lost the most important part which is what do we do now and this duplication of efforts was everywhere and so ellison by default he just supports this principle of just having strong highly autonomous general managers in each country but he realizes the massive downside of this he says the combination of high degrees of decentralization in global scale results in a structure that encouraged appalling duplication of effort. We, like most other large corporations, had a feudal structure."
+    },
+    {
+      "timestamp": "00:47:34",
+      "text": "We were organized like medieval Europe. I was a weak king surrounded by a bunch of strong and fiercely independent dukes. I would sit in my capital in California and make policy decisions, which my dukes promptly ignored. So his favorite example of the way that the system operated, and he's going to change this, was the work of the pricing committee. He says the pricing committee was responsible for deciding how much we would charge for our products. We would make a decision, say, we're going to charge $10,000 per processor. We then produce an updated price list and send it across the hall to our global sales headquarters. Unfortunately, our global sales team had their own pricing people who felt they weren't doing their jobs unless they did their own analysis and corrected any pricing mistakes we might have made."
+    },
+    {
+      "timestamp": "00:48:18",
+      "text": "They'd say, Larry's an engineer. What does he know about setting prices? We're salespeople. We know about pricing. so they'd reset our price to $20,000 per processor and send out a pricing memo to our European headquarters in Geneva. Of course, we had another pricing team in Geneva that redid the analysis and reset the price once more."
+    },
+    {
+      "timestamp": "00:48:36",
+      "text": "They'd say, what do Americans know about selling software in Europe? We're Europeans. So a team in Geneva decides that the right price for Europe is $15,000 per processor. They then send that price out to Paris, Munich, and London. The same thing happens all over again. The guys in Germany ask, what do the French people in Geneva know about selling software in Germany? The right price in Germany is 25,000 per processor."
+    },
+    {
+      "timestamp": "00:48:59",
+      "text": "Every country had a different price. It was crazy. We had about 200 people around the world involved in analyzing and re-analyzing, setting, and resetting prices. It costs us a fortune in duplication of effort. We were competing against ourselves. It was embarrassing. Now, we have less than 10 people working on product. pricing down from 200."
+    },
+    {
+      "timestamp": "00:49:24",
+      "text": "And so he extends his thinking again. He's constantly on the lookout for how to fix the sales process after the sales process and his lack of focus on it kind of almost destroyed his company. And so he says, I want to get the creativity out of the sales process. If you want to be creative, go write a novel. I want to engineer the sales process. I don't want the people in the field spending all their time wheeling and dealing on price. The primary function of our salespeople is to communicate and quantify the business"
+    },
+    {
+      "timestamp": "00:49:50",
+      "text": "benefits of our products. And as you can imagine, over a multi-decade career, he's seen a lot of bubbles, and he had a valuable observation on this. He says a lot of wild things will go on. People start watching the stock market more closely than they were watching their businesses. In the long run, what really determines our success and our stock price is how good our products are. And this is something related to this that Allison repeats, I think three times in the book,"
+    },
+    {
+      "timestamp": "00:50:16",
+      "text": "and I think it's just a great line, writing checks is easy. writing software is hard another great maxim from him a hundred percent perfect solution exists only in the imagination he repeats over and over again silicon valley is a killing field very few technology companies survive the ones that do survive wind up becoming immensely wildly beyond your imagination valuable and so he's talking about two companies that microsoft killed and i don't know if i've said this here already but he's just excessively likable i don't i love it that he's not filtered. I love that he has a very distinct point of view. His personality jumps off the page. And he says, it didn't matter one way or another. Microsoft killed both companies like a rogue rhinoceros trampling a couple of Dorff... I got to say it's over again. I don't know why I'm laughing so much. It didn't matter one way or another. Microsoft killed both companies like a rogue rhinoceros trampling a couple of disoriented field mice. So I want to go back to this really brilliant idea on how he's..."
+    },
+    {
+      "timestamp": "00:51:19",
+      "text": "he repositioned to Oracle. Instead of having Oracle compared to other database companies, he had it compared to the two most successful, or two of the most successful company in the technology industry. Ellison strongly believes that Oracle is always at its best when it has an enemy to go after. We pick our enemies very carefully. It helps us focus."
+    },
+    {
+      "timestamp": "00:51:38",
+      "text": "We can't explain what we do unless we compare it to someone else who does it differently. We don't know if we're gaining or losing unless we constantly compare ourselves to the competition. I like to quote Steve Jobs when he said that the thing that really bothers him about Microsoft is not how successful they are or how much money they have. It is the tasteless mediocrity of their software. I totally agree with Steve. Microsoft's software is rarely first rate. They never, ever innovate, but they're good copiers. All those bright people at Microsoft remind me the guys you see sitting in museums making beautiful copies of"
+    },
+    {
+      "timestamp": "00:52:10",
+      "text": "great art. Their pictures are beautiful, but they're copies. Even Bill Gates' business strategy is just a copy of Standard Oil's strategy back in the 1870s. But when Rockefeller used his monopoly to crush his competitors, it wasn't illegal. There were no antitrust laws back then. He goes on about this for quite a while and he's got some really interesting insights into not only how he thinks and how he changed the perception of his brand, but also insights into Bill Gates. Bill and I used to be friends insofar as Bill has any friends. Back in the 80s and early 90s, all the people in the PC software industry hated Bill because they feared Bill."
+    },
+    {
+      "timestamp": "00:52:41",
+      "text": "But Oracle didn't compete with Microsoft back then. so we got on pretty well. As I got to know Bill, I developed a great respect for the thoroughness of his thinking and his relentless, remorseless pursuit of industry domination. I found spending time with Bill intellectually interesting, but emotionally exhausting. He has absolutely no sense of humor. I think he finds humor an utter waste of time, an unnecessary distraction from the business at hand. That is scary stuff. I don't have anything like that kind of focus or single-mindedness, one telephone conversation with Gates in 1993, Sticks and Ellison's mind. It was the most interesting conversation I ever had with Bill and the most revealing."
+    },
+    {
+      "timestamp": "00:53:25",
+      "text": "It was around 11 o'clock in the morning and we were on the phone discussing some technical issue. I didn't agree with him on some point and I explained my reasoning. Bill says, I have to think about that. I'll call you back. Then I got to call it for that afternoon and it's Bill continuing the conversation with, yeah, I think you're right about that, but what about point A, B, and C? And I said, Bill, have you been thinking about this for the last five hours? He said, yes, he had."
+    },
+    {
+      "timestamp": "00:53:46",
+      "text": "It was an important issue, and he wanted to get it right. Now, Bill wanted to continue the discussion and analyze the implications of it all. I was just stunned. He had taken the time and effort to think it all through and had decided I was right and he was wrong. Now, most people hate to admit they're wrong, but it didn't bother Bill one bit. All he cared about was what was right, not who was right. That is what makes Bill very, very dangerous."
+    },
+    {
+      "timestamp": "00:54:15",
+      "text": "If Bill has to choose, he'd rather win the war than win the argument. He doesn't really care where the idea comes from, as long as he's the one who gets paid for it. Most people are so in love with their own ideas that it confines their thinking. It creates boundaries and limits their ability to solve problems. Bill, however, has this ability to manage his intellectual vanity and take ideas regardless of where they come from and put them to work for me. Microsoft. The terrifying thing about Bill is that he's smart enough to understand what ideas are good,"
+    },
+    {
+      "timestamp": "00:54:46",
+      "text": "what's worth replicating, and he has the discipline and resources to get on with it and make it just a little bit better. That is very scary. Add to that, Bill's ruthless perseverance and the fact that Microsoft had more money than God, and you get a most formidable foe, the ultimate foe, the perfect enemy. We pick our enemies very carefully. We don't. We don't. We don't. We decided to pick a fight with the biggest, most dangerous bully in the school yard. There was no way to avoid this fight, so let's start it. I don't know if it was calculated beforehand or not, but it was a fact. The media loved this fight and it helped Oracle's brand. We got a lot of press. It was supposed to be a battle between two rival computing architectures. It wasn't supposed"
+    },
+    {
+      "timestamp": "00:55:30",
+      "text": "to degenerate into a me versus bill thing. But people are more interested in personalities than technologies. So that's what it became. Billionaire A versus billionaire B. I got into the cover of Fortune magazine as software's other billionaire. Oracle's technical ideas and products went along for the ride. The battle of the billionaires was good brand building for Oracle. And I don't think Ellison could have done anything else. He likes to be on offense. He said everybody at the time was so scared of Microsoft. They'd compare them to like this dangerous alligator. It's like, well, you know, what if we just, like, avoid the alligator? Or what if you're nice to the alligator?"
+    },
+    {
+      "timestamp": "00:56:08",
+      "text": "This is what Larry said instead. It's the be nice to the alligator and maybe he'll eat you last theory of survival. Well, I've got a better idea. Let's kill the fucking alligator before he kills us. If we fight back, maybe we'll survive. Maybe we won't kill the alligator. It's a huge fucking alligator. But trying to kill it will improve our chances for survival."
+    },
+    {
+      "timestamp": "00:56:28",
+      "text": "Being nice to the alligator will never work. If you're a fighter, the only way, up is through the top fighters in your division. So we picked fights with Microsoft and IBM because they're the ones we had to beat to reach the top. By constantly measuring ourselves against the two top heavyweights, we constantly improve the competitiveness of our products and services. And as the end result, Oracle is now raised. It's that constant refinement of association, which is one of my favorite pieces of advice I've ever gotten received personally. They're not talking about all these other database providers. Now Oracle is being compared to"
+    },
+    {
+      "timestamp": "00:57:03",
+      "text": "two of the biggest and most successful companies on the planet. One of the things I already mentioned this before that I love about Larry is he's unapologetically himself. He's unfiltered. He's funny. He says, you know, some outrageous shit sometimes to time. I don't think Larry can help himself because he says one of the things that he just can't deal with, that there's just very few things that he hates more than hypocrisy."
+    },
+    {
+      "timestamp": "00:57:25",
+      "text": "And so it says one of the reasons that people find Larry so objectionable. He's almost never says the politically correct thing, whether the subject is dating Oracle employees are how he spends his money. He is conscious of his celebrity CEO status and knows how to nurture it and goes back to him knowing who he is as a person."
+    },
+    {
+      "timestamp": "00:57:44",
+      "text": "And he talks about this. You know, he's got a very, you know, he's a very formidable foe. He's very competitive. He thought for a very long time that his true motivator, if you could choose between being feared or loved, he used to say that he'd choose fear"
+    },
+    {
+      "timestamp": "00:57:57",
+      "text": "and what he realized is like, that is always a lie. And he says, it took me a long time to understand that we all want to be loved even me. Again, I think if you read this book and you read his words, you're going to be surprised, like, just how much of this is like philosophical, how much of it's just about his inner monologue, how much of it is about the experiences he had when he was a young person and trying to"
+    },
+    {
+      "timestamp": "00:58:16",
+      "text": "figure out, like, what is actually driving me? What do I actually want? And he gives one of the best pieces of advice, which I'll say for the very end. Another thing, another idea that he has that is similar to Jensen, I think I've mentioned multiple times today that him and Jensen had a lot in common. Ellison does not like doing one-on-ones with his direct reports. He prefers communicating as a group so everyone knows what's going on. He also does not apologize for his confidence in bravado, and he actually thinks that this confidence in bravado makes for better leadership. And again, how does he describe why that is true? He does it in a story, as you've seen him do over and over and over again. He's a phenomenal storyteller. You cannot lead if you're filled with uncertainty."
+    },
+    {
+      "timestamp": "00:58:58",
+      "text": "Imagine two officers each leading a company of Marines up a hill. The first one says, Men, we're going up this hill and we're going to kill every fucking enemy soldier on our way to the top. I'm going first, and you're all going to make it to the top with me. I haven't lost one of you yet. Follow me now. He is cool, competent, and confident. I'm ready to follow that guy."
+    },
+    {
+      "timestamp": "00:59:17",
+      "text": "The second guy says, men, we're going to try to take this hill. I have to admit that I don't know how many enemy soldiers are on this hill, and I've never really done anything like this for. But I'm willing to go first. If you're willing to follow me, we might make it, we might not. There's no way to know for certain. Even if we make it to the top, it's highly likely that some of us will be killed. Follow me."
+    },
+    {
+      "timestamp": "00:59:34",
+      "text": "Well, the second guy is impressively honest about his fears and uncertainties. Maybe he should become a psychotherapist, but there's no way anyone is following that guy anywhere. And finally, I just want to share two final ideas. And I think these are two of the most important ideas in the book and two of the most important ideas that have come out of Larry Ellison's mouth. Whenever I got too close to a goal, I'd raise the bar for fear of actually clearing it. We're endlessly curious about our own limits."
+    },
+    {
+      "timestamp": "00:59:58",
+      "text": "The process of self-discovery is one of testing and retesting yourself. The software business is a difficult test. It is a high-stakes game. There's a lot of people playing this game. It is a lot more interesting game, and it's a lot more exciting. If I wasn't doing this, I'm not sure what else I'd be doing with my life. I just cannot accept defeat until I've been carried dead from the field. I have a lot of endurance, intellectual, emotional,"
+    },
+    {
+      "timestamp": "01:00:28",
+      "text": "and physical. We change as our circumstances change. Financial independence means you no longer need to trade time for money, but once you've been liberated, the freedom that comes afterwards can be difficult to manage. The good news is that suddenly you have all these choices. The bad news is that suddenly you have all these choices. So you've got to figure out what it is you really love to do because there's no other justification for doing it. And if you can't find anything you love, you have to settle for doing something that's important. And then the last idea and thought is this. Maybe it's just vanity that motivates me."
+    },
+    {
+      "timestamp": "01:01:04",
+      "text": "You can never really be certain of anyone's motives, including your own. You're better measuring off people on what they do rather than the unknowable why. I don't know, can't know, and don't care what motivated Jonas Salk to make the polio vaccine. I'm just glad he did. What we want to do with our lives is the most important question we all have to answer. I think if I found out I was dying and I had a year to live I wouldn't change my life very much"
+    },
+    {
+      "timestamp": "01:01:31",
+      "text": "and that is where I'll leave it for the full story. I highly recommend reading the book and in case you are not already following my new show I started a new show so I can have conversations with some of the greatest living founders and people in business the show is called David Center it is on a separate podcast feed so wherever you're listening to this please search"
+    },
+    {
+      "timestamp": "01:01:49",
+      "text": "David Center and make sure you follow that show I'm already addicted to having these conversations in many cases after the conversations I'm so wired with ideas and inspiration that I can't sleep. Nothing's changing with founders. The founders episodes will be on this feed, so you don't have to do anything different. But if you want to listen to the conversations,"
+    },
+    {
+      "timestamp": "01:02:03",
+      "text": "make sure you follow David Center, wherever you're listening to this now."
+    }
+  ],
+  "scrapedAt": "2026-03-23T18:32:46.267Z"
+}

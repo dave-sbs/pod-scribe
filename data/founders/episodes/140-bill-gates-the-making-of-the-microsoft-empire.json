@@ -1,0 +1,425 @@
+{
+  "metadata": {
+    "episodeNumber": 140,
+    "title": "Bill Gates (the Making of the Microsoft Empire)",
+    "slug": "140-bill-gates-the-making-of-the-microsoft-empire",
+    "url": "https://podscripts.co/podcasts/founders/140-bill-gates-the-making-of-the-microsoft-empire",
+    "date": "August 16, 2020",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "At age 36, Bill Gates has become the most powerful and feared player in the computer industry, and in the process, the richest man in America. Revenues of his Microsoft corporation topped out at $1.8 billion in 1991. His operating system has become the standard in computing operating systems, and his software dominates much of the industry. Now worth over $7 billion, Chairman Bill has revolutionized the software business. Hailed as a computer genius and a brilliant entrepreneur by some, and a bully by others, Gates' aggressive management style and fiery spirit can intimidate competitors and employees alike."
+    },
+    {
+      "timestamp": "00:00:40",
+      "text": "Hard Drive chronicles Gates' rise in the industry from computer whiz kid to software giant. His early years as a high school entrepreneur, his creation at age 19 with Paul Allen of the world's first computer language for a personal computer, and Microsoft's rocky decade-long marriage to IBM. Part entrepreneur, part salesman, Gates is a brilliant, some say manipulative businessman, who according to friends and foes alike, simply must win. Gates has emerged as the undisputed leader of the computer software industry, and Hard Drive examines what kind of leader he is. All right, so that is from the book that I'm going to talk to you about today, which is Hard Drive, Bill Gates and the Making of the Microsoft Empire. And it was written by James Wallace and Jim Erickson. And before I jump into the book, I want to read you a bunch of quotes that are on the back cover. And it says what people say about Bill Gates and Hard Drive. It's all these different people"
+    },
+    {
+      "timestamp": "00:01:37",
+      "text": "and quotes from within the book describing how they view Bill Gates, the person. So it says, Gates is tenacious. That's what's scary. He always comes back like Chinese water torture. His form of entertainment is tearing people to shreds. The next quote, a bad personality and a great intellect. In a place like Harvard, where there are a lot of bright kids, when you are better than your peers, some tend to be nice and others obnoxious. He was the latter. Another one. I half-jokingly say there's only one person with fewer friends than Saddam Hussein, and that is Bill Gates. Number four. I remember thinking he was not going to amount to anything. He seemed like a hacker, a nerd, with those glasses and his dandruff, sleeping on tables."
+    },
+    {
+      "timestamp": "00:02:26",
+      "text": "I obviously didn't see the future as clearly as he did. And the fifth quote. Imagine an extremely smart billionaire genius who is 14 years old and subject to temper tantrums. And the last one. Bill Gates wants it all, and he's on his way to getting it. So I wanted to start there because I think that's a good introduction to what this book about. It is not an entire biography of the life of Bill Gates. Obviously, he's still alive."
+    },
+    {
+      "timestamp": "00:02:53",
+      "text": "To that end, it does remind me of this book that I covered all the way back on Founders No. 76, which was Return to the Little Kingdom, which was a history of the first few years of the Apple Corporation. At the time the book is published, we don't yet know how important the life of Steve Jobs is and how important Apple is to become. But it gives the reader an insight into the very beginning of what becomes one of the most important companies ever created. So in this case, this is going to give us an insight into the first, I would say it mainly focuses on Bill Gates from around the time he's 19 to he's about 35 years old. And the reason I bring that up is because as I was reading the book, I was also reading and watching the latest interviews of"
+    },
+    {
+      "timestamp": "00:03:41",
+      "text": "Bill Gates. And it's almost as if the person described in the book and the person that the Bill Gates of today, they're not even the same person. The Bill Gates is described in this book is a psychopath. And I think what this book does best is it gives us an insight into the personality Bill Gates had when he was actually laying the foundation of Microsoft. So I want to jump right into 11 year old Bill Gates talking to his pastor, and he just says a sentence that I think describes definitely who he was as he's building Microsoft. And he says, I can do anything that I put my mind to. More about his personality when he was a kid. Aggressive, stimulated by conflict, prone to change moods quickly a dominating personality"
+    },
+    {
+      "timestamp": "00:04:27",
+      "text": "gates had an uneventful childhood he was a deeply introspective child who stayed in his room most of the time in intense reflective thought mary gates in describing her son has said that he pretty much has done whatever he wanted since the age of eight as As you can imagine, Bill Gates is an obsessive. It says, even as a child, Gates had an obsessive personality and a compulsive need to be the best. Any school assignment, be it playing a musical instrument or writing papers, whatever, he would do at any or all hours of the day. Everything Bill did, he did to the max."
+    },
+    {
+      "timestamp": "00:05:04",
+      "text": "Everything he did, he did competitively and not simply to relax. He was a very driven individual. So if you, I wish they had a Kindle version of this book, because I'd like to see how many times the word drive driven intensity appears over and over again. Different people from all areas of Bill's life describe him as one of the most intense, driven people that have ever lived. And we see a lot of the traits that he had as a child, he kept with him as he was building Microsoft. This is a quote from one of Bill's classmates when he was a still kid. He says, we all knew Bill was smarter than us. Even back then, when he was nine or 10 years old, he talked like an adult and could express himself in ways none of us understood."
+    },
+    {
+      "timestamp": "00:05:48",
+      "text": "So we're about to see a 13-year-old Bill Gates apply his obsessive personality when he's exposed to computers for the very first time. He goes to this expensive private school in Seattle called Lakeside, and it says the school bought itself a relatively inexpensive teletype machine. It was called the PDP-10. The PDP-10 Lakeside used was owned by General Electric, which build Lakeside for computer time. And computer time at this point in history is very, very expensive. So the mothers of the students did a fundraiser and they raised about $3,000 so they could pay for the computer time and it says that they figured this amount would be enough to last the rest of the school year and i think you already know where we're going here that's obviously not going to last uh very long once bill gates is introduced this machine what they didn't realize was how"
+    },
+    {
+      "timestamp": "00:06:37",
+      "text": "seductive a mistress the machine would become to a few precocious boys who liked math and science. Bill Gates was about to develop a very expensive addiction. And this is just great writing right here. It gives you and illustrates what kind of addiction this would lead to. It says before long, the teletype would be his umbilical cord to a new and exciting universe. Gates was immediately hooked. Whenever he had free time, he would run over to get more experience in the system."
+    },
+    {
+      "timestamp": "00:07:07",
+      "text": "But Gates was not only, was not the only computer crazed kid at Lakeside. He's going to meet Paul Allen in the computer lab there. He found he had to"
+    },
+    {
+      "timestamp": "00:07:15",
+      "text": "compete for time on the computer with a handful of others who were similarly drawn to the room as if by a powerful gravitational force. Among them was"
+    },
+    {
+      "timestamp": "00:07:24",
+      "text": "Paul Allen, who was two years older than Gates. And Gates, even at 13, exhibits a trait that he still possesses to this day when he's curious about something, when he wants to learn about something. He will read every single thing available on that subject. It says Gates developed everything he could get his hands on concerning computers and how to communicate with them, often teaching himself as he went. The faculty knew next to nothing about computers."
+    },
+    {
+      "timestamp": "00:07:48",
+      "text": "Gates and the other kids hanging out day and night in the computer room were pretty much on their own. So there was a teacher assigned to look after all the kids on the computers. And he remembers Bill Gates from this period in his life. And he says, I knew more about computers the first day than he did. But after the first day, I could no longer say that. Now, they're spending so much time on the computer. They use up all that $3,000 very, very quickly."
+    },
+    {
+      "timestamp": "00:08:15",
+      "text": "And so we see the misfit that is Bill Gates, where he's like, OK, well, I want to use this machine. We don't have any money. We need a solution. And this is the first solution they came up with it says gates and a couple other boys broke the pdp 10 security system and obtained access to the company's accounting files they found their personal accounts and substantially reduced the amount of time the computer showed that he used they were quite proud of this ingenious accomplishment"
+    },
+    {
+      "timestamp": "00:08:42",
+      "text": "until they got caught so So after they got caught, they needed a legitimate solution. There's a company called C-Cubed that was set up at the time. And what their plan was, okay, we're going to have a lot of centralized computers, and then we can resell time on the computer. And that's how we're going to make our money. And so they hired Bill Gates and a couple other of the kids at Lakeside to essentially be like white hat hackers. So say, hey, break into our system, find the bugs, find the flaws that we haven't uncovered yet. And in doing so, we'll give you free computer time. But the stipulation is you have to do it on off-peak hours."
+    },
+    {
+      "timestamp": "00:09:22",
+      "text": "During the day, people are using it at work and school. So you've got to come in at night and on the weekends. And for somebody like Bill Gates, he thought that was fine. So it said, the company hired a herd of friendly users and they became the unofficial night shift. They offered Gates and the other Lakeside Computer Junkies an opportunity to try to crash the system. In exchange, they would get all the free computer time they wanted."
+    },
+    {
+      "timestamp": "00:09:42",
+      "text": "It was often past midnight when the boys finished their work. And now we're going to be introduced into what I would consider one of Bill Gates, early Bill Gates, core competency, something that was extremely important to him, something he talks about over and over again in the book. He says, it was when we got free time that we really got into computer's gate set. I mean, then I became hardcore. So this word hardcore, he uses it over and over again. He talks about his desire. I want to be hardcore. He this word hardcore, he uses it over and over again. He talks about his desire. I want to be hardcore."
+    },
+    {
+      "timestamp": "00:10:08",
+      "text": "He wants to hire employees and wants to work with people that want to be hardcore. He repeats this notion over and over again. And he'll define it in a couple different ways as we go throughout the book. And so he says, I mean, then I became hardcore and it was day and night. And now here's the shocking part. He says at this point, Gates was only 13 years old. And he becomes so obsessed at this point that his parents become concerned, people around him become concerned. This is also the same way he is with computers at the time when he's 13 and 14 years old is the way he's building Microsoft."
+    },
+    {
+      "timestamp": "00:10:37",
+      "text": "There is he wakes up. He builds Microsoft until he can't keep his eyes open, falls asleep and does the same thing over and over again. There is nothing else in his life at all. He says they became increasingly concerned about their son. The machine seemed to have an almost supernatural hold on him. Although he was only in the ninth grade, he already seemed obsessed with the computer, ignoring everything else and staying out all night. And so at this point, his parents, they form some kind of intervention."
+    },
+    {
+      "timestamp": "00:11:02",
+      "text": "It's like, you've got to give this up. This is insane. And we see that if you stop him from working working computers, he's just going to find another interest. And then he's going to be obsessed about that as well. And in this case, he's obsessed about reading. He also reads biographies obsessively. But like we see almost every single person that we talk about on the podcast does the same thing that you and I are doing right now, which is they read biographies, they study and learn from people of the past. And I like the way Bill Gates describes why he's doing this. So I'll get there in one second. So my parents said,"
+    },
+    {
+      "timestamp": "00:11:30",
+      "text": "why don't you give this stuff up? So I did. I just went off and did some other stuff, science, math. There was an infinite amount of stuff to read. There were at least nine months when I did nothing with computers and read he did with the same kind of commitment that he had nothing with computers. And Reed, he did. With the same kind of commitment that he had made to computers. He consumed a number of biographies. FDR, Napoleon, among others. And this is, I really like his explanation. To understand how the great figures of history thought."
+    },
+    {
+      "timestamp": "00:12:02",
+      "text": "And that right there gives you an insight into the mind of Bill Gates. Even from a young age, To him, it was a foregone conclusion that he was going to do something great with his life. More about his personality at this time. He says, if you'd asked anybody at Lakeside, who's the real genius among geniuses? Everybody would have said Bill Gates. He was obnoxious. He was sure of himself. He was aggressively and intimidatingly smart. But he didn't have any social graces."
+    },
+    {
+      "timestamp": "00:12:24",
+      "text": "He just wasn't a personable kind of person. He had a hard-nosed confrontational style. His intensity, there's that word again, at times simply boiled over into raw, unthrottled emotion. Remember on the back page of this book, it says, imagine if you had this super billionaire genius who's 14 years old. What that person means there is he never really emotionally matured. When he's 30, this book it says imagine if you had this super billionaire genius who's 14 years old uh what what that person means there is he never really emotionally matured when he's 30 he has these he has this raw unthrottled emotion just like he did when he was 14 um and this is uh how his friends at lakeside described him uh he had a sense of humor and adventure he was a risk taker"
+    },
+    {
+      "timestamp": "00:13:00",
+      "text": "a guy who liked to have fun it was and who was fun to be with. He had an immense range of knowledge and interests and could talk at length on any number of subjects. I mean, this next part is what I meant about he just knew. He just knew that his life, that he was going to be great in life. And one thing he knew is that he had to be rich. He absolutely talked about this from a very young age. I'm going to be rich. He says, although Gates may not have known what he was going to do with his life during high school, he seemed confident that whatever he did would make him a lot of money. He made such a prediction about his future on several occasions. He told his friends that he"
+    },
+    {
+      "timestamp": "00:13:34",
+      "text": "would be a millionaire by the time he was 30 years old. He says this over and over again. Sometimes it's 30, sometimes it's 25, sometimes it's 28, but the goal is all the same. He wanted to become a millionaire at a very, very young age. All right, so I'm fast-forwarding in the timeline a little bit. I want to tell you, because a lot of people are surprised by this. I talked about this all the way back when I read Paul Allen's biography. I think it was like Founders 44 or something like that. And a lot of people don't know that Paul and Bill had a company before Microsoft. And it was this company called TrafoData."
+    },
+    {
+      "timestamp": "00:14:03",
+      "text": "So let me just tell you about this in case you don't already know. He and Gates were already working on another money-making project involving their own company, TrafoData. The idea behind their enterprise was ingenious. Almost every municipality used metal boxes linked to rubber hoses"
+    },
+    {
+      "timestamp": "00:14:19",
+      "text": "that stretched across the roadway to count cars. Gates and Allen, and then you'd have to tabulate them by hand. So it's a very, like, laborious and manual process. It's like, okay, we can automate this with computers. Gates and Allen figured they could program a computer to analyze the traffic counter tapes, then sell the information to municipalities faster and cheaper than the competition."
+    },
+    {
+      "timestamp": "00:14:39",
+      "text": "They grossed about $20,000 from the company before it eventually folded after Gates went off to college. This is his last year before he goes to Harvard. He says he talked about the future as if his success was predestined, as if it was given. Bill and Allen began to talk seriously about forming their own software company. For some time now, they had shared the same vision, that one day the computer would be as commonplace in the home as a television set, and that these computers would need software, their software. We always had big dreams, Allen said. This next part made me laugh when I read it. It gives you an insight. Bill, like almost every other person that we've covered on the podcast,"
+    },
+    {
+      "timestamp": "00:15:23",
+      "text": "gigantic ego, probably smarter to hide the ego. Bill definitely didn't do that. Bill Gates would later tell a friend he went to Harvard University to learn from people smarter than he was and left disappointed. So this is a description of Bill Gates in college. And it reminds me of something that Paul Allen's mom said about Bill Gates in Paul Allen's biography, and she called him an edge walker. She was warning her son to be careful and saying that, you know, people like Bill, they test their limits. They want to see where the edge is. But when people do that, sometimes they go over. And this is an example of that. That Gates would fall asleep in class was not surprising. He was living on the edge. It was not unusual for him to go as long as three days"
+    },
+    {
+      "timestamp": "00:16:04",
+      "text": "without sleep how he'd cope with a lack of sleep i'd never figured that out this is a quote from one of his college friends i would wimp out after 18 to 24 hours but his habit was to do 36 hours or more at a stretch collapse for 10 hours then go out get a pizza and go back at it and if that meant he was starting again at three o'clock in the morning, then so be it. So something to, to, that's important to understand, um, the life of Bill Gates and you and I have talked about this over and over again is the, that you it's these, a lot of this is beyond our control. It's about being at the right time in history with the right set of skills. And Bill Gates had the right set of skill and he was at the perfect time of history."
+    },
+    {
+      "timestamp": "00:16:46",
+      "text": "So it says Gates and Allen, they knew they were at the right time in history though too. So it says Gates and Allen were convinced that the computer industry was about to reach critical mass. And when it exploded, it would usher in a technological revolution of astounding magnitude. So it's really fascinating to read their insights"
+    },
+    {
+      "timestamp": "00:17:03",
+      "text": "as they're 18 19 years old this time uh paul's a little older maybe he's like 21 22 at the time um but they i mean they talk about it it's in all the books if you read them um they were absolutely convinced that there was this gigantic brand new industry that was forming and they were at the very ground level and they worked with an intensity and a um uh like they they they prioritized speed because they were worried that was going to pass them by so again very very uh i would say mature understanding for such young people um so says uh they well i just ran over my own point here they were on the threshold of one of those moments when history"
+    },
+    {
+      "timestamp": "00:17:41",
+      "text": "held its breath and jumped as it had done with the development of the car and the airplane they could either lead the revolution or be swept along by it alan was much more eager to start a company than gates who was worried about the reaction from his family if he dropped out of high school out of college paul kept saying let's start a company let's do it gates recalled he kept saying it's gonna be too late. We're going to miss it. And what I found really surprising about this time in Bill Gates' life is that he's really unsure about what his life is going to be. I just think this is innate in all of us. I think everybody goes through this, but it says, Gates was confused about his future. He spent many hours sitting in his room being a philosophical, depressed guy."
+    },
+    {
+      "timestamp": "00:18:23",
+      "text": "That's how he described it. Trying to figure out what i was doing with my life and this is one of his friends in college describing bill bill had a monomaniacal quality he would focus on something and really stick with it he had a determination to master whatever it was he was doing perhaps it's silly to compare poker and microsoft he was they would stay up real late and go for days playing these poker games at the time. But in each case,"
+    },
+    {
+      "timestamp": "00:18:49",
+      "text": "Bill was sort of deciding where he was going to put his energy and to hell with what anyone else thought. And so he's still, he's still in school. He's still trying to figure out, he wants to have a software company, but he wasn't sure. He's like,"
+    },
+    {
+      "timestamp": "00:19:01",
+      "text": "maybe I'll be a mathematician. Maybe I'll be a professor. And so in this section, I'm going to read to you here, there's two things that are happening. One, Bill wanted to be the best at whatever he did. And you'll see how that, why that would eliminate some, some potential career choices. And this is also the note I left myself as we've seen this with other people like PT Barnum talked about, Hey, if you're going to pick an occupation, then you need to be the best in that occupation. Hedy Green also said similar things. Yvon Chouinard."
+    },
+    {
+      "timestamp": "00:19:27",
+      "text": "So we see this over and over again. And two, he didn't know what he wanted to do. Even the reason I thought that was surprising is because almost every waking hour was spent on software. It seems to me as an outsider, like, isn't that smacking you in the face? Like, you're obsessed with this. Why?"
+    },
+    {
+      "timestamp": "00:19:48",
+      "text": "What do you mean you don't know what to do? This is what you should do. But again, it's easier for somebody on the outside to see. There's obviously all these other confusing thoughts that he's having that's perfectly normal, you know, for this age. So he says, Gates eventually gave up on thoughts"
+    },
+    {
+      "timestamp": "00:20:02",
+      "text": "of becoming a mathematician. If he couldn't be the best in his field, why do it? I met several people in the math department who were quite a bit better than I was at math, Gates called. It changed my view about going into math. It made the odds much longer that I could do some world-class thing. So I was like, I'm not going to be a mathematician because whatever I do, I have to be the very best in the world at it. It gives you an insight into the personality of this person. But there were so many choices. My mind was pretty much open. I thought the law would be fun."
+    },
+    {
+      "timestamp": "00:20:31",
+      "text": "His dad was a lawyer. I thought physiological psychology, which he says is the study of the brain, would be fun. I thought working in artificial intelligence would be fun. I thought theoretical computer science would be fun. I really had not zeroed in on anything. And that's going to all change. There's anytime you read like the history of Microsoft, the story I'm about to read to you is what many people think is the very beginning, the founding of Microsoft, the beginning of Microsoft. And it comes on a day in December 1974. Paul Allen is walking and he sees a magazine. So it says,"
+    },
+    {
+      "timestamp": "00:21:06",
+      "text": "Allen was walking across Harvard Square on his way to visit Gates when he stopped at a kiosk and spotted an issue of Popular Electronics. The issue sent his heart pounding. On the cover was a picture of the Altair 880. The description on the magazine's cover says, it was the world's first microcomputer kit to rival commercial models."
+    },
+    {
+      "timestamp": "00:21:28",
+      "text": "I bought a copy and read it and raced back to Bill's dorm to talk to him, said Alan. I told Bill, here's our opportunity. Alan, a student of Shakespeare, was reminded of what Bard himself wrote in Julius Caesar. This is a really great quote. I don't even think I've heard before. He says, There is a tide in the affairs of men, which taken at the flood leads on to fortune. Omitted, all the voyage of their life is bound in shallows and in miseries. On such a full sea are we now afloat, and we must take the current when it serves or lose our ventures. Gates knew Allen was right. It was time. The personal computer miracle was going to happen. So the magazine talks about who"
+    },
+    {
+      "timestamp": "00:22:14",
+      "text": "put together this computer kit. It's founder named Ed Roberts. And so they decide, hey, we're gonna call him up and we're gonna say we can provide the software that you need for your hardware. So it says Gates and Allen follow up the phone call with a letter to Roberts, reiterating that they did indeed have a BASIC that worked with the 880 Intel chip. They didn't, by the way. They proposed an arrangement where they would license mits to sell their software with the altair to hobbyists and would in return and in return they would be paid royalties uh for the next eight weeks the two would work day and night in the computer room trying to do what some experts at Intel said couldn't be done, develop a high-level computer language for the 880 chip."
+    },
+    {
+      "timestamp": "00:23:09",
+      "text": "So it was this two-month period where they're working in Sesame, where Bill Gates gets the reputation as like a master programmer, an amazing technologist. And as we go through the book, I'm going to provide the alternative view that Bill's strength was not in technology, although he obviously was gifted in it, but that if you study the very early days of Microsoft, Bill was a salesman. He spent almost all of his time on the road doing sales. And that laid the foundation for the massive financial success that Microsoft had. But we're not there yet. First, they write this program,"
+    },
+    {
+      "timestamp": "00:23:53",
+      "text": "they fly out, Paul Allen flies out to Albuquerque, New Mexico, where Ed Roberts' company is, and the program works. And this is how the author describes the importance, the historical importance of this event. I thought it was good writing, so I want to read it to you. The Porcelain Computer Revolution had begun with a game played on a small blue box with blinking lights named after the brightest star in the constellation. Thirty years earlier, people in Albuquerque had witnessed the sun come up in the south when the world's first atomic bomb exploded in the pre-dawn darkness. A hundred miles away, heralding in the nuclear age. Now another age"
+    },
+    {
+      "timestamp": "00:24:27",
+      "text": "had dawned in Albuquerque. It began at a ragtag company located next to a massage parlor. Its profits were two young men, not yet old enough to drink, whose computer software would soon bring executives in three-piece suits from all around the country to a highway desert town to make million-dollar deals with kids in blue jeans and t-shirts. A few pages later, we get more context from this quote. He says, you've got to remember that in those days, the idea that you could own a computer, your own computer, was about as wild as the idea today of owning your own nuclear submarine. It was beyond comprehension. So now we're getting"
+    },
+    {
+      "timestamp": "00:25:07",
+      "text": "into the very early days of Microsoft. Not a lot of people know this about Bill Gates. He was extremely very cautious with money, Microsoft's money, his own money. He was famous. There's a quote that I've seen in several different places where at the very beginning days, he talks about, hey, Microsoft is going to have a buffer. I want at least a year's worth of expenses in the bank. So if something goes wrong and we have zero revenue, no money coming in, that we could still pay for everything"
+    },
+    {
+      "timestamp": "00:25:40",
+      "text": "for at least a year. So it says his parents and grandparents had taught him to be financially conservative. And that was the way he intended to run his company. There would be no unnecessary overhead or extravagant spending habits with Microsoft. When Gates arrived in Albuquerque, he and Allen shared a room."
+    },
+    {
+      "timestamp": "00:25:58",
+      "text": "So the very first Microsoft office is just an apartment and him and Allen are living and working together. When they start hiring additional programmers they come and they live in the apartment as well um okay so it says and we see also you know bill had giant goals very very ambitious person we see this in the very very early days of microsoft uh it says bill and paul were very very intense they had a clear understanding of what they were doing in the sense that they had a vision of where they were going. It wasn't just that they were developing BASIC. I don't think most people ever really understood this, but Bill certainly always had the vision from the time that I met him"
+    },
+    {
+      "timestamp": "00:26:34",
+      "text": "that Microsoft's mission in life was to provide all of the software for microcomputers. So the early employees at Microsoft were known as microkids, and this is a description of these kind of people. Part of what made Microsoft so successful during the company's infancy was a team of programmers that Gates and Allen began to assemble in the spring of 1976. They became known as the microkids, high-IQ insomniacs who wanted to join the personal computer crusade,"
+    },
+    {
+      "timestamp": "00:27:03",
+      "text": "kids with a passion for computers who would drive themselves to the limits of their capability and endurance. So Microsoft has signed a license agreement with Roberts Company. And the note I left myself on this page was this does not seem like a situation Bill would put up for very long. And you'll see what I mean here. First, it talks about this is what I mean about, well, let me just read it to you. By early 1977, Gates' tireless salesmanship, browbeating and haggling, had resulted in tentative agreements to license BASIC to a number of other computer companies. So that's how he was spending most of his time. But Roberts again refused to sign the agreements because they were licensing it to Roberts' company. He didn't want them to license their software to anybody else."
+    },
+    {
+      "timestamp": "00:27:45",
+      "text": "So, of course, Gates is not going to put up with that. Roberts had also fired off a letter to Microsoft notifying Gates and Allen that he had told, that he had told, telling them that he would not license BASIC to them because of market conflicts. So that's another company. There's a bunch of companies, most of which have long since gone out of business."
+    },
+    {
+      "timestamp": "00:28:03",
+      "text": "This one's called Delta Data. And he was also telling them all other third-party deals with intel motorola etc appear to be a standstill due to a variety of reasons let me again reiterate my desire that you not contact directly any potential third-party customer without our approval and involvement so essentially you have somebody trying to tell bill Gates what he can do with his software. That's what I meant. That's just not something he's going to put up for very long. Bill knew he and Alan had to do whatever it took to get Basic back. So he just unilaterally decides, hey, I'm going to terminate the license agreement. Robert's company, MITS, is like, no, you're not. So they're going to, they wind up suing Microsoft. In their license agreement,"
+    },
+    {
+      "timestamp": "00:28:46",
+      "text": "they agreed that they would live with the results of arbitration. So they're in limbo at this point in the story. They're in limbo until arbitration is complete. And it says it would take several months to resolve the matter. And for what would be the only time in the company's history,"
+    },
+    {
+      "timestamp": "00:29:02",
+      "text": "Microsoft faced money problems. So what complicates this issue right now is that Roberts is having fantastic success with the Altair 880, and he sees it as an opportunity to sell his company. So he's going to sell his company to this larger company called Pertek. Pertek really wanted the license agreement with Microsoft, though. That's where they thought the value was, and that there's other computer makers and hardware makers at this time, but they all needed Bill's software."
+    },
+    {
+      "timestamp": "00:29:30",
+      "text": "And so this section was really, really funny because it's Roberts describing what a 20-year-old... No, he's 21 years old. Yeah, Bill Gates at 21. It says, When the chief counsel of Pertek came to Albuquerque to assess the situation and talk with Gates, he took one look at the long-haired, scraggly 21-year-old and decided"
+    },
+    {
+      "timestamp": "00:29:50",
+      "text": "the legal battle against Microsoft was going to be easy. Roberts, remember Roberts is now at this point, had talked to, had associated and worked with Bill Gates for almost two years. So it says, Roberts had warned Pertek that it would have that it would have its corporate hands full with gates. But no one listened to him. And this part made me laugh when he's describing what this what Pertek was in, what they were in for. It says Pertek kept telling me I was being unreasonable and that they could deal with this guy, Roberts said. It's a little like Roosevelt telling Churchill that he could deal with Stalin. And this was the result, the arbitration, Microsoft wins. So it says after the Pertek decision came down and logjam of customers waiting for basic broke loose, Microsoft never had to worry about money again."
+    },
+    {
+      "timestamp": "00:30:38",
+      "text": "And I think that's one of the most surprising things, especially in today's day and age, that people don't understand about the early days of Microsoft. They focus exclusively on software. Their profit margins were outrageous. They spent, Bill Gates spent almost all his time doing sales. They printed money almost from day one. They never had to raise venture capital. They wound up raising, they wound up selling 5% of Microsoft for a million dollars to a venture capitalist, not because they needed money, but because they needed like adult, they wanted somebody on their board that had a little bit more experience, but they had millions and millions and millions of dollars in the bank. It was one, it has to be one of the most financially successful companies in history."
+    },
+    {
+      "timestamp": "00:31:14",
+      "text": "It just has to be. And part of that success is not only were they at the right place, right time with the right set of skills, they focus on sales, they're making sure they want to have the most revenue in the entire industry. But Bill, again, Bill really focused. He was a lot more frugal than I think most people would be. I think most people would be surprised at how frugal he was. He wouldn't fly first class or private, even when he's worth over $100 million. He wouldn't pay $12 to valet his car. There's all kinds of these small little stories about Bill's frugality."
+    },
+    {
+      "timestamp": "00:31:46",
+      "text": "This gives you an idea of how important it was for Microsoft to stay lean for Bill Gates. It says, so this is four years in. There's just 11 employees. A few weeks before the move, so they're talking about they're moving from Albuquerque to Seattle, Microsoft decided they needed a company portrait. The picture of the Microsoft 11 taken that day would later become famous, appearing in magazines all across the country. Moving the story forward, I want to tell you how Microsoft was doing when Bill Gates was 24 years old. It had only been a year and a half since he had moved the company from Albuquerque to Seattle."
+    },
+    {
+      "timestamp": "00:32:21",
+      "text": "Now Microsoft, a company with $ million dollars in annual sales and fewer than 40 employees they went from 11 to 40 in a year and a half and i think before the year the year before they did four million in revenue so now they're doing seven million revenue uh so it says uh annual sales and fewer than 40 employees was about to go into business with ibm an international giant with revenues approaching $30 billion a rocket. And again, Bill Gates is mid-20s when this is happening. But around this time, we see that he makes a strategic decision here that is actually really, really smart."
+    },
+    {
+      "timestamp": "00:33:18",
+      "text": "He's like, hey, if we make apps, right now they're just providing the environment, the software environment for other developers to write programs for personal computers. He's like, well, why don't we do that? So he's like, if we make apps, we can increase the number of customers that we have and make more money. And so think about fast forward, you know, 40 years from this time, like how valuable is Microsoft Office, Excel, Word, all these other applications that grew from this decision that he's making in the very early days of Microsoft. He says application products such as VistaCalc and WorldStar represented a potentially vast and lucrative new market for software developers. Microsoft was only in the language business when Gates got his first peek at VistaCalc during the New York City Computer Fair. Useful applications, he knew, could turn the public onto computers"
+    },
+    {
+      "timestamp": "00:34:08",
+      "text": "the way the Altair had turned it onto hobbyists. Microsoft then announced it was establishing a consumer products division. Gates had laid the second foundation for his company's future growth. We had no intention of being a one product company what we realized was we needed to be in those markets meaning in the application markets and they wind up knocking out everybody um at the same time they hire like uh most of the people working microsoft this time really really young they hire some older people from larger companies and this is taking place in 1977 and i thought it was really interesting because really what's happening is,"
+    },
+    {
+      "timestamp": "00:34:48",
+      "text": "so this guy named Smith winds up, he's going to, this excerpt I'm about to read to you is really telling us, he's explaining the difference of priorities at a small company versus a large one. And you could almost summarize it that a small company is going to prioritize personal performance over management. And we also see Gates, you know, his tyrannical behavior. The way he talked to people was he's lucky he didn't get punched in the face. Let's put it that way."
+    },
+    {
+      "timestamp": "00:35:12",
+      "text": "Gates came into Smith's office one day and shouted at him. Imagine somebody 15 years younger than you doing this to you. How can you possibly take this much time working on this contract? Just get it done. Recalled Smith of that short but educational meeting with his much younger boss. I think what I realized was that I needed to focus, that the money and opportunities were simply there and I needed to close contracts with customers. So he focused on personal performance over management. Initially, I was dealing more with management issues as a guy with an academic background coming out of a large company. But it only took me a"
+    },
+    {
+      "timestamp": "00:35:45",
+      "text": "couple of meetings to realize that personal performance was what really mattered. And this is something I always think about is David Ogilvie talks about this in two, I think the two books he wrote Ogilvie on advertising and confessions of an advertising man have done podcasts on both. If you haven't listened to him, I definitely would. And I would definitely buy the book Ogilvie on advertising. If you're selling anything, um, I definitely would. And I would definitely buy the book Ogilvy and Advertising if you're selling anything. It's fantastic. And it's really interesting. It's fun to read."
+    },
+    {
+      "timestamp": "00:36:09",
+      "text": "But Ogilvy is just one of my favorite people I've ever studied. Just the way he talks. He's just so he's a really gifted writer and really, really just a genius. I mean, Warren Buffett called the guy a genius. I definitely don't see anything to disagree with there. But he brings up the same story in both books and i think both i think the books were written like 20 years apart right and he talks about the founder of listerine he was running a company they're trying to build a bunch of other products and listerine happened to be his"
+    },
+    {
+      "timestamp": "00:36:36",
+      "text": "uh like his his first breakaway product and he talked about what he learned from i forgot the gentleman's name i don't have in front of, but the person that made Listerine. He's like, a lot of companies don't act as if profit is not a function of speed. They just take too damn long. And so what the guy that created Listerine did, instead of thinking about things on a yearly or quarterly basis, he reviewed everything he was doing every 30 days. And Ogilvy's like, he prioritized speed. And as a result, he wound up making a fortune in like four years when it might take somebody four or five times as long."
+    },
+    {
+      "timestamp": "00:37:12",
+      "text": "And we're seeing the same kind of thing from Bill Gates here. He's like, you're taking too long. You got to move faster. Profit is a function of speed. We go very quickly here. Something that Smith's not used to in a large company and in academia as well."
+    },
+    {
+      "timestamp": "00:37:26",
+      "text": "All right, so now we've reached this part. I left a note to myself that this was surprising. And this is what I was mentioning earlier, that Bill prioritized sales over everything. What sustained the company was not Gates' ability to write programs. Gates sustained Microsoft through tireless salesmanship. I don't think many people know this. For several years, he alone made the cold calls and haggled, cajoled, browbeat, and harangued the hardware makers of the emerging personal computer industry, convincing them to buy Microsoft's services and products. He was the best kind of salesman there is. He knew the product and he believed in it. He approached every client with the zealotry of a true believer. From the day he first articulated the Microsoft mantra, a computer on every desk and Microsoft software in every computer. Think back to all those non-flattering descriptions of Bill that are on the back cover of this book. And this next point is not going to surprise you. It's extremely hard to work with Bill for a long time."
+    },
+    {
+      "timestamp": "00:38:29",
+      "text": "And he had a lot of people leave. Bill was extremely driven, very intense, very impatient. And in terms of personal relationships, he was very challenging. He could be very confrontational, extremely so. A lot of people found him difficult to work with over long periods of time because of that. You had to have a lot of self-confidence. This is Bill Gates at 25. Microsoft is just him, a secretary, and all programmers."
+    },
+    {
+      "timestamp": "00:38:54",
+      "text": "This is a direct quote from Gates. When we got up to 30 employees, it was still just me, a secretary, and 28 programmers. I wrote all the checks, answered the mail, took the phone calls. It was a great research and development group. That's how he's describing the company. Nothing more. And then I brought in Steve Ballmer. And so this is just a real short paragraph. But what I took from it is something smart. Bill overcame his weakness, which is that he looked young. Even when he was 25, he looks like 18. But he overcame his weakness by relying on his strength, which was his mind and his passion."
+    },
+    {
+      "timestamp": "00:39:30",
+      "text": "So I think the lesson here is that you should lean into your strengths. I knew Bill was young, but I'd never seen him before. So this guy's coming to the office to meet with him. And he says, when someone came out"
+    },
+    {
+      "timestamp": "00:39:39",
+      "text": "to take us back to his office, I thought the guy who came out was the office boy, but it was Bill. He says, well, I'll tell you or anybody else that by the time you were with Bill for 15 minutes, you no longer thought about how old he was or what he looked like. He had the most brilliant mind that I'd ever dealt with. Sometimes the outcome of a company comes down to just one decision. This is a very important decision in the history of Microsoft."
+    },
+    {
+      "timestamp": "00:40:06",
+      "text": "IBM had taught Gates about a fixed price for an unlimited number of copies of software that Microsoft licensed IBM. But the longer Gates thought about this proposal, the more he became convinced that it was bad business. Microsoft would be making a huge financial investment in the project and a lump sum payment from IBM would not give the young company much of a return on its investment over time. Gates had decided to insist on a royalty agreement with IBM. And a lot of people know that the foundation for a lot of the work that Microsoft was doing for IBM came from this program called 86 DOS. It was actually made by somebody else."
+    },
+    {
+      "timestamp": "00:40:46",
+      "text": "And so Microsoft bought it and then added to it. But the lesson here is that sometimes you can pay less money by offering value in another way. And so in this case, the company is called Seattle Computer Products, and they accept a $50,000 offer from Microsoft over a $250,000 offer that was on the table because Microsoft included said that they would do future software updates. Gates signed what would prove"
+    },
+    {
+      "timestamp": "00:41:13",
+      "text": "to be the key financial agreement that made him a billionaire. For only $50,000 Gates bought all rights to 86 DOS previously owned by Seattle Computer Products. It was the bargain of the century. And so the guy doing this, that owns this, his name is Brock. He had another alternative offer from this guy named Curry. So it says Brock didn't take Curry's offer"
+    },
+    {
+      "timestamp": "00:41:33",
+      "text": "of five times that much because Microsoft agreed to provide Seattle Computer with updated versions of DOS. Brock figured that this would be a great benefit to Seattle Computer since Tim Patterson, his programmer, was no longer around to work on the operating system."
+    },
+    {
+      "timestamp": "00:41:48",
+      "text": "So moving ahead to the north myself, imagine buying 5% of Microsoft for a million dollars. So it says then in a carefully planned move that had been under discussion for some time, Chairman Bill sold 5% of Microsoft for a million dollars to technology venture investors, a venture capital firm in Menlo Park, California. David Markart is maybe how you pronounce his name. A general partner in TVI was made director of Microsoft's new board. Microsoft did not need venture capital. Gates was essentially hiring the firm's expertise. So something that happens way after the publishing of this book is, you know, Microsoft is attacked for antitrust issues. And a lot of it, that's behavior that Bill exhibited for many, many years before it actually got him in trouble. And we really do see the ruthlessness of Bill Gates. He says, we are going to put digital research out of business, slamming his fist into the palm of his other hand."
+    },
+    {
+      "timestamp": "00:42:46",
+      "text": "Gates wanted to eliminate the opponents from the playing field. Bill learned early on that killing the competition is the name of the game. There just aren't as many people later to take you on. In game theory, you improve the probability that you're going to win if you have fewer competitors. And so the way he would look at it, let's say Microsoft loses a $50,000 contract, right? Most companies are like, oh, we lost out on $50,000 in revenue. Bill Gates is like, no, we lost out on $100,000. We lost out on $50,000. And the person that we have to knock out of the game just gained $50,000. So it's a $100,000 loss. It's not a $50,000 loss to him. And one of the founders that he tries to destroy is a guy named Gary Kildall."
+    },
+    {
+      "timestamp": "00:43:27",
+      "text": "And this is another idea that I learned from David Ogilvie, which he says, the good ones know more. So a lot of his books will tell you, hey, you need to do your professional research. You need to set out to make sure that you are more knowledgeable in your field than anybody else. Bill Gates would agree with that sentiment and Gary Kiddall lacked that sentiment. So it says you could not have relied on people like Gary Kiddall. This is another guy that worked with both of them. He didn't have the vision, the understanding of the problems. If you talk to Bill about any software company or any hardware company, there's a very high probability that he will be able to tell you who the CEO is, what their revenues were last year, what they're currently working on, what the problems are with their products."
+    },
+    {
+      "timestamp": "00:44:07",
+      "text": "He's very, very knowledgeable. And he prides himself on knowing what's going on in the industry. Kittle never had that. Not only did Kittle have that, how many people do you know has that? That's a level of dedication that is extremely, extremely rare. So one of the things that helped Microsoft early was not only like, could their software work on IBM PCs, but anybody. And so a lot of the, they call it like PC clones at this time. And there's a bunch of hardware makers that would"
+    },
+    {
+      "timestamp": "00:44:37",
+      "text": "just buy a bunch of parts from different manufacturers, combine it in a unique or novel way, and then sell their own computer. And one of these is Compact. And I just want to read this quick paragraph to you. And I went looking for a book on one of the founders because I think these sentences is pretty crazy. And I'll tell you how this relates to something that Marc Andreessen taught us all the way back on Founders Number 50. Compact Computer Corporation was first out of the gate with the PC-compatible machine in January of 1983. Ready? This is going to blow your mind. The company did more than $100 million in sales in its first year."
+    },
+    {
+      "timestamp": "00:45:24",
+      "text": "Within three years of the company's founding, Compact had cracked the Fortune 500 list. And the reason I say that reminds me something we learned from mark andreessen if you listen to that podcast on number 50 and if you read his blog archive which you can just uh left in the show notes of that of that um of that podcast you can download and read it for free and i highly recommend you do so if you haven't done it already but uh mark presents the rhetorical question that a lot of people debate, like what is the most important? What's the single most important factor for a company's success? Is it the product? Is it the people or is it the market? And Mark's point is that most people say it's the product of the people."
+    },
+    {
+      "timestamp": "00:45:56",
+      "text": "And he's like, for Computer, Apple, Compaq, all these other companies that you just had. They were right at the beginning of this massively exploding, exponentially growing market. And the fact that you could go from nothing to 100 million in 12 months and then nothing to the Fortune 500 in 36 months is insane. So something that appears over and over again in the book is the fact that everybody says Gates, he's an asshole uh he's arrogant he's demeaning to you he thinks he's smarter than you and yeah he's all of that uh for sure but but i i want to point out i want to balance that out a little bit he also knew where he was weak and he would also listen to others um which is really really intelligent so this is on naming products and the importance of brand."
+    },
+    {
+      "timestamp": "00:46:46",
+      "text": "So it says Microsoft Word was originally going to be released as multi-tool Word. So they had this whole, it's a continuation of this application product line they were calling multi-tool. And so he hires a guy that had nothing to do with computers, but knew about branding. And it's a guy named Hanson. And so this is what I mean about it's smart that he brought somebody in where he knew he was weak. Hanson suggested a different product naming strategy. It was important for a product to be identified by its brand name, he pointed out."
+    },
+    {
+      "timestamp": "00:47:13",
+      "text": "Microsoft had to get its name associated with its products. Hanson later elaborated on the concept in this way. This is really smart. If you look back at some of the old articles that are written in the industry, you'll see the word multi-plan, but no Microsoft. What a terrible name, right? As associated with it. That was because multi-plan was a standalone name, just like WordStar. People wanted a word processing program, knew the name WordStar, but they could not have told you that MicroPro was the company that made it. The brand is the hero, Hansen said. People start to"
+    },
+    {
+      "timestamp": "00:47:47",
+      "text": "associate certain images with the brand that become much more important than any single product. What the consumer goods companies realized years ago was that products come and go, and you're going to have a product and it's going to rise and fall. But if you can create a halo around a brand name and create equity in a brand, then when you introduce new products under that brand halo, it becomes much easier to create momentum. We decided that we needed to make Microsoft the hero. Gates immediately saw the logic of Hansen's argument. As a result of Hansen's efforts, the multi-tool names were thrown out, taking the place of Microsoft Word, Microsoft Plan, eventually Microsoft Excel, and Microsoft File. There is no question that version one of Word weren't, and this is also, so a few paragraphs later,"
+    },
+    {
+      "timestamp": "00:48:32",
+      "text": "it talks about another smart thing that Bill knew. He knew the power of iteration and patience, when you combine, the power if you combine iteration with patience. There was no question the first version of Word weren't the incredible successes other programs in the category were. They were tactical disappointments, but they were fantastic strategic successes. Microsoft would eventually get Word right, but it took several major revisions. With few exceptions, they've never, Microsoft meaning,"
+    },
+    {
+      "timestamp": "00:49:01",
+      "text": "Microsoft never shipped a good product in its first version, but they never give up and eventually get it right. In a sense, it was all part of Gates' master plan. As that master of military combat tactics, General George S. Patton liked to say, a good plan violently executed now is better than a perfect plan next week. Back to pointing out the severe deficiency in people skills that Bill Gates exhibited when he was a young man. He was a very clear thinker, but he would get emotional. He would browbeat people. Just imposing your intellectual prowess on somebody doesn't win the battle. And he didn't know that. It may not be the right thing to do to bash your point across but he didn't know that then"
+    },
+    {
+      "timestamp": "00:49:45",
+      "text": "either he was very rich and very immature he had never matured emotionally this is a description now bill gates at 30 very interesting i would love to go back there's a new movie uh seth rogan came out with i think it's called like something about american pickle or something like that i don't know the name of the movie but But the premise is a little silly, but I actually thought it was interesting where this guy gets brined and preserved and he's still alive and pickle juice or something. But anyways, he winds up waking up"
+    },
+    {
+      "timestamp": "00:50:16",
+      "text": "and he meets his great-grandson at the same age he is. So let's say the great-grandfather is 35 and the great-grandson is 35, for example. It's somewhere around there, maybe 40, something like that, right? And so it's a silly, you know, comedy, just goofy, make you laugh kind of thing. But I thought the premise was really interesting."
+    },
+    {
+      "timestamp": "00:50:35",
+      "text": "Like, I would love to be able to go back and whatever age you are now, what if you could go back and speak to your parents, your dad, your mom at their age, and you could observe who they were when you were that person? And then you extend this to other historical figures. Like imagine being 30 years old and being able to go back in time and speaking to Bill Gates at 30, knowing what you know now or anybody else in history."
+    },
+    {
+      "timestamp": "00:50:57",
+      "text": "I find this very, very fascinating. I told you over and over again, as I read through and work through all these books, I'm constantly looking up, okay, what year we are in the story? And then I'll find out, obviously, their birth year. And I'm always like, okay, so the books cover, you know, the notes all over the books. It's like, this is, you know, Enzo Ferrari at 25. This is Warren Buffett at 35."
+    },
+    {
+      "timestamp": "00:51:17",
+      "text": "Whatever it is, I just find it very interesting to think about them because everybody knows, if they're going to write a biography in your life, people know who you are. But the pictures, even the pictures, like Google warren buffett you're going to see pictures uh you know of 80 year old warren buffett but i've gone back and found pictures of 30 year old 35 year old um i just my brother just sent me a picture of me him and my dad and i did the math i was like i think i'm like five years old in that that picture and i looked and i was like wow like my dad's around my age at this time i just stared"
+    },
+    {
+      "timestamp": "00:51:47",
+      "text": "at it like it's just it's a very fascinating way to personalize and think about people not as you know them now but as they as they used to be um so this is bill gates at 30 um bill knew microsoft had to go public but didn't want to um and this is the financial results he was having. They were printing money. Microsoft had revenues of $140 million. Its profit had totaled $31 million that year. This is the reason he didn't want to go. He thought it was going to be a distraction. He knew he had to"
+    },
+    {
+      "timestamp": "00:52:16",
+      "text": "because he was giving out stock options to employees at the time. But he says, all I'm thinking and dreaming about is selling software, not stock. And we also reached where he's going to define this word that he uses over and over again about being hardcore. So this is what Bill means about being hardcore. The combination of ambition and wanting to win every single day"
+    },
+    {
+      "timestamp": "00:52:36",
+      "text": "is what Gates referred to as being hardcore. And just like I think it's interesting if you go back and say, okay, what was this historical person or what was this person in my family like at the age I am now? What's also interesting about reading old books is because this book was published in 1992. And so it ends, builds still in his early 30s. He's still running Microsoft. And they make statements that we now know because we're, what, 30 years later. And this is one of them. And this is the very end of the book. And it says,"
+    },
+    {
+      "timestamp": "00:53:06",
+      "text": "it's impossible to imagine a Microsoft without Gates at the control. So it's already very, one, we know that, you know, he doesn't last forever. He eventually replaced the CEO, CEO, excuse me, and then has this, you know,"
+    },
+    {
+      "timestamp": "00:53:19",
+      "text": "secondary career now going on almost 20 years with his foundation and just a vastly, vastly different person than he was when he was building Microsoft. But we also don't know when the book ends. It's a very successful company. It's public. He's one of the richest people alive at the point, but he's still in his early 30s. We have no idea how valuable and how large and influential the company becomes even to this very day. So it says, it's impossible to imagine a Microsoft without Gates at its controls."
+    },
+    {
+      "timestamp": "00:53:48",
+      "text": "We have this vision of where we are trying to go and we're a long ways away from it, Gates said. You got to watch out for the anti-climax. He went on in response to a question about what it felt like to be the chairman of the world's largest software company. I mean, we are not at the top of the networking heap, or the spreadsheet heap, or the word processing heap. Computers are not very easy to use. We don't have information at our fingertips. Yes, our revenues are bigger than anybody else's, but if we don't run fast and do good things, his voice trailed off, leaving the sentence unfinished. Believe me, he said as the interview ended, staring out the window and saying, isn't this great, is not the solution to pushing"
+    },
+    {
+      "timestamp": "00:54:34",
+      "text": "things forward. You've got to keep driving hard. And that's where I'll leave it. There's so many more interesting stories in the book. I highly recommend picking up and reading it. If you like this podcast, if you buy the book using the link that's in the show notes, are available at founderspodcast.com. You'll be benefiting or supporting the podcast at the same time. That's 140 books down, 1,000 to go. And I'll talk to you again soon."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:11:45.969Z"
+}

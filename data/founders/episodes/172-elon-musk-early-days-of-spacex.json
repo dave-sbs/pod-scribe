@@ -1,0 +1,505 @@
+{
+  "metadata": {
+    "episodeNumber": 172,
+    "title": "Elon Musk (Early Days of SpaceX)",
+    "slug": "172-elon-musk-early-days-of-spacex",
+    "url": "https://podscripts.co/podcasts/founders/172-elon-musk-early-days-of-spacex",
+    "date": "March 21, 2021",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "To understand SpaceX, where it aspires to go, and why it just might succeed, one must voyage back to the Falcon 1 rocket and dig up the roots. The seeds for everything SpaceX has grown into today were planted during the early days of the Falcon 1 program by Elon Musk. Back then, he sought to build the world's first low-cost orbital rocket. All of the aspirational talk about Mars would mean nothing if SpaceX could not put a relatively simple rocket like the Falcon 1 into orbit. And so, with a burning intensity, he pressed toward that goal. SpaceX began with nothing"
+    },
+    {
+      "timestamp": "00:00:40",
+      "text": "but an empty factory and a handful of employees. This small group launched its first rocket less than four years later and reached orbit in six. The story of how SpaceX survived those lean early years is a remarkable one. Many of the same people who made the Falcon 1 go remain at SpaceX today. Some have moved on, but all of them have stories about those early formative years that remain mostly untold. Okay, so that was an excerpt from the book I'm going to talk to you about today. And it's also the author telling us what the entire book is about. And that book is Liftoff, Elon Musk and the Desperate Early Days that Launched SpaceX and was written by Eric Berger."
+    },
+    {
+      "timestamp": "00:01:29",
+      "text": "So there's a few things I want to tell you real quick before I jump back into the book. Well, one, I found out this book. This is another recommendation. It came from a subscriber named Joseph. I didn't even know that this book just came out. It's relatively new. Didn't even know it existed. And so he put me onto that. So that was very helpful. If you have book recommendations, obviously keep sending them to me. But really, it was interesting. As I was reading this book, I was rereading highlights from past books that I read. And there's a book, there's an autobiography. It's one of the first books I did. I think it's like Founders 20, something like that. And it's on one of the, I would say, most influential restauranteurs that's currently living today. And it's Danny Meyer."
+    },
+    {
+      "timestamp": "00:02:12",
+      "text": "And I read just a random highlight that I took in that book. And he's talking about the people that had an influence on the way he built his company. So his grandfather was a successful entrepreneur. And so he learned a lot from him. His father was a failed entrepreneur. So he learned a lot not to do from him. But he also learned a lot from Stanley Marcus, from the company Neiman Marcus. So let me just read this to you real quick. It's going to relate to why I think studying the early days of the companies and the struggles they had to go through is so valuable. So this is Danny Meyer writing. He says, Stanley's lesson reminded me of something that my grandfather told me. So his grandfather says, the definition of business is problems. His philosophy came down to a simple fact of business life. Success lies not in the elimination of problems, but in the"
+    },
+    {
+      "timestamp": "00:02:54",
+      "text": "art of creative, profitable problem solving. The best companies are those that distinguish themselves by solving problems most effectively. So the way I would distill that down even further, and the way I thought about it when I read that, I was like, oh, if you think about what he's saying, businesses as problems, then that means companies are just effective problem-solving machines. And so this book is all about the problems that SpaceX had to solve to become SpaceX. And this also applies to not only what the actual product and service company does, but the problems that a company has to deliver that product and service. So making SpaceX this case, if you want to get to Mars, or if you want to start making initially"
+    },
+    {
+      "timestamp": "00:03:33",
+      "text": "making more money by, by delivering goods to space, well, then you have to, the problem you have to solve is how do I get a rocket? The first thing you have to do is how do I get a rocket to orbit, right? A large part of this bit of this book is about the financial issues that SpaceX had to overcome. And the president, Gwynne Shotwell, I think is how you pronounce her name, the president of SpaceX in the early days. And I'll talk to you a little bit about that today. She's very integral in getting the early sales contracts. So it's like, OK, not only the company has to solve the product and service they're building, but also how do you get customers? How do you hire the right people? These are all problems that everybody's going to run into, whether you're building a space company, whatever it is that you're doing during the day."
+    },
+    {
+      "timestamp": "00:04:16",
+      "text": "So really think about companies are just effective problem solving machines. And then the second or the last thing, I don't even know how long this list is, that I want to tell you before I jump into the book is if you are interested like i am i i find the early days of companies by far the most fascinating because it is the it's when they're laying the foundation to become what they are in the future right so uh i've got there's two i would recommend if you haven't gone back and listened to uh it's founders number 140 it's on the book hard drive bill gates and the making of the microsoft empire it's one of my favorite books that I've heard for the podcast so far because everybody knows Bill Gates now. He gets on TV, talks about climate change,"
+    },
+    {
+      "timestamp": "00:04:52",
+      "text": "talks about vaccines, talks about philanthropy. That Bill Gates would not exist if it wasn't for the 20-year-old, the 30-year-old, 35-year-old Bill Gates. And that's what Hard Drive's about. So if you haven't listened to that, 140. And if you're looking for a book to read, you want to read in the next week or two or next month, whatever, pick up that book. You're not going to regret it. It's Bill Gates' life, essentially, from the time he was a kid up until Microsoft's IPO. I think he's like 35 when it IPO, something like that. And then the second one I would recommend is Founders No. 76, Return to the Little Kingdom, Steve Jobs and the Creation of Apple. This book was published in the 80s."
+    },
+    {
+      "timestamp": "00:05:27",
+      "text": "It's a very old book. It's written, interesting enough, it was written by Michael Moritz, I think is how you pronounce his name. At the time, he's a writer, a technology writer. He wrote books. He winds up becoming a venture capitalist. Today, that guy is a billionaire. He wasn't that when he wrote the book in the 80s."
+    },
+    {
+      "timestamp": "00:05:43",
+      "text": "It was just an interesting twist on that book. But the reason that book is so interesting is because everybody knows Apple is one of the most successful companies that ever existed. We see what it is today. That book ends, and I think Steve Jobs is like 26. He's really, really young. It is the very first, I think it covers the first maybe seven years of Apple, maybe even six years of Apple. But anyways, that's Founders No. 76 if you haven't listened to them. And obviously, I'd recommend highly reading the book."
+    },
+    {
+      "timestamp": "00:06:11",
+      "text": "So I'm going to jump into the book. Again, I think the framework and to look at what's the benefit of reading this book. And it's an extremely readable book. It's really short. It's like 220 pages, something like that. I tore through this thing. The first time I sat down to start reading, and I don't read quickly, I looked up, I was like, oh, I just"
+    },
+    {
+      "timestamp": "00:06:31",
+      "text": "read 115 pages. It's extremely, I just found it really interesting. So anyways, companies are just effective problem solving machines. And I like the title, the subtitle, The Desperate Early Days That Launched SpaceX, because that's a great way to think about it. Okay, so I'm going to go over some random highlights here. This is the unconventional way that Elon Musk conducted job interviews in the early days of SpaceX. I've read how many books about this guy? I don't even know at this point. I've read everyone that I think exists. I read Tim Urban's, I think he did 60,000 words. You can read it for free online if you just Google Wait But Why, Elon Musk blog series."
+    },
+    {
+      "timestamp": "00:07:14",
+      "text": "And I've watched interviews with him. He's just a very bizarre person, and I mean that in the most positive way. He obviously has extreme level faults and extreme level of like positive attributes but he is a very he's just a very bizarre person and this is an example of that you so the guy he's interviewing this guy's name is brian uh so it says musk himself walked in only a decade older than brian musk already was a very wealthy increasingly famous entrepreneur to break the ice, Brian made the usual small talk. It's nice to meet you."
+    },
+    {
+      "timestamp": "00:07:46",
+      "text": "I've heard a lot about you. I'm excited to be here. The hyper observant Musk never won much for pleasantries, moved straight into questions. Do you dye your hair? Musk asked. Somewhat flustered, Brian replied that he did not. One of Musk's common tactics during an interview involves throwing a person off kilter to see how a potential employee reacts."
+    },
+    {
+      "timestamp": "00:08:06",
+      "text": "In this case, I really think he just thought this guy dyed his hair because he didn't leave this alone. He's like, are you sure? Your hair doesn't match your eyebrows and just went on. It's just a weird way to start an interview. It says during the 30-minute interview, Musk probed into Brian's background, but also shared his vision for SpaceX. That he founded it to make humanity a truly space-faring civilization. And I think what Musk does here is really, really smart. He talks about the fact that for some reason, at least in his view from an American standpoint, we stopped being"
+    },
+    {
+      "timestamp": "00:08:37",
+      "text": "ambitious somewhere around the 1970s. So it says the success of NASA's Apollo moon program in the 1960s, and why that's so important, because when you're whether you see companies doing it, governments, collection of people, when they're shooting for big goals and accomplishing that, that inspires generations of people to do so. And so Musk sees a deficit in ambition. He talks about in his biography, the one written by Ashley Vance. He's like, listen, the best generations of my minds are the best. Excuse me. The best minds of our generation are trying to are spending all their time convincing you to click on ads. He's like, this is ridiculous. We shouldn't be doing that. So anyways, right? Brian's generation had grown up with the space shuttle and its endless revolutions around Earth and low Earth orbit. Not the daring do of the Apollo explorers. And so Musk's point is, OK, well, why are we just doing the same thing over hundreds and hundreds of times over and over again?"
+    },
+    {
+      "timestamp": "00:09:40",
+      "text": "Like, why are we not trying to to accomplish more things um i read something this week it says no one born after 1935 had ever has ever walked on the moon so his point is like there's a regression there i'm going back to this interview with brian though so it went successfully um at the very early days he puts a high prior elon put a high priority on who um on who to hire this is something we've seen over and over again. And I'll have more highlights about that as well. But also something we talk about a lot in the books that is, I think, is easy to forget is that there's no speed limit. You can get lulled into thinking"
+    },
+    {
+      "timestamp": "00:10:15",
+      "text": "everyone moves at the same speed. They definitely do not. I actually read an essay. It's a real quick essay. I've mentioned it before on the podcast. It's called, it's by Derek Sivers, who's got a really interesting blog at Sivers.org, I think. But it's called There quick essay i've mentioned it before on the podcast it's called it's by derek sivers who's just uh got a really interesting blog at sivers.org i think but it's called uh there's no speed limit and he talks about he's a music student he winds up meeting this this"
+    },
+    {
+      "timestamp": "00:10:33",
+      "text": "musician named chemo uh chemo williams and he winds up teaching him i think in like three weeks because derek was about to go to berkeley school of Music and he's like Kimo's like oh okay I went there if you if you show up on my show up my house tomorrow and I'll give you lessons and in three weeks he teaches Derek enough that he can skip two or three semesters something like that of the Berkeley School of Music and so the lesson was you know there is no speed limit you can go as fast or as slow as you want um and so we see that with with elon definitely puts a uh like he puts a very high priority on speed and this is something that brian's realizing he says a few days later he received an email from musk assistant at one in the morning did he want a job brian realized this company operated at its own speed and so a lot of"
+    },
+    {
+      "timestamp": "00:11:22",
+      "text": "the some of the early not even a lot some of the early hires were coming over from legacy aerospace companies. And they just, they found the pace, the difference in pace between working at Lockheed or any of these other space companies and SpaceX jarring. Something else that's brought to our attention over and over in the book is the fact that Elon is constantly trying to learn from the experience of others. The idea from founders came years ago. It was like, there's a podcast. I told you this before, but there was a podcast I was watching. He was giving an interview with this guy named Kevin Rose on this series on foundation. You can find it on YouTube. And Kevin's like, he's asking, he's like, okay, how do you come from South Africa, go to Canada, wind up in California? Like, how did you learn to start companies? Like, did you read a lot of business books?"
+    },
+    {
+      "timestamp": "00:12:05",
+      "text": "And Elon's like, no, I don't read business books. I read biographies. I found them very helpful. And so he talks about that over and over again. Talks about Howard Hughes, Nikola Tesla, Henry Ford, Benjamin Franklin. In this book, he's reading biographies of previous rocketeers. So anyways, he also studied the – this this book brings to our attention, some of the people we know about like Andy Beal. So Elon studied Andy Beal, because Andy Beal put up 200"
+    },
+    {
+      "timestamp": "00:12:32",
+      "text": "million of his own money to try to do a private rocket company a couple years before Elon didn't failed. So this example that's numerous other entrepreneurs have tried playing a rocket science before must knew this well, he wanted to learn from their mistakes as to not repeat them. So that's another, that's a great one-line description of why, when you go back and study some of the smartest, most productive people in the world, why are they all obsessed with reading biographies? Why do they talk about this over and over again? Right there."
+    },
+    {
+      "timestamp": "00:12:56",
+      "text": "They want to learn from their mistakes as to not repeat them. The experience of Andy Beal and his Texas rocket company might have shaken the confidence of some entrepreneurs. So this is why I'm reading that section to you, because Elon is a very different, the way he thinks is just unlike anybody else I can think of that's alive right now. And just his, his relentless self-belief. He looks at these examples of all these people that failed. He, it's not that he's ignorant of them."
+    },
+    {
+      "timestamp": "00:13:20",
+      "text": "He knows them. He, and this applies in both the domain of Tesla and SpaceX. So it says it might have shaken the confidence from other entrepreneurs. Why did he say that? Well, Beal's launch venture certainly did not lack for money. The Dallas banker regularly ranks among the world's 200 richest people. He started Beal Aerospace with $200 million, which is twice the funding that Musk put in SpaceX. And he tried to do something similar, develop a big rocket that could serve commercial customers."
+    },
+    {
+      "timestamp": "00:13:45",
+      "text": "He even had some technical success. The one thing he ran into is that he couldn't overcome that. Again, go back to companies are effective problem-solving machines, right? He couldn't overcome the bureaucracy and the way decisions and the monies doled out by NASA and their relationship with the legacy aerospace companies. We see Elon took a completely different tack."
+    },
+    {
+      "timestamp": "00:14:04",
+      "text": "He just starts suing and fighting everybody. Okay, so let me go back to his very, the way he thought about this problem at the very beginning of SpaceX. So he's clearly a crazy person, right? But there's an ordered sense of logic to the way he goes about solving problems that's not crazy at all. So his whole thing is, okay, if you want humans to live on other planets, the first thing you have to do is lower the price that it takes to get there, right? So he used the example, if a plane ticket, why he was focused on reusable rockets, because he says, if every time you got on a plane and you fly, what if they destroyed the plane after every flight? It's like the plane ticket would cost a million dollars a ticket and a lot less people would fly. So he applied that same"
+    },
+    {
+      "timestamp": "00:14:50",
+      "text": "rationale to what he was doing at SpaceX. He says the first steps towards solving the multi-planetary problem then was bringing down the cost of the launch. If NASA and private companies spent less time, or excuse me, spent less money getting satellites and people into space, they could do more things in space. Completely logical there. And more commerce would still open up more opportunities. This awakening galvanized Musk into action. Okay, so going back to recruiting early talent,"
+    },
+    {
+      "timestamp": "00:15:17",
+      "text": "he's returning, he's recruiting this very talented German engineer. And the German engineer wants to join, but he can't move to Los Angeles because his wife works for Google in San Francisco. And this is another example of Musk being gifted problem solver, right? So he's talking about why this book contains a lot of interviews from early SpaceX employees, right? So he's talking about why he wanted to leave legacy companies and join a startup. He says, what it did intrigue me was trying to build a rocket with 200 people instead of 20,000."
+    },
+    {
+      "timestamp": "00:15:50",
+      "text": "To almost build a rocket in a garage. Can I use a computer I buy for $500 versus one that I can buy for $5 million? It seemed to me that's what he wanted to do. So that's the engineer describing his interpretation of what Musk is trying to do, right? This was precisely what Musk wanted to do because they were spending his money. Musk gave employees an incentive to be frugal with it. Early hires receive large chunks of stock. So before I get to how Elon successfully gets this guy,"
+    },
+    {
+      "timestamp": "00:16:18",
+      "text": "solves this problem of getting this guy to work for him, he also understood the incentives. So he's like, okay, I'm putting $100 million of my money in this. That's one half of what Andy Beal did and failed, right? I'm going to give you large, this is something we learned on Founders number 105. Les Schwab, never heard of the guy. I don't live in the Pacific Northwest. So I wasn't aware of his, this tire chain that he built, but I was reading Charlie Munger and Charlie Munger is like, listen, they talk about him and Warren talk about the operators they respect over and over again and they tell you explicitly go study these guys"
+    },
+    {
+      "timestamp": "00:16:47",
+      "text": "um and he's like listen if you want to know the power of incentives which Munger preaches about over and over again almost every speech that he gives he's like Les Schwab can tell you better than me and Warren can because this guy built an entire successful business just understanding the power of incentives and so what Les did is every single he had let's say he's 50 different tire tire um tire stores right they're all called less but they're all individual businesses and he said okay the people i'm going to split the profits 50 50 with the people in the store and so that's what munger was talking about he's a master of incentives well uh elon's doing similar things to stock options. He's saying, okay, listen, when an early employee saves, because you have large chunks of SpaceX stock,"
+    },
+    {
+      "timestamp": "00:17:30",
+      "text": "if you save the company $100,000 by building a part in-house instead of ordering one from a traditional supplier, then everyone benefits. And so you're incentivized to watch the company's money because it can be, these options are successful your money okay so back to solving this problem actually i got confused this is not that german"
+    },
+    {
+      "timestamp": "00:17:51",
+      "text": "guy is not the the one he did this for there's a there's a brilliant young engineer from turkey who's on board he wants to and um he's a friend of somebody started working at spacex so this is what i what i referenced i got confused there davis had anticipated his friend's issue having convinced musk that they needed to bring the brilliant young engineer from Turkey on board, it became a matter of solving the problem. His wife had a job in San Francisco? She would need one in Los Angeles? These were solvable problems."
+    },
+    {
+      "timestamp": "00:18:15",
+      "text": "And Elon's better at solving problems than almost anyone else, Davis said. Musk therefore came into the job interview with Alton prepared. Musk told him, To solve this problem, Musk had called his friend Larry Page, the co-founder of Google. Alton sat in stunned silence for a moment. But then he replied, given all that, he's supposed he would come work for SpaceX. Okay, so this is a description of the early days of SpaceX. And I don't know what's up with this no strong smells rule, but it was one of the few rules of the very early days. So it says,"
+    },
+    {
+      "timestamp": "00:19:00",
+      "text": "they spent their long and often intense days together in close confines musk kept a mostly laissez-faire attitude about his workplace he offered just a few hard and fast rules no strong smells okay no flickering lights and no loud noises in the cubicle farm that they all shared often they worked well they worked well they worked until well after midnight their close and nearly continual proximity led to easy collaboration their team was so small that everybody knew everybody and each employee pitched in as needed with other departments. Everybody was expected to carry their own weight and then a bunch more. No job was beneath us, Bryant said. And that's also something that's mentioned over and over again that a lot of the early employees appreciated that Elon was not, he was not giving orders from down on high."
+    },
+    {
+      "timestamp": "00:19:47",
+      "text": "He was not separate from it. He was in there working with them late at night, three in the morning, doing anything he's going to ask you to do, he would do himself. And there's been other examples in the past where employees notice when you do that, right? But they also notice the opposite. I thought it was funny when Steve Jobs came back to Apple."
+    },
+    {
+      "timestamp": "00:20:09",
+      "text": "He always poked fun at the CEO at the time, Gil Emilio. And this guy, he's giving interviews in the press. He's like, I'm a turnaround expert and all this other stuff. And Steve's like, how can he be a turnaround expert when he eats his lunch alone in his office with food served to him on China that looks like it came from Versailles? It's just classic like quip from Steve. I just thought was really funny. It's like, OK, you're not you need to be with the employees. Like, what are you doing?"
+    },
+    {
+      "timestamp": "00:20:36",
+      "text": "OK, so they talk, obviously, a lot about the things they didn't like about working with Elon and a lot what they do like working with Elon. And it's the fact that he made decisions rapidly. OK, so this guy says he could be very difficult to work for. That's certain. But it's early. But early hires would also immediately see the benefits of working for someone who wanted to get things done and made decisions on the spot when Musk decided that a supplier could make a good part for a fair price, that was it. No committees, no reports, just done. There's a story that I read, that I learned by reading the book, Everything Story about Jeff Bezos, I never forgot, that I love. This guy comes in, he's used to working at Walmart at the time. Jeff recruits him over to"
+    },
+    {
+      "timestamp": "00:21:23",
+      "text": "Amazon to build all their fulfillment centers. And so he winds up showing these beautiful plans to Jeff about this fulfillment center. And it winds up, he's going to wind up spending, it's not just on this fulfillment center, but on a series of them. I think in the next like 12 months, he's going to wind up spending 300 million of Amazon's money on this. And so he shows the plans to Jeff. Jeff loves them. And then this guy's like, hey, OK, so who do I need to talk to to get permission to build these? And Jeff says, you just did. All right. So more on Musk's personality over the course of a single meeting. Musk could be at turns hilarious, deadly serious, penetrating, harsh, reflective, and a stickler"
+    },
+    {
+      "timestamp": "00:22:03",
+      "text": "for the finest details of rocket science. But most of all, he channeled a preternatural force of moving things forward. Elon Musk just wants to get shit done. Okay, so there is Elon on hiring, which I found really interesting, referenced earlier. One of Musk's most valuable skills was his ability to determine whether someone would fit his mold. His people had to be brilliant, they had to be hardworking, and there could be no nonsense. This is a direct quote from Musk. There are a ton of phonies out there, and not many who are the real deal."
+    },
+    {
+      "timestamp": "00:22:34",
+      "text": "So he's talking about his approach to interviewing engineers. I can usually tell within 15 minutes, and I can for sure tell within a few days of working with them. Musk made hiring a priority. He personally met with every single person the company hired through the first 3,000 employees. It required late nights and weekends, but he felt it important to get the right people for his company. So I just happened to be reading some other highlights I did previously on Steve Jobs again. And he talks about this. I'm going to read. I'm pretty sure this is from Isaacson's book on him, but it says the Mac team was an attempt, the Macintosh team"
+    },
+    {
+      "timestamp": "00:23:10",
+      "text": "was an attempt to build a whole team like that, A players. So he talks about when he came back. Oh, okay. Actually, let me just read this to you because he hasn't got to how working at Pixar influenced his decision yet. People said they wouldn't get along, meaning all these A players, but that they would hate working with each other. but I realized that A players like to work with A players they just didn't like working with C players at Pixar it was a whole company of A players so he's talking about the time he spent not at Apple so he's working at Next and working at Pixar he comes back to Apple and he's like there's a he calls it a bozo explosion he's like there was a bozo explosion in Apple he wants to fire thousands of So he's working at Next and working at Pixar. He comes back to Apple and he's like, there's a, he calls it a Bozo explosion. He's like, there was a Bozo explosion in Apple. He wants to fire thousands of people. He's like, all we have is a bunch of C players here."
+    },
+    {
+      "timestamp": "00:23:51",
+      "text": "And if you have an environment with C players, this is Jobs theory, that you can't attract any A players because they're going to start working like this guy's an idiot. This person's an idiot. This woman's an idiot. Whatever the case is, I'm out of here. So he's like, okay, well, if Pixar can assemble a whole team, a whole company of A players, why can't Apple? So he says, when I got back to Apple, that's what I decided to try to do. Now, this was very, I forgot this part. I got to find the biography on this guy. Because if Steve Jobs is sitting here reading this biography, and it's influencing his hiring decisions, then there's a good indication to you and I that we should go find out what this guy had to say. And it's J. Robert Oppenheimer, the guy running the Manhattan Project and developing an atom bomb."
+    },
+    {
+      "timestamp": "00:24:28",
+      "text": "It's amazing that Jobs can take insights from his collection, him collecting the best scientists in the world, to do something they had to do, life or death circumstances. But he applies that same insight to Apple. It's really interesting. So he says, when I got back to Apple, this is what I decided to try to do. My role model was J. Robert Oppenheimer. I read about the type of people he sought for the atom bomb project. I wasn't nearly as good as he was, but that's why I aspired to do. So again, we see the same thing. Steve Jobs is realizing, okay, I need the very best people if I'm going to accomplish what I need to do. Elon Musk is realizing the same thing in"
+    },
+    {
+      "timestamp": "00:25:01",
+      "text": "the early days of SpaceX. Just a little bit about the difference between SpaceX and legacy aerospace companies, and I think why Elon had such success recruiting who he wanted from these organizations. And he still, in many ways, he prioritizes almost like younger, hungrier people that had no experience, but he did have some of these people come over. And so it says one person at Lockheed Martin worked on the F-35 stealth aircraft. The Air Force would buy more than 2000 of these F-35s at a cost of eighty five million dollars each. So it's a massive, massive program. Right. It may it may sound like glamorous work, but it was not. This guy had a I'm not going to pronounce his name."
+    },
+    {
+      "timestamp": "00:25:45",
+      "text": "This guy had a single job. This is terrible if you had to spend your entire life like this. Listen to this. This is ridiculous. Finding a supplier for a bolt on the aircraft's landing gear. That single bolt was the totality of his employment. Your work is going to fill up about a third of your life. I argue it's almost half because you have to account for all the times you're sleeping"
+    },
+    {
+      "timestamp": "00:26:09",
+      "text": "and then your first 20 years in your life, you know, it's half. Let's be real, right? Half your life you're going to dedicate to a single bolt on the landing gear of a plane? Come on. Although his friend did admit to board him at work, he liked his house and his lifestyle away from his job. SpaceX offered the opposite experience."
+    },
+    {
+      "timestamp": "00:26:27",
+      "text": "Work was thrilling and all-encompassing. It is hard to describe any one hat I wore at SpaceX because they were switching on and off so fast it didn't seem like there were any hats. So if somebody is given the opportunity to pick between two options, you can learn a lot about how that person thinks or what's important to them by which option they choose. And this is an example of that with Elon Musk. You have two ways that you can build a rocket, linear and iterative. So I'm not going to run over a point. Let me read this here and then I'll ask you the question midway. There are basically two approaches to building complex systems like rockets, linear and iterative design. The linear method begins with an initial goal and moves through developing requirements to meet that goal, followed by numerous qualification tests of"
+    },
+    {
+      "timestamp": "00:27:14",
+      "text": "subsystems before assembling them into the major pieces of the rocket, such as its structures, propulsion, and avionics. With linear design, years are spent engineering a project before development begins. This is because it's difficult, time-cons design, years are spent engineering a project before development begins. This is because it's difficult, time-consuming, and expensive to modify a design and requirements after beginning to build hardware. Before I'm going to describe the iterative design for Rocket, what that means, which one do you think Elon chooses? You already know he's not going to do that. He's not going to do that. The iterative approach begins with a goal and almost immediately leaps into concept designs,"
+    },
+    {
+      "timestamp": "00:27:51",
+      "text": "bench tests, and prototypes. The mantra with this approach is build and test early, find failures, and adapt. That is what SpaceX engineers and technicians did. So one of the most important employees that Elon ever recruits is a guy named Mueller. And he's going to design, he's the designer of the main rocket engine that SpaceX uses. It's called the Merlin. And I'm going to summarize this section for you by two words. Default optimism. I think that's just a better mode of going out to do life."
+    },
+    {
+      "timestamp": "00:28:21",
+      "text": "And we see that Mueller approached his life and his career with that. So it said Mueller's father told him there were millions of kids coming out of college. The space shuttle era had just dawned. Everyone wanted these jobs. Why did he think he had a chance of getting one? I think that's why Elon liked me, because I was very optimistic, Mueller said. And my dad was really a pessimist. But I said to him, no, I'm going to get a job and build rockets. I'm going. I'm doing it. Nothing is stopping me. Default optimism."
+    },
+    {
+      "timestamp": "00:28:54",
+      "text": "And there's also later on in the book, just two sentences from Mueller that I love because it illustrates one of my favorite ideas that we've learned. Problems are just opportunities and work clothes. The bad news is that we had to change everything, Muller said. The good news is I learned everything that can go wrong with turbo pumps and really how to fix them. So there's a couple sections in this book."
+    },
+    {
+      "timestamp": "00:29:12",
+      "text": "I wrote the note I left myself, the Space Barons Part Deux. There's a book I covered. I think it's in maybe the 30s, episode 30s. It's called Space Barons, and it's fascinating. A lot of people have recommended that episode to friends and seem to like it because you have two people going after a similar, almost the same goal. Let's say it's the same goal. And they have, that book analyzes the two different approaches"
+    },
+    {
+      "timestamp": "00:29:40",
+      "text": "that Jeff Bezos and Elon Musk used to accomplish the same goal. And I really think it's an important illustration because it applies to much more than just rocketry. It's, you know, there's just, there's a million different ways you can solve a problem. And it's really up to you to pick the philosophy that you think makes the most sense for you. And that book illustrates like two different paths. But Musk, you know, they kind of, I don't want to say that they have like a rivalry, they kind of go at it a little bit. But, you know, Musk definitely does kind of talk shit about Bezos from time to time. So it says Musk laughed when told about Jeff Bezos timeline for engine development. So Bezos had given an interview or something."
+    },
+    {
+      "timestamp": "00:30:15",
+      "text": "We said it's going to take six years. And Musk is like, no, Bezos is not great at engineering, to be frank, he said. So the thing is, my ability. So the thing is, this is now Musk talking. So the thing is my ability to tell if someone is a good engineer or is not very good. And then I am very good at optimizing the engineering efficiency of a team. I'm generally super good at engineering personally. Most of the design decisions are mine, good or bad."
+    },
+    {
+      "timestamp": "00:30:44",
+      "text": "And so this is the author's interpretation of what Musk just said. Boastful? Yeah, maybe. But SpaceX built and tested its first rocket engine in less than three years with Musk leading the way. And the reason I don't know if I explained myself clearly, the reason I think it's interesting to think about this and read a book like Space Variants is because it's not clear. SpaceX seems to be ahead of Blue Origin at this time, right? But it's not all clear what's going to happen. These are still the very, very early days in both the company's history. So I think just saying, oh, yeah, Musk's way is better,"
+    },
+    {
+      "timestamp": "00:31:13",
+      "text": "Bezos' way is better, it's very premature. Going back more on this main theme of this book, it's speed, speed, speed. This is one of SpaceX's suppliers. He's a machinist. Reagan had never uh had never worked with a company that moved as quickly as spacex um so he winds up having reagan has a um a falling out with his partner right and so the spacex was using their machine"
+    },
+    {
+      "timestamp": "00:31:39",
+      "text": "shop their company to build supplies and they're like okay we can't build supplies for you anymore because we're going out of business so must Musk did something really smart. He winds up bringing it in-house and as a byproduct of bringing Reagan in-house, his costs go way down. OK, so this is about him bringing that in-house. Musk agreed to meet Reagan's asking price. He needed the help. Ten minutes later, he returned with a contract. It was Saturday at 5 p.m. Musk wanted his new vice president of machining to start work that evening. Soon enough, Reagan had his shop at SpaceX humming. He hired six of his previous previous shops machinist and Musk bought the machines his company was about to liquidate. By bringing it in-house, Musk essentially cut much of his manufacturing costs in half."
+    },
+    {
+      "timestamp": "00:32:22",
+      "text": "Now he could buy a chunk of aluminum and have people produce a part on demand without the markup and delay of sending it to an outside machining shop. So there's two benefits. Obviously, it's cheaper and it's faster. The lines and third benefit is the line of communication between SpaceX engineers"
+    },
+    {
+      "timestamp": "00:32:36",
+      "text": "and the manufacturing crew were wide open. And so Reagan is describing the process that used to happen and how different it was at SpaceX. Before, if I had a problem with one of my customers, I'd have to call the buyer. Then the buyer would call the engineer. And a week later, I might get a call back with my answer, might get a call back with the answer. At SpaceX, he sat in the cubicle farm."
+    },
+    {
+      "timestamp": "00:32:57",
+      "text": "So he's right there next to him. He's like, I'm communicating with you immediately. And then he also gives us an insight into what it's like working with Musk. It's relatively clear and straightforward. He can't stand a liar and he hates a thief. And if you say you can do something, you better fucking do it. More on the perception of Musk from the early SpaceX employees. I've never met a man so laser focused on his vision for what he needed, or excuse me, for what he wanted, she said."
+    },
+    {
+      "timestamp": "00:33:23",
+      "text": "He's very intense and he's intimidating as hell. It's tough when you're interviewing with him. So they wind up building their first rocket. They originally thought, OK, we're going to shoot it off. There's this Air Force base. It's in Santa Barbara, California. And the Air Force at the very beginning placated. They kind of they're like, OK, yeah, we're going to help you out."
+    },
+    {
+      "timestamp": "00:33:43",
+      "text": "You can do it here. And they did that because they didn't put up much resistance early on because they didn't think spacex would succeed there's a series of examples of previous rocket entrepreneurs saying the same thing having a relationship with air force and the air force is used to people coming through talking tough saying they're going to do all the stuff failing and then disappearing and so they just assumed okay well that spacex is just going to be like just the rest of them. So this is why they're going to, the Air Force is eventually not going to let them ever shoot a rocket. At the very beginning, they took SpaceX off from their Air Force base in Santa Barbara, California. So they're going to wind up having to go out to this Army Air Force, this Army Air Base in the middle of the Pacific, which causes a lot of more complications."
+    },
+    {
+      "timestamp": "00:34:24",
+      "text": "And it's just, it's amazing that SpaceX succeeded when you read about, you know, you have to build an entire launch site on a tiny little island, thousands of miles away in the Pacific that there is, there's no infrastructure there, anything that you need, you have to bring from you bring with you thousands of miles away. So anyways, we're not there yet. So this is really another example of just a problem that you have to solve, right. There was not a whole lot of scrutiny early on or early on. They just didn't really believed in it until suddenly the static fire test happened and they woke up. The Air Force had good reason to doubt the promises of startup rocket companies as several had come to them before. Their backers talked the same kind of talk that Musk did about lowering the cost of access to space,"
+    },
+    {
+      "timestamp": "00:35:02",
+      "text": "offering a dedicated rocket for small satellites and fundamentally changing the aerospace industry with newer technology and leaner operations. And inevitably, they fizzled out. Some of the Air Force thought they pretty much knew what to expect from this private company. A lot of big talk, fancy cars, and ultimately, a flame out. And the reason I bring this to your attention, because this is actually a really important point to understand what makes Elon so unique, is that there's a lot of other founders that tried private space companies for Elon. There's a lot of other founders that tried to start a new American company before Tesla. Before Tesla was founded, Chrysler, all the way back in 1925, was the last successful American auto company that was founded."
+    },
+    {
+      "timestamp": "00:35:46",
+      "text": "And so just this idea where Elon can look at something and see failure after failure after failure after failure after failure by other people and still be like, they're not me. Or maybe I have a unique insight or I will not give up. It just it makes him extremely unique because it's just not there's not many people that are look at, you know, 100 people try to attempt to do something. 200 people, whatever the number is, and be like, oh, every single person failed. Yeah, let me go ahead and give it. Let me take a crack at it. And so back to this Air Force, Air Force is essentially saying, hey, they tell them we don't want your rocket to to to to compromise some other tests and things that they're doing at the air force yeah you can do you can shoot it but we have to do this thing first oh do you have a timeline for when you can accomplish this thing no we don't so essentially it's like you're stuck"
+    },
+    {
+      "timestamp": "00:36:36",
+      "text": "on ice and the whole thing about space is that we got to move fast i have limited resources about 100 million of my own money in this country in this company uh we don't really have any revenue coming in so we can't just sit around waiting for you. So it says, perhaps indefinitely, the Air Force said no. The company born with the DNA that impelled it to go fast, as fast as it could, had run into an immovable force. So you can't go fast and against an immovable force. So that's where they find this. They solve another problem."
+    },
+    {
+      "timestamp": "00:37:01",
+      "text": "They realize the Air Force doesn't want us, but the Army will say, yeah, come on over. Knowing that he could not wait or sue or protest, Musk took the only option left. After the conference call with the government officials, Musk phoned Buzza directly. It's a guy working at SpaceX. We're going to, I don't know how to pronounce it. It's K-W-A-J. We're going to the island tomorrow. You should begin to start packing. So again, moving really fast. And it's just really unbelievable that they're able to solve this problem because you realize how now it just got way more complicated. Instead of just shooting off a rocket from an Air Force base that's an hour and a half from your company headquarters, you're going to a remote island in the Pacific thousands of miles away. They had just worked themselves to exhaust in building one launch site. Now they would have to turn it around and build a second one. And they have to build that second one on a remote island in the Pacific. It's a ton of work. They went up shipping 30 tons of"
+    },
+    {
+      "timestamp": "00:37:56",
+      "text": "supplies across the Atlantic. Or excuse me, across the Pacific. It's mind-blowing. And the only way you can get a lot of these things over is through these giant cargo ships. And in some cases, these giant cargo, like military planes, I think the C-17 is one they use that can hold like 160, some crazy amount of weight. I want to say like 160,000 pounds. It's really unbelievable. And you know, the job is hard when your employees are on the island and they start comparing the job you're doing to the reality TV show Survivor. The early accommodations were fairly crude on the remote island. They designed t-shirts for overnighters. At the time, Survivor"
+    },
+    {
+      "timestamp": "00:38:36",
+      "text": "reality television show was really popular, so they used the logo as the basis for the design. Instead of Outwit, Outplay, outlast for a motto like the TV show, SpaceX t-shirts said out sweat, out drink, out launch. After surviving his or her first night, a SpaceX employee would earn a t-shirt. Okay, so a lot of people know the first three rockets are going to fail. They bet the entire company on the fourth one succeeding. It winds up succeeding. That's essentially what the book is about. but this is the result of their first rocket launch and you can just really there's a lot of times when you're reading this book where you just you you put yourself in their shoes and you really empathize with there's extreme um levels of"
+    },
+    {
+      "timestamp": "00:39:17",
+      "text": "sorrow and then extreme levels of triumph when they overcome everything so it says the rocket did not get far enough for the atmosphere to thin. Half a minute after it took off for the first time, the Merlin engine flickered out. A few seconds later, the rocket itself stopped rising. It succumbed to gravity and fell back towards the island. For nearly four years,"
+    },
+    {
+      "timestamp": "00:39:35",
+      "text": "a small band of people had worked relentlessly to reach this moment. Within the span of one minute, it was over. It was amazing, and then it was horrifying. Something like that,"
+    },
+    {
+      "timestamp": "00:39:44",
+      "text": "it hits you in the gut. So Musk winds up flying over to the island. They're doing like a post-mortem, seeing what's going on. There's two things that he does that are really smart. I'll get to that. There's one guy. He's on the plane. I think he might be from the Air Force or DARPA."
+    },
+    {
+      "timestamp": "00:39:57",
+      "text": "I can't remember which organization. But he's flying over with Musk and Musk's brother, Kimball. And so he says he watched the Musk's carefully while Kimball played video games. His older brother spent much of the flight pouring over books written about early rocket scientists and their efforts must seemed intent to understand the mistakes they had made and learn from them. I'm not,"
+    },
+    {
+      "timestamp": "00:40:19",
+      "text": "this is now the guy that's on a flight with him. I'm not surprised he's been successful. Lawrence said he was clearly deck dedicated. So he goes over there and, you know, Musk could be, I wouldn't work for him. Let's just put it that way. Like the way he's just, he can be overwhelming and, you know, go right to the point, rude in some cases, yell, do all this other stuff. But he doesn't do that after the first launch. And this is really smart what he does. He places the difficulty of what they are trying to do in a historical perspective. Yelling at them"
+    },
+    {
+      "timestamp": "00:40:52",
+      "text": "and getting angry at them is not like, what would that do to morale? They feel like shit. They feel terrible. They gave up four years of their life to this. It did not work. They wanted it to work. So if you're in a leadership position, what do you do? I would say you do exactly what Musk is doing here. Musk seemed to recognize this emotional toll. Musk seemed to recognize the emotional toll the failure might inflict on some of his engineers. Not long after the accident, he typed out an uplifting memo to the SpaceX team. He praised the performance of the rocket's main engine, its controlled flight, the avionics system, and more. As part of his note musk offered some comforting perspectives other iconic rockets he noted had failed during early tests now did"
+    },
+    {
+      "timestamp": "00:41:32",
+      "text": "in this book the whole text is not there i went and went and looked for it because i had in my notes and so i'm going to read you the paragraph because i thought it was very interesting and so that's what elon wrote it is perhaps worth noting that those launch companies that succeeded also took their lumps along the way. A friend of mine wrote to remind me that five of the first nine Pegasus launches succeeded. Three of five for Ariane. Nine for 20 for Atlas. Nine for 21 of Soyuz. And nine of 18 for Proton. Having experienced firsthand how hard it is to reach orbit,"
+    },
+    {
+      "timestamp": "00:42:07",
+      "text": "I have a lot of respect for those that persevered to produce the vehicles that are mainstays of space launch today. Musk closed his letter writing, SpaceX is in this for the long haul. Come hell or high water, we're going to make this work. Okay. So before Gwynne Shotwell is the president of SpaceX, she was in charge of dealing with like the potential customers, right? And this is very interesting. Shotwell wrote a plan of action for sales. Musk took one look at it and told her he did not care about plans. Just get on with the job. I was like, oh, okay, this is refreshing because she had previously worked in a high, like a more hierarchical, bureaucratic organization. I don't know. She goes, this is refreshing. I don't have to write up a damn plan, Chabot called."
+    },
+    {
+      "timestamp": "00:42:53",
+      "text": "Here was her first real taste of Musk's management style. Don't talk about doing things. Just do things. And another way to think about that is no work about work. Just work. This is a quote from a rep from DARPA on the early days of SpaceX. I was very impressed with their work ethic. There was some brashness there, of course. Some arrogance. But I think that comes with the territory. If you're trying to do something no other commercial company has ever done, you would better have some confidence."
+    },
+    {
+      "timestamp": "00:43:21",
+      "text": "Shatwa also does tell a great story in the book about their meeting with a government official. It's an older guy. And he kind of like is a little bit patronizing to Elon. And Elon just uses that using essentially using criticism or doubt as fuel. I remember him putting his hand on Elon's back and almost hugging him and saying, son, this is much harder than you think it is. It's never going to work. At this remark, Musk's back straightened, and he got this look in his eye that Shotwell could easily read."
+    },
+    {
+      "timestamp": "00:43:49",
+      "text": "And this is Shotwell talking about the effect of this guy's words on Musk. He's going to make sure that you regret the moment you said that. This is a unique way Elon thinks about balancing engineering with design. So he says, Musk will make snap decisions. This is one of the keys that enables SpaceX to move so quickly. I make the spending decisions and the engineering decisions in one head, he said. So it says, not, whereas I'm making the engineering decisions and spending decisions. So I know already that my brain trusts itself. What a unique sentence. My brain trusts itself. So this is more on how Elon Musk thinks. Musk taught his team to assess every part of the rocket with a discerning eye."
+    },
+    {
+      "timestamp": "00:44:37",
+      "text": "Brian remembers being constantly challenged. For any given task, a typical aerospace company would just use whatever part has always been used before. This saved engineers from time consuming, difficult work of qualifying a new part for spaceflight. But SpaceX's attitude was different. True, a product may already exist, but is it optimized for your solution? So these are there's a series of questions that Brian is talking about that Musk would have you go through. Right. Is it optimized for your solution? Is it is it from a good supplier?"
+    },
+    {
+      "timestamp": "00:45:10",
+      "text": "And what about their tier two or three suppliers? And if you need more of this part faster, will they meet your needs? And if you want to change something, are they going to be willing to change it? And if you improve that product, will they then sell it to your competitors? That is not normal. And that's a great illustration of the level of depth of this thinking. Remember, he's a crazy person, but there's a very ordered way to his thinking. That's just very, it's satisfying to read, is the weird way I would put it. More on how Musk thinks and works. This is one of the things that Elon brought to SpaceX. Risk tolerance."
+    },
+    {
+      "timestamp": "00:45:41",
+      "text": "He didn't want to fail, but he wasn't afraid of it. Shot well on Musk. The quality you should come to admire most about Musk is his determined mindset to identify problems and devise solutions. He looks at a problem and his reaction isn't, oh, that's a shame. His reaction is to go fix it. He's extraordinary. So Elon also makes a decision I think not many people would do. He sues a potential customer, which is NASA. And he does this in the very early days because he felt there was, this is the same thing Andy Beal ran up to, that there was like this cronyism up there where you have all these established suppliers, they have good relationship with NASA, they're"
+    },
+    {
+      "timestamp": "00:46:22",
+      "text": "the ones getting unfair treatment. Elon's like, listen, I don't want unfair treatment. I just want you to open up your process to open bids. Let us bid for it. And looking back, it appears like he's definitely right to do this. At the time, it's just a crazy thing that Elon did, but he was right. the the the suppliers nasa was using they were building some of the world's most expensive rockets and so to to his point like i can't solve i can't accomplish my goal if rocketry costs are going in the opposite direction i need to go them cheaper we're going more expensive so he winds up um i think it's the office of government the government the government account accountability office okay there it is okay so that's what they wind up citing with Elon. Like, no, you've got to you can't just give out a 227 million dollar contract. You've got to open this up. And so the government accountability office winds up agreeing. So anyways, there's if you're interested in the longer story in the book, I need to tell you what I'm more interested is like how the story is an illustration of how Elon thinks."
+    },
+    {
+      "timestamp": "00:47:25",
+      "text": "And this is him describing it to us. I was told by many people that we should not protest. You've got a 90 percent chance that you're going to lose. You're going to make a potential customer angry. I'm like, it seems like the right is on our side here. It seems like this should go out for competition. And if we don't fight this, then I think we're doomed anyways. Our chances of success would be dramatically lowered."
+    },
+    {
+      "timestamp": "00:47:45",
+      "text": "NASA, being one of the biggest customers of Space Launch, would be cut off from us. I had to protest. So again, everybody's saying, don't do this, don't do this. He's like, there is no other option. I absolutely have to. And he winds up obviously being correct. And then he keeps on this fight. There's just a great sentence here to describe Elon in the early days of SpaceX. I'm"
+    },
+    {
+      "timestamp": "00:48:05",
+      "text": "going to read to you here in a second. It says, in one battle, SpaceX and Northrop Grumman traded lawsuits over rocket engine technology. Another battle, SpaceX sued Boeing and Lockheed Martin over plans to merge their launch business into a single rocket company. Within its first three years, SpaceX had sued three of its biggest rivals in the launch industry, gone against the Air Force with a proposed United Launch Alliance merger, and protested a NASA contract. Elon Musk was not walking on eggshells on his way to orbit. He was breaking a lot of eggs."
+    },
+    {
+      "timestamp": "00:48:34",
+      "text": "And to write it for this, they wound up getting a contract from NASA. It's the first $278 million they get, and it really changed SpaceX forever. Obviously, they still would have went out of business because they hadn't put a rocket in orbit yet when they got the contract. But with that contract, they at least weren't, they knew, okay, as long as we solve the problem of getting into orbit, we should at least survive for another few years. I would say, though, one of the main benefits of reading this book is that you're constantly"
+    },
+    {
+      "timestamp": "00:49:03",
+      "text": "exposed to smart, dedicated people having to deal with failure. And it's just, again, it doesn't matter what you do, you're going to run into this. And so when you see other people and you're reading the experience of other people having to deal with it, I think it is very inspiring. And you'll think back to these things in your own life when inevitably inevitably in the future, like I'm going to try to do something that's going to fail in the future. 100%, you are as well. Like, okay, this is just something we're going to deal with. Let me see how other people dealt with it."
+    },
+    {
+      "timestamp": "00:49:31",
+      "text": "After the Merlin engine failed and the rocket tumbled toward the ocean, their excited shouts and chatter died. No one was quite sure what to say. I was in shock because we spent so much time putting that rocket together. And then to see it quickly break into pieces on the ground, it was shocking. And what makes this even worse is they knew the problem."
+    },
+    {
+      "timestamp": "00:49:50",
+      "text": "It's called sloshing. So as the rocket goes up, the fuel can move around. If it moves around too much, it's going to make the rocket lose control. But the reason is something is a risk they wanted to accept because Elon before this this he's like give me your top 10 like risks that you think what for all the engineers what are the top 10 things that we have to focus on the problems we have to make sure they're solved that that will cause a rocket to fail right and so the sloshing was an identified problem but it wasn't even in the top 10 so he has this great now that spacex has this"
+    },
+    {
+      "timestamp": "00:50:25",
+      "text": "great um maxim it's called always go to 11 and so pretty quickly it was clear that the slosh had bitten them the problem they had known about discussed in detail and ultimately dismissed as the 11th highest risk took down their rocket now must says i asked for the top 11 i asked for 11 top risks always go to 11 he says the company now does now does list the top 11. I asked for 11 top risks. Always go to 11, he says. The company now does list the top 11 risks ahead of every launch. Another example of how Elon thinks, and I love this. It's not like he's ignorant to how difficult the problem that SpaceX is trying to solve is. And he says, it's not like other rocket scientists were huge idiots who wanted to throw their rockets away all the time."
+    },
+    {
+      "timestamp": "00:51:06",
+      "text": "It's fucking hard to make something like this. One of the hardest engineering problems known to man is making a reusable orbital rocket. Nobody has succeeded. For a good reason. Our gravity is a bit heavy. On Mars, this would be no problem. Moon, piece of cake. On Earth, fucking hard."
+    },
+    {
+      "timestamp": "00:51:23",
+      "text": "Just barely possible. It's stupidly difficult to have a fully reusable orbital system. It would be one of the biggest breakthroughs in the history of humanity. That's why it's hard. Why does this hurt my brain? It's because of that. Really? We're just a bunch of monkeys. How did we even get this far? It beats me. We were swinging through trees, eating bananas a long ago. That's what I love about the book like you get you get elon quotes you don't get anywhere else that whole thing right there i just told you it was an elon quote like that's hilarious and informative the way you could see the way he thinks i just love the way he communicates too because he just seems to have um i think paul graham the founder of y combinator says something he's like that elon confuses other found other"
+    },
+    {
+      "timestamp": "00:52:02",
+      "text": "ceos of public companies because he has something they don't and he's like a sense of humor and i think it is like you hear elon talk yeah it's imperfect yeah he stutters yeah he'll be silent he'll be thinking for a little bit but it's human he does not speak like a court there's no corporate speak here he talks like a human i think that a lot of people resonate with that there's a uh there's a great story in the book there's this guy named dunn um i don't remember his first name i'll just have his last name unfortunately but dunn is he's like a young kid i think he's like 25 at the time he wants to be an intern in uh spacex right and he does something i really like that he was very very persistent um so he gets a call he's on he's on the phone with that the mueller guy that that that designed"
+    },
+    {
+      "timestamp": "00:52:44",
+      "text": "the rocket engines and so they're doing a phone interview. SpaceX is trying to get a bunch of interns to work for the summer at their launch site in Texas. And so they're talking. They says, then after only a few minutes, Mueller thanked Dunn for his time and said he would let the student know at a later date if he got an internship. But Dunn was not ready to hang up like that. Perhaps Mueller intended to hire him or maybe this was a polite brush off. Either way it was not in Dunn's nature to give up easily. I think this is what he did was really smart. He earnestly pressed his case. He said Mr. Mueller this is my dream. This is exactly what I want to do with my life. If there's any question that you could ask me anything I could do to demonstrate that I'm the right person for this job, let me know. Dunn paused and then waited. Okay, Mueller told him, come out to Texas this summer. Now, this is very important because on their fourth and final rocket launch, it's in a rush. They have like a few weeks to do it."
+    },
+    {
+      "timestamp": "00:53:40",
+      "text": "Elon wasn't planning on doing a fourth launch because he was about to run out of money. So they have to take the rocket over by on a C-17. And it starts, because of the difference in air pressure, the rocket starts crumpling in the plane. And it could destroy the rocket. Dunn is the one that has to crawl in mid-flight, they're like 25,000 feet in the air, mid-flight into a crumpling rocket"
+    },
+    {
+      "timestamp": "00:54:00",
+      "text": "and wind up opening these vents that's going to normalize the pressure anyways. But he winds up saving the rocket. And I thought that was very interesting you know that it could have if that didn't happen if the rocket the the fourth successful attempt might never have occurred if it wasn't for don get crawling into the rocket in the back of this giant c-17 and fixing it really fast really quick thinking and to think that he might not even been hired if he just said okay okay call me when you want he's like no no i, no, no, I'm not doing that. I want to do this. I'll go right now. And he winds up driving out like almost immediately. So I just think there's a lot of,"
+    },
+    {
+      "timestamp": "00:54:32",
+      "text": "I love that, that turn of events. And I think there's a lot of wisdom into what this young, young guy did, but I want to talk about the third failure. I want the, this is the part of the book where I think it is really, really helpful for us to put ourselves in the shoes of the people going through this because they are now spent, in Elon's case, almost $100 million of his own money, which is insane that he would even do that to begin with. But also like years and years. This is not like a normal 9 to 5 Monday through Friday job. They're giving their lives to this. This is in many cases they were obsessed with rockets since they were kids and they're failing. And this is where the benefit of books is like you get to see and live multiple lives, right? And so this"
+    },
+    {
+      "timestamp": "00:55:15",
+      "text": "is the chief engineer. This guy's dedicated his life to rockets. And now he's wondering, he's like, I'm not, am I not actually good at my job? Like I thought I was, I'm passionate about it, I work at it a lot, I study. I'm not good at it. It was bad luck to be sure. But SpaceX had run through a lot of bad luck over the years. And bad luck only gets you so far as an excuse. Maybe they just weren't that good."
+    },
+    {
+      "timestamp": "00:55:44",
+      "text": "Certainly, there could be no denying the company's dismal record spacex had launched three times with kingman that's this guy's name playing an important part in all three missions this is the chief engineer he's like i am not good at my job now that now this we're gonna go to mus. Imagine, imagine being in his shoes at this moment. Musk felt as crestfallen as the rest of his employees. Worse even. Remember, they thought this is the third final launch. They thought it was over."
+    },
+    {
+      "timestamp": "00:56:14",
+      "text": "The company is over. They did not know what he's about to say. Okay, go back to this. He felt as crestfallen as his employees. Worse even. He had bet a lot on SpaceX in time and money and emotional toil and with little to return, with little return so far. Now his personal fortune was running dry."
+    },
+    {
+      "timestamp": "00:56:35",
+      "text": "He invested everything in SpaceX and Tesla. Beyond money, his personal life was falling apart. He and his wife had just divorced this summer. He had tried to change the world and the world resisted. This is Musk talking about that time I had to allocate a lot of capital to Tesla and SolarCity. So I was out of money. We've had three, we had three failures under our belt. It was pretty hard to go raise money. The recession was starting to hit. Tesla's financing round that we tried to raise that summer had failed. I got divorced. I"
+    },
+    {
+      "timestamp": "00:57:05",
+      "text": "didn't even have a house. It was a shitty summer. As you just imagine like what you would be feeling if you're Elon Musk or any of his employees at this time and yet he does something that's really really smart. Musk chose not to play the blame game. Instead he rallied the team with an inspiring speech. As bad as flight three had gone he wanted to give his people one final swing. Outside that room, in that factory, they had parts for one final rocket. Build it, he said, and then fly it. What they did not have was much time."
+    },
+    {
+      "timestamp": "00:57:39",
+      "text": "Get your shit together, go back to the island, and launch it in six weeks, Elon said. The period that followed would be the most memorable and arguably important period of the company's history hardening its dna and setting the stage for spacex to become the most transformative aerospace company in the world and so that's when they fly the rocket out that's when dunn saves the rocket it's still messed up they still think okay it's gonna we're gonna have to ship the rocket back um they're on a conference call from the people on the island with the people back in spacex right and this is the guy back in spacex uh the rocket's crumpled"
+    },
+    {
+      "timestamp": "00:58:16",
+      "text": "it was uh it's like it has like uh it needs to be ironed out i guess the way they wrinkles i guess is what you would consider and this is what he. You need to stop talking and shut up and listen to what I'm about to tell you. You're not bringing that fucking rocket back here. You're going to strip that fucking thing like a Chevy. And that rocket better be fucking dissembled by the time I get there on Monday morning. So this guy's going to fly out. Who's saying this? Is this Thompson?"
+    },
+    {
+      "timestamp": "00:58:39",
+      "text": "Yeah, Thompson. Him and a bunch of people are going to fly out. And what he means by stripping it down is like they're going to strip it down and they're going to build it back and usually this takes you know weeks or whatever cases and they're going to they have a couple days to do it and so it says there was dead silence in the trailer as the word that's the word sunk in these are people on the island they were going to fix the rocket right there in the tropics there was no time for quality control on meticulous records they did not have have six weeks. They had one. Again, they do this. If they don't do this, the company's over. So your backup is up against the wall."
+    },
+    {
+      "timestamp": "00:59:11",
+      "text": "We knew full well that if anything failed, it was game over. Believe me, it was a ballsy move. But I mean, that was the state we were in. It was like, we have to make this work. There's no six weeks. This had to be done in days. Mere days after the fateful C-17 flight, SpaceX engineers and technicians had fixed the Falcon 1's rocket's first stage, tested it, and found it flight worthy. Of all the crazy things we did over the years, and all the amazing accomplishments in a shorter period of time, that one really stands out. And so that gives them the opportunity to take the still giant risk of doing the fourth flight. If this fourth flight fails, SpaceX is gone. It's gone. So Musk says this is right before the fourth launch and right before the success."
+    },
+    {
+      "timestamp": "00:59:52",
+      "text": "I was stressed out of my mind. I was super tense. Then the guy running the mission control does something really smart. He told the team that they reminded him of the early NASA flight controllers who had guided humans safely to and from the moon. They were also mostly in their 20s inside mission control during the 1960s too, he said. I was the grandfather, Buzza said. I was about 40 years old and everybody else in the room was clearly under 30. I just love that encouragement, that belief. like we did the work, we are going to succeed. The fourth rocket reaches orbit. And now we hear the complete"
+    },
+    {
+      "timestamp": "01:00:31",
+      "text": "opposite. The whole book up until this point is 90% of the book up until this point is just failure after failure after failure. We went absolutely wild. We were jumping around, hugging each other, screaming. It was a righteous celebration. It was awesome. I get emotional thinking about it. I'm sorry. I do. It was chilling. It was huge. It was just validation. I have a couple more sentences of this part I want to read you. And the note I left myself was, I want this this feeling imagine working your entire life to do something having to accomplish go overcome obstacle after obstacle obstacle they had been so many simulations so many thoughts about it so much sweat going into it it was our whole life i mean we're just working our asses off to get to that point i mean what a relief."
+    },
+    {
+      "timestamp": "01:01:29",
+      "text": "Those are all quotes from people that worked on this. It's amazing. This is what Elon said. He gave a short three-minute speech that was quintessential Elon. He said, this is one of the greatest days of my life. That was funny how he felt that relief, right? Years later, though, this is what he says about it. It was a high drama situation. It's a great story, but it is way better in recollection than at the time at this must laughed and so he talks about a little later about even with the fourth successful launch they're"
+    },
+    {
+      "timestamp": "01:01:57",
+      "text": "still about to run out of money for tesla and spacex and he winds up coming through they both came through the like the week of Christmas, very end of the year. And it says that the stroke is too seemingly doomed. Companies were saved. And this is what he said about it. It felt like I'd been taken out of the firing squad and then blindfolded. Then they fired the guns, which went click. No bullets came out."
+    },
+    {
+      "timestamp": "01:02:18",
+      "text": "And then they let you free. Sure, it feels great, but you're pretty fucking nervous. And I also have to tell you this before we close, because this is something that happens, you see this popping up over and over again. It's a famous quote from Jeff Bezos, missionaries make better products. And you wouldn't have had the success"
+    },
+    {
+      "timestamp": "01:02:35",
+      "text": "without being able to recruit missionaries. They're a Swiss-born scientist that helped build and run a highly regarded graduate program in space engineering. And in the spring of 2010, Aviation Week asked him to write about talent development. So this is this guy running the space engineering. And in the spring of 2010, Aviation Week asked him to write about talent development. So this guy running the space engineering program, okay? As part of this exercise, he made a list of his 10 best students based on academics, leadership, and entrepreneurial"
+    },
+    {
+      "timestamp": "01:02:54",
+      "text": "performance during the previous decade. And he researched where they had ended up. To his surprise, half of them worked not for the industry's leading companies, but at SpaceX. The results blew him away. Why did the results blow him away? Just one sentence. That was before SpaceX was successful. So I interviewed these former students and asked, why did you go there? They went there because they believed."
+    },
+    {
+      "timestamp": "01:03:19",
+      "text": "Many of them took pay cuts, but they believed in the mission. Talent wins over experience and an entrepreneurial culture over heritage. And I'll close on this. Nearly two decades have gone by since Musk first began thinking seriously about Mars. During an interview in early 2020, his mind drifted back to that first impulse to get into the space business. He remembered a gray, rainy day on the Long Island Expressway with his friend Adio Ressi, and later his frustration about visiting NASA's website and finding no plans."
+    },
+    {
+      "timestamp": "01:03:55",
+      "text": "He could not understand why humans had remained stuck in low Earth orbit since Apollo, and so he made a life-changing decision to commit himself to the goal of Mars, a commitment that has grown stronger over time. That's 19 years ago, and we're still not on Mars, he said. Not even close, I replied. Yeah, he agreed. Not even close. It's a goddamn outrage. This is the passion that fires Elon Musk. And that is where I'll"
+    },
+    {
+      "timestamp": "01:04:30",
+      "text": "leave it for the full story. I recommend reading the book. I'll leave a link in the show notes. If you buy the book using that link, you'll be supporting the podcast at the same time. I'm getting a lot of emails. People are finding out about the podcast from other listeners, other subscribers that actually buy gift subscriptions for them."
+    },
+    {
+      "timestamp": "01:04:47",
+      "text": "So if you want to do something for a friend of yours, a coworker of yours, co-founder of yours, give them the gift of founders. You'll feel benefit them, benefits the podcast. And you also feel good by doing something nice for somebody else. I will leave a link. You obviously don't have to do this, but if you want to do that, I mean, I will leave a link. You obviously don't have to do this, but if you want to do that,"
+    },
+    {
+      "timestamp": "01:05:07",
+      "text": "there's a link. I can't talk today. There is a link I'll leave in the show notes that makes the process extremely easy and extremely fast. That is 172. I might be wrong. I don't have the list in front of me."
+    },
+    {
+      "timestamp": "01:05:23",
+      "text": "I'm thinking it's 172. It's 172 books down with your support there will be 1000 more to go maybe 2000 let's see how many we can do can you imagine if this project is still going decades decades on from now I can read for the rest of my life"
+    },
+    {
+      "timestamp": "01:05:38",
+      "text": "as long as you keep supporting me this project will survive so it's on you thank you very much for listening I will talk to you again next week much for listening. I will talk to you again next week. I'm super excited next week. I'll talk to you again soon. Actually, you got to see the books I have coming up. We have. I'm not gonna say just wait, wait for the next few weeks. There's a lot coming up. All right. I'll talk to you again soon."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:07:19.668Z"
+}

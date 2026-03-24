@@ -1,0 +1,1133 @@
+{
+  "metadata": {
+    "episodeNumber": 385,
+    "title": "Michael Dell",
+    "slug": "385-michael-dell",
+    "url": "https://podscripts.co/podcasts/founders/385-michael-dell",
+    "date": "April 14, 2025",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "There's a book that Ken Griffin recommends reading. It's called Hardball. And the subtitle of that book is, Are You Playing to Play or Are You Playing to Win? It is a book about extreme winners and some of the best operators in business. There is a line in that book that sounds like it could have been written by any of the almost 400 founders that you and I have studied on the podcast so far. And the line says,"
+    },
+    {
+      "timestamp": "00:00:20",
+      "text": "If you have not examined your cost in detail, it is very likely that there exists lurking somewhere in your cost structure a major opportunity to improve your profits, weaken your competitors, and expand your influence. The first move is to drive down your costs faster than your competitors can and use that cost savings to upset their strategy. That sounds like the author was describing Dell,"
+    },
+    {
+      "timestamp": "00:00:43",
+      "text": "as you will hear me mention. In his autobiography, Michael Dell says that one of the ways he was able to out-compete his better funded competitor, Compact, was with a structural cost advantage. Compact's operating costs were 36% of their revenue compared to Dell's 18% of their revenue. 40 years later, Dell is thriving and compact no longer exists. There is something that history's greatest founders have in common."
+    },
+    {
+      "timestamp": "00:01:09",
+      "text": "They know their business from A to Z and their costs down to the penny. Ramp makes doing this effortless. Ramp gives your business easy to use corporate cards for your entire team, automated expense reporting and cost control all on a single platform. Ramp's corporate cards are fully programmable. That means you can set limits"
+    },
+    {
+      "timestamp": "00:01:26",
+      "text": "so the spending of your team never gets out of hand. Most companies only find out about excessive spending after the fact. With Ramp, you can stop it before it happens. Matt Paulson, who listens to founders and is the founder of MarketBeat, recently switched to Ramp, and this is what he said about it."
+    },
+    {
+      "timestamp": "00:01:39",
+      "text": "Ramp is the best. The amount of money that you will save from unwanted renewals and employees who think company credit card equals buy whatever you want will far exceed the best credit card rewards program. Matt is talking about the importance of cost control. There's a line in Andrew Carnegie's biography that says cost control became nearly an obsession. Ramp helps you make it an obsession."
+    },
+    {
+      "timestamp": "00:02:00",
+      "text": "If Andrew Carnegie was alive today, he'd be running his business on ramp. Make history's greatest entrepreneurs proud by going to ramp.com and you will see why many of the world's top founders today are running their company on ramp. Go to ramp.com to learn how they can help your business today. That is ramp.com. One other thing that you will hear me mention this episode is that all of history's greatest founders studied history's greatest founders and one way to help you do this is by subscribing to founders notes for seven years. I've been adding all of my notes and highlights about history's greatest founders. And one way to help you do this is by subscribing to Founders Notes for seven years. I've been adding all of my notes and highlights about"
+    },
+    {
+      "timestamp": "00:02:28",
+      "text": "history's greatest founders to a giant searchable database. There's over 20,000 notes in Founders Notes now. If you subscribe to Founders Notes, you get access to all of my notes and you can search for them by keyword, or you can have the AI assistant that I built for Founders Notes, which I call Sage, read everything and summarize it for you. I use Sage almost every day."
+    },
+    {
+      "timestamp": "00:02:48",
+      "text": "This is a tool that I built for myself that you can use too. The same exact version of Founders Notes that I use is the one that you use if you subscribe. Jensen Wong, the founder of NVIDIA, said that in the future, everyone will have a virtual assistant, almost like a brilliant intern with near perfect memory, capable of instantly recalling any piece of knowledge. Sage is that now, except Sage is hyper focused on the collective knowledge of history's greatest founders. So if you have access to Sage, you now have access to all that collective knowledge on demand."
+    },
+    {
+      "timestamp": "00:03:20",
+      "text": "I really believe you should be using it to supplement the decisions that you make in your work. You can do that by going to foundersnotes.com. That link is down below and it's also available at founderspodcast.com. I put a lot of time and effort into making this episode. Took me about twice as long as a normal episode. I think this story is very important and I hope you enjoy it. Carl Icahn was trying to take my company away from me."
+    },
+    {
+      "timestamp": "00:03:43",
+      "text": "I was sitting at Carl Icahn's dining room table with Icahn and his wife, eating Mrs. Icahn's meatloaf. That evening was almost the precise midpoint in a 9 month drama in which the personal computing company I started in my freshman dorm room at the University of Texas in 1984. The company with my name on it almost slipped away from me and then changed forever, changing me along with it. I'd like to tell you that story and a couple of other ones. Dell had enjoyed a pretty uninterrupted run of growth in revenue and profits and cashflow for almost two decades. But by 2005, Dell was beginning to hit serious headwinds. Personal computers and laptops, which accounted for roughly 60% of our sales,"
+    },
+    {
+      "timestamp": "00:04:30",
+      "text": "were no longer the rich profit center they used to be. We needed to build new capabilities. We needed to invest in new areas and we needed to move fast. In 2007 we embarked upon a major merger and acquisition initiative, starting with the purchase of the data storage company Equologic for $1.4 billion. We then bought Perot Systems for $3.9 billion. And in 2010, we really went on a roll, acquiring storage, system management, cloud, and software companies. But by 2012, all was not well at Dell. We tried to enter the smartphone and tablet markets without success. Our PC sales had fallen by double digits. Our market capitalization had fallen below 20"
+    },
+    {
+      "timestamp": "00:05:15",
+      "text": "billion dollars. The conventional wisdom shouted through the media was that the PC was doomed and therefore Dell was doomed too. Remember that part for later? In 2013, the conventional wisdom was that Dell was a dead company. I was trying to reassure everyone, we're not really a PC company anymore. In the last five years, we've made a concerted shift"
+    },
+    {
+      "timestamp": "00:05:36",
+      "text": "in our business towards end-to-end IT solutions. A complete set of capabilities for customers from their data centers to their client systems to security, software systems management, storage, servers, and networking. Also remember that part for later, Jensen Wong beautifully describes the transformation that Dell pulled off. So he says, I'll freely admit that some part of me smarted at seeing our share price sink so low."
+    },
+    {
+      "timestamp": "00:06:01",
+      "text": "The company had my name on it. After my family, it meant everything to me. But my wiser side saw an opportunity for the company. Back in 2010, I bought a big block of Dell stock in the open market, confident that the share price would rise. Yet it also occurred to me that if I could buy back all the stock, our transformation as a company could proceed without the tyranny of a quarterly earnings report. Going private would open up the possibility of dramatically accelerating the growth of"
+    },
+    {
+      "timestamp": "00:06:34",
+      "text": "the company and allow us to have a far greater impact on the world. And so in 2010, Dell floated that idea to a major investment bank and this is what they said, the banker that analyzed the deal told us it didn't hold water too complicated too much debt not gonna happen He said forget about it That is really funny to me because this winds up says take private of Dell winds up being the most successful Private equity deal of all time and so you have somebody, you know few years before it happens No can't do it too complicated, too much debt, not going to happen. So we forgot about it."
+    },
+    {
+      "timestamp": "00:07:06",
+      "text": "Then something very interesting happened. As I was taking off my microphone backstage at the Aspen Q and A, a guy came up to me and introduced himself. His name was Egon Durbin and he worked for Silver Lake partners. Hey, I'd love to meet with you about an idea I had. He said, I have a house in Hawaii near yours. Can we get together sometime? Silver Lake was a major private equity firm"
+    },
+    {
+      "timestamp": "00:07:27",
+      "text": "with a great track record and a deep expertise in technology and whose first fund I'd invested in when it started in 1999. So I gave Durbin my email address. This was July, 2012. I still had no idea why Durbin wanted to meet, but we met in August, a beautiful day in Hawaii"
+    },
+    {
+      "timestamp": "00:07:45",
+      "text": "on August 10th. \"'Let's go for a walk,' I said. \"'I do some of my best thinking while I'm walking.' \"'What's up?' I asked Durbin as we set out. \"'We've looked at your company \"'and we think you should consider going private,' he told me. \"'And we think we may be able to help you.'"
+    },
+    {
+      "timestamp": "00:08:00",
+      "text": "\"'Okay,' I said. \"'Tell me why you think this is a good idea.' \"'We talked and talked for the next hour. I liked him at once. He struck me as very smart, aggressive, and bold. He knew why he wanted to talk to me. He had a pretty strong belief in the idea, yet he wasn't trying to sell me anything. He wasn't saying, we, Silver Lake, are ready to commit to this deal."
+    },
+    {
+      "timestamp": "00:08:22",
+      "text": "We do feel Dell is significantly undervalued. He continued, Dell has a lot of cash on its balance sheet. If your company has a lot of cash, its equity can't appreciate nearly as much because cash doesn't appreciate. If on the other hand, you use the cash to buy back stock, the stock can appreciate far more. If you have a business that generates a lot of cash flow"
+    },
+    {
+      "timestamp": "00:08:44",
+      "text": "very consistently, a stock buyback could turn out to be a very good thing. A buyout, Durbin said, could turn out to be a very, very good thing, especially with Dell's stock at these historic lows. Yet we were talking about buying back all of Dell's stock. We were talking about a great deal of money, $25 billion. Everything Durbin was saying made sense to me. I knew in my gut, it was time to make a big move. That was an excerpt from the book I'm gonna talk to you about today,"
+    },
+    {
+      "timestamp": "00:09:17",
+      "text": "which is Play Nice But Win, A CEO's Journey From Founder to Leader and is written by Michael Dell. So I knew for a long time that I was going to make an episode on Michael Dell. I'm fascinated and obsessed and this podcast is dedicated to people that do things for an incredibly long time and do it basically better than almost anybody else."
+    },
+    {
+      "timestamp": "00:09:38",
+      "text": "And Michael Dell definitely fits that. He started Dell at 18, as you and I will talk about in a little bit, you realize that he was working on Dell for many years before that, but he starts Dell at 18 and he's still at 60, still working on it and still on the top of his game. I think there's a ton of lessons that you and I can learn from it. So I read this book. He also wrote a book in 1997 called Direct from Dell, which I also read that I'll pull out a few things from, but I want to start by"
+    },
+    {
+      "timestamp": "00:10:03",
+      "text": "saying that Michael Dell sent me the most incredible DM that I've ever received. This is about a year and a half ago, and I couldn't believe it. He says, your podcasts are A plus. And he put a little trophy emoji. I had to double check. I was like, this has to be a fake account. This can't be the actual real Michael Dell. I found that incredibly one kind that he took his time out to tell me that, but two, incredibly motivating that one of the greatest entrepreneurs of all time is getting value from the podcast. So before I even read this book,"
+    },
+    {
+      "timestamp": "00:10:32",
+      "text": "I listened to the audio book three times and I'm gonna heavily recommend, try to convince you to buy the book and I would start with the audio book because Michael also is the one narrating it. And it has a very interesting structure, okay? So the chapters alternate. The first chapter is about the take private and the transformation of Dell"
+    },
+    {
+      "timestamp": "00:10:53",
+      "text": "that is happening mainly around 2012, 2013. Then the next chapter will talk about the very beginning of Dell and it'll alternate back and forth for the entire book. I wanna start, I'm gonna focus mostly on the early years of Dell. So I want to jump right into his childhood and the family that he came from."
+    },
+    {
+      "timestamp": "00:11:11",
+      "text": "And so he says, I'm a proud Texan by birth, born and raised in Houston. I got to also mention another thing. Michael's son, Zach Dell, was very gracious, and we got to speak for quite a while about his dad. I think the most important lesson, gracious, um, and we got to speak for quite a while about his dad. I think the most important lesson is impressive as I am as impressed. I am with what Michael Dell has built. And I think there's a ton of, you know, just useful information here for,"
+    },
+    {
+      "timestamp": "00:11:33",
+      "text": "for the entrepreneurs, current generation entrepreneurs at the very end. I'm going to share with you what I think is actually the most important lesson that I learned from, you know, I've spent countless hours, probably over a hundred hours, you know, between listening to the audio book multiple times, reading everything I could find on Dell, watching all these interviews. But I'll share what I think is the most important lesson at the very end. So this is from a proud Texan by birth, born and raised in Houston. My mom and dad were ambitious people."
+    },
+    {
+      "timestamp": "00:12:00",
+      "text": "They relocated from New York City to Houston in the sixties because my father had heard that Texas largest city was rich with opportunity. He chose an office building, an office in a building that was literally right next to the synagogue. So that means if your teeth weren't straight and you were Jewish, there was a pretty good chance my dad fixed you. And this is, I love this line because I really think he's describing his dad, but he's also describing himself. He became the city's most successful orthodontist, mainly by outworking everybody else. There's a great interview that Michael Dell"
+    },
+    {
+      "timestamp": "00:12:30",
+      "text": "just did on a podcast less than a year ago. It's from this podcast called In Good Company. And one of the questions that the host was asking him in the early days of Dell, it's like, well, how many hours did you, you know, when you're starting your company, how many hours did you work? And Dell goes, all of them."
+    },
+    {
+      "timestamp": "00:12:46",
+      "text": "Like what else is there to do? And so he says, my parents had a saying for when my brothers and I went out to play a street ball with our friends, play nice, but win. My mom was a brilliant woman with particular skills in mathematics and finance. And so she, she was so good at investing in stocks and real estate. She actually becomes a stockbroker. And this is really important. And this is something we've seen a lot. I feel in the last few weeks, if you think about the Hess family, the Wallenberg family,"
+    },
+    {
+      "timestamp": "00:13:09",
+      "text": "even Todd Graves, they're really trying to pass on the lessons. They think about their business as a family business. And a lot of what they're discussing, what their parents discussed with them and what in turn they're discussing with their children is they make them aware of business from a young age. And I've just seen this over and over again. There's a bunch of friends of mine that are wildly successful and turns out their parents did this with them as well."
+    },
+    {
+      "timestamp": "00:13:32",
+      "text": "So I think it's really, really smart. And this example of what was happening when Dell was a kid. When my mom and dad talked, it was con they were constantly discussing the economy. What were the oil prices and interest rates? What about the stock market? We had Forbes and Fortune and Barons in the house. We had these huge value line books with pages and pages of information on individual companies. I soaked it all in."
+    },
+    {
+      "timestamp": "00:13:55",
+      "text": "Soon my heroes became business people, especially entrepreneurs who challenged the status quo and built businesses out of nothing. So in that same interview, Dell talked about like, you know, he just loves business. He thinks it's fun. It's because it's an interesting puzzle to solve. This is very similar to what Ken Griffin said on the last, I think it was last episode, maybe the episode before that, where, you know, Ken was like, I don't even know if I thought of being an entrepreneur."
+    },
+    {
+      "timestamp": "00:14:19",
+      "text": "I just thought I like to solve problems. And this seems like the area which, which I can solve the most fascinating, the most fascinating problems in the interview that I referenced the In Good Company episode. Michael Dell says something, cause he was asked about this, like, you know, most kids, you know, grow up there, they're idolizing, you know,"
+    },
+    {
+      "timestamp": "00:14:35",
+      "text": "baseball players or football players. And like, you're obsessed with these business people, with these entrepreneurs. And he says, this is what Michael does said. There's a history of other entrepreneurs that you can look to, that I look to, and say, well, they did it, so maybe I can do it. And so maximum I have for this that is obvious"
+    },
+    {
+      "timestamp": "00:14:51",
+      "text": "in all these biographies is that all of history's greatest entrepreneurs studied history's greatest entrepreneurs. So he says, I learned about, so then he becomes obsessed with computers. And so he's reading, he's obsessed with the business side of it, he's learning that from his parents, he's reading Forbes and Fortune and reading about all these incredible entrepreneurs, but then he starts to be obsessed with computers."
+    },
+    {
+      "timestamp": "00:15:14",
+      "text": "And magazines, the influence of magazines is pretty pronounced in the book. I think maybe we lost that, maybe podcasts might be today what magazines used to be. I learned about Byte, this magazine all about micro computers and microprocessors. I got a subscription and read every issue cover to cover. Then I read it again. One month, there was a piece by the co-founder of Apple, Steve Wozniak. And he's talking about the Apple too. And this is how Wozniak described that to me, a personal computer should be"
+    },
+    {
+      "timestamp": "00:15:41",
+      "text": "small, reliable, convenient to use and inexpensive. He had my full attention. I had to have one. The beautiful part about that was I could pay for it out of my own savings. He is 13 years old. So he discovered early that I like to make money. I thought it was fun. So he had a series of jobs."
+    },
+    {
+      "timestamp": "00:16:04",
+      "text": "He works at a Chinese restaurant. He was a dishwasher, a water boy. He went to doing the same jobs at a Mexican restaurant. And he starts all these businesses, you know, from a very young age. I thought this was very fascinating, because there's this maximum that I believe in the true interest is revealed early. And you start to see him start businesses and he's using a scene a lot of these same, he'll use a lot of these same ideas, you know, five or six years into the future when he goes all in on Dell,"
+    },
+    {
+      "timestamp": "00:16:30",
+      "text": "but he said he would collect stamps. He goes, well, I don't want to just collect something. I want to sell them. So he winds up not only having his stamp collection, but all of his friends and he buys an ad in another magazine that's dedicated to stamp collecting, right? And he calls it Dell's Stamps. He goes, I sold a bunch of stamps and I made pretty good money. So I was sitting on some funds for my 14th birthday. I was allowed to take almost $1,300 of my hard earned savings out of the bank and order an Apple II."
+    },
+    {
+      "timestamp": "00:16:58",
+      "text": "And then we're going to see again, true interest is revealed early. So he goes, picks up the Apple II, unbelievably excited, immediately takes the computer out of the box. This is beautiful. And then immediately takes it apart to see how it worked. And I love this line here. He goes, my parents were horrified. So he becomes obsessed because he wants to see,"
+    },
+    {
+      "timestamp": "00:17:20",
+      "text": "he starts taking these apart. He's gonna do the same thing with the IBM, and then taking apart leads to, in my opinion, the genesis of the idea for Dell. And this is like the slow evolution. So he says, I soon began tutoring kids in the neighborhood on how to get the most out of their Apple IIs. This became a lucrative sideline for yet another business"
+    },
+    {
+      "timestamp": "00:17:37",
+      "text": "that a young Steve Jobs, or a young Michael Dell starts. I said, just said Steve Jobs, because on the very next page, he's obsessed with the Apple II. He's about 10 years younger than Steve, okay? And he's part of all these like user groups, these like dedicated user groups to Apple. He's gonna do this for IBM as well."
+    },
+    {
+      "timestamp": "00:17:53",
+      "text": "And so Steve Jobs is 25 years old, the first time Michael Dell meets him. Because I read that Steve Jobs was coming to Houston to speak to our user group. It was 1980. Jobs fascinated me, not just as a computer pioneer, but as an entrepreneur. I'd read about him in the business magazines with intense admiration. Jobs had started with little, but an idea and an intense drive to"
+    },
+    {
+      "timestamp": "00:18:20",
+      "text": "bring that idea to fruition. That is so, that line hits me right in the heart. Think about that. He starts with little but an idea and an intense drive to bring that idea to fruition. He's describing Steve Jobs, but he's also describing himself. Jobs was just 25."
+    },
+    {
+      "timestamp": "00:18:37",
+      "text": "Jobs in person was even more compelling than he was in print. When he entered the room at our meeting, it was as though the waters parted. He spoke with passion about how the personal computer, his personal computer, was revolutionizing the world. He spoke in soaring metaphors. With his personal computers, people would have the capacity to accomplish the unimaginable. And soaring metaphors, charisma, passion is infectious."
+    },
+    {
+      "timestamp": "00:19:05",
+      "text": "There's without a doubt, how many episodes I've done in Steve Jobs? I don't know, 10, 15, I'll probably do another 10, 15, 20, 100 by the time I'm done. Hopefully I'm working on this podcast when I'm 80. Without a doubt, he believed in what he was saying. So that is 1980. Usually I don't throw out years, right?"
+    },
+    {
+      "timestamp": "00:19:21",
+      "text": "This isn't a history class, but I think it's really important. So that's 1980. 1981, IBM introduced out years, right? This isn't a history class, but I think it's really important. So that's 1980, 1981, IBM introduced its PC. Okay. That's going to change Michael Dell's life. It is also remarkable. There's a, you know, I'm obsessed with Game of Thrones, right?"
+    },
+    {
+      "timestamp": "00:19:36",
+      "text": "I, I watched it, it read all the books, watched it through, I don't know, probably six times, I literally watch it and take notes on the show. And I have like this list of lines from the show that I want to Remember because I actually think you can learn about humans from there. There's a line that's really important It's called it says those on the margins often come to control the center. That is a description of Michael Dell. I Was shocked I went back and and read about IBM in the 1980s at this time It's going on is the most valuable company in the world. And this kid in Texas with an intense drive"
+    },
+    {
+      "timestamp": "00:20:09",
+      "text": "and a thousand dollars is going to take it on and beat it. It's incredible. All right, so 1980, Apple II, everybody's obsessed with it. IBM, biggest company in the world says, okay, 1981, we're gonna release the PC and this is gonna change Michael Dell's life forever. Says, in the 1980s, IBM was by far the most successful and valuable company in the United States."
+    },
+    {
+      "timestamp": "00:20:31",
+      "text": "I'll give you more information on this later. IBM's entry into the personal computer market would effectively sweep away the competition, and they would have the field to itself. This is what Wired Magazine said at the time, okay? And this is really just remarkable, because the media and people around you, they always say the same thing"
+    },
+    {
+      "timestamp": "00:20:48",
+      "text": "about big companies. People have a hard time, just like companies make this mistake of having a hard time envisioning a future different from the one in which they succeeded in, people have the same thing where it's like, oh, okay, biggest company in the world, most successful company in the world, they're gonna release a PC, they're gonna be the only game in town,"
+    },
+    {
+      "timestamp": "00:21:02",
+      "text": "they're just gonna beat everybody, okay? So he winds up buying the the PC and You know taking it apart This is I think in my opinion a turning point in Michael Dole's life because it's just he's gonna realize Oh, we biggest company in the world just made a PC It's just a collection of parts from other companies as soon as I took apart my 5150 Discovered a couple striking things first of all as with Apple II, the 5150's architecture was open. You could literally understand what every chip was doing."
+    },
+    {
+      "timestamp": "00:21:28",
+      "text": "The other thing I found when I disassembled the IBM PC was that there was nothing inside from IBM. It was all parts from other companies. It's incredible like how, you know, you can be the most successful company in the world and yet you let other people dictate and force you into errors that you didn't have to. And what do I mean by that?"
+    },
+    {
+      "timestamp": "00:21:47",
+      "text": "IBM had created the PC quickly with off the shelf components out of expediency because they were secretly worried about Apple's inroads into the consumer and education markets. So instead of creating their own operating system, which they certainly knew how to do, and creating their own microprocessor, which they certainly knew how to do, they creating their own microprocessor, which they certainly knew how to do,"
+    },
+    {
+      "timestamp": "00:22:06",
+      "text": "they chose DOS for Microsoft and Intel 8088. They were such a huge and powerful company, such an American institution, so completely synonymous with the word computer, that I don't think they thought anyone could ever challenge them. So now he has both the Apple II and the IBM and he's got this little idea in his mind."
+    },
+    {
+      "timestamp": "00:22:27",
+      "text": "And I'm just going through the book over and over again and it just jumps out. It's like, Michael was a born entrepreneur. He was a born entrepreneur. All right, so that summer I got a new job. I sold subscriptions to the Houston Post, the local newspaper. So how does he sell subscriptions?"
+    },
+    {
+      "timestamp": "00:22:42",
+      "text": "He would call random people on the phone. Now I think he's like 14, 15 years old when he's in this. And try to talk to him and getting the paper. Being naturally ambitious as an understatement. In fact one of the the pieces of advice that he gives is make no small plans. So if you could see the book that I'm holding my hand, I had this constant in the margin. I'm constantly writing that over and over again. Make no small plans. It's just naturally ambitious, naturally competitive, naturally bold. I wanted to sell as many subscriptions as possible."
+    },
+    {
+      "timestamp": "00:23:09",
+      "text": "And I observed three things. If you sounded like the people you were trying to sell subscriptions to, they were much more likely to buy from you. Okay, so essentially what he's doing, and his little 14 or 15 year old, as a young man, he's trying to say, how can I find an edge? Yeah, what everybody else is selling subscriptions."
+    },
+    {
+      "timestamp": "00:23:25",
+      "text": "They're probably all doing the same thing. I'm just cold calling a bunch of people. Maybe one out of 50, one out of a hundred buys. This kind of sucks. How can I find an edge? The second thing I noticed, that people who were moving into a new residence were more likely to subscribe to the paper."
+    },
+    {
+      "timestamp": "00:23:37",
+      "text": "And the third thing I observed was that people who were getting married were much more likely to buy a subscription. And what he does next is this is what I mean. He's just a born entrepreneur. This is obvious. He's like, Oh, I have a plan. This is going to pop into my head."
+    },
+    {
+      "timestamp": "00:23:49",
+      "text": "He goes down and realizes like all of that information is public information in the state of Texas. So if I go down, because I'm a Texas citizen, I can go down and go down to the county courthouse courthouse and I can pull all the marriage license applications and that's exactly what he does in one stroke. I had gone from hit or miss of cold calling to discovering a gold mine of people who were far more likely than not to subscribe to the paper. At first I had to sit and then again, relentlessly resourceful."
+    },
+    {
+      "timestamp": "00:24:14",
+      "text": "And you know, a reoccurring theme in the history of entrepreneurship, invest in technology. The savings compound can give you an advantage over your slower moving competitors. And sometimes it can be the difference between a profit and a loss. That idea comes from, and it's a very old idea, it comes from Andrew Carnegie's autobiography, you know, 150, 200 years ago. And we see Michael does the same thing here. Okay, I have, I have found my edge. I have, you know, all these interested prospects, but I'm writing all this stuff down by hand."
+    },
+    {
+      "timestamp": "00:24:37",
+      "text": "This sucks. There's like no one, almost no one on the planet has computers at this time. What does he do? He goes, well, I would sit there and write down every name and address. But then I realized I could bring in my Apple II, which was much lighter than the IBM PC, plug it in and type in all the info. So that's exactly what he does."
+    },
+    {
+      "timestamp": "00:24:52",
+      "text": "This kid is showing up to the courthouse with his computer typing in his list of prospects. I love this. And then it hit me that there were 16 counties surrounding Houston and they all had courthouses and every courthouse had records of marriage applications. Jackpot times 16. Then what does he do? Born entrepreneur."
+    },
+    {
+      "timestamp": "00:25:09",
+      "text": "Then I hire my high school buddies to travel to all those courthouses and get all that info. And then he realizes, okay, so I have all these consumers, right? This is like one, I'm selling individual subscriptions. And you'll see the reason I'm talking about this because he uses all these ideas at the beginning of Dell too. Like start out selling directly to like just one individual, one rich architect, or one rich dentist in Houston. And then he moves to the Enterprise. And so the Enterprise version of this, he goes, hey, I'm going to go and because there's a building boom in Houston, they're building all these huge condos and apartment complexes."
+    },
+    {
+      "timestamp": "00:25:42",
+      "text": "I would go to these places and say, hey, I'm from the Houston Post, and we've got this great offer where all your new residents can get the paper free for two weeks, just fill out this little form. So now I went from selling one at a time, right, to maybe grabbing 200, 300 at a time. Because of all the young married people and all the new apartment dwellers,"
+    },
+    {
+      "timestamp": "00:25:59",
+      "text": "I made a little over $18,000 that summer. Now the funny thing is, in his high school class, they have to like do a sample tax return and he does it for real. And his teacher is just like, no, you obviously got this wrong. Like you didn't make 18, if you made that much money, Michael, you would have made more money than me."
+    },
+    {
+      "timestamp": "00:26:18",
+      "text": "And he's like, well, that is exactly how much. So he's making more money in high school than his teacher. Now, here's a clue. There's always a sign about what you really should be doing. Right? What did Jeff Bezos say? We don't choose our passions our passions choose us You would sit in his high school classes He's gonna do the same thing for the one year a half of you he goes to college and he goes I would come in Go to the back room sit down and read computer magazines"
+    },
+    {
+      "timestamp": "00:26:44",
+      "text": "That's a sign that you found we should be working on. So he says, the moment that I opened up my new IBM PC and looked inside, I thought, how do I soup this thing up? Thanks to my steady intake of Byte and PC magazine, I had plenty of ideas to try. He'd put in extra hard drives, I'd put in extra memory. And then this new IBM user group I joined gave me even more ideas because the, I, the difference he talks about the difference between the people that had apples and the people that had the IBM PC, IBM PC leaned way heavier towards business. So they, that user group was like, well, how do we use this as like a productivity tool?"
+    },
+    {
+      "timestamp": "00:27:18",
+      "text": "How do we use this as a way to get better jobs, to make more money? And so he says that was fascinated by how empowering a tool the PC was for business. He was 17. He says, then a miraculous thing happened. In June of 1982, the National Computer Conference came to Houston. Right, this huge multi-day, I think there's like thousands of people"
+    },
+    {
+      "timestamp": "00:27:39",
+      "text": "going to this computer conference. And this is hilarious. Again, a sign that he's on the right path. To me, this was like Disneyland. I saw so many beautiful things in all these booths, peripherals and terminals and systems and software. New horizons were opening up for me. And then this is really, you know,"
+    },
+    {
+      "timestamp": "00:27:56",
+      "text": "the start of his computer business. Slowly and surely, it's gonna turn into Dell. So after I soup up a pre-see, an interesting thing happened. The lawyer father of one of the kids I was tutoring about computers got wind of what I'd done with the machine and asked if I could do the same thing for his. So I checked out his PC, he paid for the parts and added a nice fee for my time. The lawyer was pleased enough that he soon talked me up to a couple of other lawyers and doctors he knew and I got more work. Then an even more interesting thing happened. One doctor called and said he wanted to buy an IBM PC"
+    },
+    {
+      "timestamp": "00:28:28",
+      "text": "for me to customize. What model should he get? I told him, do not bother. I'll buy the computer, put in everything you need, and sell it to him at a reasonable markup. I delivered that doctor a Michael Dell special. Then it happened again and again, and suddenly I was in business, and he's making a ton of money."
+    },
+    {
+      "timestamp": "00:28:48",
+      "text": "He loves fast cars too, which is really funny. There's a couple of examples in here and stories that are, I found humorous. So my senior year of high school, I went to my parents. I went with my parents to a BMW dealership. When it came time to pay the salesman, naturally looked at my mom and dad. I got to enjoy the shock on the guy's face when I took out a cashier's check for $15,000 and then I had a wad of cash to pay for the rest thanks to my newspaper subscription funds and my new custom computer business. That is the end of"
+    },
+    {
+      "timestamp": "00:29:20",
+      "text": "high school. He says the only college that I applied to was the University of Texas at Austin. And my life was pretty much planned out for me. I would go and take pre-med courses and become a doctor. This is such an important part. I haven't, I guess I haven't even talked about yet. There's a track laid out for him. In one interview I heard him say like becoming a doctor was like the family business. It's like, you know, uncles are doctors."
+    },
+    {
+      "timestamp": "00:29:41",
+      "text": "This is what was expected of them. And essentially his parents like, this is what your life is going to be. Think about this. We're like 30 pages into the book. There's no path or track for the entrepreneur. It's impossible that this personality type, that this person would ever stay on a track"
+    },
+    {
+      "timestamp": "00:29:58",
+      "text": "laid out by somebody else. And you'll see that because there'll be this, back and forth and then his parents are crying about this and we'll get into it but I remember hearing him say something that's very fascinating where he's just like you know I was able to convince finally was able to convince my parents that you know I'm gonna go all in on Dell and he has like the financial like record of what he's doing so far he's like look how well it's working and I'll make you a deal if you know if it"
+    },
+    {
+      "timestamp": "00:30:22",
+      "text": "doesn't work out I can always go back to school. University of Texas will accept me. And he says his parents agreed, but then he says something so important. And I think if you're listening to this, you obviously understand this. It's like, but even if they didn't agree, I would still do it. I was still going to do this. I was not going to let somebody else decide"
+    },
+    {
+      "timestamp": "00:30:41",
+      "text": "how I spend my life and lay out a track and a path that I'm supposed to follow. Entrepreneurs don't do that. This is the fascinating part. Go back to like just following your curiosity, following your interest. Maybe I don't even tell you about this later, but I want to talk about it now. Michael does one of the most curious people you can possibly find. He just wakes up every day, fascinating, curious about business and about life and about being"
+    },
+    {
+      "timestamp": "00:31:02",
+      "text": "better. And so he's like, listen, you know, I'm supposed to have this path. And so far I'm going with the program. I was on autopilot. Meanwhile, there was this other thing, computers, that I was passionately excited about and that I couldn't really tell my parents about because it was so far from what they had in mind."
+    },
+    {
+      "timestamp": "00:31:18",
+      "text": "I loved them. Think about the Ken Griffin episode, most successful hedge fund of all time. And he says this thing where she's fascinating. He's like, listen, for reasons I don't fully time. And he says this thing where she's fascinating. He's like, listen, for reasons I don't fully understand, I was obsessed with the stock market. By the time I got in third grade,"
+    },
+    {
+      "timestamp": "00:31:31",
+      "text": "I was just completely obsessed with the stock market and how to make money in it. For reasons I do not understand. And I think one of the reasons that resonates with me is because that's how I feel about reading. I remember somebody asking me at times, like, when did you get in the habit of reading? It's like, I don't have any memories."
+    },
+    {
+      "timestamp": "00:31:45",
+      "text": "Before I just read, I always read obsessively. Since the age of five, before my mom died, I remember her telling me like, I'd go into every room and read every single thing on like the walls. And when I ran out of books to read, I'd read the back of cereal boxes. You know, when you're a seven, eight year old kid,"
+    },
+    {
+      "timestamp": "00:32:02",
+      "text": "nine year old kid, you're not sitting here thinking like, oh, this is gonna be good for my future self-development. You're just obsessed and drawn to this activity. It's very clear that Michael was drawn both to computers and electronics and then business as well. So he graduated high school and again, relentlessly competitive, relentlessly driven. Some kids take the summer off after they graduate high school. As you can probably guess by now, this wasn't my way. I was still upgrading IBM PCs, still buying disk drives and hard drives and memory trips and installing them in the, in the base model IBM's that I bought a"
+    },
+    {
+      "timestamp": "00:32:31",
+      "text": "retail, then selling the improved computers for a profit to doctors and lawyers and architects. As soon as I arrived in Austin, I started putting little ads in the local paper. Remember go back to that stamp business, right? You just see it over and over again. And he's learning. And I got responses right away, which provided me with the working capital I needed"
+    },
+    {
+      "timestamp": "00:32:47",
+      "text": "to buy more PCs to meet what appeared to be an ever-growing need. And then there was my other business, relentlessly resourceful. I don't know how many times I'm gonna have to say that today. It's just like, it just jumps off the pages. IBM, this is remarkable. He's just like paying attention to these opportunities."
+    },
+    {
+      "timestamp": "00:33:02",
+      "text": "And he's 17, 18 years old maybe. IBM PCs sold like crazy from the moment they were introduced, but what the huge demand led to was all kinds of supply disparities among the retail outlets that carry the product. Houston might order 10,000 units, Dallas another 10,000, Phoenix another 10,000, but IBM could not push out all the supply in time. So some of those dealers wind up getting only four or 5,000 units at a time. What do they do? Right, they're learning too."
+    },
+    {
+      "timestamp": "00:33:29",
+      "text": "In response, the dealers start over ordering. They asked for 20,000 or 50,000 computers at a clip just so they could get what they needed. The result was retail chaos. One city would have way too much stock, another not nearly enough. I picked up on this. I figured I could make some money"
+    },
+    {
+      "timestamp": "00:33:44",
+      "text": "from these supply incongruities. I'd go to a city that had a surplus of PC PCs, buy a bunch, and then take them to another city that had a shortage and sell them. He calls these, he calls this flying buys, I love this. I would locate a big retail outlet that had way overbought IBM PCs, say somewhere in Phoenix, and then I'd call them up and ask if I could take some off their hands. In many cases they would agree to sell some of their surplus for below their cost. I'd get on a Southwest Airlines flight to Phoenix, rent a U-Haul truck, and then load the 30 or 40 PCs into the truck and drive to some store that was undersupplied, say"
+    },
+    {
+      "timestamp": "00:34:19",
+      "text": "one in Tucson. And then I'd sell them my truck full at 50 or 70 or 80 dollars per machine machine over what I paid this is the result instant profit of a couple thousand bucks so it's wild in the direct from Dell book which was published I think in 99 I think pretty sure he says in that book that Dell was profitable for every single quarter of its existence It's just incredible. So he's like, well, you know, you can do the math like I'm buying, you know a couple hundred machines These are very expensive like where am I getting the money for this?"
+    },
+    {
+      "timestamp": "00:34:54",
+      "text": "So it says an 18 year old who wasn't dealing drugs Did they really have fifty or sixty thousand dollars at a time to lay out on these new computers? And the answer is, yep. My PC upgrade business was doing well enough that I had steady cashflow, and my computer reselling business was profitable from the jump. And then before I move on, I just wanna share something with you"
+    },
+    {
+      "timestamp": "00:35:15",
+      "text": "that I think may be a little unusual that popped my mind when I was reading this section. And by this point, I had read this section, I don't know, three or four times, because I go over my notes and highlights for a few days before I sit down and talk to you. And it's this idea where it's like, people are always like,"
+    },
+    {
+      "timestamp": "00:35:29",
+      "text": "we're gonna find the next like Steve Jobs or like, you know, the next Mark Zuckerberg or something like that. And there's something that Michael Jordan said that I think is important. Great people are not discovered. They reveal themselves. They make themselves known."
+    },
+    {
+      "timestamp": "00:35:45",
+      "text": "This guy was going to be undeniable. He was going to... you didn't have to like, I'm gonna discover the next Michael Dell. If you have the talent level of Michael Dell, you make yourself known. There's a great line that I heard in a video one day of Michael Jordan talking about, you know, towards the end of his career, when especially when Kobe Bryant came along, everybody's like, oh who's the next Michael Jordan? And he says something that's very fascinating. Michael Jordan said, don't be in a, who's the next Michael Jordan? And he says something that's very fascinating. Michael Jordan said, don't be in a rush to find the next Michael Jordan."
+    },
+    {
+      "timestamp": "00:36:07",
+      "text": "First of all, you didn't find me. I just happened to come along and you won't have to find that next person. It's going to happen. And I think the reason that I'm obsessed with, especially autobiographies in particular, right? In this book that you could pick up for, I don't know, 20 bucks, you have the best ideas,"
+    },
+    {
+      "timestamp": "00:36:26",
+      "text": "the most important ideas from four, five decades of excellence. And there's somebody out there right now that is the same age, maybe even younger than Michael Dell was when he started, that's going to pick up the book, build a product that makes somebody else's life better, because that's all a business is, and become one of the greatest entrepreneurs in history. Remember, first of all, you didn't find me. I just happened to come along and you won't have to find that next person. It's going to happen."
+    },
+    {
+      "timestamp": "00:36:52",
+      "text": "All right, so let's go back to this. He starts, he starts at school, okay? In college. In theory, I was a pre-med biology major. On a smooth track, remember, there's that word again, track, path, on a smooth track to becoming a doctor that my parents wanted me to be. The reality was somewhat different."
+    },
+    {
+      "timestamp": "00:37:09",
+      "text": "I was running a thriving business out of my Austin apartment. The apartment was packed to the ceiling with computers and computer boxes. I went to my classes at first. I would listen to the professor drone on, but mostly I stared out the window thinking about when I could get back to what I was really interested in. There is an excellent essay called How to Do Great Work, it's written by Paul Graham."
+    },
+    {
+      "timestamp": "00:37:32",
+      "text": "I think I did an entire episode on just that essay. I think it's episode 314. There's a line in that essay that I've never forgotten that I think is really important. I think describes exactly what's going on here. Hey, I'm sitting here in these pre-med classes. I'm bored to death and I'm looking out the window and I'm thinking about what I'm really interested in. And in that essay, yeah, there's a line that says, if you're interested, you're not astray. If you're interested, you're not astray."
+    },
+    {
+      "timestamp": "00:37:55",
+      "text": "My newspaper ads were building word of mouth among knowledgeable computer users around Austin. An interesting side note is that I didn't sell any computers to any students. Ever. The students at UT knew nothing about computers and couldn't have cared less about them. This is great. It was a very different time. And then as you guess, he's always looking for ways to expand his business."
+    },
+    {
+      "timestamp": "00:38:16",
+      "text": "And so he goes, he goes, Hey, you know what? There's another thing that's public. If I go down to the now he's in the state capital and the government, the state government's always bidding on things. And these bids are public and anybody can bid on them. And so like, for example, if the highway department needed four PCs and they would say, we need four PCs with such and such specifications."
+    },
+    {
+      "timestamp": "00:38:34",
+      "text": "And so they would issue requests for bids and the bids are public. So anyone could walk into the office and say, I'd like to see all the requests for the bids for equipment in the following categories. I started bidding on these and winning these contracts. Soon I was racking up revenues between 15 80,000 a month I was spending almost every cent on new"
+    },
+    {
+      "timestamp": "00:38:53",
+      "text": "inventory. So then he moves into his dorm and this is the dorm room in which Dell is going to be born. Adobe was a high rise 27 stories tall by the luck of the draw I was assigned to a room on the top floor. Adobeie 27 13. My roommate now there's a lesson in here. My roommate to my great fortune was a member of the US Olympic cycling team. That means he spent every day all day training. He literally just used the room to sleep. Every evening he'd return from his training sessions and drop into his bed exhausted. Every morning he'd vanish before I was awake."
+    },
+    {
+      "timestamp": "00:39:28",
+      "text": "He was the perfect roommate. So the lesson there, interesting. Olympic level athlete, trying to be the best at what he does, best in the world at what he does, and look at how he spends his time. Training, working, and then sleeping. And there's another thing that Michael Dell's gonna have in common with Phil Knight, the founder of Nike."
+    },
+    {
+      "timestamp": "00:39:44",
+      "text": "His parents find out about what he's actually doing. They want him to be a doctor. and then sleeping. And there's another thing that Michael Dell's gonna have in common with Phil Knight, the founder of Nike. His parents find out about what he's actually doing. They want him to be a doctor. This is so, so important. I absolutely love this. My mom and dad were hearing more and more about what a terrifically successful business I was running. So they returned to Austin."
+    },
+    {
+      "timestamp": "00:39:58",
+      "text": "They were both very upset. Michael, my father said, are you going to school here or are you running a business? A computer business? He made it sound kind of unsavory. So I want to pause there and put this book down There's a line from Phil Knight's excellent autobiography shoe dog, which it covered, you know, I don't know several years ago It's probably like episode 180 181 something like that almost exactly word for word, so"
+    },
+    {
+      "timestamp": "00:40:22",
+      "text": "I'm gonna read from from shoe dog His this is a conversation. He's having his dad. Phil's having with his dad. He hadn't sent me to Oregon and Stanford to become a door-to-door shoe salesman he said. Jack-assing around. That's what he called it. Buck, which was Phil Knight's nickname. Buck he said, how long do you think you're going to keep jack-assing around with these shoes? I shrugged. I don't know, Dad. And the note I left myself when I read that is listening to his dad's advice on what to do for a living would have cost Phil Knight $40 billion, which is what his net worth was"
+    },
+    {
+      "timestamp": "00:40:58",
+      "text": "at the time I was reading that book. We're going to see something very similar here. You're running a business, a computer business. He made it sound kind of unsavory later on his father unbelievably proud of Michael I think he says he's the founder of the founder okay so these things can change if you're not if you're interested you're not astray I could see that my mom was about to cry my dad shook his head Michael he said you've got to get your priorities straight you've got to get"
+    },
+    {
+      "timestamp": "00:41:22",
+      "text": "your head screwed on straight this computer, it could be a nice hobby for you. But your life, Michael, your life. I was staring at the floor, ashamed and proud at the same time, obedient and rebellious. What do you want to do with your life, Michael, my father asked. I want to compete with IBM, I said. My dad wasn't amused. Go back to that line from Game of Thrones. Those on the margins often come to control the center."
+    },
+    {
+      "timestamp": "00:41:47",
+      "text": "This is a thing about the confidence, the self-confidence, the self-belief that young Michael Dole had. The idea that I have a little business out of my dorm and I'm gonna compete with the most valuable company in the world. Incredible, I love it. You are here for one thing and one thing only, he said, and that is to get your education"
+    },
+    {
+      "timestamp": "00:42:03",
+      "text": "to put you on the right path. There's that word again, the right path in life. Path, track, these are not words for founders. I muttered something about not being so sure the path he was talking about was the right for me. I looked at my mother, her tears were flowing. I caved. Okay, no more computers, only school, only school, I promise."
+    },
+    {
+      "timestamp": "00:42:25",
+      "text": "And he tried, he really tried. For the next 10 days, I went cold turkey. I literally didn't touch a computer. I went to my classes and tried my hardest to pay attention. Didn't work out. In fact, what those 10 days of intense longing really did for me was focus my mind intensely. I realized that the prospect of practicing medicine had held absolutely no appeal for me and then the prospect of building my working life on computers was absolutely thrilling. By the time the second"
+    },
+    {
+      "timestamp": "00:42:54",
+      "text": "semester began I was back in business big time, upgrading, flying and buying and reselling. And in addition to his initial success he gets another sign that oh he might be on the right path. They go, he travels with his family to go to England to visit his brother and realizes, oh, like the same like fervor for personal computing that we're seeing in the United States is happening in the UK."
+    },
+    {
+      "timestamp": "00:43:14",
+      "text": "That's interesting. And another thing was like, wait, like these people actually, they're terrible. The stores are terrible. The salespeople are terrible. And yet the computers are flying off the shelf. So he says, the other thing that impressed me was the profusion of computer stores. And just like in the US, the profound ignorance of the people who worked in them."
+    },
+    {
+      "timestamp": "00:43:30",
+      "text": "Salespeople knew little to nothing about how these computers worked, nor did the stores offer much in the way of service and support. But everybody wanted computers and the pounds and shillings were flying. He says, after we returned to Texas, I broke the news to my parents. It would take a few years for my relationship with my mom and dad to heal. Again, this is somebody that was going to follow his own path in life. No matter what, I think obviously that's the right choice. I want to go back to the idea."
+    },
+    {
+      "timestamp": "00:43:53",
+      "text": "It's like, well, this is kind of funny. Like the stores suck. The salespeople suck almost no differentiation in product line. And yet they just can't stay stock. The money keeps flowing. Mark and recent had this blog, it was a blog archive. I think I did it back on episode 50. And he wrote something in there that I've thought about."
+    },
+    {
+      "timestamp": "00:44:11",
+      "text": "And he talks about like, what are the factors for a startup success? Is it the product, is it the people, is it the market? And Mark's point is like, you know, he would pick market above almost anything. And there's a reason why. And he says, integrate market, a market with lots of real potential customers."
+    },
+    {
+      "timestamp": "00:44:26",
+      "text": "The market pulls product out of the startup. This is exactly what's happening in the book, right? The market is pulling the product out of the startup. The market needs to be fulfilled and the market will be fulfilled by the first viable product that comes along. I think that's what we're seeing where we are in the story. Now, tells his parents, hey, I'm doing this,"
+    },
+    {
+      "timestamp": "00:44:46",
+      "text": "damages relationships, takes a few years to heal, okay? But in 1984, my little one-man operation formally became Dell Computer Corporation doing business as PCs Limited. I left school forever. This is really important, so I'm gonna spend some time here because this is something that's very obvious to me and you know, when I talk to other people, it's not obvious."
+    },
+    {
+      "timestamp": "00:45:04",
+      "text": "They literally have this backwards. I always say belief comes before ability. People will tell you, oh, you wanna have confidence, like produce evidence. No, that's absolutely wrong. You're 100% wrong. It's in this book over and all these books over and over again, the self belief comes before any evidence."
+    },
+    {
+      "timestamp": "00:45:19",
+      "text": "It becomes before even the ability to do so. Here's another example of this. This is super, super important. I spent some time at a store called Compuad, this is in Austin, and I met the owner, a guy named Bill Hayden. Hayden told me that thanks to Austin's tech boom, he was really making big bucks."
+    },
+    {
+      "timestamp": "00:45:34",
+      "text": "I guess he thought he was just impressing some punk kid, but when I sized them up, I thought I could do everything he was doing and a lot more. Was I a little full of myself at 19? Sure I was. I think you have to be to do anything important. I'm pausing right here. I'm going to go to Nolan Bushnell, founder of Atari, mentor to Steve jobs. He wrote a book about, about what it was like to mentor Steve jobs to"
+    },
+    {
+      "timestamp": "00:45:58",
+      "text": "know Steve jobs. This is what he says. And this is, he talks about Steve's critique about being arrogant, about being overly self-confident, whatever the case was. He says, everyone know, Steve's critique about being arrogant about being you know, overly self-confident Whatever the case was he says everyone has this is Nolan Bush now Everyone has creative potential but only the arrogance are self confident to press their ideas to others now I think he's using term area in there to be intentionally provocative only the self-confident only those with an abundance of self-belief Like a Nolan Bush now like a Steve Jobs like a 19 year old Michael Dell only the the"
+    },
+    {
+      "timestamp": "00:46:28",
+      "text": "self-confident or only the the people with full self-belief are self-confident enough to press their ideas on to others Bill Walsh wrote this excellent excellent book called The Scorer that Takes Care of Itself I think I did it all the way back on episode 106 or something that I need to reread the book because it's really good. And he says this about this. Don't let anybody tell you that a big ego is a bad thing. Here's what a big ego really is. Pride, self-confidence, self-esteem, self-assurance."
+    },
+    {
+      "timestamp": "00:46:58",
+      "text": "Ego is a powerful and productive engine. Without a healthy ego, you've got a big problem. Now, obviously you're smart. I don't have to explain this to you. Obviously you could have a D and you go so big and so unrealistic, right? That it can damage. It can get you in a big trouble. That's not what Bill Walsh is talking about."
+    },
+    {
+      "timestamp": "00:47:17",
+      "text": "That's not what Nolan Bushnell is talking about. That's not what Michael Dell is talking about. That's why I think that line out a healthy ego, you've got a big problem. So belief comes before ability. Was I a little full of myself in 19? Sure I was. If you, I think you have to do, have to be to do anything important. You have realized by now that I'm pretty competitive person. That's an understatement. You know what? I'm going to pause there again. So I love this because, you know, having listened to the audiobook three times already read this book already read direct from Dell already read all this stuff. There's something"
+    },
+    {
+      "timestamp": "00:47:49",
+      "text": "that jumps out that I didn't see till after that is really funny because it's surprisingly shockingly accurate assessment and description of Michael Dell from Matthew McConaughey, the actor and I guess I think what I've heard is he's friends with Michael they both live in Austin and This is the blurb that Michael or the Matthew McConaughey did for this book and I didn't see it till after Says Michael Dell is the gangster protagonist never looking for a fight But relishing every brawl once he's in it. That's such a good description Based on everything I've read Matthew McConaughey nailed that. All right."
+    },
+    {
+      "timestamp": "00:48:30",
+      "text": "So he says, you know, you can figure out, hey, I'm a pretty competitive person. And I thought I had all kinds of ideas that Bill Hayden could never even begin to imagine. One of my ideas was just an expansion of what I was already doing, placing ads and taking orders over the phone, constantly look out up for lowest prices for computer opponents, saving customers, the trouble of comparison shopping and then passing along the savings to them. And I'd still make a profit. This is how he knows he has edge. My upgrade of machines were both better and less expensive than IBM or compact."
+    },
+    {
+      "timestamp": "00:48:56",
+      "text": "Compact is going to be his main competitor. He's going to wind up overtaking them as well. And they raised way more money. Michael Dell starts to come up with a thousand dollars. Compact starts at 25 million. and then they raise, I think, another 75 million. So he's like, you know, a guy's starting with 1,000, you're starting with 100 million."
+    },
+    {
+      "timestamp": "00:49:11",
+      "text": "And he waxes them. I love stories like this. You know, I'm obviously always on the side of the founder. I'm always on the side of the underdog. The Wright Brothers, episode 228. That book, if you want a book to read this week, or a book to read this weekend, after you hopefully finish Michael Dell's book, I would pick up Right Brothers by David McCullough. For centuries, humans were talking about how do we solve the issue of powered flight."
+    },
+    {
+      "timestamp": "00:49:32",
+      "text": "And a lot of different people, when the Wright Brothers were trying to do it at the same time, were way better funded. They had all the top experts, all the top scientists of the day. They had the backing of the Smithsonian. One guy was backed by like $500,000. The Wright brothers solved the problem with $1,500. They solved a century-old problem with just two brothers, being relentlessly resourceful, and the modest profits of their bicycle shop. Don't ever let somebody tell you because you have a better funded competitor"
+    },
+    {
+      "timestamp": "00:50:06",
+      "text": "or a more credentialed competitor that you can't still win. The history of business is full of examples like this. This is such bullshit. Back to this, my upgraded machines that I'm making with no money in my dorm room are better and less expensive than IBM or Compaq. And so he says, okay, well, I have this advantage."
+    },
+    {
+      "timestamp": "00:50:24",
+      "text": "How do I press that advantage? So he was started on in Austin. Now he's like, Hey, I'm going to advertise nationally in PC week and consumer and computer shoppers are essentially saying, Hey, like, who's going to buy computers? Well, people that are reading computer magazines, not like a stretcher, right? Customers could call in, they would tell us how much memory they wanted in the machine, what size hard drive and how fast the processor. They'd give us a credit card number and then we could put together a customized computer for them in an hour and ship it out the same day."
+    },
+    {
+      "timestamp": "00:50:55",
+      "text": "It sounds, this is one of the most important sentences in the entire book, it sounds simple yet nobody else was doing it. So you start hiring technicians and salespeople right away. Again, doesn't have to be perfect, just has to work, especially at the beginning. Here's an example of that. Our order entry system consisted of three clothes lines hung between cubicles. The top line was orders that needed to be filled. The middle one was for orders waiting for parts to be delivered and the bottom clothes line was for orders that we had no idea how to fill. Everyone in the company wore several hats. The office was busy and noisy from morning to night. It was fun. It was stressful."
+    },
+    {
+      "timestamp": "00:51:29",
+      "text": "It was all consuming. I was 19 years old. Now what I want to focus on is the building of Dell. But I do want to just pull out when I find them in the book. Just these other lessons I think Michael Dell has for us that happen while he's trying to fight has its fight with Carl Icon and he's going through this really big struggle to take the company private and to really transform it, you know he successfully navigated one of the things is so fascinating about this is and You know why there absolutely had to be an episode of Michael Dell's like he's successfully navigated so many different technological"
+    },
+    {
+      "timestamp": "00:52:05",
+      "text": "revolutions from PC, the internet, mobile cloud, and now AI. I can't think of anybody else that has done that is still active to this day. So he's fighting with Carl Icahn and he says some things here that I think are really important and there's a lesson, there's a punchline at the end of this. Activist investor was a euphemism for what Carl Icahn really was corporate Raider was more to the point and maybe trouble making opportunist was closer still to the truth. Since the late 1970s icon had shown great skill in gaining significant positions in companies in trouble or flux,"
+    },
+    {
+      "timestamp": "00:52:37",
+      "text": "and then either forcing them to buy back their stock at a premium or pushing the company leadership to make decisions that would boost the share price. He liked to present himself as a great defender of the common man, the ordinary shareholder. In fact, he was a great defender of Carl Icahn. He seemed to have little or no interest what a target corporation made or did. The game was everything to him. And so he's to me, what he's what Michael Dell is doing there is he's comparing and contrasting the difference between a trouble-making opportunist or a collaborator versus a founder."
+    },
+    {
+      "timestamp": "00:53:10",
+      "text": "Somebody started their company when they're 18, somebody put their name on their company that they gave the majority of their life energy over to. And I think the way to describe this, like the Todd Graves episode, the founder of Raising Canes, I did a few weeks ago, he has this line, he goes, founder, he was talking about like more founders need to stop selling their business."
+    },
+    {
+      "timestamp": "00:53:27",
+      "text": "Especially in his industry. He's like, I'm competing. All the founders are gone. They sold out. Some of them passed away. They sold out. And he's like, we need more founders because founders care, care, care, care. And that line came to mind when I'm reading this."
+    },
+    {
+      "timestamp": "00:53:39",
+      "text": "So here's the punchline. Cause he's talking about the fact that icon was building up this position in Dell and really trying to essentially steal his company from him. Like he started the book in business. This is the punchline because he's talking about the fact that icon was building up this position in Dell and really trying to essentially steal his company from him. Like he started the book in business. This is the punchline. This is the lesson that the Dell is teaching us in business. You could surround yourself with the smartest people. You can plan ahead with the greatest care and intelligence."
+    },
+    {
+      "timestamp": "00:53:55",
+      "text": "But one thing you can count on is that from time to time, you're going to get smacked in the face with a flounder with something that you never anticipated. And this was one of those times. So back to the early days of Dell, I was sitting in the back of a police car wearing handcuffs, my crime going 92 in a 55 mile an hour zone, plus a big enough pile of unpaid speeding tickets that a warrant had been issued for my arrest. The vehicle that had helped me earn all those tickets was a red Porsche 911. I had just turned 20. I was a young man in a hurry. Dell generated"
+    },
+    {
+      "timestamp": "00:54:32",
+      "text": "over $6 million in sales in our first nine months of operation. That number would turn to 33 million at the end of our first full year. Thanks to national advertising and the computer magazines, we were selling to doctors and lawyers and architects all around the country We started to land orders from some fairly big companies like Texaco Ford Monsanto and many others remember what I said about when he was selling subscriptions You know starts with individuals consumer and then goes to the enterprise the enterprise version of that being the condo and apartment You just saw he did the exact same thing here now there., I got to read this to you because it's so wild. Del put out, uh, Michael Dell put out the crazy, one of the craziest tweets I've ever seen."
+    },
+    {
+      "timestamp": "00:55:11",
+      "text": "It says Dell's revenue during our first 16 years. Okay. So it's going to start in 1984 at 6 million. It's going to end in 1999 at 25 billion. I'm just going to read this to you right in order. First 16 years, 6 million, 33 million, 67 million, 159 million, 258 million, 388 million, 546 million, 890 million, 2 billion, 2.9 billion, 3.5 billion, 5.3 billion, 7.8 billion, 12.3 billion, 18.2 billion, 25 billion, the first 16 years of Dell. 99 also stinks when the book direct from Dell came out as well. So started saying, Hey, you know, we'll work locally is obviously going to work nationally. So he drastically expands. And now people all over the country are buying his machines."
+    },
+    {
+      "timestamp": "00:56:02",
+      "text": "And he talks about what this was like. It was, it was just a little bit, make it up as you go along. Maybe more than a little bit. And then he makes a really important point. The fact that constraints are your friend. It's gonna sound a lot like Sam Walton. We didn't start building to the customer's order because we saw some massive paradigm in the future."
+    },
+    {
+      "timestamp": "00:56:19",
+      "text": "We started that way because we didn't have the capital to mass produce. It turned out to be a pretty lucky handicap. And many of the biggest lessons we learned in the company's formative years came about in the same seat of the pants way. We experimented and improvised our way to success. So let me read this to you from Sam Walton's autobiography."
+    },
+    {
+      "timestamp": "00:56:40",
+      "text": "Many of our best opportunities were created out of necessity. The things that we were forced to learn and do because we started out under finance and under capitalized just like Dell. So we said, we started out in these remote small communities. They contributed mightily to the way we've grown as a company. Had we been better capitalized or had we been an offshoot of a larger"
+    },
+    {
+      "timestamp": "00:56:57",
+      "text": "corporation, we might not have ever tried the Harrison's or the Rogers or the Springdales and all those other little tiny towns who went into the early days. It turned out that the first big lesson we learned was that there was much much more business out there in small-town America than anybody including me had ever dreamed of constraints are your friend Michael Dell. We experimented and improvised our way to success. So I want to read you Michael Dell's explanation of he beautifully, in this interview that he gave,"
+    },
+    {
+      "timestamp": "00:57:29",
+      "text": "he beautifully summarizes why this was so fundamental to their success. The idea that constraints are your friends. And he's really describing like why the series of advantages that he discovered. He improvised and experimented in his way to success. He says, something interesting occurred with the personal computer."
+    },
+    {
+      "timestamp": "00:57:45",
+      "text": "There was always new technology and the cost of the material was always coming down. And so if one company has 90 days of collective inventory in its various stages, going from the manufacturer to the ultimate customer. So he's talking about his competitors. His competitors were selling indirect through retail. He was the only one selling direct. So it says, and so if one company is 90 days of collective inventory in its various stages,"
+    },
+    {
+      "timestamp": "00:58:07",
+      "text": "going from manufacturer to the ultimate customer, and another company has five days of inventory between the manufacturer and the customer, which is his setup, right? And the material costs are coming down, well, there's only one company that's going to win because that company has a structural cost advantage. And that is what we had that also he's stacking one advantage on top of another."
+    },
+    {
+      "timestamp": "00:58:31",
+      "text": "This business model also had a way better return on capital because we didn't have to have all the capital employed there in excess inventory, right? The way we came about this is because we didn't have any capital. So we had to invent something that was way more efficient. This direct to the customer model also gave us incredible fidelity in the signal of the demand. If somebody walks into a store, you would have had to have guessed what they were going to buy before they walked in. But if somebody calls us on the phone, we know exactly what they want because they're telling us. And that signal can go back to our supplier in a nanosecond and so you get this very efficient supply chain"
+    },
+    {
+      "timestamp": "00:59:10",
+      "text": "that's also very efficient in its capital return and What is even more remarkable is his competitors look down upon him wait till you hear this It says IBM and compact failed to notice us to them We were just a mail order company in fact in this book I'm gonna pick up the book in the company giants real quick on a read this this interview, what he said about this in 97. And he talks about the fact that they have underestimated he's talking about his competitors, they have underestimated the business model and continue to do so even to this day."
+    },
+    {
+      "timestamp": "00:59:38",
+      "text": "A lot of people just totally misunderstood what we were doing. I remember Rod Canyon, the founder of Compact, telling PC Magazine that he didn't compete with so-called garage shop operations. It's a wonderful quote. I love, there you go. You see that little competitive drive in Michael Dell. You know, this quote that I'm reading, he's almost 30 years old."
+    },
+    {
+      "timestamp": "00:59:59",
+      "text": "He's like, oh, it's great, it's a wonderful quote. I love that you call me a garage shop operation. He continues, being, this is such good advice. Being detached from the customer is the ultimate death. And a lot of these guys, they think their customer is the dealer, which is still amazing to me. So again, Hey, your little garage shop, you know, operation, we don't actually compete with you. We don't actually care. But being underestimated by IBM andq was a wonderful and powerful motivating force."
+    },
+    {
+      "timestamp": "01:00:28",
+      "text": "On the face of this is kind of what I was getting at what I was hinting at when I brought up when the Wright brothers came to mind. On the face of it, it made no sense. Here I was 20 years old, a college dropout with a capital base of $1,000 saying, hey, who wants to come work in this company we're in a we're in a b-minus c-plus industrial park not in the nicest part of austin where the rents were low i was working 16 hour days i had a bed in the back of my office so i could grab a little sleep on the nights i was working not stop and again it says you, in the face of this, it made no sense. But what I jotted down on the margin was those other companies don't have a Michael Dell."
+    },
+    {
+      "timestamp": "01:01:10",
+      "text": "There's a great line that I, that I firmly believe in. I think if you use it as a metaphor, use it as an abstraction, it's really powerful. It's from Napoleon. Napoleon said in war, men are nothing. One man is everything. So his business is succeeding while he is being underestimated. And then something really important happens because remember he damages a relationship with his father and mother temporarily. His grandfather was a successful entrepreneur and he comes down"
+    },
+    {
+      "timestamp": "01:01:36",
+      "text": "and he visits Michael and he says, I proudly showed him the controlled chaos that was our headquarters. He started laughing and laughing and laughing. What is it, Poppy, I asked. Michael, he said, you're a businessman. It was the highest praise he could have given me. Words of encouragement really, really matter. When I read this, I thought of a young Henry Ford, okay? Henry Ford built the most successful American automobile company. People forget that his first two auto companies failed."
+    },
+    {
+      "timestamp": "01:02:06",
+      "text": "And so a young Henry Ford idolized an older Thomas Edison before he knew Thomas Edison. At the time, Thomas Edison's probably the most famous person in America, right? Most famous inventor in the world. Young Henry Ford meets him, tells Thomas Edison about this idea. And I'm gonna mass produce a car for the Car for the Everyman"
+    },
+    {
+      "timestamp": "01:02:23",
+      "text": "and I'm gonna do it with an internal combustion engine, which was everybody was like the gas engine has no future. Everybody knows that cars are going to be electric or steam. So, cause most of the cars manufactured at the time were not manufactured, they were handmade at the time where steam, either steam powered or electric powered. But Henry Ford had belief in his idea. So he tells, he meets Edison and I think Henry Ford"
+    },
+    {
+      "timestamp": "01:02:44",
+      "text": "probably in his late twenties this time, maybe he meets Edison and I think Henry Ford's probably in his late twenties this time, he might be 30 years old by this time, and tells Thomas Edison, words of encouragement matter. He talks about the sobering over again and because Edison says to him, young man, Edison got his idea immediately, young man, that's the thing you have at it, keep at it. And so Ford would talk about, you know, he had a lot of mistakes and trials and tribulations from the time Edison said that to the time he was successful, but he would think back on those words of encouragement. It would push him, you know, it would motivate him and push him."
+    },
+    {
+      "timestamp": "01:03:14",
+      "text": "And so like, you know, the reason I started the podcast talking about the fact that I cannot believe I got this incredible DM from one of his huge entrepreneurs saying like, hey, you're good at this. So again, words of encouragement matter. I try to do this as much as I can to all the people around me. Cause I just see this over and over again. And I just love the idea. It's like, you know, it's going through hell."
+    },
+    {
+      "timestamp": "01:03:30",
+      "text": "I don't think Michael Dell is going to stop no matter what, but just have your grandfather, somebody you love and trust and admire and respect to say, you're doing it, you're doing it. It's the highest praise he could have given me. There's another idea on this, on this, this page, I think it's important to point out for you and I. It's something that, remember the Jensen Wong episode I just did, it's episode 376?"
+    },
+    {
+      "timestamp": "01:03:49",
+      "text": "He has this idea, ship the whole cow. Jensen was obsessed with the book, Innovators Dilemma, and he realized that the threat comes from below. And so his way to offset that was he had this idea of ship the whole cow, I talk about it more in that episode. But we're starting to see that the threat is gonna come from below with Michael Dell in relation to Compact and then IBM because he says we were undercutting them on"
+    },
+    {
+      "timestamp": "01:04:10",
+      "text": "price, way undercutting them. We introduced our first brand name computer. So now he's not just souping up other machines, he's making his own, okay. It was $795. If you got the same configuration from IBM, you would have to pay between $1,500 and $2,500. So then we see his total dedication to this idea. Hey, we're going to cut out the middleman, right? That's how he started his business. We're going to go to the source. In fact, let me read something from you to you rather, indirect from Dell, which is published 20 years before the book I'm holding my hand. He says, it's an early age. I've been fascinated with the idea of eliminating unnecessary steps. So I guess it's not surprising that I started a company based on eliminating the middleman."
+    },
+    {
+      "timestamp": "01:04:50",
+      "text": "He keeps pushing that advantage. He's just obsessed with the eliminating unnecessary steps from a very young age. So he says, to keep growing quickly, we needed to establish direct relationships with the suppliers of all of our principal components. I knew the supply chains for the parts we were ordering were full of markups that I could radically reduce. If I went straight to the source, I wanted to go to the factories where these things were made to Taiwan, Japan, Korea and Hong Kong. So I got on a plane and flew out there."
+    },
+    {
+      "timestamp": "01:05:21",
+      "text": "I was 20 years old, full of energy and curiosity. I was excited. My God, I was excited. There was a whole new world out there just waiting for me to discover it. This is again, it's very obvious if you study, no one could start a business at 18, still work on it, you know, four decades later and, you know, refusing to quit, refusing to just, refusing to stop. Like what are you going to do? Are you going to retire? There's, entrepreneurship is the best game in the world. And so it's obvious from, from reading about him, but I loved my conversation that I had"
+    },
+    {
+      "timestamp": "01:05:57",
+      "text": "with Michael's son, Zach. And one of the main themes there that I think is super important and something that, that motivating to me is just like, he just has a love of the game. He just loves the game. He loves business. He loves talking about it. He loves computers. He loves working on difficult problems. It's the love of the game and I think there's a line where Kobe Bryant was you know Kobe Bryant studied all kinds of top performers and greats in you know art and business and sports and he's like the one thing that we have in common is just like love."
+    },
+    {
+      "timestamp": "01:06:26",
+      "text": "And it's a pure love. It's not a love for the awards, for the money, for the adulation. It's a love of the act of itself, the activity of itself. And you see that it's just like, I was excited. My God, I was excited. And so when I got to this section, it's one of my favorite sentences in the entire book. My God, I was excited. Made me when I got to this section, it's one of my favorite sentences in the entire book."
+    },
+    {
+      "timestamp": "01:06:45",
+      "text": "My God, I was excited. Made me think of Phil Knight again. Phil Knight is, I think it was the 80s by now, maybe late 80s. And when he writes that autobiography, at the very end, he talks about this and he says, my secret regret is that I can't do it all over again. God, how I wish I could relive the whole thing."
+    },
+    {
+      "timestamp": "01:07:08",
+      "text": "It's such a powerful moment in the book. There's something he also says that, the advice of future generations of entrepreneurs that Phil Knight gave, and I've heard a couple other people give, is like, we're in this right now. You and I are in this right now. Write down the experiences you're having."
+    },
+    {
+      "timestamp": "01:07:24",
+      "text": "Write down what you're thinking. Take pictures. Phil Knight's like, the one thing I wish is like, we had so many conversations about the company we were building. And he says something like, they disappeared in time, you know, they just like disappeared. Like they were ephemeral. And he's like, God, how I wish I kept a journal, or I wrote more of this down, I documented more of it, because we're in this right now. and we're going to feel exact. I can just imagine Michael sitting there writing that line. My god, I was excited."
+    },
+    {
+      "timestamp": "01:07:52",
+      "text": "Just as we fill a night saying, you know, my secret regret is that I can't do it all over again. God, how I wish I could relive the whole thing. That's a life well spent. That's not regret. The regret is I wish I could do it again. Where so many people, I think the vast majority of humans that ever lived, get to the end of their lives with the opposite feeling. With, man, I wasted this. It's just so, it's such an important, again,"
+    },
+    {
+      "timestamp": "01:08:15",
+      "text": "I'm just like super hyped up that we just have, there's just this thing with entrepreneurs, they're willing to share because they understand that there's another them that's just like me that is going to go through the same exact stuff I went through and just writing it down and passing on to the next generation. It's like one of the best things you could do. Think about it. You know, I say this a lot. Sorry to repeat myself. Sam Walton, Sam Walton knew he was dying. He was in pain. He talked about it. Cancer all over his body knows the end is near and yet spending some of his very very limited Time left on earth writing his autobiography and documenting everything he learned. It's an incredible act of service Alright, so he says discovering the inner workings of how the supply chain worked was like peeling an onion and going all the way to"
+    },
+    {
+      "timestamp": "01:08:59",
+      "text": "The center ever since I was 13 had been taking computers apart and examining the pieces side now I was actually visiting the plants where these things were being made. By the time I flew back home, I felt like I jumped ahead several levels in the game. Now, they're going to have this idea where they're going to build their first, this is really important. It was the first 286 based PC. He needs a really talented person that can build an Intel based 286 based PC. He needs a really talented person that can build an Intel based 286 microprocessor that's compatible with an IBM PC."
+    },
+    {
+      "timestamp": "01:09:29",
+      "text": "Now he's gonna tell a story here, but I wanna talk about the lesson I think is behind it. This idea that you hire for spikes. David Ogilvy noticed a half a century ago that talent is likely to be found around among non-conformist dissenters and rebels. And what happens is the corporation grows, they kind of like even it out,"
+    },
+    {
+      "timestamp": "01:09:48",
+      "text": "they want like the middle and they miss all the spikes of talent. I'm gonna read this to you and then I'm gonna tell you a story that I think is absolutely fascinating. So he finds this guy named Jay Bell. He says, the better I got to know Jay, the stranger I found him."
+    },
+    {
+      "timestamp": "01:10:02",
+      "text": "I think he might've been manic depressive. He would get these huge bursts of energy and work for 36 or 48 or 72 hours straight and then he'd crash. Daytime or nighttime meant nothing to him. So he is going to be the one that builds this prototype and it's going to be a massive success. And so I heard this story and I've heard this from a few founders but there there is a story that I found incredibly fascinating. And it's on an app that is one of the most successful consumer apps of all time. You have highly likely used this app."
+    },
+    {
+      "timestamp": "01:10:32",
+      "text": "The story was there was a world-class designer, maybe the best designer that they could have found in the world at the time. Also either manic depressive or schizophrenic, but definitely alcoholic. But he was so gifted that the founder realized that the only way he could get this designer to work is he'd have to sit down next to him while he works. And if the founder got up and went to a meeting or what else, the guy would disappear, he'd fly out to the wind."
+    },
+    {
+      "timestamp": "01:11:02",
+      "text": "Sounds like J-Bell. There's stories in this book where this guy's like the cops are coming to the, uh, to the office because he's tripping out alarms and it just happened to be because Jay decided he just wanted to go to work at three in the morning. And he'd have, you know, go for 42, 72 hours straight. So everybody around this founder was saying like, is this a bad use of your time, like the CEO has to sit there and babysit them and the founder knew that, you know, talent wins. Talent always wins."
+    },
+    {
+      "timestamp": "01:11:25",
+      "text": "And so he's like, no, it's actually a great use of my time because this guy's gonna design, you know, every single pixel that in the future, hundreds of millions of people are going to see. And so it's actually a really good use of time. Now he also understood that what's the chance that this guy's working at the company in five, 10 years from now? Zero, zero."
+    },
+    {
+      "timestamp": "01:11:40",
+      "text": "But I'm able to get an immense amount of talent out of him. And so if I just sit next to him him and that's what happened, like actually sat next to him and completed and completed the job. And then of course, when that stopped happening, the guy like disappear and like flew to the wind, they try to help him as much as possible. But you know, some of the best talent is very spiky. Let me go back to Nolan Bushnell, who I mentioned earlier. You know, he knew Steve Jobs and Wozniak were really talented."
+    },
+    {
+      "timestamp": "01:12:03",
+      "text": "They had two things. He's like, Steve's like, I'll work at Atari, but I have to sleep in the office. And everybody around Nolan told him, no, you can't let this guy sleep here. He's like, no, I think that like they're talented. And so he just realized like, oh, this guy's spiky. And he smelled really bad"
+    },
+    {
+      "timestamp": "01:12:16",
+      "text": "because he wouldn't wear deodorant and stuff when he was younger. I'm gonna make an exception and I let the two Steve's sleep at the office. So again, this wind up working out really well because the thing that J Bell created is the circuit board became the basis of the 286 computer that we introduced in March 1986 which was an instant hit. So again, I think a big corporations like Jay, you're kind of crazy, what's going on, startups, founders, like no this guy's"
+    },
+    {
+      "timestamp": "01:12:40",
+      "text": "talented. Like we're going to you know make exceptions here. We're gonna we're just gonna deal with, we have to take the good with the bad. Steve has this great line again, Steve Jobs has this great line where he's like, people are packaged deals. You have to take the good with the bad. You can't isolate them."
+    },
+    {
+      "timestamp": "01:12:52",
+      "text": "And so it says, as crazy as it seems, our hot little company was also in big trouble. Though our sales were booming, our finances weren't. Almost all the revenue that came in went right into payroll and parts. Our bank credit was stretched very thin. In reality, far thinner than I knew. This is how Michael Dell and Dell saw this problem."
+    },
+    {
+      "timestamp": "01:13:09",
+      "text": "I owned 100% of the stock of the company. There were no other founders, there was no venture capitalists or no other board of directors. I needed somebody with the kind of experience running a company that I didn't have. So he meets this guy, he's a very successful businessman. Sometimes he's described as an entrepreneur,"
+    },
+    {
+      "timestamp": "01:13:21",
+      "text": "sometimes he's described as a venture capitalist. His name is Lee Walker. He is 45, I think, at this time that Michael is 21. So he's gonna recruit Lee Walker to be president. This is very important. It's a turning point for the entire company. So at the time Michael meets Lee, Lee was trying to take it easy. He's like, you know, had a very stressful, high-strung career, very successful. They went to meeting, they have dinner with a few other people, and then a day or two later, Michael just"
+    },
+    {
+      "timestamp": "01:13:44",
+      "text": "shows up, pops up at his house, decides to have a conversation with them and then says, hey, would you like to be president of my company? And this is one of the reasons why. Lee was the first person I'd ever encountered who could understand the business, really understand it. He got it. He instantly grasped our supply chain advantages"
+    },
+    {
+      "timestamp": "01:13:59",
+      "text": "and disadvantages. He grasped our entire business model. So I was very curious. I was very curious. I was like, what ever happened to Lee? And so I found this interview with him. Lee is now, in this interview, he was 83 years old. Okay?"
+    },
+    {
+      "timestamp": "01:14:11",
+      "text": "And I'm just gonna pull out a few highlights from this interview. He goes, he's asked the question, did you think that Dell, the company, would ever get to be 40 years old when you first talked to Michael? This is really important because on the Ken Griffin episode, if you remember, he's talking about that book, Hardball,"
+    },
+    {
+      "timestamp": "01:14:26",
+      "text": "that are you playing the play or are you playing to win? And Ken's thing is like, no, you wanna win by a landslide. You wanna take what you're doing very seriously. And he was talking about one of the entrepreneurs, Ken was talking about one of the entrepreneurs he admired was Michael Dell. He said, Michael was manufacturing computers in America"
+    },
+    {
+      "timestamp": "01:14:41",
+      "text": "and he won. You know how hard that is? And so now we have Lee Walker first president of Dell and he's asked you know now he's let's see He's 45 when he starts. I think he leaves the company 49. So this is you know 30 years later Did you think that Dell the company would get to be 40 years old when you first talked to Michael? He was one doesn't think in those terms. It's not that I didn't think it wouldn't the perishability He's again speaking to how difficult it is what't. The perishability, he's again speaking to how difficult it is what Michael achieved. The perishability of companies"
+    },
+    {
+      "timestamp": "01:15:08",
+      "text": "is so extreme that if you would bet on any company being around 40 years, especially one in as difficult and competitive an area as the PC, that would have been a very foolish bet. What Michael has accomplished is amazing, just absolutely amazing. And so Michael talks in the book, I asked Lee to come on. He said, no. And so on the followup in this interview, it's like, well, what made you change your mind? And he says, Michael was 21 at the time, I was 44."
+    },
+    {
+      "timestamp": "01:15:35",
+      "text": "Michael was the son I never had. So I think there was a paternal instincts that came out. I think that's part of it. I think part of it is also, it was a damn fine puzzle. It looked like to many of us, the emergence of the automobile industry. This is very fascinating, because I've done like a 13 part series"
+    },
+    {
+      "timestamp": "01:15:52",
+      "text": "on all the automobile founders. And what you learn about the American automobile industry is that I think they started, there was 2000 car startups and three survived. So I didn't even draw that analogy like Lee did. And I think it's pretty, pretty apt. There'd be hundreds of companies in the beginning and just maybe several that would emerge. It was just an interesting puzzle as far as who might emerge out of the pack and what"
+    },
+    {
+      "timestamp": "01:16:12",
+      "text": "it takes. He says, I just love puzzles. And this was a particularly difficult puzzle because Michael had a thousand dollars in capital. There were no resources. It had to be through ingenuity and hard work. We were up against IBM and compact the competition was immense in size They were sophisticated and they had tremendous resources"
+    },
+    {
+      "timestamp": "01:16:31",
+      "text": "We had two board of directors Michael and me and so one other thing I just want to pull out of this the most important idea at the beginning of company was the idea that was born out of necessity So he says the one idea that we had and it was born out of necessity, you know constraints breed imagination. Since we were constrained by finance, we would start building a customer's computer after the order. The constraint of building them to order one at a time"
+    },
+    {
+      "timestamp": "01:16:55",
+      "text": "turned out to be brilliant because we created a system where we were mass producing one at a time, which sounds like a contradiction in terms. When the large corporations came to visit us, they were stunned at how sophisticated we were in terms of our ability to mass produce. Not just generically, each computer had an identity."
+    },
+    {
+      "timestamp": "01:17:15",
+      "text": "It had a destination. It had a customer. I think in the spirit of your question, the direct thing was key. So back to this book. Lee Walker changed his mind. And to this day, I don't fully understand why. In his shy and modest way,"
+    },
+    {
+      "timestamp": "01:17:28",
+      "text": "he'll mumble something about having once been in the same spot himself. Because I started with a company with only $1,000 of invested capital, as contrasted with the only almost 100 million that compact or rival had raised from their investors, I had to figure out how to stretch the limited capital we had to the max."
+    },
+    {
+      "timestamp": "01:17:43",
+      "text": "And I got pretty good at it. So what he's talking about, and this has been studied in business schools over and over again is the fact that Dell had a negative cash conversion cycle. Dell receives payment from their customers before they have to pay suppliers. Now here's the problem. When you start selling to enterprises, into governments, into large organizations, you have to extend credit. Dell didn't have any money in their bank account."
+    },
+    {
+      "timestamp": "01:18:03",
+      "text": "I forgot, I can't remember the number, but I think they were doing like, I don't know, 60 million a year in sales or some crazy number like that. And they had like 200 grand in their bank account at one time. It was a wild, like jaw dropping number. So he says, credit card sales, paying suppliers on terms, stripping parts inventory to the bone."
+    },
+    {
+      "timestamp": "01:18:21",
+      "text": "All of these things kept our cash conversion cycle far lower than most other companies. This was very good. On the other hand, our fastest growth was selling to companies, government agencies, and education and medical institutions. Entities that were not gonna pay us with credit cards. We needed to extend the terms,"
+    },
+    {
+      "timestamp": "01:18:38",
+      "text": "which meant we needed more credit, a lot of it. His bank at the time would only finance about six days of sales. You can't survive on that. Money was sorely needed and Lee Walker knew how to get it. From the day he walked in the door, we shifted into a brand new gear. Again, this is why the reoccurring theme, when you read these biographies, they keep talking about, hey, you really need to work with the best people you can. You can never, ever forget the dynamic range of people."
+    },
+    {
+      "timestamp": "01:19:02",
+      "text": "Lee becomes the president. He says he worked quickly to establish his value, bringing his expertise and his business connections to bear. Lee had recently helped usher a failed computer company through chapter 11, making sure that the company's financial backer, Texas Commerce Bank, got back every penny."
+    },
+    {
+      "timestamp": "01:19:18",
+      "text": "The president of TCB and a friend of Lee's was so grateful, he happily extended a new line of credit to Dell. Lee Walker could go to people like Frank Phillips at Texas Commerce Bank and say, look, Texaco, Exxon, Tento, all these companies, not to mention the US government, they all owe this company money. Give us a loan based on all these receivables. And the bankers would say, okay, Lee, we don't know about the kid, but we trust you. So eventually, Michael and Lee figure out, Hey, we need to take the company public. It's a natural"
+    },
+    {
+      "timestamp": "01:19:48",
+      "text": "progression. And it's going to be the only way to access the kind of capital we need. And he says when they were talking these discussions right about this time, investment banks start to call. So they eventually select Goldman to do their IPO. Goldman says we shouldn't go public just yet. They recommended a private placement 20 to 30 shareholders among financial institutions, high net worth individuals and various funds. Then came black Monday, October 19 1987, the stock market lost 23% of its value in a single"
+    },
+    {
+      "timestamp": "01:20:14",
+      "text": "day. When Lee came into my office to give me the bad news, he was convinced our private placement had gone kaput. I was busy at one of my favorite pastimes taking apart a competitor's computer to see how it stacked up against ours. That is why you win. It was a funny thing that that story reminded me of what Sam Walton was doing on Black Friday. This is the level of commitment and you know, just focus to my business that I would want. Sam Walton gets asked a question by a reporter on Black Friday, you know, because at the time I think he was worth I don't know, like $6 billion or something on paper. And his net worth, you know, dropped by over a billion."
+    },
+    {
+      "timestamp": "01:20:50",
+      "text": "And he was asked like, how do you feel that you've lost over a billion dollars today? And Sam goes, I hadn't heard of it. To see a young Michael Dell doing the same thing is like I can't control the stock market, but I'm going to do what I do best, which is take apart a computer and see how we can improve. As it turned out, out of literally hundreds of finance things that were in the process that Black Monday, ours was the sole survivor. There was no one else quite like us. And because you just couldn't argue with the underlying financials,"
+    },
+    {
+      "timestamp": "01:21:12",
+      "text": "if you got something that's growing 100% a year, that's at least telling you that people like it. At the time they're doing business as PCs limited. At first, he's like really leery of naming the company after himself. The way I think about it, it's like some of the people I most admire are some of the businesses and the business I most admire, like they're named after the person. And I think there's something to that, like James Dyson, Bloomberg, Dell. It's almost like a way of burning the boats, right? You can't get another, I guess you could get a new last name, but you're not going to. So he's like, well, what if we went under, like so many other computer companies"
+    },
+    {
+      "timestamp": "01:21:44",
+      "text": "in the mid to late eighties, then Dell could have this negative connotation. And so he says, I kept thinking about a tech entrepreneur named Adam Osborne, who in the early eighties had come up with a portable computer called the Osborne One. The machine was very popular for a while until he announced the imminent release of an upgraded model."
+    },
+    {
+      "timestamp": "01:22:01",
+      "text": "The problem was that the internet release of the upgraded model wasn't imminent enough. In anticipation of the new computer, people immediately stopped buying the Osborne 1 and revenues stopped flowing. With no new product in the pipeline and a lot of suppliers to pay, Mr. Osborne went bankrupt. Business writers dubbed the fiasco the Osborne Effect. That is not the way that you want to be remembered. So I have a funny Adam Osborne story that comes from this way that you want to be remembered. So I have a funny Adam Osborne story that comes from this book that was written a long time ago."
+    },
+    {
+      "timestamp": "01:22:29",
+      "text": "It's written by Michael Moritz on like the first, the history of first like six years of Apple when the book ends. Steve is still at Apple the first time and Steve Jobs is quoted in that book with his own Adam Osborne story. He says, Adam Osborne is always dumping on Apple. He was going on and on about Lisa and when we would ship Lisa, and then he started joking about the map. I was trying to keep my cool and be polite, but he kept asking, what's this Mac we're hearing about?"
+    },
+    {
+      "timestamp": "01:22:53",
+      "text": "Is it real? He started getting under my collar so much that I told him, Adam, it's so good that even after it puts your company out of business, you'll still wanna go out and buy it for your kids. And so let's go back to this idea where he was asked like how many hours are you working? He said all of them. He's still human."
+    },
+    {
+      "timestamp": "01:23:09",
+      "text": "Still everybody has a desire for relationships and you know, not, you can't just be all work all the time. I've been happily working 16 hours a day, eating in the office, sleeping at the office. My work was my life. I had an enormous desire to succeed, but I was human and I knew something was missing from my life. A salesman of one of our chip suppliers said hey My dad said you should meet this girl Susan Lieberman. So he winds up meeting Susan they get married"
+    },
+    {
+      "timestamp": "01:23:33",
+      "text": "Susan plays a major part in his life in his company. He's she's his biggest confidant. They're still married to this day They have four kids that love both their parents and talk about the fact that they have such a great relationship And they built a model for a happy marriage for their kids and Michael tells a story about their first date He says 30 plus years later. We're still walking and talking self Dell files to go public They've been in business for four years from founding to pub being public in four years at the IPO I think Michael owned 70 over 73 is around 73% of Dell when it went public in 1988. Now, got to the part about IBM that I referenced earlier. So a mistake that they do, I think, is part of human nature, part of, you know, you see"
+    },
+    {
+      "timestamp": "01:24:18",
+      "text": "this reappearing in a bunch of large companies or established companies. They just couldn't imagine a future different from the world that they succeeded in. There's a guy named Glenn Henry who was an IBM fellow. That was the distinction of the highest order at one of America's most distinguished companies, okay? Glenn Henry lives in Michael Dell's neighborhood and just read about his IPO. And he goes to Dell and says, hey, I wanna work for you."
+    },
+    {
+      "timestamp": "01:24:41",
+      "text": "And so he says, offering the jump ship and work for me was a big deal. He had been at IBM for over 20 years. As Glenn described it to me, IBM management looked down their noses at the PC. They thought the PC would make a great terminal to a mainframe, period. Glenn, on the other hand, saw the personal computer"
+    },
+    {
+      "timestamp": "01:24:59",
+      "text": "as a game changer. At the time, there were maybe a couple million PCs in the world. He saw that number growing to billions, as did I. So, this is, there's a couple of things to jump out here. So, thinking about when this is happening and when it looked up market cap. So, in 1987, IBM's market cap was $100 billion. It was the first company to break the $100 billion market cap threshold,"
+    },
+    {
+      "timestamp": "01:25:21",
+      "text": "which was surprising to me, I didn't know that. And it was the most valuable company in the world. The most valuable company in the world was getting it wrong. They could not imagine a future different from the world that they succeeded in. And this is why there's always opportunity and there will always continue to be opportunity"
+    },
+    {
+      "timestamp": "01:25:38",
+      "text": "because a business is just an idea that makes someone else's life better. And there's infinite ways to make somebody else's life better. Then he talks about taking on Compact. Play nice but win, especially versus Compact. They started out a couple of years before us with much more venture capital."
+    },
+    {
+      "timestamp": "01:25:53",
+      "text": "They had super smart engineers, powerful R&D, and a special partnership with Intel. Every advance in microprocessors where Intel enjoyed a monopoly went to Compact first. Yet Compact had no price advantage. Their operating costs were 36% of revenue as contrasted with our lean and mean 18%. They sold through retail stores only. We knew we could beat them on price and with our build to order model on"
+    },
+    {
+      "timestamp": "01:26:18",
+      "text": "flexibility, we were the cheeky outsiders with the killer business model. So they started running ads about this and they reflect it as like a David verse Goliath theme. Advertising was crucial to us. I knew from personal experience how much attention tech people paid to the ads in PC Magazine and PC World because he was one of them, right?"
+    },
+    {
+      "timestamp": "01:26:37",
+      "text": "So then he says, hiring a world-class ad agency would be expensive, but Lee and I deemed the expense to be worth it. And it was. We more than doubled our advertising budget He says, hiring a world-class ad agency would be expensive, but Lee and I deemed the expense to be worth it. And it was. We more than doubled our advertising budget when we signed with Shiott Day, which is also the firm that Steve Jobs used for Apple."
+    },
+    {
+      "timestamp": "01:26:55",
+      "text": "The results were very much worth it. We went from 69 million in 87 to 159 million in 88, and then 257 million in 1989. Competitive, lean, aggressive underdog 159 million and 88 and then 257 million in 1989. Competitive, lean, aggressive underdog that wants to win. That is where we are in the story of Dell. The next section, the founder is the guardian of the company's soul. It is an extension of who they are as a person."
+    },
+    {
+      "timestamp": "01:27:18",
+      "text": "You know, it's a great line where it says, Apple was just Steve Jobs with 10,000 lives. I used to describe that as, it's the importance of building a business that's authentic to you. Michael000 lives. I used to describe that as, it's the importance of building a business that's authentic to you. Michael gave me a better way to describe this. You build a business that's natural to you. So it says in 1990,"
+    },
+    {
+      "timestamp": "01:27:33",
+      "text": "Inc Magazine named me its very first entrepreneur of the year. Lee Walker said some very nice things about me in the company piece. This is so important. What Michael Dell does, he said, is so natural to him and flows so spontaneously from him. He has so clear a vision of where he is headed that he can rise above the background noise and avoid the pitfalls that typically take entrepreneurs down. Lee was also being modest. He was responsible"
+    },
+    {
+      "timestamp": "01:27:55",
+      "text": "for getting us past any number of pitfalls. But as winter turned to spring, he told me it was time for him to go. Being president of Dell Computer had been a 5 to 9 job, he later wrote. Michael Doe gets energy from this. Look at what he said. It's so natural to him. It flows so spontaneously from him. Where the same exact business broke Lee down. And so this is what he talked about it. It required hard personnel decisions, financial attention, trade-off, strategic direction, country by country implementation, and endless domestic tactical operational issues I had forgotten that I hadn't wanted to do this in the first place"
+    },
+    {
+      "timestamp": "01:28:29",
+      "text": "I got caught up in the richness of a multi-dimensional puzzle got swept up in the competitive fray of defeating IBM and compact I forgot that once upon a time great clumps of my hair fell out and my back ached terribly When I was starting my own business. Michael and I were such different personalities. He was one of those business people who thrived on the stress of international high-tech competition. I was not."
+    },
+    {
+      "timestamp": "01:28:56",
+      "text": "That impossibly complicated arena gave him energy. It is natural to him. It had beaten me down to the point that I wasn't physically or emotionally strong enough to continue. And part of me down to the point that I wasn't physically or emotionally strong enough to continue. And part of this has to do with the fact that it's not business for founders, it's always personal. And this little anecdote of another run-in with Carl Icahn after Dell beats him, he says, Icahn really did call. Michael, it's a hard fight but you won fair and square. He said, conveniently"
+    },
+    {
+      "timestamp": "01:29:21",
+      "text": "forgetting all the times he insulted my leadership, and by extension, me personally, accusing me in the most public way possible of sheer incompetence, not to mention all kinds of corporate finagling and malfeasance. What I was really thinking was you came after this company, the thing that means more to me than anything in the world except my family,"
+    },
+    {
+      "timestamp": "01:29:41",
+      "text": "and you lost, pal. I sincerely hoped to never see or hear from him again. Back to the importance of self-belief, back to the importance of making no small plans. In 1991, we entered the Fortune 500 at number 490 with sales of $546 million, a very proud moment for me. We'd been in business for just seven years. I was 26 years old."
+    },
+    {
+      "timestamp": "01:30:04",
+      "text": "Could I have imagined such a thing as a kid perusing copies of Fortune magazine? Okay, I'll admit it that I could have. I always did dream big, but I didn't even think my ambitious younger self could foresee the threshold where we stood. Our sales for the year that ended 1992 hit $890 million. The fabled billion dollar barrier seemed reachable and breachable. And then he mentions again, something that I've seen over and over again, founders need a supportive spouse or no spouse at all is the way I put this. His wife was supportive from day one."
+    },
+    {
+      "timestamp": "01:30:41",
+      "text": "1993 was our ninth anniversary as a company. Susan and I had been married for just two and a half of those nine years. She understood my laser focus on the company, my frequent distraction. If you want to win an Olympic gold, you have to be fanatical. It's interesting he used the word fanatical. A few weeks ago when I did the Todd Graves, uh, Raising Cane's episode, Todd said, nothing ever happens unless someone pursues a vision fanatically. And then I think another important reason to pick up the book and read the whole thing is because he talks about like,"
+    },
+    {
+      "timestamp": "01:31:12",
+      "text": "when you're scaling like this, essentially you're building a completely different company. It's not the same thing. And it's just, you have to constantly be going and redoing all of your systems, all the different people. And so he says, we breached the fabled billion dollar barrier. We posted sales of not one billion, but $2 billion. The systems and tools required to run a billion dollar"
+    },
+    {
+      "timestamp": "01:31:32",
+      "text": "company are very different from those needed to run a hundred million dollar company. We were outgrowing everything, our abilities, our systems, our people, and our capital structure. Our rapid expansion had meant lots of new hiring in every department. In five years, they went from 650 people to 5,000. I was just beginning to realize that the people who got us from point A to point B"
+    },
+    {
+      "timestamp": "01:31:52",
+      "text": "might not be the same people who can get us from point B to point C. So I was thinking about this when I got to this part because everything's falling apart. Again, from the outside, you look wildly successful. You're in the Fortune 500, you're entrepreneur of the year. Inside, everything's breaking. My friend Brent Breshor has this permanent capital holding company and he buys a ton. He sees a lot of different businesses and he's got a great quote on this."
+    },
+    {
+      "timestamp": "01:32:12",
+      "text": "So for every like one acquisition that Brent does, he looks at something like 15,000 companies. It's like, it's an insane number. And I text him about this. It's like, dude, don't you have like this great, uh, quote about like all companies being held together by Ducktape or something? He says, all businesses are loosely functioning disasters."
+    },
+    {
+      "timestamp": "01:32:30",
+      "text": "Some just happen to make money. If you're reading this, like I think back to the early days of Delaware, he's got orders on clotheslines going through cubicles. Now you know, he's hired, he's what almost 10x his people in like five years, everything's breaking and then listen to the story, just hilarious. So we hired a senior VP of human resources. We're gonna call him Ted, right? And so one of his other vice presidents"
+    },
+    {
+      "timestamp": "01:32:55",
+      "text": "comes to Michael one day and he goes, oh dude, we got a big problem. You have to sit down for this one. And the guy goes, we have a problem with Ted. Ted has hired somebody on the second shift in IT. And Michael's like, okay, so what's the problem? He goes, well, we don't have a second shift in IT. And Michael goes, have you asked him about it?"
+    },
+    {
+      "timestamp": "01:33:10",
+      "text": "And he goes, it's a little more complicated than that. She's a stripper. It turned out that Ted, who was married and had kids, had given a no-show job to his girlfriend, the stripper, and the girlfriend decided she wanted more money, so she came to the company and said she needed a good chunk of change to go away. Needless to say, it was Ted who went away. And then there's just an excellent,"
+    },
+    {
+      "timestamp": "01:33:29",
+      "text": "excellent line in the book says many people don't reach their greatest potential because they fear failure in avoiding failure. They deprive themselves of a great teacher. And so in 1993 Dell pushes, he's like, Hey, we, we got to get into servers. This is an existential threat to our company. It's going to remind me a lot of like Ken Griffin's hardball strategy. It's discussed in that book hardball as well. So he says in 1983, gave a presentation on why we needed to go into the server business in a big way."
+    },
+    {
+      "timestamp": "01:33:54",
+      "text": "And then why and if we didn't, it could be real trouble. One of the most striking things about the server market was how profitable was margins much, much higher than those on PCs. Compaq was offsetting the small profits it made from selling its PCs with the rich profits its server business brought in. We calculated that if Compaq was left alone in the server sector, they would have so much profit that they could use it to attack the PC market"
+    },
+    {
+      "timestamp": "01:34:18",
+      "text": "and put us out of business. Another thing that he got to really, really early and really, really fast is we're gonna set up our own website and then sell over the internet. And again, I think one of the main themes when you study Michael Dell is like, it makes sense to me. If it makes sense to me, it doesn't matter that other people aren't doing it. He's very comfortable trusting his own judgment. So he says in 1994, there were just 2700 websites in the world. And one of them was dell.com. At the beginning customers were unaccustomed to buying this way. They were leery about putting their"
+    },
+    {
+      "timestamp": "01:34:49",
+      "text": "credit card numbers out there. Our website began selling PCs and notebooks in June 1996. At the end of that year online sales reached a million dollars a day. By the end of 1996 it seemed that just the sky was the limit. So I'm gonna go to 97. There is a section I think is really important because he's talking about you know obviously admired C jobs. They try to work on a few things together. They couldn't get it to work out but there's something in this well let me just read what Dell says first before I pull up this quote from Andy Grove and Dell says it's hard to imagine today. He's describing what was taking place in 97. It's hard to imagine today. But back then 10 years before the iPhone,"
+    },
+    {
+      "timestamp": "01:35:29",
+      "text": "Apple really was an underdog. They were truly fighting for its life. It was rare to see any mention of the company that didn't begin with the phrase like trouble plagued are close to bankruptcy. So there's an excellent quote. Again, highly recommend you buy both this book and this fantastic book that I'm holding my hand right now called in the company of giants. It's interviews with two Stanford MBA students from in the late nineties interview, like 16 tech company founders and Michael Dell's in the book. Steve Jobs is in the book, Bill Gates, Bill Hewlett, Andy Grove."
+    },
+    {
+      "timestamp": "01:36:01",
+      "text": "It's just absolutely, absolutely excellent. And I want to pull out one thing that Andy Grove said, cause at this time, he was thought to be, you know, the best, maybe the best tech CEO of all time. And he says, the important thing to realize is that a lot of major business decisions are not that obvious. In retrospect, they might be but not when you're looking forward. Remember, he is writing, he is being interviewed in 97. If you read the newspapers about Apple, what they're going through is very similar. Nothing is obvious about Apple other than the fact that they're in trouble. That's very obvious. But what to do about it is not obvious. If you lined up three or four of the people in your book and gave them a blank sheet of paper that said if I were CEO of Apple, I would blank, each would have a different answer. This is again, I think it's so important to read from history, especially like period pieces where you could see what their opinion was at the time."
+    },
+    {
+      "timestamp": "01:36:51",
+      "text": "Very interesting. All right, we kept winning. Later that same month in October, 1997, sales of our servers, PCs, notebooks, and peripherals kept going ever upward. In 1998, with over 12 billion in sales, we surpassed IBM and Apple to become the second biggest PC company in the world."
+    },
+    {
+      "timestamp": "01:37:07",
+      "text": "Only Compaq now stood above us, and we had them in our sights. Our sales climbed to $18 billion in 1999 and $25 billion in 2000. And then of course, then you're going to have the dot com bubble. January 3rd, 2000, our stock price was $50. On the last trading day of that year, it was $17. Our earnings fell short of Wall Street and internal expectations for five consecutive quarters. And in 2001, we had to do our first round of layoffs ever,"
+    },
+    {
+      "timestamp": "01:37:35",
+      "text": "letting go about 5,700 people in total. But they were very, very hard to kill and had to do with that business model. Yet the truth is the dot-com bust hit us less hard than it did other companies. To a great degree, our lean and fast business model and our relative independence from traditional sales channels insulated us from the troubles"
+    },
+    {
+      "timestamp": "01:37:53",
+      "text": "that befell our bigger, slower moving competitors. Our revenues fell only by 2% in 2002, but our market share grew. And when I got to this section, I had a funny thought. I was like, oh, Charlie Munger, would you be proud of Michael Dell? In Port Charlie's domino, Charlie's kids were interviewed and they said that durability was a first rate virtue in their father's eyes."
+    },
+    {
+      "timestamp": "01:38:14",
+      "text": "And he has this great line about this. This comes from the book, Damn Right, which was a biography of Charlie Munger. It says, Munger expressed this conviction clearly stating, it's a crime in America to build a weak bridge. How much nobler is it to build a weak company? In Munger's view corporations should be designed with the same engineering principles as physical infrastructure built with redundancies and backup systems to withstand extreme stresses. That's exactly what Michael"
+    },
+    {
+      "timestamp": "01:38:41",
+      "text": "Dell just described to you and I. He built a company that had redundancies and backup systems and a business model that was lean, that was able to withstand extreme stresses. So that was the first 16 or 17 years of the company. I want to talk a little bit about taking the company private and again, accomplishing things that no one else had accomplished, accomplished before Michael Dell's really fascinating. Before I get there, I always said that if you love what you do, your extra extra strategy should be death. Michael takes it It's really fascinating. Before I get there, I always said that if you love what you do, your extra strategy should be death."
+    },
+    {
+      "timestamp": "01:39:06",
+      "text": "Michael takes it to a different level. So, it says, why didn't you just walk away? It was a question more than one person asked me after the battles of 2012 and 2013. Why not simply leave behind all the headaches of trying to buy back your own company? I could afford to walk off into the sunset or start another company, build a new legacy."
+    },
+    {
+      "timestamp": "01:39:23",
+      "text": "A reporter asked me the question soon after we went private and I gave her a simple answer, one that came straight from the heart. I didn't want another company. This was the one with my name on it. I will care about this company after I'm dead. I love this stuff. It's fun for me. So yeah, you're actually one thing to say your extra strategy is death another level to say I'm gonna care about this after I'm dead So Dell is going to complete the largest technology buyout ever. They take the company private in 2013 $24.4 billion. I it's it's even hard to comprehend what happens next just two years later in 2015 Dell acquires EMC for 67 billion dollars the largest ever acquisition in the technology sector In 2015, Dell acquires EMC for $67 billion,"
+    },
+    {
+      "timestamp": "01:40:06",
+      "text": "the largest ever acquisition in the technology sector. EMC owned VMware. They are going to spin VMware out as its own separate company. And in 2022, after the book is completed, Broadcom is going to buy VMware for $61 billion. And what I was told was that Dell took a bunch of, this wind up being like a bonanza for them"
+    },
+    {
+      "timestamp": "01:40:30",
+      "text": "because they took a bunch of the payment in stock. And since then Broadcom stock is up by like 3X. So that is where we're going. I just want to pull out, again, the book has a lot more detail. I just want to pull out a couple of interesting ideas that I think are applicable to you and I, and just give a sense of what Dell was thinking."
+    },
+    {
+      "timestamp": "01:40:45",
+      "text": "Go back to that idea, he says, make no small plans. He goes, literally his acquisition target is the number one person, the number one company, okay? He says, to acquire a company that has been number six, and he's explaining his thinking, which is very valuable. And I've been telling this story a lot at dinners in the past week or two. To acquire a company has been number six or seven"
+    },
+    {
+      "timestamp": "01:41:01",
+      "text": "in its field, and to take it to number two or three, or even vaulted to the number one was almost impossible. Companies with leadership positions, if they continue to invest and serve their customers well are hard to unseat. It is not impossible, but it rarely occurs. I kept thinking about EMC and VMware who together were well on their way to becoming the most important company in the IT infrastructure universe. Keep that in mind when Jensen describes what Dell accomplished."
+    },
+    {
+      "timestamp": "01:41:30",
+      "text": "That's very important. They were well on their way to becoming the most important company in IT infrastructure. This is remember he advised the company in 2015. The biggest, boldest prize would be EMC VMware. Make no small plans. He's applying his own advice, right? So we're going to go for the very top. And so the other alternative was, he calls it a string of pearls."
+    },
+    {
+      "timestamp": "01:41:49",
+      "text": "We're like, hey, we could just do a couple like smaller acquisitions and put them all together. Would that be better? It would be a better company, would it be cheaper? How can we do this? It says, why not just buy a few storage and virtualization startups and integrate them into Dell? People would said it would cost vastly less"
+    },
+    {
+      "timestamp": "01:42:03",
+      "text": "than acquiring EMC and VMware. And he makes the great point because you'd go and talk to his own engineers, then you talk to customers of these people, and this great line, customers are always the ultimate judge and jury. I met with each of the companies planning to challenge both EMC and VMware"
+    },
+    {
+      "timestamp": "01:42:20",
+      "text": "to see if a string of pearls plan might make any sense. And what I found was that while some of these startups had interesting ideas, they were far from being able to deliver them at scale, nor did they show any evidence of being able to integrate well with each other. All these companies were also losing enormous sons of money, where VMware and EMC were making a ton of money. At the same time, they were valued astronomically."
+    },
+    {
+      "timestamp": "01:42:40",
+      "text": "And our acquisition strategy to date had already taught me it was highly unlikely you could acquire a bunch of startups that would challenge an industry leader like EMC VMware. EMC VMware's price tag had a lot of zeros in it, but relative to the company's current cash flow and our projections of their future profitability, that valuation seemed like a bargain. Such an important point from the outsiders. That's expensive To Dell's perspective, it's cheap. And if you factor in, you go back to those numbers we just talked about, he inquires the whole thing,"
+    },
+    {
+      "timestamp": "01:43:09",
+      "text": "EMC and VMware for 67 billion, few years later, spins out just VMware for 61 billion. Obviously Dell was right. And this was a huge swing. They were gonna have to borrow $50 billion. There's a hilarious story I need to bring this, I wanna tell you. They were meeting with the EMC board to see if they're gonna approve the merger, right? There's a hilarious story I need to bring this. I want to tell you."
+    },
+    {
+      "timestamp": "01:43:25",
+      "text": "They were meeting with the EMC board to see if they're going to approve the merger, right? And Dell brings with him Jamie Dimon, okay? And so one of the board members, they're having this meeting, Jamie sitting there quietly, one of the board members asks a question, gives Michael a serious look. And he goes, do you have the money? We're talking about a lot of money. And Dell says, before I could say a word, Jamie spoke up. Yes, they have the money, the stature and credibility of the man who had spoken sank in, it was a moment that I will never forget and something for"
+    },
+    {
+      "timestamp": "01:43:59",
+      "text": "which I'll always be grateful to Jamie. And then I think the best description of this radical transformation that Dell pulled off and the future value it's going to create, the stuff that he was doing 10 years ago, 15 years ago, 20 years ago, is paying dividends, will continue to pay dividends well into the future. I actually think the best description is I found this interview with Jensen Wong and Michael Dell. And he talks about, he does the greatest summary of this."
+    },
+    {
+      "timestamp": "01:44:24",
+      "text": "He says, there's no one better at end-to-end systems at scale than Dell. This is a really important time. We've re-engineered and reinvented every layer of computing from the chip to the operating system to the system servers, to the way these data centers are put together. There's only one company in the world"
+    },
+    {
+      "timestamp": "01:44:41",
+      "text": "that has the ability to build the computing system, the storage system, the networking system, all of the software that goes along with it and the path to the world's enterprises, Dell. This is why, I needed to do this episode. I'm trying to build and tell these stories about these great entrepreneurs, these people that found what they wanted to do"
+    },
+    {
+      "timestamp": "01:45:01",
+      "text": "and they stuck with it for decade after decade after decade, as impressive as every, all the early success of Dell in the first 16, 17, 20 years. Dell is undeniably more successful and will continue to be so 40 years after it was founded. There's this great line that Jeff Bezos says where he's like, we're trying to build something that we can tell our grandkids about,"
+    },
+    {
+      "timestamp": "01:45:24",
+      "text": "that we can be proud grandkids about that we can be proud of. Such things are not meant to be easy. Think about the level of fulfillment Michael Dell must feel today. As I write these words, we recorded our highest ever revenues, profits and cashflow. If you were keeping score, the value of our equity in the eight years since the announcement of the go private increased by over 625% and our enterprise value increased to over a hundred billion"
+    },
+    {
+      "timestamp": "01:45:47",
+      "text": "dollars. Not bad for a business that was thought to be dead in 2013. I mentioned earlier there's very few people that have ever lived that could point to an accomplishment as profound and as impressive as what Michael Deho has built but I wanted to save what I feel is the most important lesson for the that could point to an accomplishment as profound and as impressive as what Michael Deho has built, but I wanted to save what I feel is the most important lesson for the very end. When I got to talk to his son, that is the moment when this really crystallized,"
+    },
+    {
+      "timestamp": "01:46:13",
+      "text": "like what to me was the most important lesson. The way that his son described their relationship. It's almost like they're best friends. The fact that he knows he can call his dad at any hour of the day. His dad is running one of the biggest and most complicated business in the entire world and drops everything for his children. For his son to say that it's one of his best friends. That they talk all the time. That they go on walks. That he's unbelievably grateful for him. That he feels lucky that Michael is his dad."
+    },
+    {
+      "timestamp": "01:46:45",
+      "text": "I remember when I was talking to Zach, I told him this. Like, I literally had goosebumps. And what I told him, I was like, I want my son to speak about me this one day. And I think the important thing is like, you start with that end in mind and then like, okay, if I want that to happen, how do I work backwards from that? I think it's thing is like, you start with that end in mind and then like, okay, if I want that to happen, how do I work backwards from that?"
+    },
+    {
+      "timestamp": "01:47:07",
+      "text": "I think it's the most important lesson I took away from all of this, just how incredible, you really can have it all. You can have a wildly successful career doing something you love, doing it better than anybody else in the world and be a good father and a good husband. And so I wanna end on this quote"
+    },
+    {
+      "timestamp": "01:47:26",
+      "text": "that I think is very, very important. It comes from the founder of Kinko's, this guy named Paul Orfalia, okay? He's in his 70s, he was given an interview. He's a multi-multi-billionaire. And he goes, you know what success is? Success is when your children wanna be with you when they're adults."
+    },
+    {
+      "timestamp": "01:47:41",
+      "text": "That's success. How many people have all that other bullshit, money, material success, and their kids don't come home for the holidays? Come on. The most cool thing I've ever been called in my life is dad. And that is where I'll leave it for the full story. Highly, highly, highly recommend reading the book. I've listened to the audiobook three times, I've read the hard hardcover reread my highlights over and over again if you buy the book using the link that's in the show notes you'll be supporting the podcast at the same time that is 385 books down 1000 to go and i'll talk to you again soon"
+    }
+  ],
+  "scrapedAt": "2026-03-23T18:35:24.671Z"
+}

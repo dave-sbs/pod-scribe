@@ -1,0 +1,617 @@
+{
+  "metadata": {
+    "episodeNumber": 110,
+    "title": "Henry Singleton (Teledyne)",
+    "slug": "110-henry-singleton-teledyne",
+    "url": "https://podscripts.co/podcasts/founders/110-henry-singleton-teledyne",
+    "date": "February 10, 2020",
+    "category": "Business"
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00:00",
+      "text": "In 1960, Henry Singleton formed a company named Teledyne to capitalize on the coming revolution in which digital technology would replace analog devices and systems in everything we could touch and imagine. They would apply semiconductors and digital technology to many fields of commerce. That company grew from $10 million in sales in 1962 to $3.5 billion in 1984. Henry was much more than a salesman, mathematician, engineer, inventor, and chess champion. He was a student, an observer of the history of manufacturing, of the progress and growth of corporations from the days of Henry Ford, the growth of General Motors, the manner of successful corporations and growing by acquisition. In the 1940s and early 50s, he had spent days in the offices of brokerage houses in New York and elsewhere watching the ticker,"
+    },
+    {
+      "timestamp": "00:00:57",
+      "text": "thinking how to more efficiently get capital rolling, how shares are valued and traded, how companies with a steady growth rate are rewarded with an ever-increasing price-to-earnings multiple. On the way, Henry retold me of the GM story, reported by none other than Alfred Sloan in a 1964 book. GM had no financial connections in 1919 and suffered a failure. Bailed out by the DuPonts, it was near disaster. Get a strong national reputation with some financial institutional ownership, Sloan advised, and Henry did. Henry made me preach and teach ethical behavior in every way, in every day, in every meeting that we held."
+    },
+    {
+      "timestamp": "00:01:47",
+      "text": "Arthur Rock, who assisted in the early financing of Teledyne, had this to say, Henry reminds me of de Gaulle. He had a singleness of purpose, a tenacity that is just overpowering. He gives you absolute confidence in his ability to accomplish whatever he says he is going to do. Yes, he is rather aloof operating more or less by himself and dreaming up ideas in his corner office. Let me tell you this, that corner office produced a cornucopia of ideas. The man we memorialize today was born in Haslett, Texas in 1916 on a ranch where his father raised cotton and cattle. The 49 years together we spent as friends and associates have not removed this great man from his love of ranching, cattle, and the Great West."
+    },
+    {
+      "timestamp": "00:02:48",
+      "text": "As the third largest landowner in the United States, he still had an occasional brush and contact with a cow. You know the saying, you could take the boy out of Texas, but you never take Texas out of the boy. We have lost a genius. Heaven has just gone digital, and I know it's full of apples named Macintosh. All right, so that is actually the eulogy that the author of today's book,"
+    },
+    {
+      "timestamp": "00:03:15",
+      "text": "George Roberts, gave for his friend and longtime associate, Henry Singleton. So there's a bunch of things that were happening in that excerpt that I want to just point out. Let me go back a couple pages. First, it talks about, you know, his insane financial performance from 10 million in sales in 1962 to 3.5 billion in 1984. But also that is that Henry very much like most of the founders that we cover um spent time doing exactly what we're doing which is learning from entrepreneurs and founders and great people of the past he talks about henry ford talks about the people that started general motors but i want to point at that point uh i want to specifically hone in on what uh roberts is saying there that henry's reading this book uh"
+    },
+    {
+      "timestamp": "00:04:02",
+      "text": "i think it was written by alfred s Sloan and specifically taught it was published in 1964. I have to go back and actually find which book was covered published in 1964, because if I could find that book, then, of course, I'll turn into a future founders episode. But where he talks about, you know, Alfred has very specific advice based on what he learned through experience of building GM. And Henry took that advice and ran with it. And that was a huge, maybe cornerstone is the right word, for how he built Teledyne. And then the second, the last thing I just want to point out is the very end where it talks about heavens full of apples named Macintosh. An interesting thing to know about Henry Singleton is first he programmed one of the first computers at MIT. But not only that, his main tool that he used to work were early apples. In fact, I'm going to talk a lot about that in the book today."
+    },
+    {
+      "timestamp": "00:04:56",
+      "text": "But he was an early investor in Apple as well. All right, so let me jump into the book. I'm going to start in the acknowledgement section because I think this is now George talking about, you know, this is very different than the other biographies. It's way, way, way more detailed on like the day-to-day and processes of the company. And it's in large part because George was a meticulous note-taker"
+    },
+    {
+      "timestamp": "00:05:23",
+      "text": "and he describes this process here. He says, I have always been an invariant note taker and keeper I still have most of the small black notebooks in which I recorded the day-to-day details of manager meetings profit plan presentation and other business matters and they have been invaluable to me in putting this document together and I just bring that up to you because I just wish more companies, more people within the companies did this. The most recent example that comes to mind is the fact that Henry Royce, one of the founders of and the engineering genius behind Rolls-Royce,"
+    },
+    {
+      "timestamp": "00:05:59",
+      "text": "took such meticulous notes that eventually the company took his notes, made and actually printed a book and they call it the Rolls-Royce Bible. And not only like I'm saying this for selfish reasons, because if I wish more companies or I could have access to more of this, because I would love to read them because I just think you can learn so much by seeing like the day-to-day activities or thoughts or strategies in a company over multiple decades. Before I jump into the introduction, though, I got to bring up something. I was watching a video with William Thorndike, who was the author of The Outsiders,"
+    },
+    {
+      "timestamp": "00:06:35",
+      "text": "which is the book that I covered on Founders Number 94. And if you haven't listened to that podcast yet, I need to give you an overview about Henry Singleton and why he's made a huge impact on the way I think ever. And this has only been a few weeks that I even knew of his existence. And I just cannot stop thinking about the way this person approached business and life. But this is William Thorndike giving us a basic summary, I would say, of Henry's career. He says, for the first 10 years, ran Teledyne, conglomerates were the social media companies of their day, meaning they traded at extremely high PEs. Singleton used the inexpensive currency of his high PE stock to buy 130 companies. He did that in about a decade."
+    },
+    {
+      "timestamp": "00:07:21",
+      "text": "At the end of that period, this is around 1969. At the end of that period, a couple larger conglomerates missed earnings and the entire sector got pounded. PE multiples came down and Singleton never bought another company. He fired his business development team. This was the group that was finding acquisitions for him. And he says, and Singleton focused on optimizing his existing businesses. Then he began a pioneering program of repurchasing his shares. Over the next dozen years, he purchased 90% of the shares outstanding. He showed an amazing ability to pivot as opportunities presented himself."
+    },
+    {
+      "timestamp": "00:08:11",
+      "text": "Okay, so that's William Thorndike giving us a basic overview of Singleton's career. Now, how I discovered Henry Singleton is because I read every single one of Warren Buffett shareholder letters, and I read, I think I've done three podcasts now on different books that I've covered in Charlie Munger. Both of them hold Henry Singleton in high regard. What does that mean, David? Well, listen to what they say. According to Buffett, if one took the top 100 business school graduates and made a composite of their triumphs, their record would not be as good as that of Singleton, who incidentally trained as a scientist and not an MBA."
+    },
+    {
+      "timestamp": "00:08:44",
+      "text": "Here's a direct quote from Buffett. The failure of business schools to study men like Singleton is a crime. Buffett also says, Henry Singleton of Teledyne. This is a crazy statement. Because think about what we know about Buffett, right? There's very few people on the planet that have studied more entrepreneurs, managers, or just companies in general than Buffett has, right? Started doing this when he was a kid, let's say 15, I don't remember exactly,"
+    },
+    {
+      "timestamp": "00:09:09",
+      "text": "and he's still doing it today at 89. And this is what he's going to say. Henry Singleton of Teledyne has the single best operating and capital deployment record in American business. Charlie Munger said, Singleton's financial returns were a mile higher than anyone else. He calls them utterly ridiculous. Okay, so that gives you an idea in case you haven't listened to Founders number 94 yet. Obviously, when you're done listening to this podcast, I'd go back and listen to that one."
+    },
+    {
+      "timestamp": "00:09:37",
+      "text": "Let me go to the introduction. And again, I'm just going to talk a lot. I'm probably going to repeat myself over and over again. This is, I've read what, 100 for this podcast so far, what, 105, 108, something like that, books, biographies on entrepreneurs. This is the most unique one because it's just like, when would you have a book written by somebody that worked, literally, he was the, he was the Henry's right-hand person, the second in command of Teledyne for 27 years."
+    },
+    {
+      "timestamp": "00:10:03",
+      "text": "They also met when they were young men, I think at the Naval Academy. I'll talk about that later. But he's just got a very unique perspective. And you combine the time and the access he had to Henry, and then his compulsive note taking and you get a book that's just unlike any other. And it's so weird. So I went back, I can't even get to the book yet because I'm so excited. Okay. So I went back and started reading other people's reviews or thoughts on this book. And a lot of them were very helpful to like fill in the things I didn't understand. Right. But there's a lot of people that complained about, I feel the big, the book's biggest asset. And they're like, you know, they go through, through they own 130 companies they don't go through every single one but they do go through like little like he goes through year by year right in chronological order but not only that he'll bring you into like what this company did"
+    },
+    {
+      "timestamp": "00:10:53",
+      "text": "who was running it why they bought it how they thought it um how they thought it fit into all the other like their overall strategy with teledyne and so so some people were like, oh, it's like dry and boring. That's like the opposite to me. I thought it was fascinating because I'm always, you know what it is? We forget, or let me say we, I forget how large the world is in general and then how big like total global economic activity is and just how much like opportunity there is in the world it's way more complex for any single individual to understand and so like just like when you read buffett shareholder letters you're like oh my god there's a candy company that makes 90 million dollars in profit every year and they do you know 90 of their sales in one month like that's a weird thing or like you just there's all these like there's there's businesses in this book that i"
+    },
+    {
+      "timestamp": "00:11:42",
+      "text": "will never understand right but they'll produce like one piece of equipment for, say, like for the radio detection in military aircraft. And they built a wonderfully profitable business around that. Like you're just constantly reminded that that opportunity is limitless. And if you feel you're in a place where you can't identify like a business you want to start or an area you want to work in, like I just recommend reading, especially reading stuff like this. And you'll just be constantly like smacked in the face of like, wow, like the amount of opportunities you can pursue. Like you can't obviously you can't work on all of them, but they're essentially limitless in like the opportunities we have to choose. I'm not being clear at all here. The opportunities in which we have to choose from are limitless."
+    },
+    {
+      "timestamp": "00:12:31",
+      "text": "You just have to look for them. All right, so let's go back to the introduction, or I guess starting in the introduction. I haven't even got there yet, right? So now this is just, you know, Robert's writing about Singleton. And he says, over the years, a great deal has been written about Teledyne and its founder and guiding genius, Dr. Henry Singleton. And he says, over the years, a great deal has been written about Teledyne and its founder and guiding genius,"
+    },
+    {
+      "timestamp": "00:12:48",
+      "text": "Dr. Henry Singleton. And this is, I love that he says this right up front. He says, genius is an oft misused word. I agree. But it cannot be denied that Henry Singleton brought exceptional brilliance"
+    },
+    {
+      "timestamp": "00:13:00",
+      "text": "to the creation and development of the enterprises he undertook. Yeah, for sure. When you read about Singleton, you study him. If he's not a genius, I don't know who, then no one is. Few business leaders have possessed a combination of mathematical genius and engineering talent with the insights of a financial analyst and the management creativity of a tournament class chess player that Henry Singleton brought into his entrepreneurial ventures. He talks about some of the stuff that he's known for, flexible strategies. That's"
+    },
+    {
+      "timestamp": "00:13:31",
+      "text": "something I covered on Founders Number 94. It's also in this book a lot. So he used a lot of flexible strategies. That was huge. One of my favorite ideas that I learned from the outsiders is his idea about steering the boat daily. And I'm going to talk about that here in a minute. He says many of these strategies were new at the time and they have now become commonplace in the business world. He was once criticized for not having a business plan. Henry replied that he knew that a lot of people, he knew a lot of people running companies that had very definitive plans. They followed as as suitously."
+    },
+    {
+      "timestamp": "00:14:06",
+      "text": "I can never pronounce that word. But we're subject to a great number of outside influences on our businesses, and most of them can't be predicted. So my plan is to stay flexible. So that's a direct quote from Henry there. And what Henry's essentially saying is, hey, the world is very complex. And I think he's 100% correct about what he's saying. He's like, listen, we're subject to a great number of outside influences that we have no control over. So I'm not just going to have this rigid plan."
+    },
+    {
+      "timestamp": "00:14:32",
+      "text": "I'm going to be flexible and just rely on my own intuition and judgment. And so now we have Henry talking about that. He says, my only plan is to keep coming to work every day. I like to steer the boat each day rather than plan ahead way into the future. Continuing on the next page, Singleton has also believed and often said that the key to his success was people. Talented people who were creative, good managers and doers. From the start, he surrounded himself with that kind of person. So his co-founder was this guy named George Kosmetsky."
+    },
+    {
+      "timestamp": "00:15:04",
+      "text": "He was an initial investor and a brilliant professor of management science. He actually left the company to go back to academia. Another person that Singleton kept around and relied on was somebody we covered. I think I've done say that Henry chose me to be his second in command. Henry's search for talented people went down even to the individual managers of his smallest companies. Now, this thing blew my mind here, because we're in like an area of like. Like I would say that that quote that more companies die, it comes from, I think, David Packard, that more companies die from indigestion and starvation. And so there's a lot of people. It's like an abundance of money right now, right? It's like sloshing into systems. And we see what happens when you're not forced"
+    },
+    {
+      "timestamp": "00:15:56",
+      "text": "to maintain financial discipline. Founders can confuse themselves and they make very silly choices, silly decisions. I think this applies not only to businesses, this applies to investing, this applies to your personal life. And one thing about Singleton is like he was, they always say like,"
+    },
+    {
+      "timestamp": "00:16:15",
+      "text": "the book uses the, and William Thorndike uses this to describe him. They say that he was a genius at capital allocation. I would take that a step further. I think he was a genius at capital allocation. I would take that a step further. I think he was a genius at resource allocation. And sometimes that's money. Sometimes that's people. Sometimes that's ideas. But what I would say is like, we have to take that a step further, not only in like our work, but also in our personal lives. Like, I don't think that you can be financially disciplined and really good at resource allocation in your work."
+    },
+    {
+      "timestamp": "00:16:48",
+      "text": "No, I shouldn't say you can't because I know people that do this. It's weird to me that you can have people that are very financially disciplined in their work, really good at allocating resources, and then when it comes to their personal lives, they don't apply those lessons to their personal lives. So I just think like when you hear the word capital allocation, think of one resource allocation. And then don't like stop there. Think of like, look at my personal resources. Like, am I maximizing and getting the best returns on those resources? Because that's why Singleton, why Buffett said Singleton has the best single record in American business."
+    },
+    {
+      "timestamp": "00:17:21",
+      "text": "Listen to this. Within eight years of founding Teledyne, they had bootstrapped their startup investment of $450,000 into, well, first of all, they're using the word bootstrapped there. I think today that has a different, they got investment of 450,000, right? So this is what they did with that investment. That is very, very rare today."
+    },
+    {
+      "timestamp": "00:18:06",
+      "text": "Within eight years of founding Teledyne, they bootstrapped their startup investment of $450,000 into a company with annual sales of over 450 million and an annual profit of some $20 million and a stock market value of 1.5 billion. That is insane. From 450,000 initial investment to sales over 450 million, profit of 20 million and a market cap of 1.5 billion in eight years. That is bananas. That's also that eight-year period they're talking about happened in the 1960s. That's where he buys, takes advantage of his, like the, you know, the fact that conglomerates had, you know, favorable valuation to PE and bought 130 companies."
+    },
+    {
+      "timestamp": "00:18:43",
+      "text": "So that puts us around 1968, I think 1969 or 1970 is the last year he ever bought any company. And so that's why it goes back to the eulogy where he talks about he studied not only like how did Ford build his company, how did General Motors build their company, how did General Electric build their company, but also how did companies succeed through acquisition? Buffett talks about this in shareholders a lot that most people don't succeed through acquisition. He talks about like you're kissing toads and hoping they turn into princes, princesses. I don't know that I forgot the analogy there, but and usually you're just left with like a graveyard toads. So he's"
+    },
+    {
+      "timestamp": "00:19:20",
+      "text": "saying this is actually extremely hard to do. All right. So he says it's a close lifelong friend of Dr. Singleton, I was a participant for many years in the development and management of Teledyne, from its beginning as a small electronics firm into a diverse world-class corporation with peak annual sales of $3.5 billion. I would like to present the Teledyne story"
+    },
+    {
+      "timestamp": "00:19:40",
+      "text": "from my perspective inside the company during many of those years of the amazing accomplishments and achievements of Henry Singleton made as he conceived, created, and nurtured his world-class corporation. These are my recollections of those interesting years. All right, so once you read that introduction, it's very hard not to be excited about, you know, the book. Like, I've never even heard of"
+    },
+    {
+      "timestamp": "00:20:05",
+      "text": "a story like that. That just blows my mind. So I just love the fact, again, I'm repeating myself, the level of detail in this business, or excuse me, in this book, I've just never found in another book on a business yet. All right. So he says they met when they're young adults at the Naval Academy. So the first chapter is called Singleton the Man, and then he goes through the company. Now, essentially, this is really not a biography of Singleton, right? This is a biography of the company he built. But as we know, you can't really separate the personality of the founder from the company they built. So you learn a lot about both of them simultaneously. So he talks about, I can attest to his lifelong fascination"
+    },
+    {
+      "timestamp": "00:20:43",
+      "text": "with love of and belief in the importance and value of real estate of them simultaneously. So he talks about, I can attest to his lifelong fascination with love of and belief in the importance and value of real estate of all types. I said at the very beginning in that eulogy, you find out that at the time of his death, he's the third largest landowner in the United States. Rowan, I need to stop here. Something that is another fascinating thing. Henry Singleton didn't start his first company,"
+    },
+    {
+      "timestamp": "00:21:09",
+      "text": "Telanai was his first company, until he was 44 years old. And then he proceeds to rattle off the best record in American business. It's just fascinating. Okay, so he says he loves real estate of all types. I believe it is true that he never sold a square foot of property that he had bought. That's fascinating that he never sold a square foot of property he had"
+    },
+    {
+      "timestamp": "00:21:25",
+      "text": "bought that's fascinating he never sold a house in which he had lived he kept them rented them fixed them up um at his death he was the third largest landlord in the united states his family teledyne and prop okay so here we go his family teledyne and property were clearly the three major loves of his life so he winds up being married for 50 at the time of his death he dies at 82 years old of brain cancer and he's uh married for 53 years at that time and and has five children okay so it says um as a young man he had expressed his desire someday to establish and run a great corporation the likes of general electric us steel.S. Steel, or AT&T. And he certainly never lost that focus. I think this is obvious, but I'm spending some time giving you some background to his early life."
+    },
+    {
+      "timestamp": "00:22:13",
+      "text": "Hopefully that helps you understand how he arrived at some of the unique ideas. Again, the book talks over and over again. These are ideas that came from sitting alone in isolation with intense focus and be willing to rely on your own analytical abilities and trust your own judgment. I talked to, ever since I've known about Henry Singleton, I think almost on every single podcast, I talk about, hey, we should be really doing the work because eventually like anything that you're doing that's hard or complex, like no one can tell you step-by-step how to do it, right? These are complex adaptive systems. And so I think it's really important. What I'm learning from the life of Henry Singleton and something I've never stopped thinking about is like, I need to make sure I'm"
+    },
+    {
+      "timestamp": "00:22:54",
+      "text": "doing the work so I can trust my own judgment. Because if I can't trust my own judgment, I'm never going to be able to accomplish what I want to accomplish. Okay. So he never lost that focus. His groundwork for those ambitions. He started out with two years at the University of Texas, and then he joins the United States Naval Academy. That's where he meets George. This is pretty crazy. Henry ranked first in mathematics, this is at the Naval Academy,"
+    },
+    {
+      "timestamp": "00:23:17",
+      "text": "in our class out of 820 students. After that, he joined the U.S. Naval Ordnance Labs, developing methods for degaussing of naval and commercial ships I don't even know what that is where he concentrated on anti-submarine warfare he returned to MIT in 1948 to earn his doctorate after MIT they offered him a faculty position there but he declined and he moved to California to work on electronic control applications"
+    },
+    {
+      "timestamp": "00:23:46",
+      "text": "in the aircraft industry. He worked as a research advocate at one of his most admired companies, General Electric. That was 1950. Then he leaves there because he's recruited to go to work at Hughes Aircraft,"
+    },
+    {
+      "timestamp": "00:24:01",
+      "text": "the one that was owned by Howard Hughes, which I did a podcast on. And he says, this is interesting, where he meets Howard, right? He says, I had the pleasure of demonstrating a pilot training fire control simulator to Howard Hughes one day. Henry later told me stories of meetings he had with Howard Hughes. It's interesting, Hughes would only work late at night. So that's the only time you can meet him at this time in his life. He says, Howard would only come to see us at night and always unannounced he would ask what we were doing and he always understood everything when he when we explained it to him he was a very fine man that's interesting"
+    },
+    {
+      "timestamp": "00:24:34",
+      "text": "because i had a very um it's kind of frustrating because you know i i read i think two books on howard hughes i did a podcast on, but I was definitely influenced by like his poor treatment of individuals on a personal level. And then, you know, becoming addicted to pain medication, just the weirdness of his, of his later life."
+    },
+    {
+      "timestamp": "00:24:54",
+      "text": "I wasn't expecting that because one of my favorite movies of all time is the aviator with Leonardo DiCaprio where he plays Hughes. And obviously they talk about like, you know, him going crazy later on. But when the book I read goes into like his handwritten memos, it's very interesting. But Singleton here is saying, you know, my interactions with him before all this happened, he was a very fine young person. So at Hughes Aircraft, he's working with this guy named Tex Thornton."
+    },
+    {
+      "timestamp": "00:25:20",
+      "text": "Tex leaves Hughes and he starts Lytton Industries. Lytton's a very important to understand them in the story of Hughes because he winds up owning or not Hughes, excuse me, Singleton. Because eventually Singleton buys like 25% of the stock outstanding, something like that. And Lytton, it's one of his best investments he ever makes. So Tex leaves Hughes and starts Lytton. Tex recruits Singleton to work at Lytton. And so during this time, he says Singleton moved up rapidly. He eventually made the vice president and general manager of Lytton Industries. He says during his years at Lytton, Henry was exposed to,"
+    },
+    {
+      "timestamp": "00:25:58",
+      "text": "this is very important and something you're going to see if you've listened to a bunch of my podcasts, you know, this is, people will lie to you today as if like things are different but business is the fundamental like this is a fundamental tenet of not only like building a good business but building a good life okay he says during his years of lytton henry was exposed to tech thornton's philosophy of thrift and conservatism which were part of his own philosophy as well. Essentially, he's espousing the benefits of frugality. Very, very, very old idea. You see all these entrepreneurs in history are influenced by this. You could trace this idea all the way back to Benjamin Franklin writing in the 1700s"
+    },
+    {
+      "timestamp": "00:26:34",
+      "text": "about the values of industry combined with frugality. It worked then, it works today, and it'll work in the future. He was a student and an observer of the history of manufacturing. He studied the progress and growth of corporations from the days of Henry Ford to General Motors and how successful corporations grew by acquisitions. I bring that up because Roberts repeats that a lot. So in my belief, if somebody repeats it over and over again, they're clearly telling you through their actions what's important to them. He studied the Lytton's, the TRW's, now we're just going to name a bunch of companies here, the LTV's, the Citi Investings, the Gulf and Westerns,"
+    },
+    {
+      "timestamp": "00:27:07",
+      "text": "and today's largest of all conglomerates, General Electric. Now it's interesting he's doing this before he started his company, right? He's got a good foundation of knowledge when he's going to progress. I think you should do that if you're running a business. I mean, it's a no-brainer. Like, I don't think anybody has to tell you that. But I hear from a lot of people listening to the podcast that have desires to run a business and are working their way to them and using these biographies and this podcast as a foundation for that."
+    },
+    {
+      "timestamp": "00:27:32",
+      "text": "And we see Henry doing the exact same thing, but he's doing that, you know, what is this, 60 years ago? No, longer than that, 70 years ago. So he says, Henry told me how he had in the early 1940s and 50s spent days in the offices of brokerage houses in New York. He was thinking about how to get capital rolling efficiently, how shares are valued and traded, how companies with a steady growth rate are rewarded with an ever-increasing price and earnings multiple. So we see that was also contained in the eulogy that Roberts gave for Singleton. All right, so now we're going to go, this chapter is called The Beginnings. It says, Henry had become convinced that digital technology would be dominant force in future developments in control systems and virtually every other electronic field. He is having this insight in the 1950s. Today, we live in that world that Henry was convinced would eventually"
+    },
+    {
+      "timestamp": "00:28:19",
+      "text": "appear. He wound up being probably more correct than he could ever imagine, right? He felt it was important that Lytton should enter the semiconductor field. So I did a whole podcast on this because there's a bunch of people in this book that Henry's going to interact with, that the founders and management at Lytton are interacting with. If you want to learn more about this time in history, it's very fascinating because it's very much laying the groundwork for the world we live in. All the way back on Founders number eight, I did a podcast on the Intel Trinity, this fabulous book about the founders of Intel, but they also worked with a Fairchild semiconductor and with William Shockley,"
+    },
+    {
+      "timestamp": "00:29:02",
+      "text": "which is the inventor of the transistor. Anyways, listen to that, read that book. It goes into great detail. But I focused when I did the podcast on just Bob Noyce, right? But it also talks about Andy Grove, who's a genius manager, and Gordon Moore, who you might know from Moore's Law. They all worked together and built Intel into a huge successful business. But not only that, all the people that you probably learn, like Bob Noyce, for example, was a mentor of Steve Jobs. Steve Jobs would go to his house and have dinner when he was young, you know, early days of, you're talking about early 20s, when Steve was in his early 20s. So Bob Noyce is like, you know, in some degree, like a grandfather to a long line of entrepreneurs, you know, that came generations after him. So anyways, I brought that up because I recognize a lot of the names that are in this section of the book from studying Intel. So he says, he's like, listen, we got it, Lytton, we got to jump into"
+    },
+    {
+      "timestamp": "00:29:59",
+      "text": "the semiconductor field. What are you doing? President Lytton disagreed. But this is super, super important. It's a very short sentence. But Henry had faith in his convictions. Go back to the biography I did on George Lucas. There's a line in that biography that gives me goosebumps. And I think I've never forgot. And it said, George Lucas unapologetically invested in what he believed in most. Himself."
+    },
+    {
+      "timestamp": "00:30:28",
+      "text": "I think that's the only way to live life no one cares about you as much as you care about yourself maybe you know your mom probably does if you still have a mom you know like but other than that outside of your mom no one else is going to care about you as much as you care about yourself and i think just investing yourself is a no-brainer um so he says, you know what? Sorry, guys, you don't agree with this. This is a strong conviction. This is when he jumps to start his own company, okay?"
+    },
+    {
+      "timestamp": "00:30:50",
+      "text": "So he says, they started a venture with a original capital of $450,000. I already covered that. Their first acquisition was a small electronics company. This small electronics company gave them a plant,"
+    },
+    {
+      "timestamp": "00:31:03",
+      "text": "some manufacturing facilities, and a small cadre of employees. The company name was changed to Teledyne. This is from a Forbes magazine article in 1968. It says, His early faith that semiconductors would become the dominant factor in future electronic systems, even while this was still being debated"
+    },
+    {
+      "timestamp": "00:31:20",
+      "text": "by others in the industry. Some quotes, I can jump over that, but I read that. I emphasize weird, the wrong words here. What it's saying is that what became his dominant factor, excuse me, the faith that he had. So he knew something, right? And believed in it. And then while at the same time, and the important part of that sentence was he had already arrived"
+    },
+    {
+      "timestamp": "00:31:44",
+      "text": "at this conclusion and he was willing to bet his life, his career on that. Right. Even while other people were still debating it. That is super important about Singleton. This is why I keep talking about his singular focus, how Arthur Rock. I don't know if you know who Arthur Rock is. He was one of the for one of the first venture capitalists of not only do they sit on Teledyne's board but apple's as well um and so like when he says he reminds me of de gaulle his single like that's the biggest like i'm in some degree i'm using like when i read these books right i'm like taking different things from all"
+    },
+    {
+      "timestamp": "00:32:20",
+      "text": "the people i study and traits i i admire admire. Let's ignore half of this is learning things I don't want to do, right? But I'm not going to focus on that right now. When I think about the stuff I've learned from reading these books, I'm trying to pick out individual traits that I need to improve on and that I want part of my life. I don't have a list and maybe I should write it down, but like off the top of my head, like, okay, why have I done a million and one podcasts on Steve Jobs? Because I've never run across another person that had the clarity of thought that Steve Jobs had. I want that. James Dyson, my favorite book that I've read since for this podcast."
+    },
+    {
+      "timestamp": "00:32:57",
+      "text": "Talk about over and over again. His dogged persistence. He did 5,127 prototypes of his vacuum cleaner before he got it right. And he took, I think he started working on that project when he was 30, 35, and then didn't have a vacuum cleaner that met his standards that he owned completely until he was like 44. Like how many, I think it's actually more than that. I think it was 12 years."
+    },
+    {
+      "timestamp": "00:33:19",
+      "text": "I can't remember exactly. And that dogged persistence made him, you today james dyson owns 100 of dyson he has a net worth of 13 billion dollars like it's a private company um so you have the clarity thought of steve jobs the dogged persistence of james dyson the ability to uh the conviction to invest in yourself like george lucas could you study his history of him saying hey i know that's how you guys make movies and i'm not doing any of that. I'm going to control it and make him a billionaire. And I don't even have to be a billionaire. I'm not trying to emphasize too much the financial part."
+    },
+    {
+      "timestamp": "00:33:53",
+      "text": "It's just like being in control of what you do for half the time that you're actually living. So you have that. You have the ability to maintain and control the cost that we learned from Andrew Carnegie and Henry Clay Frick. Gentlemen, what's your cost? One of the quotes in those books that I never forgot. The resourcefulness of the Wright brothers. See what I'm doing here? I'm trying to take all these individual ideas that I learned from these people, and then you combine them and create this mosaic."
+    },
+    {
+      "timestamp": "00:34:23",
+      "text": "And then you add your personality, and you have something unique. And then you add your personality and you have something unique. I think that gives you a huge advantage in life. And so with Henry Singleton, ever since I, uh, the, the ability to, to, uh, I didn't finish and I guess I'll never finish, but, uh, the ability to, to, to constantly learn and then teach what you learn of Charlie Munger and, and warren buffett and then from henry singleton it's that singular focus the ability to to be willing to isolate yourself and folk and and focus on what you're working on which i think is extremely hard in today because we're inundated with we have all these centralized information networks and the problem is like yeah you can learn a lot of things from them but also everybody's getting access to the same information and so that's why i study like most of the books i do like i they're old books"
+    },
+    {
+      "timestamp": "00:35:10",
+      "text": "these are this is not like how many people do you know has have read this book very very few way less than the people that read twitter today or were on facebook or instagram or any of these other networks you know um and so with with Singleton, it's like he's giving me courage and a conviction to be willing to say, hey, you know what? I can ignore most of that because most of it's noise. And if I just focus on things that are important, you know, he's analyzing past companies, he's reading financial statements, he's doing all this other stuff, and then he's giving his time and his brain time to just think and run through it and that's the problem every time i'm bored i like i have this instinct oh let me let me pick something up"
+    },
+    {
+      "timestamp": "00:35:50",
+      "text": "let me add something else like some noise whether i'm reading tweets or or just even listening to music sometimes we're just like no no why don't i just have nothing and just listen to my own mind um so that's really like it's just super motivating for me. Like this person was, he did not, like I talked about, he didn't, he didn't pay attention to wall street. He didn't go to conferences. He didn't do any of that. He just said, Hey, I'm going to think from first principles about what I'm doing. I'm going to identify the single best way to do this. I'm going to compare the opportunity costs that I have, not only in time, but in money. And then I'm going to analyze all that. And I'm going to move forward with conviction. And that is super, super rare."
+    },
+    {
+      "timestamp": "00:36:30",
+      "text": "Hopefully that made sense. I wasn't, obviously I didn't have that written down. So I don't know if hopefully that made sense to you. All right. So we have his first acquisition back to the book, but just this whole idea is like, everybody else is still debating this and I'm not debating it. I've already analyzed this. I know I'm – I believe in it. I'm going to move forward. So he says, determined to succeed, they moved cautiously at first, using their limited cash carefully. Oh, I need to tell you why."
+    },
+    {
+      "timestamp": "00:37:00",
+      "text": "So why is Singleton focused on integrated circuits? He says, integrated circuits combine a number of transistors and other components on a single tiny chip of silicon, eliminating the hand wiring of bulky separate components into working circuits and would eventually reduce the size and weight of electronic systems by"
+    },
+    {
+      "timestamp": "00:37:17",
+      "text": "many orders of magnitude. He had a huge background in developing things for the U.S. military. He knew that this was important. He says, huge background in developing things for the U.S. military. He knew that this was important. He says, this fit in perfectly with Henry's plan to build electronic systems for military and space applications. And this is, we're talking about a sense of trade-offs, right? Where low power dissipation, low weight, and small size were of prime interest. So those were way more important, but what was not,"
+    },
+    {
+      "timestamp": "00:37:45",
+      "text": "so that's what's important, what's not important. And cost was not so important, okay? We know how much NASA threw at the space program in the 40s, 50s, and 60s, right? Way higher percentage of budget than they do now."
+    },
+    {
+      "timestamp": "00:37:58",
+      "text": "And of course, the United States has the largest military budget in world history and still continues to this day. All right, so that's extremely important. So they are willing to spend more if you can find solutions to have low power dissipation, low weight, and small size, okay? Now, this is also something that we talk about a lot and that we understand that, hey,"
+    },
+    {
+      "timestamp": "00:38:21",
+      "text": "especially anybody who has kids, how do we learn? We don't really learn by thinking. We learn by copying, mimicking. Okay? And you see this a lot in the businesses people start. So the low-hanging fruit is low-hanging fruit for a reason. The reason that you want to do something hard is not for the sake of doing something hard. But the harder something is, the less competition you will have."
+    },
+    {
+      "timestamp": "00:38:43",
+      "text": "Henry understood this. And so that's what he's doing. It says, he's buying this company and this guy Jay is talking to Henry. He says, Jay had warned Henry that starting up an operation of this kind would be an expensive proposition and it was. Starting with a bare building, they had to build almost all the production equipment themselves since there was nothing commercially available for these processes. That's fine. That's what Henry wants to do. So he comes into the meeting. Jay's running the company, but Henry owns the company. Okay. He says, Henry, I said, I have to, he says, I've had it. I can't keep working without any money. I've got to have $100,000."
+    },
+    {
+      "timestamp": "00:39:25",
+      "text": "So this ties into the fact in the early days of Teledyne, he's really stingy with his purse strings. He has to be. He has to be a good steward of resources because the companies that don't do this, especially at the beginning, they don't survive. They don't survive into being successful companies if they don't."
+    },
+    {
+      "timestamp": "00:39:41",
+      "text": "He says, Jay, I'm giving you a check for $60,000. Now, this is a crazy, now, this is insane think about what what's happening right now based on what henry's about to tell us jay i'm giving you a check for sixty thousand dollars instead of a hundred thousand dollars because that's all the money there is in this whole damn company there are not too many people who knew just how touch and go how touch and go was in the early days okay in this part this is where uh george is going to tell us an overview of what he feels were henry's three great ideas very similar to the overview that william thorndyke was giving us and he says what i would like to emphasize here is that henry had three great ideas in creating growing teledyne his first was to recognize the future importance of digital"
+    },
+    {
+      "timestamp": "00:40:25",
+      "text": "semiconductor electronics when this technology was in its infancy and by selective acquisitions create a strong base in this growing field of which to diversify his company. Okay, so Bing, it's a lot easier to start a company in a growing industry than it is in one that's decaying, right? The second was to acquire and organize a selection of financial companies within his company to provide the strong financial base. That's something Alfred Sloan, excuse me, in that book explicitly told the reader and Henry read it and was like,"
+    },
+    {
+      "timestamp": "00:40:54",
+      "text": "okay, sounds like a good idea, I'll do that. Third was his innovative use of stock buybacks to further strengthen the corporation and enhance shareholder value. These three things are all equally important to remember in considering and continuing the story of Henry Singleton's accomplishments. Henry initiated his plan of growth through acquisition from that very first year of operation. And this section is just more of us understanding Henry Singleton the person."
+    },
+    {
+      "timestamp": "00:41:23",
+      "text": "And the note I left myself is this is the kind of person that we're learning from today Henry had developed the talent of being able to play chess without seeing the board one story relates that Henry was playing chess with this guy named Tech with his back turned to the board and Tech was telling him what moves he made suddenly during the match Henry said Tech you told me the wrong move three moves back. All right, so this is Henry's goal. And then a reminder that there's no one right way to accomplish your goal. He was asked, are you trying to create another Lytton, meaning Lytton Industries? Hell no, Henry replied. I'm trying to create another GE, which explains why Henry's choices"
+    },
+    {
+      "timestamp": "00:42:03",
+      "text": "of companies to acquire gradually became more and more diverse. So he's a huge proponent of diversification. If you remember, I said, since I discovered Singleton after I discovered Buffett, the ideas of the two people, I realized, oh my God, all these ideas I thought were Buffett were actually first came from Singleton. I called him the proto-Buffett. defer they're in a sense like they're building similar um companies and especially if you focus on like they both spend the majority of time on capital allocation but buffett's not really big on diversification uh henry is so again like in complex environments there's not just one right way all right so it's uh teledyne"
+    },
+    {
+      "timestamp": "00:42:43",
+      "text": "this is henry describing his own company through a metaphor, which I think is really helpful for understanding what's going on here. Teledyne is like a living plant with our companies, the different branches, with the companies as different branches and each putting out new branches and growing so that no one business is too significant. To him, diversification was an insurance against catastrophe. Oh, I just want to point out the role that our good friend Claude Shannon played. If you haven't listened to the two podcasts I did on Claude Shannon, they're founders number 92 and number 95. Claude Shannon was a good friend of Henry's from his day at mit and was a director of the company for many years i think he was on the"
+    },
+    {
+      "timestamp": "00:43:30",
+      "text": "board for 27 years if i'm not mistaken 20 20 20 something years he also played a valuable part in helping henry evaluate many of teledyne's important acquisitions um i think this this part it was important because you get some you need some background information to help understand the historical events that helped Teledyne grow. And so I just want to talk about this. As a background of Teledyne's acquisition period, it is interesting to consider what was happening in that decade of the 1960s. During and after the end of World War II, there were all sorts of... This is so interesting. During and after the end of World War II, there were all sorts of emerging new technologies, new ideas, new markets, and new opportunities that hadn't existed before the war. There were many opportunities for small new companies to go into business during the war to provide the diverse products needed for the war effort, and many did so very successfully. In addition to this, many veterans came out of military service at the war's end and through the GI Bill had an opportunity to get tuition-free educations at some of the most prestigious"
+    },
+    {
+      "timestamp": "00:44:36",
+      "text": "universities and schools in the country. Now, why is that important? Because what these people did after that, they learned technologies they might never have had the opportunity to learn otherwise. They studied basic science skills such as physics, chemistry, and mathematics, and also specialized technologies such as electronics, metallurgy, which is like the, I guess, the study of metals. This is what the author had a background in. Geophysics, oceanography, and others. And there's no way, by the way, I pronounced that word correctly. And some of these men and women use their knowledge to start companies, often on just a shoestring with their own money. By the 1960s, many of these companies had matured into established portfolio companies, and many of their owners were ready to relinquish control and do other"
+    },
+    {
+      "timestamp": "00:45:21",
+      "text": "things with their lives. That sets up Henry to buy them, right? Then along came a company such as Teledyne with a high PE ratio that was growing rapidly and was interested in acquiring them. It was a wonderful opportunity for these people and many of the companies that Teledyne acquired were this type of family-owned company. And so once he bought these companies, you're going to see very similar to Buffett's view on this. This is Henry on talent and management. He was also very interested in the managerial talents of these owner and managers. Whenever possible, Henry wanted these people to stay on with Teledyne as managers of their own operations,"
+    },
+    {
+      "timestamp": "00:45:56",
+      "text": "since they were most knowledgeable about their fields, their markets, and their production technologies. This is a quote from Henry in a Forbes magazine article at the end of the 1960s. increase our bets on the men who seem to be performers. We try to get all of our people, instead of competing amongst each other with Intellidine, to look outside and see that the real competitors are all the other large corporations in the U.S. Our objective is to increase our rate of earnings faster than they do, and that's exactly what he did. It is a lot of fun. As a result, we visualize this as a competitive game. One trait about Henry is he did not like to waste time or money. This is an example. This is a person that Henry's buying his company, reflecting on what that was like and his interaction with Henry. And he says,"
+    },
+    {
+      "timestamp": "00:47:02",
+      "text": "our first meeting was brief, but it was one in which each of us spoke with complete candor and that became the basis for our lasting relationship. All of our meetings were short, but they were effective. Later on, he says, when it came to time to dissolve my original corporation, I asked Henry if we should turn the task over to his legal people. Oh, he said, we could dissolve it ourselves. I thought that was a strange statement, but I proceeded to do all the research and obtain the necessary forms. We accomplished the task very quickly and at a total cost of $37. That taught me a constructive lesson that there are many ways to eliminate excessive legal fees and other costs for that matter in running our operation. I never forgot that lesson in many circumstances that occurred during my 18 years under Henry's leadership. Telling us you all"
+    },
+    {
+      "timestamp": "00:47:51",
+      "text": "usually you need less than you think. So during this period where he's acquiring a lot of companies, it's almost like his strategy produces like this weird flywheel effect. He says, it's quite interesting how Teledyne actually did expand like a branching tree, as Henry had said, with each new technology opening the way into other related technologies and these still into others. In many cases, when managers of the individual companies saw opportunities in related fields, they themselves recommended acquisitions of other suitable companies. So he buys more companies and more companies owns. They inform him about other companies that could be potential acquisitions. And he had this idea."
+    },
+    {
+      "timestamp": "00:48:36",
+      "text": "We saw this with the Banana King, Samuel Zemuri. If you know your business from A to Z, there's no problem you can't solve. I think if Henry had known that quote, he'd probably agree with it. He would buy like, he'd buy one company and then let's say there was like material components that that company needed, like as he learned more about the company that they bought from other people,"
+    },
+    {
+      "timestamp": "00:48:56",
+      "text": "he'd buy that company and just keep moving further down the stack closer to the source, if that makes sense. And something to know about this is like Henry's default aggressive. about this is like henry's default aggressive um so this is an example of that this marked teledyne's entry into into the high-tech metals business and vasco became one of more than 20 companies in the metal industry that they were acquired by teledyne in that year alone vasco is the the company that roberts is running"
+    },
+    {
+      "timestamp": "00:49:22",
+      "text": "and that's how he gets into Teledyne. It has often been asked why Henry, with his deep electronic expertise and focused interest in digital semiconductor-based systems technology, would decide to expand his company into the specialty metals industry. This is the industry where they say they like to buy things by the ounce or buy companies that sell things by the ounce, not the pound. That's this. One reason he said was that the expertise in chemistry, physics and metallurgy were all vital to the understanding and development of the semiconductor components needed for advanced electronic control systems. See what he's doing there? He's buying the companies that make the material, the components that are needed for what he has expertise in, electronic control systems. He's moving his way down the stack."
+    },
+    {
+      "timestamp": "00:50:11",
+      "text": "Another thing I learned from Henry that I want to apply to my own life. He said, the note I have for myself, Henry knew where he could create the most value and focus on that. Are you doing the same? That's a question to myself, but it could easily be something you might want to ask yourself. Are you focused? Like, where do you spend your time? Is it where you create the most value, where you're like you have your whatever unique skill sets might be? A lot of times you'll find out like what we're best at and where we create the most value is we're not actually dedicating the most time to it."
+    },
+    {
+      "timestamp": "00:50:35",
+      "text": "It's a very, I would say, common and bizarre occurrence. So it says, Henry, this is Henry realizing where what he's going to be best at. This is where Roberts is going to start running the operations, and Henry's going to focus on capital allocation. Henry spent hours studying stock and bond markets and was anxious to have both the funds and opportunity to pursue his life interest. Interesting word, life interest."
+    },
+    {
+      "timestamp": "00:50:56",
+      "text": "But he couldn't do that at the beginning. Has to do that later on. They started a company with 450 grand. He can't do that. He's got to wait until he's got actually a lot of companies, a lot of capital rolling in. So first things first. So he gets a letter from one of their companies saying, hey, can I help with this?"
+    },
+    {
+      "timestamp": "00:51:13",
+      "text": "I want to have input on selecting investments. And Henry's like, no. I showed this letter to Henry. He quickly told me that he wanted to control the investing of the stockholders' money. He did so, and no one interfered, not even the heads of the insurance companies who later joined us with their copious millions of dollars for investment. This is how he did it. He kept his Apple II and Apple III computers busy at his home, building his database and used those tools incessantly in his management methods. We saw this with Claude Shannon too. He was a very"
+    },
+    {
+      "timestamp": "00:51:45",
+      "text": "early pioneer in using personal computers for business, financial, and technical purposes. As most engineers did, he loved the Apple concept and subsequently joined Arthur Rock on Apple's board. Not only did he love Apple computers, but back in the 60s, he's working at what's something that's very popular now. He had a stand-up desk. He knew the detriment, even back then, to a sedentary lifestyle. So he'd put his Apple II and his Apple III computers on top of a desk, and he stood while it worked. One of my favorite brief essays i've ever written written i've ever read were by uh this guy named derek sivers and i think it's called there is no speed limit uh it's a reminder that you know we can move as fast as no one's going to stop us from moving"
+    },
+    {
+      "timestamp": "00:52:38",
+      "text": "quickly i just and things can usually move faster than you think they could uh or at least the speed that you have them going now and we see this see this. In the company's first six years, sales had gone from 4.4 million to 256 million, net income from 58,000 to $12 million. That is remarkable. Jeff Bezos has this famous idea about not having any teams within your organization bigger than... They're called two pizza teams, essentially. That if you have teams that can't be fed by ordering two pizzas, your group is too big. Singleton had his own version of two pizza teams. It says, our contention was that smaller units gave management better control"
+    },
+    {
+      "timestamp": "00:53:18",
+      "text": "and made the local manager fully responsible for the success of their own operations and motivated them to perform well. Our policy of keeping our operating units small, each responsible for its own success, is something we followed throughout the corporation. Another thing, you know, Henry had some misses. He obviously made some mistakes. But the intelligent thing that he would do is, like, he would just cut his losses and move on. He was very aware of opportunity costs where some people hold on to like you know hoping things turn around"
+    },
+    {
+      "timestamp": "00:53:47",
+      "text": "which is probably better to move on to a better opportunity so it says uh in one case they they own this company called packard bell and it says eventually eventually competition from japanese television manufacturers even though we had opened a low-cost production facility in mexico became too severe henry was never shy about cutting his losses. And we simply got out of that business and closed the television operation. And I think that's a smart move, because usually these broad economic trends that they're talking about here are almost never reversed. And if they are reversed, they're not reversed in soon enough time. Well, first of all, they're probably almost never reversed. But even they are reversed they're certainly not reversed in a quick enough time that your time and money couldn't be"
+    },
+    {
+      "timestamp": "00:54:29",
+      "text": "spent and allocated elsewhere so in this case like if japanese are kicking your ass like move on it's just not in that trend we saw i mean i did part of part of what led sony to be uh such a formidable company when i did the podcast on Akio Morito. He's riding that trend. He's on the other side of that transaction. Henry's on the side of the transaction you didn't want to be. He's like, I'm out of here."
+    },
+    {
+      "timestamp": "00:54:52",
+      "text": "I'm not doing this. Okay, now we got to the point where they stopped acquiring companies. This is why. Increasing competition for these companies by conglomerates who were growing the way we were. I'm going to list a bunch of them, okay? So this is why."
+    },
+    {
+      "timestamp": "00:55:06",
+      "text": "So by 1969, Henry and I decided the prices of other companies we might be interested in were getting too high. This was partly due to increasing competition for these companies by conglomerates who were growing the way we were. Many of the better companies had already been acquired from those available, and there were very few companies that were really attracted to us. Companies that they wanted to acquire began asking more than we thought was reasonable. There was also a business recession that was occurring at the time and growth in earnings per share was declining and the stock market was depressed."
+    },
+    {
+      "timestamp": "00:55:35",
+      "text": "And we had already acquired 150 companies. Henry and I decided it was time to organize and consolidate what we already had. This is the second part of his career, his pivot that William Thorndike was describing at the beginning. This is 150 companies. I always read 130. I don't know what was right, but in any case, they bought a lot of companies. I assume George knows how many companies they bought, but all the information I saw before that was 130. Okay. This is super important. Okay. So I guess, okay, here's a note I left for myself before I read this part. This is where Henry, his second act, where he diversifies into insurance and finance. Okay. The section is called Henry Singleton's Second Great Purpose."
+    },
+    {
+      "timestamp": "00:56:21",
+      "text": "The reason this is important, I'm going to tell you before I read the section to you, is because there's a quote that's in Poor Charlie's Almanac that I never forgot. Because, you know, Warren Buffett and Charlie Almanac, Charlie Munger, they refer to themselves as biography nuts, right? They're huge students of history. And in Poor Charlie's Almanac, it says there are ideas worth billions in a $30 history book. Okay. This is literally true with Singleton, what I'm about to read to you. And this is also why I don't think this book that I'm going through right now and analyzing is not for everybody."
+    },
+    {
+      "timestamp": "00:56:55",
+      "text": "Okay. One, if you're interested in it and obviously like if you like the pot, like the podcast I do, it's a good indication. Oh, wow. That's interesting."
+    },
+    {
+      "timestamp": "00:57:04",
+      "text": "There's usually more interesting things, right? Cause I can't tell you everything that's in the book. It'd be impossible. These books take hours and hours to read. But I would say is like, when I thought about like, who could I recommend this book to? Like, if you're already running a company right now, no brainer. If you're an investor that analyzes companies and that's how you make your money. No brainer."
+    },
+    {
+      "timestamp": "00:57:20",
+      "text": "The reason I say this is because like one, I don't look at books as costs. I look at them as investments. Okay. Now dollars this book is not thirty dollars you might pay 200 bucks for it my whole thing is like well okay the people we study they're masters at capping their downside and leaving their upside unlimited right almost every single founder we've analyzed does that and so in this case, like. Would I. Yeah, I'm going to if I think there's a good idea and it can cost me one hundred dollars and maybe 15 hours to read the book, I lose. What happens if I read the book and I don't find any good ideas? I'm out one hundred bucks in 15 hours. But I could find an idea like Henry's about to find here in one of these books that literally will make me 20,000 X return on that investment, whatever the number is like over the life of your career, a lot more like this idea"
+    },
+    {
+      "timestamp": "00:58:11",
+      "text": "made Henry billions or his shareholders billions. I don't know if he actually made billions personally, but I just think this is like, that's just the way I look at it. And, um, that's why I always say like, well, I think it's the old Seth Godin quote, like a book is a bargain. It's a screaming bargain. Like for 20 bucks, you can find an idea that changed your life. Like I believe that statement to be true. And we're seeing Henry demonstrate this here. So let me read this section to you. Henry talked to me on several occasions about the book by the former chairman of General Mortgage Corporation. He told me he had learned a very important concept from that book, which he"
+    },
+    {
+      "timestamp": "00:58:45",
+      "text": "wished to use in the growth of Teledyne. He explained that in about 1921 or 1922, after World War I and during a very difficult economic time or recession, General Motors had needed additional funds to finance her growth and had a plan to sell bonds to the general public. The bond sale was a complete failure and the chairman had written in his book that it had taught him an important lesson. It was that for a corporation to grow and to have a strong financial base, it needed to have, as part of itself, an interest in substantial financially oriented institutions. So General Motors had started the General Motors Acceptance Corporation and invested in other financial groups. As a result of his interest in this idea, Henry had decided that at some point when Teledyne had reached a certain size,"
+    },
+    {
+      "timestamp": "00:59:36",
+      "text": "he would seek out financial organizations we could acquire. So near the very end of our acquisition period, we did go in that direction before we stopped. It's interesting that he kept that idea in his mind for how long? Almost a decade, maybe? Doesn't say exactly when he read the book, but it sounds like it was a long time ago. So near the very end of our acquisition period, we did that in a direction, okay, before we finally stopped. number of financial and insurance companies, which is a significant change from our usual aerospace, metals, industrial, and consumer company acquisitions. Okay, so here's Henry explaining why. Like, why is he doing what he's doing? We just found out where he got the idea"
+    },
+    {
+      "timestamp": "01:00:17",
+      "text": "and why the chairman of General Motors thought it was a good idea, but why is Henry doing what he's doing? He's saying, Henry was asked the question, why the insurance business? His answer was that the health of an organization has to be strengthened by growth of its capital resources. Quote, we wouldn't borrow money from them, he said, but if you own the resources, that's what counts. We now have a net worth of 150 million. If we had 600 million, we'd be quite a different company, and we need to be if we're going to grow. Stability. Insurance appeals to us because of the stable growing base it gives us to continue our growth. None of our insurance companies is large enough to hurt us, and since their assets don't include big portfolios of inflated common stocks, their downside risk is minimal. Insurance is a business"
+    },
+    {
+      "timestamp": "01:01:09",
+      "text": "of numbers. Remember, he's a gifted mathematician we're talking about here, right? Insurance is a business of numbers, all carefully calculated by actuaries. There is a calculable result that you can pretty nearly forecast. They can be counted on to go up, maybe up not so fast, but up nonetheless. If a company is going to keep on growing at the rate we want to grow, it has to do some new things along the way. What we're doing now is providing the more stable base that will enable us to produce the growth"
+    },
+    {
+      "timestamp": "01:01:41",
+      "text": "four or five years from now. And so now here's George expounding on that. He says, by 1970, we began our second decade. We had stopped our direct acquisition of companies. We decided there was no point in paying inflated prices for complete ownership of companies when we could buy a substantial interest in them through our insurance companies when the market prices were favorable. This statement right there is all over Buffett shareholder letters. He talks about that constantly. When you buy the whole company, he's going to buy a company if it's favorable. But most times when you're buying the whole thing,"
+    },
+    {
+      "timestamp": "01:02:13",
+      "text": "you're paying inflated prices. So he's like, I'm just going to buy the stock, right? Continues. This is Henry 1978 in a Forbes magazine article. Henry was quoted about his philosophy in regard to this. I'm about to read this to you, but the notes I scribbled in the margins here, just put Buffett. That's the word I put, because they are of like minds on this issue 100% here, okay? This is Henry speaking now. There are tremendous values in the stock market, but in buying stocks, not entire companies. Buying companies tends to raise the purchase price too high. Their management will say, if you don't pay it, someone else will. And they're right. Somebody else does. We don't have"
+    },
+    {
+      "timestamp": "01:02:52",
+      "text": "to make any major acquisitions. We have other things that we are busy doing. The purpose is to make as good a return as we can. We don't have any other intentions. We do not view them as future acquisitions. Buying and selling companies is not our bag. Remember, this is now eight years, eight to nine years after this is the last time he bought a company. Those and people are like, this guy's full of shit. In the future as they have been as they have been about other things concerning Teledyne in the past. He's not going to listen to your nonsense. It doesn't matter if you believe what you agree or if you don't believe him when he says that he has no intention to acquire all these companies. He's laying out. This is why I'm doing it, because I can get better prices buying partial ownership than all and people are like oh okay well i don't believe you i don't okay good then you're gonna be wrong you're gonna be wrong today just like"
+    },
+    {
+      "timestamp": "01:03:51",
+      "text": "you were wrong a decade ago because again it's very how many people have these these vast like these gigantic successful pivots and not only like he's successfully pivoting like he's the pivots are successful but he was successful before the pivot. Like he had a decade of buying, of acquiring companies. FAB is successful. Now he's going into a decade of investing in stocks. Then buying money. He was successful with that."
+    },
+    {
+      "timestamp": "01:04:17",
+      "text": "Then he buys back his own stocks. He's successful with that. Then he spends a majority of his time optimizing the companies he bought. So they're throwing off way more profits. That's where he's getting a lot of the money to invest in, in the, the, the companies he bought. So they're, they're throwing off way more profits. That's where he's getting a lot of the money to invest in, in addition to the financial corporations that he owns. He's successful that this guy's amazing, man. All right. So we say, so it talks about,"
+    },
+    {
+      "timestamp": "01:04:39",
+      "text": "this is when he starts buying a lot of Lytton stock, right? I mentioned that earlier. And this is where we're also, where he's hearing a lot of like, you know, this is public that, that he's doing this. And so a lot of Lytton stock, right? I mentioned that earlier. And this is also where he's hearing a lot of, like, you know, this is public that he's doing this. And so a lot of people are like, oh, he's going to take it over. He's going to take it over. That's what he's addressing, right? So he says he was so taken with their ability"
+    },
+    {
+      "timestamp": "01:04:52",
+      "text": "to grow and capitalize, he's talking about Lytton Industries, on their latest technological opportunities that he was convinced they would make a great investment. By 1979, we had bought up to 25% of Lytton stock. There is considerable speculation in the investment community and press as to whether Henry would attempt to acquire control of Lytton. He once again reiterated his position to the press that he was running a flexible investment program and would quickly adjust to changes in the economy by changing his stock position at any time."
+    },
+    {
+      "timestamp": "01:05:23",
+      "text": "Remember, he's very big on, I want to have optionality. I want to maintain flexibility. If you own the whole company, you're not maintaining the whole flexibility. Okay. So now we get to the point of, we see their emphasis on autonomy and they come up with their own metric of success, which is the Teledyne return. I talked a little bit about that in Founders 94. He says, this is now George. We really wanted our companies to operate with considerable autonomy, and this placed a tremendous burden on our individual company presidents. Henry said in an interview, we depend on them. We have to trust them. We succeed or fail according to what they do. This was completely in accord with Henry's strong conviction that people were the most important factor in a business and they had to"
+    },
+    {
+      "timestamp": "01:06:07",
+      "text": "be given a chance to do their job. Quote from Henry, why bother them if they're doing their job? We really didn't do a lot of, this is now George talking, we really didn't do a lot of management by cash flow. We developed a measure that we called the Teledyne return, which was the average of your cash return and your profit. Another example of Henry Singleton. Really something I don't think I necessarily knew. I know I definitely didn't know before I started writing all these biographies. Like most founders, they don't think of themselves as entrepreneurs, as founders, business owners."
+    },
+    {
+      "timestamp": "01:06:39",
+      "text": "They think of themselves as teachers. That surprised me. And yet in a lot of these books, they explicitly state that. Sol Price thought of himself as a teacher. Henry Singleton, a teacher. Warren Buffett, a teacher. Bill Walsh, teacher. This happens over and over and over again. Steve Jobs, you have to teach your philosophy over and over again. He says, quite often, Henry simply talked about his philosophy of running a corporation and the over and over again. He says, strategists, and he came up with many creative ideas, ideas that were sometimes contrary to the currently accepted methods of managing a large corporation that prevailed in those days."
+    },
+    {
+      "timestamp": "01:07:32",
+      "text": "Now this is Claude Shannon on this. He always tries to work out the best moves, Shannon said, and maybe he doesn't like to talk too much. This is a reference that he gave very few interviews and he didn't like he didn't care about going to conferences. And, you know, let me put it in today's terms. If Henry Singleton was alive, he wouldn't have a Twitter account. So he says he always tries to work out the best move, Shannon said, and he maybe and maybe he doesn't like to talk too much because when you are playing a game, you don't tell anyone else what your strategy is now i mentioned earlier something i respect from george lucas is the fact that he unapologetically invested in what he believed in most which is himself now we've reached the part of the teledyne story it's the heading is investing in ourselves the stock buyback period but we get right into it the bear market of the early 1970s uh during the bear market of the early 1970s, Teledyne's stock price fell. Henry saw"
+    },
+    {
+      "timestamp": "01:08:27",
+      "text": "opportunity where most other company heads saw none. Henry walked into my office and said, George, we're going to make a bid for our stock at $20 a share. I said, are you really going to do this? I was totally amazed. He hadn't even hinted about that to me before. Remember what Claude just said? Claude says Henry, he was aloof. Arthur Rock described Henry as being aloof, quiet. Claude said he just sat in his office and shut up. He didn't tell everybody what he was going to do."
+    },
+    {
+      "timestamp": "01:08:57",
+      "text": "I was totally amazed. He hadn't even hinted about that to me before. So if it's a surprise, what is he saying there? It's a surprise to his second in command. Listen to George's next sentence. It was also a surprise to everybody else. This is an excellent example of how Henry made all investment and stock decisions on his own. He did this every single time. They were all done when our stock was at a low P.E. ratio."
+    },
+    {
+      "timestamp": "01:09:22",
+      "text": "He believed that our stock was grossly undervalued and it was the first of a series of eight stock buyback offers. So this is happening in 1972. He's giving the same interview I keep referencing over and over again. It happens in 1979. And there's another quote from Henry. He says, Henry was quoted as saying with a laugh in in October 1972, we tendered for 1 million shares and 8.9 million came in. That's crazy. We took them all. I figured it was a fluke and that we couldn't do it again."
+    },
+    {
+      "timestamp": "01:09:57",
+      "text": "But instead of going up, our stock went down. So we kept tendering. And then the list in here, one, two, three, four, five, six, nine, nine different times he did this over a, let's see, what is that? 12 year period. The market reacted adversely income continued to grow, remember, he's focused on optimizing. This is the stock buybacks is happening at the same time where he's optimizing the performance of the companies that he owns. So the amount of shares went down. Yet what's happening at the same time? The company's operating income continued to grow. They're becoming more and more profitable."
+    },
+    {
+      "timestamp": "01:10:39",
+      "text": "So what happens? The earnings per share increase rapidly and dramatically. It is remarkable that Henry was able to finance the majority of these buybacks with cash derived from operations. When debt was incurred, it was quickly paid off from operational income. This is just a well-run company. They keep their costs low, their revenue high, and they roll in the money. Now, this is bananas. Ready? Shareholders who had stayed with the company from the first buyback in 1972 had achieved a gain of some 3,000% by this time."
+    },
+    {
+      "timestamp": "01:11:19",
+      "text": "That is nine years later. Henry Singleton had a virtually unmatched record in his era of value creation. The note I left myself is unequaled, unrivaled. Now we're into the second decade. This is where they're getting all the growth without major acquisitions. And rule number one in company building, survive. So this is Henry saying, hey, you don't want a lot of debt in a recession. By 1974, the country was in its worst recession of 40 years. In anticipation of this, Henry, Henry, in anticipation of the recession, Henry had become very aggressive in paying down the corporation's debts."
+    },
+    {
+      "timestamp": "01:12:02",
+      "text": "In his letter to shareholders in 1970, I'm going to read this to you. This is Henry writing to us. It will be noted that the interest expense of Teledyne declined substantially in 1970. This decline reflects the program of debt reduction, which has been carried out during the past two years. So he's saying on a yearly basis in 1969,"
+    },
+    {
+      "timestamp": "01:12:25",
+      "text": "they were paying a hundred, they had 180 million in interest expense. That debt was completely eliminated two years later. And he says that this debt reduction was accomplished from Teledyne's internal cashflow. And so I remember optimizing what he already has. They talk about that a lot in the book. So I'm going to give you some numbers here. Beginning of 1970, they were doing $1.2 billion in sales. Really good, right? But that's sales. We're not talking profit yet. I'm going to"
+    },
+    {
+      "timestamp": "01:12:55",
+      "text": "get there. But 10 years later, in 1980, they're doing $2.9 billion. So almost 3x, right? $1.2 to $2.9 billion. But here's how crazy efficient they became. Their profit in 1970 on that 1.2 billion was 62 million, right? Their profit on the 2.9 billion a decade later, 344 million. Way more efficient. What is that, 5x? Something like that? Maybe more?"
+    },
+    {
+      "timestamp": "01:13:22",
+      "text": "Bananas. Teledyne became way more efficient efficient it's a note on that page okay so now back to his strategy about hey i'm not buying uh whole companies anymore i'm going to stock market right and you know everybody's saying oh this guy's like he's a serial acquirer not realizing he's changed strategy because he's not gonna sit down like oh i changed my strategy um but he will tell you like why he's doing it but they didn't understand that his entire strategy changed so i'm going to read the section to you before we get there by you have to understand by 1977 teledyne was the largest shareholder in nine fortune 500 companies okay but that's weird this"
+    },
+    {
+      "timestamp": "01:14:00",
+      "text": "is a bizarre thing even though he's the largest shareholder in nine Fortune 500 companies, he didn't want control or even a board seat at the companies. This is very bizarre. By the end of this year, Teledyne was the largest shareholder in nine Fortune 500 corporations. I just told you that. We actually had enough shares in six of those corporations to effectively have control over them. But Henry never exercised that capability. He never even attempted to seek a position on the boards of those companies. And so one of these companies is called Curtis Wright,"
+    },
+    {
+      "timestamp": "01:14:33",
+      "text": "and they're talking about Henry. And they said, on Singleton, he has been absolutely scrupulous in staying out of our affairs. That many people didn't believe him was an indication of how little they knew of Henry's integrity and determination to follow his own course. That's something I really respect about him, his just determination to follow his own course. We all only get one shot at this thing called life. Might as well live the ones we want to live, not what other people tell us to do, right? Something interesting, Claude Shannon worked with Teledyne for 26 years. This part reminded me that Ed Catmull in his book Creativity, Inc. Ed Catmull is the co-founder of Pixar."
+    },
+    {
+      "timestamp": "01:15:12",
+      "text": "He's got a chapter at the end of that book called The Steve We Knew. And I think it's one of the best, it's a very short chapter. You could read it in, you know, probably 15 minutes, something like that. But it's one of the best scriptures of the growth growth and development of steve jobs because ed worked with steve he was the person that worked with steve the uh the longest consecutive amount of times so claude and henry worked together for 26 straight years uh i think i think steve and ed worked together for 24 straight years or something like that but a very very long time so he had he has a lot of insights into steve's personality and the way he thought,"
+    },
+    {
+      "timestamp": "01:15:46",
+      "text": "because he spent just more time, you know, working with than anybody else did. So I thought it was interesting. So this is a little bit about Claude. Claude Shannon had retired from the board of directors at this time. He was elected director emeritus in honor of 26 years of invaluable service to the company shareholders. Imagine like Claude Shannon is probably one of the most brilliant minds in human history. Imagine having him on your board for a quarter century. What the hell? Dr. Shannon, who was a member of the company's original board, was Donner Professor of Science Emeritus at MIT. He received many honors in his distinguished"
+    },
+    {
+      "timestamp": "01:16:19",
+      "text": "career as an educator and a scientist. He had a master's degree in electrical engineering and a doctorate in mathematics from MIT. Before joining the faculty of MIT, he was a scientist. He had a master's degree in electrical engineering and a doctorate in mathematics from MIT. Before joining the faculty of MIT, he was a scientist at Bell Laboratories, where he wrote a mathematical theory of communication, which was a treatise that earned him recognition as the father of information theory. He had retired as an active member of MIT in 1979."
+    },
+    {
+      "timestamp": "01:16:41",
+      "text": "So I said earlier, Henry didn't start his company until he was 44 then he's about 70 almost 70 years old he decides he's gonna retire um which i loved he wait till 44 start a company right off the best record in american business history and then leave to go ranch i just i really appreciate how this guy approaches life but before that i want to um we're going to see like he had a fanatical focus on the long term, like most of the founders that we study do. Because you can't achieve great things in a year or two. The reason they write books on these people is because they go at it for decade after decade, and they don't quit."
+    },
+    {
+      "timestamp": "01:17:17",
+      "text": "Most humans quit. So he says right here, I'm only interested in the long term. So he's talking to, I don't know who this person he's talking to is, but basically he says, this is a quote from Henry. Actually, hold on. This was Henry 70, actually, when this is happening. Okay, so this is coming from a June 1987 issue of Financial World. And so they're figuring out, like, what are you going to do when you retire? Are you going to sell everything off? Like, what are you doing? So like, you got to take Teladon private, you're going to break it up into pieces, what's going to happen? So he says, we're not particularly persuaded by quick temporary gains."
+    },
+    {
+      "timestamp": "01:17:58",
+      "text": "We'd rather get something permanent. And it takes time. If there's anybody who wants us to do something real, something real fast, it's going to be an astonishing in terms of increased earnings or something. I don't know how to satisfy such desires. So he's being pressed on, hey, why don't you do a bunch of spinoffs? Because that's probably a good way"
+    },
+    {
+      "timestamp": "01:18:17",
+      "text": "to boost shareholder value, right? And I love his response. He talks to the reporter. You're thinking in the short term. I'm in the long term. So I wouldn't do anything like that for a temporary rise in the price of a stock. Henry continues. You know, there are companies that will sell one division and buy another because today"
+    },
+    {
+      "timestamp": "01:18:37",
+      "text": "this division generally sports a low multiple and the one they're buying has a high multiple and they think that may rub off on the whole company. That absolutely turns me off. That whole concept is repulsive. We don't do things like that. We look at the economic long-term possibilities. I love that word they use. It's repulsive."
+    },
+    {
+      "timestamp": "01:18:58",
+      "text": "He's disgusted by this behavior. This is, his daughter writes a book about their time on the ranch. And I just, there's a quote in it that I love. It talks about,"
+    },
+    {
+      "timestamp": "01:19:14",
+      "text": "like, I'm a big believer, as you know, if you read my notes, because I take notes on like, you know, not just entrepreneurs and founders, but like people,"
+    },
+    {
+      "timestamp": "01:19:22",
+      "text": "anybody achieved something really hard that takes a long time. It could be be athletes, could be artists, musicians, craftsmen. It doesn't matter. Like you can learn from all of them and then take that into whatever discipline you're in. Right. And so Henry learned also from ranching and he has like a lot of insights here. Um, I just, I love this. It's a quick paragraph and it's Henry Singleton on a form of discipline. And so his daughter's talking about, he's not like a passive, he owns the ranch, but he's not passive. He gets up at 5.30 in the morning, talks to his ranch manager, et cetera, et cetera. But we're going to get on this part. He says he pays all the ranch bills and signs all the checks,"
+    },
+    {
+      "timestamp": "01:20:02",
+      "text": "calling it a form of discipline. He's wealthy at this point. He can hire somebody to do this, but he doesn't. Why? Through doing the signing, it's amazing how much you learn about the business. There's a reminder of each event or action behind each check. And sometime during the day, he makes time to look at trade journals or market reports. It influences your feel, he says."
+    },
+    {
+      "timestamp": "01:20:32",
+      "text": "What direction you're going to go. And I'll close on this. This is another excerpt, a eulogy delivered by Simon Ramo, who's the person that recruited Henry to not go back to MIT and to head west. And he's got a lot of interesting things to say. So let's go right to it. Rarely do you meet a total stranger and instantly know that you will come to admire that person. That happened to me when I first shook hands with Henry Singleton. This fellow, I thought to myself, with his good looks and his academic record, surely would have a swelled head. But when he entered the room, his manner, that countenance of quiet dignity and gentleness and kindly intelligence with no ego, those dominant aspects of Henry's personality took over."
+    },
+    {
+      "timestamp": "01:21:18",
+      "text": "Had he chosen to remain in engineering, his career would most certainly have been a distinguished one. But an unexpected opportunity turned up that triggered and uncovered a surprising dimension of Henry's makeup. To create a new company that would find, acquire, merge, and manage other companies. Here he exhibited extraordinary talents even he could not have fully known he possessed. As a chief executive officer, he now applied his powerful analytical strengths in novel ways to research and assess the true values of companies, their stock prices, their competition, their profit and growth potentials. With his stand-up desk and his computer, he became a whole tree full of owls of wisdom about corporations and"
+    },
+    {
+      "timestamp": "01:22:06",
+      "text": "markets. Henry was not your ordinary CEO. He constantly frustrated the world of Wall Street and business media by ignoring them. They were used to businessmen anxious to be interviewed, to be written about, to tout their companies. By accompanying his phenomenal business success with a preference for anonymity, he mystified them. Not surprisingly, as his talents at analytical business decision became known, many assumed he was a purely numbers guru, not interested in the people factor in investments. Not true. I cite an example. Years ago, technology advance suddenly made possible low-priced, high-power computers that millions could buy."
+    },
+    {
+      "timestamp": "01:22:58",
+      "text": "Numerous companies were started to produce them. Most failed. Not the one Henry helped to finance. He invested in Apple. How, Henry, I asked him later, with all these new computer startups looking alike, did you pick Apple that emerged as a huge success with enormous gains for the early investors? Well, he replied, I figured most of these millions of expected potential computer customers would at first be intimidated by computers. But could anyone be intimidated by a computer named Apple? Besides, he said, all the others except Apple, if they failed, would just walk away."
+    },
+    {
+      "timestamp": "01:23:44",
+      "text": "Apple's founders had plowed every cent into the company. They just had to make good. All who knew Henry well learned that what you saw in his peaceful face, manifesting ready and deep understanding, is what you got in his interest in you. You felt the warmth of friendship and sincere consideration underneath that mane of reserve. That's just a great way to end the book. state for the enrichment of our lives that knowing him yielded us. That's just a great way to end the book. And a great way, I mean, that feeling is very common. When you're reading biographies, if you think about it, when we get to the end of the book, you know, in most of these people, not only is the book over, but their lives are over."
+    },
+    {
+      "timestamp": "01:24:43",
+      "text": "They're finished. And there is a sense, I always talk about this when you finish a good book, and I especially experience this with the biographies I read. It's like this melancholic feel. It's like you feel like you know them, and you're sad that they're not here anymore, but you're also grateful that somebody took the time and the effort to write down the lessons they learned from their experiences and the ideas they had. And once you put it in a book, it's forever. So if you want to get the full story, again, I've already told you who I think should read this book. You can get the book by using, and you can get the book, first of all, you support the author. I don't even know if he's still alive, but in any case, and we did do a hell of a lot of work"
+    },
+    {
+      "timestamp": "01:25:28",
+      "text": "for us to put this book together and for us to all learn from. But now you're supporting the author. You're supporting yourself by getting a book that, you know, like going back to the Portrelli's Almanac quote, there's ideas worth billions in a $30 history book. And if you buy using the link"
+    },
+    {
+      "timestamp": "01:25:42",
+      "text": "that's in your show notes or at founderspodcast.com, you're also supporting the podcast. Thank you very much for your attention. I'll talk to you next week."
+    }
+  ],
+  "scrapedAt": "2026-03-23T19:15:56.080Z"
+}

@@ -5,9 +5,14 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "dev": "bun run --hot src/server/index.ts & vite dev src/web --config vite.config.ts",
+    "dev:server": "bun run --hot src/server/index.ts",
+    "dev:web": "vite dev src/web --config vite.config.ts",
+    "build": "vite build --config vite.config.ts",
+    "start": "bun run src/server/index.ts",
     "ingest": "bun run src/cli.ts ingest",
     "search": "bun run src/cli.ts search",
-    "ask":    "bun run src/cli.ts ask"
+    "ask": "bun run src/cli.ts ask"
   },
   "keywords": [],
   "author": "",
@@ -15,10 +20,24 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.49.4",
     "axios": "^1.13.6",
-    "cheerio": "^1.2.0"
+    "cheerio": "^1.2.0",
+    "hono": "^4.12.9",
+    "nanoid": "^5.1.7",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "zustand": "^5.0.12"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "@tailwindcss/vite": "^4.2.2",
     "@types/node": "^25.5.0",
-    "typescript": "^6.0.2"
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "tailwindcss": "^4.2.2",
+    "typescript": "^6.0.2",
+    "vite": "^8.0.2"
   }
 }

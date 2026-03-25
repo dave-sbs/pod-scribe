@@ -50,3 +50,47 @@ export type SearchResult = {
   text: string;
   rrfScore: number;
 };
+
+// --- Conversation ---
+
+export type SourceReference = {
+  episodeNumber: number | null;
+  title: string;
+  timestamp: string;
+  url: string;
+  text: string;
+};
+
+export type Message = {
+  id: string;
+  role: "user" | "assistant";
+  content: string;
+  sources: SourceReference[];
+  createdAt: string;
+};
+
+export type Conversation = {
+  id: string;
+  title: string;
+  messages: Message[];
+  summary?: string;
+  createdAt: string;
+  updatedAt: string;
+};
+
+// --- API ---
+
+export type ChatRequest = {
+  conversationId: string;
+  messages: Array<{
+    role: "user" | "assistant";
+    content: string;
+  }>;
+  summary?: string;
+};
+
+export type SSEEvent =
+  | { type: "sources"; data: SourceReference[] }
+  | { type: "delta"; data: { content: string } }
+  | { type: "done"; data: { content: string; summary?: string } }
+  | { type: "error"; data: { message: string } };

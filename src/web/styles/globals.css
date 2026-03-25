@@ -1,0 +1,91 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-serif: "Crimson Pro", Georgia, serif;
+
+  --color-bg-primary: var(--bg-primary);
+  --color-bg-secondary: var(--bg-secondary);
+  --color-bg-card: var(--bg-card);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-muted: var(--text-muted);
+  --color-accent: var(--accent);
+  --color-accent-light: var(--accent-light);
+  --color-accent-hover: var(--accent-hover);
+  --color-border: var(--border-color);
+  --color-border-light: var(--border-light);
+  --color-error: var(--error);
+  --color-error-light: var(--error-light);
+}
+
+:root {
+  --bg-primary: #fafaf8;
+  --bg-secondary: #f5f3ef;
+  --bg-card: #ffffff;
+  --text-primary: #1a1a1a;
+  --text-secondary: #6b6b6b;
+  --text-muted: #9b9b9b;
+  --accent: #b8860b;
+  --accent-light: #f5e6c8;
+  --accent-hover: #a07608;
+  --border-color: #e8e5df;
+  --border-light: #f0ede8;
+  --error: #c53030;
+  --error-light: #fed7d7;
+}
+
+.dark {
+  --bg-primary: #1a1a1e;
+  --bg-secondary: #141416;
+  --bg-card: #242428;
+  --text-primary: #e8e6e1;
+  --text-secondary: #a0a0a0;
+  --text-muted: #6b6b6b;
+  --accent: #d4a017;
+  --accent-light: #3d3018;
+  --accent-hover: #e8b522;
+  --border-color: #2e2e33;
+  --border-light: #26262a;
+  --error: #f56565;
+  --error-light: #3b1a1a;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* Prose overrides for assistant messages */
+.prose-assistant {
+  font-family: var(--font-serif);
+}
+
+.prose-assistant h1,
+.prose-assistant h2,
+.prose-assistant h3 {
+  font-family: var(--font-sans);
+}

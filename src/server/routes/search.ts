@@ -1,0 +1,14 @@
+import { Hono } from "hono";
+import { search } from "../../search/search";
+
+const searchRoutes = new Hono();
+
+searchRoutes.post("/", async (c) => {
+  const body = await c.req.json<{ query: string; topK?: number }>();
+  if (!body.query) return c.json({ error: "query is required" }, 400);
+
+  const results = await search(body.query);
+  return c.json({ results });
+});
+
+export { searchRoutes };

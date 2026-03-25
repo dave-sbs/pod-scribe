@@ -6,6 +6,14 @@ export async function upsertChunks(
   episodeId: number,
   chunks: ChunkWithEmbedding[]
 ): Promise<void> {
+  const { error: deleteError } = await supabase
+    .from("founders_ep_chunks")
+    .delete()
+    .eq("episode_id", episodeId);
+
+  if (deleteError) throw new Error(`upsertChunks(deleteAll): ${deleteError.message}`);
+  if (chunks.length === 0) return;
+
   const rows = chunks.map((c) => ({
     episode_id: episodeId,
     chunk_index: c.chunkIndex,

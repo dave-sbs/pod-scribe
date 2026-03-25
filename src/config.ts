@@ -10,7 +10,6 @@ export const config = {
   openrouterApiKey: requireEnv("OPENROUTER_API_KEY"),
   embeddingModel: "openai/text-embedding-3-small",
   llmModel: "google/gemini-3-flash-preview",
-  embeddingDims: 1536,
   chunkSize: 5,   // segments per chunk (~700 tokens)
   chunkOverlap: 1,   // segments shared with previous chunk
   searchTopK: 30,

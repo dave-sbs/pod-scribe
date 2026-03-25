@@ -23,7 +23,9 @@ export async function upsertEpisode(meta: EpisodeMetadata): Promise<number> {
 }
 
 export async function getIngestedSlugs(): Promise<Set<string>> {
-  const { data, error } = await supabase.from("founders_episodes").select("slug");
+  const { data, error } = await supabase
+    .from("founders_episodes")
+    .select("slug, founders_ep_chunks!inner(id)");
   if (error) throw new Error(`getIngestedSlugs: ${error.message}`);
   return new Set((data ?? []).map((r: { slug: string }) => r.slug));
 }

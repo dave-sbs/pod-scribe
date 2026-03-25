@@ -21,7 +21,6 @@ async function ingestEpisode(filePath: string): Promise<void> {
 
   console.log(`  ep#${metadata.episodeNumber}: ${metadata.title}`);
 
-  const episodeId = await upsertEpisode(metadata);
   const chunks = chunkTranscript(metadata.slug, transcript);
   console.log(`    ${chunks.length} chunks`);
 
@@ -35,6 +34,7 @@ async function ingestEpisode(filePath: string): Promise<void> {
     if (i + BATCH_SIZE < chunks.length) await sleep(BATCH_DELAY_MS);
   }
 
+  const episodeId = await upsertEpisode(metadata);
   await upsertChunks(episodeId, embeddedChunks);
 }
 

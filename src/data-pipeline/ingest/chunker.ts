@@ -1,5 +1,5 @@
-import type { TranscriptSegment, Chunk } from "../types";
-import { config } from "../config";
+import type { TranscriptSegment, Chunk } from "../../types";
+import { config } from "../../config";
 
 export function chunkTranscript(
   slug: string,
@@ -13,12 +13,12 @@ export function chunkTranscript(
     if (window.length === 0) break;
 
     chunks.push({
-      episodeSlug:     slug,
-      chunkIndex:      chunks.length,
-      startTimestamp:  window[0].timestamp,
-      endTimestamp:    window[window.length - 1].timestamp,
-      text:            window.map((s) => s.text).join(" "),
-      segmentIndices:  window.map((_, j) => i + j),
+      episodeSlug: slug,
+      chunkIndex: chunks.length,
+      startTimestamp: window[0].timestamp,
+      endTimestamp: window[window.length - 1].timestamp,
+      text: window.map((s) => s.text).join(" "),
+      segmentIndices: window.map((_, j) => i + j),
     });
   }
 

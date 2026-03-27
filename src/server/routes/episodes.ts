@@ -1,5 +1,5 @@
 import { Hono } from "hono";
-import { supabase } from "../../db/client";
+import { supabase } from "../../data-pipeline/db/client";
 
 const episodeRoutes = new Hono();
 

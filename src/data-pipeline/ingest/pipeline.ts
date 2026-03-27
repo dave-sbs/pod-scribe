@@ -1,8 +1,8 @@
 import { readdir, readFile } from "fs/promises";
 import { join } from "path";
-import type { Episode } from "../types";
+import type { Episode } from "../../types";
 import { chunkTranscript } from "./chunker";
-import { embedTexts } from "./embedder";
+import { embedTexts } from "../../utils";
 import { upsertEpisode, getIngestedSlugs } from "../db/episodes";
 import { upsertChunks } from "../db/chunks";
 

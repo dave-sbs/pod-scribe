@@ -1,5 +1,5 @@
 import { supabase } from "./client";
-import type { EpisodeMetadata } from "../types";
+import type { EpisodeMetadata } from "../../types";
 
 export async function upsertEpisode(meta: EpisodeMetadata): Promise<number> {
   const { data, error } = await supabase

@@ -1,4 +1,4 @@
-import { ingestAll } from "./ingest/pipeline";
+import { ingestAll } from "./data-pipeline/ingest/pipeline";
 import { search } from "./search/search";
 import { ask } from "./rag/pipeline";
 
@@ -35,7 +35,7 @@ async function main(): Promise<void> {
       }
       for (const r of results) {
         console.log(
-          `[${r.rrfScore.toFixed(4)}] Ep#${r.episodeNumber} "${r.title}" @ ${r.startTimestamp}`
+          `[${r.rrfScore.toFixed(4)}] Ep#${r.episodeNumber} "${r.title}" @ ${r.startTimestamp}`,
         );
         console.log(`  ${r.text.slice(0, 140)}...`);
         console.log();
@@ -53,7 +53,9 @@ async function main(): Promise<void> {
       console.log(answer);
       console.log("\n--- Sources retrieved ---");
       for (const s of sources) {
-        console.log(`  Ep#${s.episodeNumber} "${s.title}" @ ${s.timestamp} — ${s.url}`);
+        console.log(
+          `  Ep#${s.episodeNumber} "${s.title}" @ ${s.timestamp} — ${s.url}`,
+        );
       }
       break;
     }

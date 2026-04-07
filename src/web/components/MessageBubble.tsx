@@ -1,4 +1,4 @@
-import { useMemo } from "react";
+import { useMemo, useState, useCallback, useRef } from "react";
 import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import type { Message, SourceReference } from "../../types";
@@ -8,14 +8,9 @@ import { CitationChip } from "./CitationChip";
 type MessageBubbleProps = {
   message: Message;
   isStreaming?: boolean;
-  onOpenCitation: (source: SourceReference) => void;
 };
 
-export function MessageBubble({
-  message,
-  isStreaming,
-  onOpenCitation,
-}: MessageBubbleProps) {
+export function MessageBubble({ message, isStreaming }: MessageBubbleProps) {
   if (message.role === "user") {
     return (
       <div className="flex justify-end mb-4">
@@ -28,34 +23,43 @@ export function MessageBubble({
     );
   }
 
-  return (
-    <AssistantMessage
-      message={message}
-      isStreaming={isStreaming}
-      onOpenCitation={onOpenCitation}
-    />
-  );
+  return <AssistantMessage message={message} isStreaming={isStreaming} />;
 }
 
-function AssistantMessage({
-  message,
-  isStreaming,
-  onOpenCitation,
-}: MessageBubbleProps) {
+function AssistantMessage({ message, isStreaming }: MessageBubbleProps) {
+  const [copied, setCopied] = useState(false);
+  const proseRef = useRef<HTMLDivElement>(null);
+
+  const handleCopy = useCallback(() => {
+    const el = proseRef.current;
+    if (!el) return;
+
+    // Clone the rendered HTML and strip citation chip elements
+    const clone = el.cloneNode(true) as HTMLElement;
+    clone.querySelectorAll("[data-citation-chip]").forEach((n) => n.remove());
+
+    const html = clone.innerHTML;
+    // Strip any remaining raw citation brackets from plain text
+    const rawText = clone.textContent ?? "";
+    const plainText = rawText
+      .replace(/\[[^\]]*?Ep\.\s*#[^\]]+\]/g, "")
+      .replace(/\s{2,}/g, " ")
+      .trim();
+
+    navigator.clipboard.write([
+      new ClipboardItem({
+        "text/html": new Blob([html], { type: "text/html" }),
+        "text/plain": new Blob([plainText], { type: "text/plain" }),
+      }),
+    ]);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  }, []);
+
   const segments = useMemo(
     () => parseCitations(message.content),
     [message.content]
   );
-
-  // Collect unique episodes for the sources row
-  const uniqueEpisodes = useMemo(() => {
-    const seen = new Set<number>();
-    return message.sources.filter((s) => {
-      if (s.episodeNumber == null || seen.has(s.episodeNumber)) return false;
-      seen.add(s.episodeNumber);
-      return true;
-    });
-  }, [message.sources]);
 
   // Split content into citation-free text parts for markdown rendering
   // We render the full content as markdown but inject citation chips
@@ -65,6 +69,7 @@ function AssistantMessage({
       episodeNumber: number;
       title: string;
       timestamp: string;
+      index: number;
     }> = [];
 
     for (const seg of segments) {
@@ -72,10 +77,21 @@ function AssistantMessage({
         citations.push(seg);
       }
     }
-    // Replace citations with placeholders for markdown
-    const CITATION_REGEX = /\[Ep\.\s*#(\d+)\s*"([^"]+)"\s*@\s*([\d:]+)\]/g;
+    // Replace citation brackets (single or multi) with placeholders
+    const BRACKET_REGEX = /\[([^\]]*?Ep\.\s*#[^\]]+)\]/g;
+    const SINGLE_CITE_REGEX =
+      /Ep\.\s*#(\d+)\s*(?:"([^"]*)"\s*)?@\s*([\d:]+(?:[–-][\d:]+)?)/;
     let idx = 0;
-    result = result.replace(CITATION_REGEX, () => `%%CITE_${idx++}%%`);
+    result = result.replace(BRACKET_REGEX, (_full, inner: string) => {
+      const parts = inner.split(/;\s*/);
+      const placeholders: string[] = [];
+      for (const part of parts) {
+        if (SINGLE_CITE_REGEX.test(part.trim())) {
+          placeholders.push(`%%CITE_${idx++}%%`);
+        }
+      }
+      return placeholders.length > 0 ? placeholders.join("") : _full;
+    });
     return { text: result, citations };
   }, [message.content, segments]);
 
@@ -83,12 +99,11 @@ function AssistantMessage({
     <div className="flex justify-start mb-6">
       <div className="max-w-full w-full">
         <div className="rounded-2xl rounded-bl-md px-5 py-4">
-          <div className="prose-assistant prose prose-sm max-w-none prose-headings:text-text-primary prose-p:text-text-primary prose-p:leading-relaxed prose-li:text-text-primary prose-strong:text-text-primary prose-blockquote:border-accent-light prose-blockquote:text-text-secondary">
+          <div ref={proseRef} className="prose-assistant prose prose-sm max-w-none prose-headings:text-text-primary prose-p:text-text-primary prose-p:leading-relaxed prose-li:text-text-primary prose-strong:text-text-primary prose-blockquote:border-accent-light prose-blockquote:text-text-secondary">
             <MarkdownWithCitations
               text={contentWithPlaceholders.text}
               citations={contentWithPlaceholders.citations}
               sources={message.sources}
-              onOpenCitation={onOpenCitation}
             />
           </div>
           {isStreaming && (
@@ -96,19 +111,25 @@ function AssistantMessage({
           )}
         </div>
 
-        {/* Sources row */}
-        {uniqueEpisodes.length > 0 && !isStreaming && (
-          <div className="flex items-center gap-2 mt-2 px-2 flex-wrap">
-            <span className="text-xs text-text-muted">Sources:</span>
-            {uniqueEpisodes.map((ep) => (
-              <button
-                key={`${ep.episodeNumber}-${ep.timestamp}`}
-                className="text-xs text-accent hover:text-accent-hover transition-colors cursor-pointer"
-                onClick={() => onOpenCitation(ep)}
-              >
-                Ep. #{ep.episodeNumber} &ldquo;{ep.title}&rdquo;
-              </button>
-            ))}
+        {/* Copy button */}
+        {!isStreaming && message.content && (
+          <div className="px-5 pb-2">
+            <button
+              onClick={handleCopy}
+              className="p-1 rounded-md text-text-muted hover:text-text-secondary hover:bg-bg-secondary transition-colors"
+              title="Copy response"
+            >
+              {copied ? (
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <polyline points="20 6 9 17 4 12" />
+                </svg>
+              ) : (
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <rect x="9" y="9" width="13" height="13" rx="2" ry="2" />
+                  <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" />
+                </svg>
+              )}
+            </button>
           </div>
         )}
       </div>
@@ -122,29 +143,28 @@ type MarkdownWithCitationsProps = {
     episodeNumber: number;
     title: string;
     timestamp: string;
+    index: number;
   }>;
   sources: SourceReference[];
-  onOpenCitation: (source: SourceReference) => void;
 };
 
 function MarkdownWithCitations({
   text,
   citations,
   sources,
-  onOpenCitation,
 }: MarkdownWithCitationsProps) {
   // Custom text renderer that injects citation chips
   const components = useMemo(
     () => ({
       // Override text nodes to inject citations
       p: ({ children, ...props }: React.ComponentProps<"p">) => (
-        <p {...props}>{processChildren(children, citations, sources, onOpenCitation)}</p>
+        <p {...props}>{processChildren(children, citations, sources)}</p>
       ),
       li: ({ children, ...props }: React.ComponentProps<"li">) => (
-        <li {...props}>{processChildren(children, citations, sources, onOpenCitation)}</li>
+        <li {...props}>{processChildren(children, citations, sources)}</li>
       ),
     }),
-    [citations, sources, onOpenCitation]
+    [citations, sources]
   );
 
   return (
@@ -156,14 +176,18 @@ function MarkdownWithCitations({
 
 function processChildren(
   children: React.ReactNode,
-  citations: Array<{ episodeNumber: number; title: string; timestamp: string }>,
-  sources: SourceReference[],
-  onOpenCitation: (source: SourceReference) => void
+  citations: Array<{
+    episodeNumber: number;
+    title: string;
+    timestamp: string;
+    index: number;
+  }>,
+  sources: SourceReference[]
 ): React.ReactNode {
   if (!children) return children;
 
   if (typeof children === "string") {
-    return replacePlaceholders(children, citations, sources, onOpenCitation);
+    return replacePlaceholders(children, citations, sources);
   }
 
   if (Array.isArray(children)) {
@@ -171,7 +195,7 @@ function processChildren(
       if (typeof child === "string") {
         return (
           <span key={i}>
-            {replacePlaceholders(child, citations, sources, onOpenCitation)}
+            {replacePlaceholders(child, citations, sources)}
           </span>
         );
       }
@@ -184,9 +208,13 @@ function processChildren(
 
 function replacePlaceholders(
   text: string,
-  citations: Array<{ episodeNumber: number; title: string; timestamp: string }>,
-  sources: SourceReference[],
-  onOpenCitation: (source: SourceReference) => void
+  citations: Array<{
+    episodeNumber: number;
+    title: string;
+    timestamp: string;
+    index: number;
+  }>,
+  sources: SourceReference[]
 ): React.ReactNode[] {
   const parts: React.ReactNode[] = [];
   const regex = /%%CITE_(\d+)%%/g;
@@ -202,11 +230,11 @@ function replacePlaceholders(
       parts.push(
         <CitationChip
           key={`cite-${citeIdx}-${match.index}`}
+          index={cite.index}
           episodeNumber={cite.episodeNumber}
           title={cite.title}
           timestamp={cite.timestamp}
           sources={sources}
-          onOpenPanel={onOpenCitation}
         />
       );
     }

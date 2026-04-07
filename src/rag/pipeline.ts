@@ -1,6 +1,5 @@
 import { search } from "../search/search";
 import { formatContext } from "../search/context";
-import { chatCompletion, chatCompletionStream } from "./llm";
 import {
   SYSTEM_PROMPT,
   buildPrompt,
@@ -9,6 +8,8 @@ import {
   needsSummarization,
 } from "./prompt";
 import type { SearchResult, SourceReference } from "../types";
+import { generateText, streamText } from "ai";
+import { config } from "../config";
 
 export type RagResult = {
   answer: string;
@@ -20,22 +21,6 @@ export type RagResult = {
   }>;
 };
 
-export async function ask(question: string): Promise<RagResult> {
-  const results: SearchResult[] = await search(question);
-  const context = formatContext(results);
-  const answer = await chatCompletion(SYSTEM_PROMPT, buildPrompt(question, context));
-
-  return {
-    answer,
-    sources: results.map((r) => ({
-      episodeNumber: r.episodeNumber,
-      title:         r.title,
-      timestamp:     r.startTimestamp,
-      url:           r.url,
-    })),
-  };
-}
-
 // --- Streaming conversation-aware pipeline ---
 
 type ConversationMessage = {
@@ -45,14 +30,14 @@ type ConversationMessage = {
 
 export type StreamResult = {
   sources: SourceReference[];
-  stream: AsyncGenerator<string>;
+  stream: AsyncIterable<string>;
   summary?: string;
 };
 
 export async function askStream(
   question: string,
   history: ConversationMessage[],
-  existingSummary?: string
+  existingSummary?: string,
 ): Promise<StreamResult> {
   const results: SearchResult[] = await search(question);
   const context = formatContext(results);
@@ -70,20 +55,26 @@ export async function askStream(
   // Summarize old history if it's too long
   if (needsSummarization(history) && !existingSummary) {
     const summarizeMessages = buildSummarizationMessages(history);
-    summary = await chatCompletion(
-      summarizeMessages[0].content,
-      summarizeMessages[1].content
-    );
+    const { text } = await generateText({
+      model: config.llm,
+      system: summarizeMessages[0].content, // System prompt for summarization
+      prompt: summarizeMessages[1].content, // User prompt with conversation transcript
+    });
+
+    summary = text.trim();
   }
 
   const messages = buildConversationMessages(
     history,
     context,
     question,
-    summary
+    summary,
   );
 
-  const stream = chatCompletionStream(messages);
+  const stream = streamText({
+    model: config.llm,
+    messages,
+  });
 
-  return { sources, stream, summary };
+  return { sources, stream: stream.textStream, summary };
 }

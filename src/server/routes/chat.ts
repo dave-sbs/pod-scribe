@@ -1,8 +1,9 @@
 import { Hono } from "hono";
 import { streamSSE } from "hono/streaming";
 import { askStream } from "../../rag/pipeline";
-import { chatCompletion } from "../../rag/llm";
 import type { ChatRequest } from "../../types";
+import { generateText } from "ai";
+import { config } from "../../config";
 
 const chatRoutes = new Hono();
 
@@ -19,11 +20,11 @@ chatRoutes.post("/", async (c) => {
 
   return streamSSE(c, async (stream) => {
     try {
-      const { sources, stream: tokenStream, summary } = await askStream(
-        lastMessage.content,
-        body.messages,
-        body.summary
-      );
+      const {
+        sources,
+        stream: tokenStream,
+        summary,
+      } = await askStream(lastMessage.content, body.messages, body.summary);
 
       // Send sources first
       await stream.writeSSE({
@@ -58,18 +59,21 @@ chatRoutes.post("/", async (c) => {
   });
 });
 
+// Generate a concise title based on the first user message
 chatRoutes.post("/title", async (c) => {
   const body = await c.req.json<{ firstMessage: string }>();
   if (!body.firstMessage) {
     return c.json({ error: "firstMessage is required" }, 400);
   }
 
-  const title = await chatCompletion(
-    "Generate a concise 3-6 word title for a conversation. Respond with only the title, no quotes or punctuation.",
-    `The conversation starts with this question: ${body.firstMessage}`
-  );
+  const title = await generateText({
+    model: config.llm,
+    system:
+      "Generate a concise 3-6 word title for a conversation. Respond with only the title, no quotes or punctuation.",
+    prompt: `The conversation starts with this question: ${body.firstMessage}`,
+  });
 
-  return c.json({ title: title.trim() });
+  return c.json({ title: title.text.trim() });
 });
 
 export { chatRoutes };

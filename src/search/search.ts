@@ -14,7 +14,20 @@ async function hybridSearch(
     match_count: topK,
   });
 
-  if (error) throw new Error(`hybridSearch: ${error.message}`);
+  if (error) {
+    const isConnectError =
+      error.message.toLowerCase().includes("unable to connect") ||
+      error.message.toLowerCase().includes("fetch failed") ||
+      error.message.toLowerCase().includes("econnrefused");
+
+    if (isConnectError) {
+      throw new Error(
+        `Database is unreachable. If running locally, make sure the Supabase stack is up (try: bunx supabase start). Original error: ${error.message}`
+      );
+    }
+
+    throw new Error(`Search failed: ${error.message}`);
+  }
 
   return (data ?? []).map((r: Record<string, unknown>) => ({
     chunkId: r.chunk_id as number,

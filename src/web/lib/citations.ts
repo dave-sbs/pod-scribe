@@ -10,28 +10,48 @@ export type CitationSegment = {
 };
 export type Segment = TextSegment | CitationSegment;
 
-const CITATION_REGEX = /\[Ep\.\s*#(\d+)\s*"([^"]+)"\s*@\s*([\d:]+)\]/g;
+// Matches any bracket group containing "Ep. #"
+const BRACKET_REGEX = /\[([^\]]*?Ep\.\s*#[^\]]+)\]/g;
+
+// Parses a single citation entry (with or without title, with optional time range)
+const SINGLE_CITE_REGEX =
+  /Ep\.\s*#(\d+)\s*(?:"([^"]*)"\s*)?@\s*([\d:]+(?:[–-][\d:]+)?)/;
 
 export function parseCitations(text: string): Segment[] {
   const segments: Segment[] = [];
   let lastIndex = 0;
   let citationIndex = 0;
 
-  for (const match of text.matchAll(CITATION_REGEX)) {
+  for (const match of text.matchAll(BRACKET_REGEX)) {
     const matchStart = match.index;
-    if (matchStart > lastIndex) {
-      segments.push({ type: "text", content: text.slice(lastIndex, matchStart) });
+    // Split by semicolons to handle multi-citation brackets
+    const parts = match[1].split(/;\s*/);
+    const parsed: CitationSegment[] = [];
+
+    for (const part of parts) {
+      const m = part.trim().match(SINGLE_CITE_REGEX);
+      if (m) {
+        parsed.push({
+          type: "citation",
+          episodeNumber: parseInt(m[1], 10),
+          title: m[2] ?? `Episode #${m[1]}`,
+          timestamp: m[3].split(/[–-]/)[0], // use start of range
+          index: citationIndex++,
+        });
+      }
     }
 
-    segments.push({
-      type: "citation",
-      episodeNumber: parseInt(match[1], 10),
-      title: match[2],
-      timestamp: match[3],
-      index: citationIndex++,
-    });
-
-    lastIndex = matchStart + match[0].length;
+    // Only replace if we successfully parsed at least one citation
+    if (parsed.length > 0) {
+      if (matchStart > lastIndex) {
+        segments.push({
+          type: "text",
+          content: text.slice(lastIndex, matchStart),
+        });
+      }
+      segments.push(...parsed);
+      lastIndex = matchStart + match[0].length;
+    }
   }
 
   if (lastIndex < text.length) {

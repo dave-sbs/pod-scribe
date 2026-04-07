@@ -8,8 +8,6 @@ import { MessageBubble } from "./MessageBubble";
 import { InputBar } from "./InputBar";
 import { LoadingIndicator } from "./LoadingIndicator";
 import { ErrorBanner } from "./ErrorBanner";
-import { CitationPanel } from "./CitationPanel";
-import type { SourceReference } from "../../types";
 
 const STARTER_QUESTIONS = [
   "What did Steve Jobs learn from Edwin Land?",
@@ -33,7 +31,6 @@ export function ChatView() {
     "searching" | "generating" | null
   >(null);
   const [error, setError] = useState<string | null>(null);
-  const [panelSource, setPanelSource] = useState<SourceReference | null>(null);
   const [streamingMessageId, setStreamingMessageId] = useState<string | null>(
     null
   );
@@ -202,7 +199,6 @@ export function ChatView() {
               isStreaming={
                 msg.id === streamingMessageId && isStreaming
               }
-              onOpenCitation={setPanelSource}
             />
           ))}
 
@@ -217,11 +213,6 @@ export function ChatView() {
       {/* Input */}
       <InputBar onSend={sendMessage} disabled={isStreaming} />
 
-      {/* Citation panel */}
-      <CitationPanel
-        source={panelSource}
-        onClose={() => setPanelSource(null)}
-      />
     </div>
   );
 }

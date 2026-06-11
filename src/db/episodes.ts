@@ -1,5 +1,5 @@
 import { supabase } from "./client";
-import type { EpisodeMetadata } from "../../types";
+import type { EpisodeMetadata } from "@/core/types";
 
 export async function upsertEpisode(meta: EpisodeMetadata): Promise<number> {
   const { data, error } = await supabase
@@ -13,7 +13,7 @@ export async function upsertEpisode(meta: EpisodeMetadata): Promise<number> {
         date: meta.date,
         category: meta.category,
       },
-      { onConflict: "slug" }
+      { onConflict: "slug" },
     )
     .select("id")
     .single();

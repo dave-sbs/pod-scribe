@@ -1,4 +1,4 @@
-import type { SourceReference } from "../../types";
+import type { SourceReference } from "@/core/types";
 
 type ChatCallbacks = {
   onSources: (sources: SourceReference[]) => void;

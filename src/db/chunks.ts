@@ -1,9 +1,9 @@
 import { supabase } from "./client";
-import type { ChunkWithEmbedding } from "../../types";
+import type { ChunkWithEmbedding } from "@/core/types";
 
 export async function upsertChunks(
   episodeId: number,
-  chunks: ChunkWithEmbedding[]
+  chunks: ChunkWithEmbedding[],
 ): Promise<void> {
   const rows = chunks.map((c) => ({
     episode_id: episodeId,

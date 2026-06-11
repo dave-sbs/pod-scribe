@@ -1,7 +1,7 @@
 import { useMemo, useState, useCallback, useRef } from "react";
 import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import type { Message, SourceReference } from "../../types";
+import type { Message, SourceReference } from "@/core/types";
 import { parseCitations } from "../lib/citations";
 import { CitationChip } from "./CitationChip";
 

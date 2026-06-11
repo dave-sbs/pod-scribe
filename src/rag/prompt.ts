@@ -8,10 +8,6 @@ Rules:
 - If the sources don't contain enough information to answer, say so clearly.
 - Be specific and concrete. Quote directly when it adds value.`;
 
-export function buildPrompt(question: string, context: string): string {
-  return `Transcript excerpts:\n\n${context}\n\n---\n\nQuestion: ${question}`;
-}
-
 // --- Conversation-aware prompt building ---
 
 type ConversationMessage = {
@@ -27,10 +23,6 @@ type LLMMessage = {
 export const SUMMARIZE_PROMPT = `Summarize the following conversation between a user and a research assistant about the Founders podcast. Preserve: key topics discussed, specific episodes and people mentioned, conclusions reached, and any corrections made. Be concise but complete.`;
 
 const MAX_HISTORY_CHARS = 80_000; // ~20K tokens
-
-export function estimateTokens(text: string): number {
-  return Math.ceil(text.length / 4);
-}
 
 export function buildConversationMessages(
   history: ConversationMessage[],

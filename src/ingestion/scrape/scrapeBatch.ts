@@ -1,38 +1,12 @@
 import axios from "axios";
 import * as cheerio from "cheerio";
 import { writeFile, mkdir } from "fs/promises";
-import { join, dirname } from "path";
-import { fileURLToPath } from "url";
-
-// --- Types ---
-
-type TranscriptSegment = {
-  timestamp: string;
-  text: string;
-};
-
-type EpisodeMetadata = {
-  episodeNumber: number | null;
-  title: string;
-  slug: string;
-  url: string;
-  date: string;
-  category: string;
-};
-
-type Episode = {
-  metadata: EpisodeMetadata;
-  transcript: TranscriptSegment[];
-  scrapedAt: string;
-};
-
-// --- Config ---
+import { join } from "path";
+import type { Episode, TranscriptSegment } from "@/core/types";
 
 const BASE_URL = "https://podscripts.co";
 const PODCAST_PATH = "/podcasts/founders";
 const DELAY_MS = 1500;
-
-// --- Helpers ---
 
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -92,13 +66,7 @@ function parseEpisode(html: string, slug: string): Episode {
 }
 
 async function saveEpisode(episode: Episode): Promise<string> {
-  const outDir = join(
-    dirname(fileURLToPath(import.meta.url)),
-    "..",
-    "data",
-    "founders",
-    "episodes"
-  );
+  const outDir = join(process.cwd(), "data", "founders", "episodes");
   await mkdir(outDir, { recursive: true });
 
   const filePath = join(outDir, `${episode.metadata.slug}.json`);
@@ -121,12 +89,10 @@ function parseEpisodeSlugs(html: string): string[] {
   return slugs;
 }
 
-// --- Main ---
-
 async function main() {
   const count = parseInt(process.argv[2] || "10", 10);
 
-  console.log(`Fetching episode list...`);
+  console.log("Fetching episode list...");
   const listHtml = await fetchPage(`${BASE_URL}${PODCAST_PATH}/`);
   const allSlugs = parseEpisodeSlugs(listHtml);
   const slugs = allSlugs.slice(0, count);
@@ -146,7 +112,9 @@ async function main() {
       const html = await fetchPage(url);
       const episode = parseEpisode(html, slug);
       const filePath = await saveEpisode(episode);
-      console.log(`  ✓ "${episode.metadata.title}" — ${episode.transcript.length} segments → ${filePath}`);
+      console.log(
+        `  ✓ "${episode.metadata.title}" — ${episode.transcript.length} segments → ${filePath}`,
+      );
       success++;
     } catch (err: unknown) {
       const message = err instanceof Error ? err.message : String(err);
@@ -154,7 +122,6 @@ async function main() {
       failed++;
     }
 
-    // Delay between requests (skip after last)
     if (i < slugs.length - 1) {
       await sleep(DELAY_MS);
     }

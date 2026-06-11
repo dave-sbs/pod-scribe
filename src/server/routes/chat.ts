@@ -1,9 +1,9 @@
 import { Hono } from "hono";
 import { streamSSE } from "hono/streaming";
-import { askStream } from "../../rag/pipeline";
-import type { ChatRequest } from "../../types";
+import { askStream } from "@/rag/pipeline";
+import type { ChatRequest } from "@/core/types";
 import { generateText } from "ai";
-import { config } from "../../config";
+import { config } from "@/core/config";
 
 const chatRoutes = new Hono();
 

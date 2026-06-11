@@ -1,15 +1,13 @@
-import { search } from "../search/search";
-import { formatContext } from "../search/context";
+import { search } from "@/retrieval/search";
+import { formatContext } from "@/retrieval/context";
 import {
-  SYSTEM_PROMPT,
-  buildPrompt,
   buildConversationMessages,
   buildSummarizationMessages,
   needsSummarization,
 } from "./prompt";
-import type { SearchResult, SourceReference } from "../types";
+import type { SearchResult, SourceReference } from "@/core/types";
 import { generateText, streamText } from "ai";
-import { config } from "../config";
+import { config } from "@/core/config";
 
 export type RagResult = {
   answer: string;
@@ -33,6 +31,27 @@ export type StreamResult = {
   stream: AsyncIterable<string>;
   summary?: string;
 };
+
+export async function ask(question: string): Promise<RagResult> {
+  const { sources, stream } = await askStream(question, [
+    { role: "user", content: question },
+  ]);
+
+  let answer = "";
+  for await (const token of stream) {
+    answer += token;
+  }
+
+  return {
+    answer,
+    sources: sources.map((s) => ({
+      episodeNumber: s.episodeNumber,
+      title: s.title,
+      timestamp: s.timestamp,
+      url: s.url,
+    })),
+  };
+}
 
 export async function askStream(
   question: string,

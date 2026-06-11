@@ -1,14 +1,12 @@
-import type { SearchResult } from "../types";
+import type { SearchResult } from "@/core/types";
 
 export function formatContext(results: SearchResult[]): string {
-  // Group by episode, preserving RRF rank order for episode ordering
   const episodeMap = new Map<string, SearchResult[]>();
   for (const r of results) {
     if (!episodeMap.has(r.slug)) episodeMap.set(r.slug, []);
     episodeMap.get(r.slug)!.push(r);
   }
 
-  // Sort chunks within each episode chronologically
   for (const chunks of episodeMap.values()) {
     chunks.sort((a, b) => a.startTimestamp.localeCompare(b.startTimestamp));
   }

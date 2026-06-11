@@ -1,9 +1,9 @@
-import type { TranscriptSegment, Chunk } from "../../types";
-import { config } from "../../config";
+import type { TranscriptSegment, Chunk } from "@/core/types";
+import { config } from "@/core/config";
 
 export function chunkTranscript(
   slug: string,
-  segments: TranscriptSegment[]
+  segments: TranscriptSegment[],
 ): Chunk[] {
   const chunks: Chunk[] = [];
   const step = config.chunkSize - config.chunkOverlap;

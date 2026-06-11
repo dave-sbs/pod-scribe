@@ -1,10 +1,10 @@
 import { readdir, readFile } from "fs/promises";
 import { join } from "path";
-import type { Episode } from "../../types";
+import type { Episode } from "@/core/types";
 import { chunkTranscript } from "./chunker";
-import { embedTexts } from "../../utils";
-import { upsertEpisode, getIngestedSlugs } from "../db/episodes";
-import { upsertChunks } from "../db/chunks";
+import { embedTexts } from "@/core/embeddings";
+import { upsertEpisode, getIngestedSlugs } from "@/db/episodes";
+import { upsertChunks } from "@/db/chunks";
 
 const EPISODES_DIR = join(process.cwd(), "data/founders/episodes");
 const BATCH_SIZE = 20;

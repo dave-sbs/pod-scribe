@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from "react";
-import type { SourceReference } from "../../types";
+import type { SourceReference } from "@/core/types";
 import { matchCitationToSource } from "../lib/citations";
 
 type CitationChipProps = {

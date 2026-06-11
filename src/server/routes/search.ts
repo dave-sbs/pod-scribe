@@ -1,5 +1,5 @@
 import { Hono } from "hono";
-import { search } from "../../search/search";
+import { search } from "@/retrieval/search";
 
 const searchRoutes = new Hono();
 

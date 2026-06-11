@@ -1,6 +1,6 @@
-import { ingestAll } from "./data-pipeline/ingest/pipeline";
-import { search } from "./search/search";
-import { ask } from "./rag/pipeline";
+import { ingestAll } from "@/ingestion/pipeline";
+import { search } from "@/retrieval/search";
+import { ask } from "@/rag/pipeline";
 
 const [command, ...args] = process.argv.slice(2);
 

@@ -1,7 +1,3 @@
-/**
- * Utility functions for embedding texts using OpenRouter API.
- */
-
 import axios from "axios";
 import { config } from "./config";
 

@@ -1,7 +1,7 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
 import { nanoid } from "nanoid";
-import type { Conversation, Message, SourceReference } from "../../types";
+import type { Conversation, Message, SourceReference } from "@/core/types";
 
 type ConversationState = {
   conversations: Conversation[];

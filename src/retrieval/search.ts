@@ -1,12 +1,12 @@
-import { embedText } from "../utils";
-import type { SearchResult } from "../types";
-import { config } from "../config";
-import { supabase } from "../data-pipeline/db/client";
+import { embedText } from "@/core/embeddings";
+import type { SearchResult } from "@/core/types";
+import { config } from "@/core/config";
+import { supabase } from "@/db/client";
 
 async function hybridSearch(
   queryText: string,
   queryEmbedding: number[],
-  topK: number = config.searchTopK
+  topK: number = config.searchTopK,
 ): Promise<SearchResult[]> {
   const { data, error } = await supabase.rpc("hybrid_search", {
     query_text: queryText,
@@ -22,7 +22,7 @@ async function hybridSearch(
 
     if (isConnectError) {
       throw new Error(
-        `Database is unreachable. If running locally, make sure the Supabase stack is up (try: bunx supabase start). Original error: ${error.message}`
+        `Database is unreachable. Verify SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY for your remote project, and confirm network access. Original error: ${error.message}`,
       );
     }
 
@@ -44,10 +44,9 @@ async function hybridSearch(
   }));
 }
 
-
 export async function search(
   query: string,
-  topK: number = config.searchTopK
+  topK: number = config.searchTopK,
 ): Promise<SearchResult[]> {
   const embedding = await embedText(query);
   return hybridSearch(query, embedding, topK);

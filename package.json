@@ -10,6 +10,9 @@
     "dev:web": "vite dev src/web --config vite.config.ts",
     "build": "vite build --config vite.config.ts",
     "start": "bun run src/server/index.ts",
+    "scrape": "bun run src/ingestion/scrape/scrape.ts",
+    "scrape:all": "bun run src/ingestion/scrape/scrapeAll.ts",
+    "scrape:batch": "bun run src/ingestion/scrape/scrapeBatch.ts",
     "ingest": "bun run src/cli.ts ingest",
     "search": "bun run src/cli.ts search",
     "ask": "bun run src/cli.ts ask"

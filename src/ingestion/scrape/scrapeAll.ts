@@ -2,29 +2,7 @@ import axios from "axios";
 import * as cheerio from "cheerio";
 import { writeFile, readFile, mkdir } from "fs/promises";
 import { join, dirname } from "path";
-import { fileURLToPath } from "url";
-
-// --- Types ---
-
-type TranscriptSegment = {
-  timestamp: string;
-  text: string;
-};
-
-type EpisodeMetadata = {
-  episodeNumber: number | null;
-  title: string;
-  slug: string;
-  url: string;
-  date: string;
-  category: string;
-};
-
-type Episode = {
-  metadata: EpisodeMetadata;
-  transcript: TranscriptSegment[];
-  scrapedAt: string;
-};
+import type { Episode, TranscriptSegment } from "@/core/types";
 
 type Progress = {
   completedSlugs: string[];
@@ -32,22 +10,17 @@ type Progress = {
   lastUpdated: string;
 };
 
-// --- Config ---
-
 const BASE_URL = "https://podscripts.co";
 const PODCAST_PATH = "/podcasts/founders";
-const DELAY_MS = 8_000;              // 8s between requests
-const CIRCUIT_BREAKER_THRESHOLD = 2; // consecutive 429s before long pause
-const CIRCUIT_BREAKER_COOLDOWN = 5 * 60_000; // 5 minute cooldown
+const DELAY_MS = 8_000;
+const CIRCUIT_BREAKER_THRESHOLD = 2;
+const CIRCUIT_BREAKER_COOLDOWN = 5 * 60_000;
 const MAX_RETRIES = 4;
-const RETRY_BACKOFF_MS = 30_000;     // 30s, 60s, 90s, 120s
+const RETRY_BACKOFF_MS = 30_000;
 
-const ROOT_DIR = join(dirname(fileURLToPath(import.meta.url)), "..");
-const OUT_DIR = join(ROOT_DIR, "data", "founders", "episodes");
-const PROGRESS_PATH = join(ROOT_DIR, "data", "founders", "progress.json");
-const LOG_PATH = join(ROOT_DIR, "data", "founders", "scrape.log");
-
-// --- Helpers ---
+const OUT_DIR = join(process.cwd(), "data", "founders", "episodes");
+const PROGRESS_PATH = join(process.cwd(), "data", "founders", "progress.json");
+const LOG_PATH = join(process.cwd(), "data", "founders", "scrape.log");
 
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -85,7 +58,7 @@ async function fetchWithRetry(url: string): Promise<string> {
       if ((status === 429 || status === 503) && attempt < MAX_RETRIES) {
         const wait = RETRY_BACKOFF_MS * attempt;
         await log(
-          `  Retry ${attempt}/${MAX_RETRIES} after ${status}, waiting ${wait / 1000}s...`
+          `  Retry ${attempt}/${MAX_RETRIES} after ${status}, waiting ${wait / 1000}s...`,
         );
         await sleep(wait);
         continue;
@@ -95,8 +68,6 @@ async function fetchWithRetry(url: string): Promise<string> {
   }
   throw new Error("Unreachable");
 }
-
-// --- Parse ---
 
 function parseEpisode(html: string, slug: string): Episode {
   const $ = cheerio.load(html);
@@ -169,8 +140,6 @@ function parseTotalPages(html: string): number {
   return max;
 }
 
-// --- Storage ---
-
 async function saveEpisode(episode: Episode): Promise<string> {
   await mkdir(OUT_DIR, { recursive: true });
   const filePath = join(OUT_DIR, `${episode.metadata.slug}.json`);
@@ -193,20 +162,16 @@ async function saveProgress(progress: Progress): Promise<void> {
   await writeFile(PROGRESS_PATH, JSON.stringify(progress, null, 2));
 }
 
-// --- Main ---
-
 async function main() {
   await mkdir(dirname(LOG_PATH), { recursive: true });
   await log("=== Scrape started ===");
 
   const progress = await loadProgress();
-  // Clear previous failures so they get retried
   progress.failedSlugs = [];
   const alreadyDone = new Set(progress.completedSlugs);
 
   await log(`Resuming with ${alreadyDone.size} already scraped`);
 
-  // Phase 1: Collect all episode slugs from listing pages
   await log("Fetching page 1 to detect pagination...");
   const firstPageHtml = await fetchWithRetry(`${BASE_URL}${PODCAST_PATH}/`);
   const totalPages = parseTotalPages(firstPageHtml);
@@ -230,10 +195,9 @@ async function main() {
 
   const toScrape = allSlugs.filter((s) => !alreadyDone.has(s));
   await log(
-    `Total: ${allSlugs.length} episodes, ${alreadyDone.size} done, ${toScrape.length} remaining`
+    `Total: ${allSlugs.length} episodes, ${alreadyDone.size} done, ${toScrape.length} remaining`,
   );
 
-  // Phase 2: Scrape each episode with circuit breaker
   let success = 0;
   let failed = 0;
   let consecutive429s = 0;
@@ -247,11 +211,11 @@ async function main() {
       const episode = parseEpisode(html, slug);
       await saveEpisode(episode);
       await log(
-        `[${i + 1}/${toScrape.length}] OK "${episode.metadata.title}" (${episode.transcript.length} segments)`
+        `[${i + 1}/${toScrape.length}] OK "${episode.metadata.title}" (${episode.transcript.length} segments)`,
       );
       progress.completedSlugs.push(slug);
       success++;
-      consecutive429s = 0; // reset circuit breaker
+      consecutive429s = 0;
     } catch (err: unknown) {
       const status = axios.isAxiosError(err)
         ? err.response?.status
@@ -262,12 +226,11 @@ async function main() {
       progress.failedSlugs.push(slug);
       failed++;
 
-      // Circuit breaker: if we get consecutive 429s even after retries, take a long break
       if (status === 429 || status === 503) {
         consecutive429s++;
         if (consecutive429s >= CIRCUIT_BREAKER_THRESHOLD) {
           await log(
-            `Circuit breaker tripped (${consecutive429s} consecutive failures). Cooling down for ${CIRCUIT_BREAKER_COOLDOWN / 60_000} minutes...`
+            `Circuit breaker tripped (${consecutive429s} consecutive failures). Cooling down for ${CIRCUIT_BREAKER_COOLDOWN / 60_000} minutes...`,
           );
           await sleep(CIRCUIT_BREAKER_COOLDOWN);
           consecutive429s = 0;

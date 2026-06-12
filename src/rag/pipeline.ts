@@ -1,11 +1,12 @@
-import { search } from "@/retrieval/search";
+import { resolveEntities, rewriteQueryWithEntities } from "@/retrieval/entities";
+import { searchCorpus, searchFindings } from "@/retrieval/search";
 import { formatContext } from "@/retrieval/context";
 import {
   buildConversationMessages,
   buildSummarizationMessages,
   needsSummarization,
 } from "./prompt";
-import type { SearchResult, SourceReference } from "@/core/types";
+import type { FindingSearchResult, SearchResult, SourceReference } from "@/core/types";
 import { generateText, streamText } from "ai";
 import { config } from "@/core/config";
 
@@ -58,8 +59,21 @@ export async function askStream(
   history: ConversationMessage[],
   existingSummary?: string,
 ): Promise<StreamResult> {
-  const results: SearchResult[] = await search(question);
-  const context = formatContext(results);
+  const resolvedEntities = await resolveEntities(question);
+  const rewrittenQuery = rewriteQueryWithEntities(question, resolvedEntities);
+  const entityIds = resolvedEntities.map((entity) => entity.id);
+
+  const results: SearchResult[] = await searchCorpus({
+    query: rewrittenQuery,
+    filters: {
+      entityIds: entityIds.length > 0 ? entityIds : undefined,
+    },
+  });
+  const findings: FindingSearchResult[] = await searchFindings(rewrittenQuery, {
+    brandEntityId: entityIds[0],
+  });
+  const findingsContext = findingsToContext(findings);
+  const context = [findingsContext, formatContext(results)].filter(Boolean).join("\n\n");
 
   const sources: SourceReference[] = results.map((r) => ({
     episodeNumber: r.episodeNumber,
@@ -75,7 +89,7 @@ export async function askStream(
   if (needsSummarization(history) && !existingSummary) {
     const summarizeMessages = buildSummarizationMessages(history);
     const { text } = await generateText({
-      model: config.llm,
+      model: config.models.fast,
       system: summarizeMessages[0].content, // System prompt for summarization
       prompt: summarizeMessages[1].content, // User prompt with conversation transcript
     });
@@ -91,9 +105,17 @@ export async function askStream(
   );
 
   const stream = streamText({
-    model: config.llm,
+    model: config.models.fast,
     messages,
   });
 
   return { sources, stream: stream.textStream, summary };
+}
+
+function findingsToContext(findings: FindingSearchResult[]): string {
+  if (findings.length === 0) return "";
+  const lines = findings.map((finding, index) => {
+    return `${index + 1}. ${finding.claim} (desk: ${finding.desk}, confidence: ${finding.confidence.toFixed(2)})`;
+  });
+  return `Previously mined findings:\n${lines.join("\n")}`;
 }

@@ -56,7 +56,7 @@ export function CitationChip({
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >
-      <span className="inline-flex items-center justify-center w-4.5 h-4.5 rounded-full bg-accent/15 text-accent text-[10px] font-semibold cursor-default align-super ml-0.5 hover:bg-accent/25 transition-colors">
+      <span className="inline-flex items-center justify-center w-4.5 h-4.5 rounded-lg bg-accent/15 text-accent text-[10px] font-semibold cursor-default align-super ml-0.5 hover:bg-accent/25 transition-colors">
         {displayNumber}
       </span>
 

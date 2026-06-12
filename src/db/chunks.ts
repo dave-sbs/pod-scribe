@@ -15,7 +15,7 @@ export async function upsertChunks(
   }));
 
   const { error } = await supabase
-    .from("founders_ep_chunks")
+    .from("chunks")
     .upsert(rows, { onConflict: "episode_id,chunk_index" });
 
   if (error) throw new Error(`upsertChunks: ${error.message}`);

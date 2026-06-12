@@ -1,6 +1,9 @@
 import { ingestAll } from "@/ingestion/pipeline";
 import { search } from "@/retrieval/search";
 import { ask } from "@/rag/pipeline";
+import { copyFoundersToGeneralized } from "@/ingestion/migrate/copyToGeneralized";
+import { backfillEpisodeTags } from "@/ingestion/tag/tagEpisodes";
+import { verifyGeneralizedParity } from "@/ingestion/migrate/verifyGeneralizedParity";
 
 const [command, ...args] = process.argv.slice(2);
 
@@ -43,6 +46,21 @@ async function main(): Promise<void> {
       break;
     }
 
+    case "migrate-generalized": {
+      await copyFoundersToGeneralized();
+      break;
+    }
+
+    case "tag-episodes": {
+      await backfillEpisodeTags();
+      break;
+    }
+
+    case "verify-generalized-parity": {
+      await verifyGeneralizedParity();
+      break;
+    }
+
     case "ask": {
       const question = args.join(" ").trim();
       if (!question) {
@@ -61,10 +79,21 @@ async function main(): Promise<void> {
     }
 
     default:
-      console.log("Usage: bun run src/cli.ts <ingest|search|ask> [args]");
+      console.log(
+        "Usage: bun run src/cli.ts <ingest|search|ask|migrate-generalized|tag-episodes|verify-generalized-parity> [args]",
+      );
       console.log("  ingest [--slug <slug>]   Ingest episodes into Supabase");
       console.log('  search "<query>"         Hybrid search (no synthesis)');
       console.log('  ask "<question>"         Full RAG: search + synthesize');
+      console.log(
+        "  migrate-generalized      Copy founders_* data into sources/episodes/chunks",
+      );
+      console.log(
+        "  tag-episodes             LLM backfill of topic + entities onto episodes",
+      );
+      console.log(
+        "  verify-generalized-parity Compare counts across legacy and generalized tables",
+      );
       process.exit(1);
   }
 }

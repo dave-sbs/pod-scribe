@@ -1,0 +1,80 @@
+[
+  {
+    "type": "brand",
+    "name": "Chanel",
+    "slug": "chanel",
+    "aliases": ["coco chanel", "house of chanel"]
+  },
+  {
+    "type": "brand",
+    "name": "Dior",
+    "slug": "dior",
+    "aliases": ["christian dior", "house of dior"]
+  },
+  {
+    "type": "org",
+    "name": "LVMH",
+    "slug": "lvmh",
+    "aliases": ["louis vuitton moet hennessy", "lvmh group", "louis vuitton"]
+  },
+  {
+    "type": "brand",
+    "name": "Hermes",
+    "slug": "hermes",
+    "aliases": ["hermes paris", "hèrmes"]
+  },
+  {
+    "type": "brand",
+    "name": "Brunello Cucinelli",
+    "slug": "brunello-cucinelli",
+    "aliases": ["cucinelli"]
+  },
+  {
+    "type": "brand",
+    "name": "Estee Lauder",
+    "slug": "estee-lauder",
+    "aliases": ["lauder", "elc"]
+  },
+  {
+    "type": "brand",
+    "name": "Balenciaga",
+    "slug": "balenciaga",
+    "aliases": []
+  },
+  {
+    "type": "brand",
+    "name": "Rolex",
+    "slug": "rolex",
+    "aliases": []
+  },
+  {
+    "type": "brand",
+    "name": "Ralph Lauren",
+    "slug": "ralph-lauren",
+    "aliases": ["lauren"]
+  },
+  {
+    "type": "person",
+    "name": "Bernard Arnault",
+    "slug": "bernard-arnault",
+    "aliases": ["arnault"]
+  },
+  {
+    "type": "person",
+    "name": "Anna Wintour",
+    "slug": "anna-wintour",
+    "aliases": ["wintour"]
+  },
+  {
+    "type": "brand",
+    "name": "Gucci",
+    "slug": "gucci",
+    "aliases": []
+  },
+  {
+    "type": "brand",
+    "name": "Prada",
+    "slug": "prada",
+    "aliases": []
+  }
+]

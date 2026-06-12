@@ -5,6 +5,7 @@ import { chunkTranscript } from "./chunker";
 import { embedTexts } from "@/core/embeddings";
 import { upsertEpisode, getIngestedSlugs } from "@/db/episodes";
 import { upsertChunks } from "@/db/chunks";
+import { applyEpisodeTags, buildCatalogContext } from "./tag/applyTags";
 
 const EPISODES_DIR = join(process.cwd(), "data/founders/episodes");
 const BATCH_SIZE = 20;
@@ -14,7 +15,10 @@ function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function ingestEpisode(filePath: string): Promise<void> {
+async function ingestEpisode(
+  filePath: string,
+  catalogContext: Awaited<ReturnType<typeof buildCatalogContext>>,
+): Promise<void> {
   const raw = await readFile(filePath, "utf-8");
   const episode: Episode = JSON.parse(raw);
   const { metadata, transcript } = episode;
@@ -36,6 +40,7 @@ async function ingestEpisode(filePath: string): Promise<void> {
   }
 
   await upsertChunks(episodeId, embeddedChunks);
+  await applyEpisodeTags(episodeId, episode, catalogContext);
 }
 
 export async function ingestAll(slugFilter?: string): Promise<void> {
@@ -44,6 +49,7 @@ export async function ingestAll(slugFilter?: string): Promise<void> {
     .sort();
 
   const ingestedSlugs = await getIngestedSlugs();
+  const catalogContext = await buildCatalogContext();
   let count = 0;
 
   for (const file of files) {
@@ -53,7 +59,7 @@ export async function ingestAll(slugFilter?: string): Promise<void> {
       console.log(`  skip (done): ${slug}`);
       continue;
     }
-    await ingestEpisode(join(EPISODES_DIR, file));
+    await ingestEpisode(join(EPISODES_DIR, file), catalogContext);
     count++;
   }
 

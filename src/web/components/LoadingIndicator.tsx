@@ -14,7 +14,7 @@ export function LoadingIndicator({ phase }: LoadingIndicatorProps) {
           </div>
           <span className="text-sm text-text-secondary">
             {phase === "searching"
-              ? "Searching 432 episodes..."
+              ? "Searching corpus..."
               : "Generating response..."}
           </span>
         </div>

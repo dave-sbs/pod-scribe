@@ -81,11 +81,11 @@ body {
 
 /* Prose overrides for assistant messages */
 .prose-assistant {
-  font-family: var(--font-serif);
+  font-family: var(--font-sans);
 }
 
 .prose-assistant h1,
 .prose-assistant h2,
 .prose-assistant h3 {
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
 }

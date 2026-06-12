@@ -4,6 +4,7 @@ import { askStream } from "@/rag/pipeline";
 import type { ChatRequest } from "@/core/types";
 import { generateText } from "ai";
 import { config } from "@/core/config";
+import { runDeepResearch } from "@/research";
 
 const chatRoutes = new Hono();
 
@@ -16,6 +17,46 @@ chatRoutes.post("/", async (c) => {
   const lastMessage = body.messages[body.messages.length - 1];
   if (lastMessage.role !== "user") {
     return c.json({ error: "last message must be from user" }, 400);
+  }
+
+  if (body.mode === "deep") {
+    return streamSSE(c, async (stream) => {
+      // Keep the socket active during long model calls so Bun's idleTimeout
+      // doesn't drop the connection between research phases.
+      const heartbeat = setInterval(() => {
+        stream.writeSSE({ event: "ping", data: "{}" }).catch(() => {});
+      }, 5000);
+
+      try {
+        const deepEvents = runDeepResearch(lastMessage.content, body.clarifications);
+        let report = "";
+
+        for await (const event of deepEvents) {
+          if (event.event === "artifact") {
+            report = event.data.report;
+          }
+          await stream.writeSSE({
+            event: event.event,
+            data: JSON.stringify(event.data),
+          });
+        }
+
+        await stream.writeSSE({
+          event: "done",
+          data: JSON.stringify({ content: report }),
+        });
+      } catch (err) {
+        const message =
+          err instanceof Error ? err.message : "Failed to run deep research";
+        console.error("[Deep Research Error]", message);
+        await stream.writeSSE({
+          event: "error",
+          data: JSON.stringify({ message }),
+        });
+      } finally {
+        clearInterval(heartbeat);
+      }
+    });
   }
 
   return streamSSE(c, async (stream) => {
@@ -67,7 +108,7 @@ chatRoutes.post("/title", async (c) => {
   }
 
   const title = await generateText({
-    model: config.llm,
+    model: config.models.fast,
     system:
       "Generate a concise 3-6 word title for a conversation. Respond with only the title, no quotes or punctuation.",
     prompt: `The conversation starts with this question: ${body.firstMessage}`,

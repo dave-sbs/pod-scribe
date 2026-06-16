@@ -3,6 +3,7 @@ import * as cheerio from "cheerio";
 import { writeFile, readFile, mkdir } from "fs/promises";
 import { join, dirname } from "path";
 import type { Episode, TranscriptSegment } from "@/core/types";
+import { ingestionConfig } from "@/ingestion/config";
 
 type Progress = {
   completedSlugs: string[];
@@ -10,17 +11,18 @@ type Progress = {
   lastUpdated: string;
 };
 
-const BASE_URL = "https://podscripts.co";
-const PODCAST_PATH = "/podcasts/founders";
-const DELAY_MS = 8_000;
-const CIRCUIT_BREAKER_THRESHOLD = 2;
-const CIRCUIT_BREAKER_COOLDOWN = 5 * 60_000;
-const MAX_RETRIES = 4;
-const RETRY_BACKOFF_MS = 30_000;
-
-const OUT_DIR = join(process.cwd(), "data", "founders", "episodes");
-const PROGRESS_PATH = join(process.cwd(), "data", "founders", "progress.json");
-const LOG_PATH = join(process.cwd(), "data", "founders", "scrape.log");
+const {
+  baseUrl: BASE_URL,
+  podcastPath: PODCAST_PATH,
+  crawlDelayMs: DELAY_MS,
+  circuitBreakerThreshold: CIRCUIT_BREAKER_THRESHOLD,
+  circuitBreakerCooldownMs: CIRCUIT_BREAKER_COOLDOWN,
+  maxRetries: MAX_RETRIES,
+  retryBackoffMs: RETRY_BACKOFF_MS,
+  episodesDir: OUT_DIR,
+  progressPath: PROGRESS_PATH,
+  logPath: LOG_PATH,
+} = ingestionConfig;
 
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -40,14 +42,8 @@ async function fetchWithRetry(url: string): Promise<string> {
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
       const response = await axios.get<string>(url, {
-        timeout: 30_000,
-        headers: {
-          "User-Agent":
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-          Accept:
-            "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-          "Accept-Language": "en-US,en;q=0.9",
-        },
+        timeout: ingestionConfig.requestTimeoutMs,
+        headers: ingestionConfig.crawlHeaders,
       });
       return response.data;
     } catch (err: unknown) {
@@ -114,10 +110,11 @@ function parseEpisode(html: string, slug: string): Episode {
 function parseEpisodeSlugs(html: string): string[] {
   const $ = cheerio.load(html);
   const slugs: string[] = [];
+  const dynamicPodcastRegex = new RegExp(`${PODCAST_PATH}/([^/]+)`);
 
   $(".listing-item a").each((_i, el) => {
     const href = $(el).attr("href") || "";
-    const match = href.match(/\/podcasts\/founders\/([^/]+)/);
+    const match = href.match(dynamicPodcastRegex);
     if (match && !slugs.includes(match[1])) {
       slugs.push(match[1]);
     }
@@ -165,6 +162,7 @@ async function saveProgress(progress: Progress): Promise<void> {
 async function main() {
   await mkdir(dirname(LOG_PATH), { recursive: true });
   await log("=== Scrape started ===");
+  await log(`Scraping ${ingestionConfig.podcastSlug}`);
 
   const progress = await loadProgress();
   progress.failedSlugs = [];

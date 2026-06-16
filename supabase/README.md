@@ -20,5 +20,5 @@ Choose one approach:
 - Supabase Dashboard SQL Editor: run migration files in order.
 - Supabase CLI against your linked remote project:
   - `bunx supabase login`
-  - `supabase link --project-ref <project-ref>` -- get project-ref from .env
+  - `bunx supabase link --project-ref <project-ref>` -- get project-ref from .env
   - `bunx supabase db push`

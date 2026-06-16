@@ -3,17 +3,14 @@ import * as cheerio from "cheerio";
 import { writeFile, mkdir } from "fs/promises";
 import { join } from "path";
 import type { Episode, TranscriptSegment } from "@/core/types";
+import { ingestionConfig } from "@/ingestion/config";
 
-const BASE_URL = "https://podscripts.co";
-const PODCAST_PATH = "/podcasts/founders";
+const { baseUrl, podcastPath } = ingestionConfig;
 
 async function fetchPage(url: string): Promise<string> {
   const response = await axios.get<string>(url, {
-    timeout: 30_000,
-    headers: {
-      "User-Agent": "scribe-transcript-scraper/1.0",
-      Accept: "text/html",
-    },
+    timeout: ingestionConfig.requestTimeoutMs,
+    headers: ingestionConfig.scraperHeaders,
   });
   return response.data;
 }
@@ -55,7 +52,7 @@ function parseEpisode(html: string, slug: string): Episode {
       episodeNumber,
       title,
       slug,
-      url: `${BASE_URL}${PODCAST_PATH}/${slug}`,
+      url: `${baseUrl}${podcastPath}/${slug}`,
       date,
       category,
     },
@@ -65,7 +62,7 @@ function parseEpisode(html: string, slug: string): Episode {
 }
 
 async function saveEpisode(episode: Episode): Promise<string> {
-  const outDir = join(process.cwd(), "data", "founders", "episodes");
+  const outDir = ingestionConfig.episodesDir;
   await mkdir(outDir, { recursive: true });
 
   const filePath = join(outDir, `${episode.metadata.slug}.json`);
@@ -74,8 +71,8 @@ async function saveEpisode(episode: Episode): Promise<string> {
 }
 
 async function main() {
-  const slug = process.argv[2] || "414-how-spacex-works";
-  const url = `${BASE_URL}${PODCAST_PATH}/${slug}`;
+  const slug = process.argv[2] || ingestionConfig.defaultSlug;
+  const url = `${baseUrl}${podcastPath}/${slug}`;
 
   console.log(`Fetching: ${url}`);
   const html = await fetchPage(url);

@@ -18,7 +18,9 @@
     "verify:generalized": "bun run src/cli.ts verify-generalized-parity",
     "tag:episodes": "bun run src/cli.ts tag-episodes",
     "search": "bun run src/cli.ts search",
-    "ask": "bun run src/cli.ts ask"
+    "ask": "bun run src/cli.ts ask",
+    "db:schema": "bunx supabase db dump --linked --schema public --file supabase/schema.sql",
+    "db:schema:local": "bunx supabase db dump --local --schema public --file supabase/schema.sql"
   },
   "keywords": [],
   "author": "",

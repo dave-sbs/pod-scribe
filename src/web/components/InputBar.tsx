@@ -2,10 +2,12 @@ import { useState, useRef, useCallback } from "react";
 
 type InputBarProps = {
   onSend: (message: string) => void;
+  mode: "quick" | "deep";
+  onModeChange: (mode: "quick" | "deep") => void;
   disabled: boolean;
 };
 
-export function InputBar({ onSend, disabled }: InputBarProps) {
+export function InputBar({ onSend, mode, onModeChange, disabled }: InputBarProps) {
   const [value, setValue] = useState("");
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
@@ -37,6 +39,32 @@ export function InputBar({ onSend, disabled }: InputBarProps) {
   return (
     <div className="bg-bg-primary mb-4">
       <div className="max-w-[720px] mx-auto rounded-2xl border border-border bg-bg-card shadow-sm transition-shadow">
+        <div className="px-3 pt-3">
+          <div className="inline-flex rounded-lg border border-border overflow-hidden">
+            <button
+              type="button"
+              onClick={() => onModeChange("quick")}
+              className={`px-3 py-1.5 text-xs font-medium transition-colors ${
+                mode === "quick"
+                  ? "bg-accent text-white"
+                  : "bg-transparent text-text-secondary hover:bg-bg-secondary"
+              }`}
+            >
+              Quick lookup
+            </button>
+            <button
+              type="button"
+              onClick={() => onModeChange("deep")}
+              className={`px-3 py-1.5 text-xs font-medium transition-colors ${
+                mode === "deep"
+                  ? "bg-accent text-white"
+                  : "bg-transparent text-text-secondary hover:bg-bg-secondary"
+              }`}
+            >
+              Deep research
+            </button>
+          </div>
+        </div>
         <textarea
           ref={textareaRef}
           value={value}

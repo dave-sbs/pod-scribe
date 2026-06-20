@@ -1,3 +1,5 @@
+import type { DeepRunState } from "./research";
+
 export type SourceReference = {
   episodeNumber: number | null;
   title: string;
@@ -19,6 +21,8 @@ export type Conversation = {
   title: string;
   messages: Message[];
   summary?: string;
+  deepRuns?: Record<string, DeepRunState>;
+  activeDeepRunId?: string;
   createdAt: string;
   updatedAt: string;
 };

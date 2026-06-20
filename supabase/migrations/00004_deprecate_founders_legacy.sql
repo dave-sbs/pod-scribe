@@ -1,0 +1,4 @@
+DROP FUNCTION IF EXISTS hybrid_search(TEXT, VECTOR(1536), INTEGER, INTEGER);
+
+DROP TABLE IF EXISTS founders_ep_chunks;
+DROP TABLE IF EXISTS founders_episodes;

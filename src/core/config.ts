@@ -20,14 +20,34 @@ const resolvedSupabaseUrl = supabaseUrl!;
 const resolvedSupabaseKey = supabaseKey!;
 const resolvedOpenrouterApiKey = openrouterApiKey!;
 
+const fastModelName = "google/gemini-3-flash-preview";
+const reasoningModelName =
+  process.env.OPENROUTER_REASONING_MODEL ?? "openai/gpt-5.5";
+
 export const config = {
   supabaseUrl: resolvedSupabaseUrl,
   supabaseKey: resolvedSupabaseKey,
   openrouterApiKey: resolvedOpenrouterApiKey,
   embeddingModel: "openai/text-embedding-3-small",
-  llm: openrouter("google/gemini-3-flash-preview"),
+  models: {
+    fast: openrouter(fastModelName),
+    reasoning: openrouter(reasoningModelName),
+  },
+  // Backward-compatible alias while call sites migrate.
+  llm: openrouter(fastModelName),
+  modelNames: {
+    fast: fastModelName,
+    reasoning: reasoningModelName,
+  },
   embeddingDims: 1536,
   chunkSize: 5, // segments per chunk (~700 tokens)
   chunkOverlap: 1, // segments shared with previous chunk
   searchTopK: 30,
+  deep: {
+    maxDesks: 7,
+    subqueriesPerDesk: 3,
+    workerConcurrency: 3,
+    rrfK: 60,
+    findingsTopK: 8,
+  },
 };

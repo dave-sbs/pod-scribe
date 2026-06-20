@@ -14,8 +14,13 @@
     "scrape:all": "bun run src/ingestion/scrape/scrapeAll.ts",
     "scrape:batch": "bun run src/ingestion/scrape/scrapeBatch.ts",
     "ingest": "bun run src/cli.ts ingest",
+    "migrate:generalized": "bun run src/cli.ts migrate-generalized",
+    "verify:generalized": "bun run src/cli.ts verify-generalized-parity",
+    "tag:episodes": "bun run src/cli.ts tag-episodes",
     "search": "bun run src/cli.ts search",
-    "ask": "bun run src/cli.ts ask"
+    "ask": "bun run src/cli.ts ask",
+    "db:schema": "bunx supabase db dump --linked --schema public --file supabase/schema.sql",
+    "db:schema:local": "bunx supabase db dump --local --schema public --file supabase/schema.sql"
   },
   "keywords": [],
   "author": "",
@@ -34,6 +39,7 @@
     "react-markdown": "^10.1.0",
     "remark-gfm": "^4.0.1",
     "scribe": ".",
+    "zod": "^4.4.3",
     "zustand": "^5.0.12"
   },
   "devDependencies": {

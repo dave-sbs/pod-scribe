@@ -1,4 +1,14 @@
-import { useState, useRef, useCallback } from "react";
+import { useState, useCallback } from "react";
+import { ArrowUp } from "lucide-react";
+
+import { Button } from "@/web/components/ui/button";
+import { Spinner } from "@/web/components/ui/spinner";
+import {
+  InputGroup,
+  InputGroupAddon,
+  InputGroupTextarea,
+} from "@/web/components/ui/input-group";
+import { ToggleGroup, ToggleGroupItem } from "@/web/components/ui/toggle-group";
 
 type InputBarProps = {
   onSend: (message: string) => void;
@@ -9,16 +19,12 @@ type InputBarProps = {
 
 export function InputBar({ onSend, mode, onModeChange, disabled }: InputBarProps) {
   const [value, setValue] = useState("");
-  const textareaRef = useRef<HTMLTextAreaElement>(null);
 
   const handleSubmit = useCallback(() => {
     const trimmed = value.trim();
     if (!trimmed || disabled) return;
     onSend(trimmed);
     setValue("");
-    if (textareaRef.current) {
-      textareaRef.current.style.height = "auto";
-    }
   }, [value, disabled, onSend]);
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
@@ -28,98 +34,42 @@ export function InputBar({ onSend, mode, onModeChange, disabled }: InputBarProps
     }
   };
 
-  const handleInput = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
-    setValue(e.target.value);
-    // Auto-resize
-    const el = e.target;
-    el.style.height = "auto";
-    el.style.height = Math.min(el.scrollHeight, 160) + "px";
-  };
-
   return (
-    <div className="bg-bg-primary mb-4">
-      <div className="max-w-[720px] mx-auto rounded-2xl border border-border bg-bg-card shadow-sm transition-shadow">
-        <div className="px-3 pt-3">
-          <div className="inline-flex rounded-lg border border-border overflow-hidden">
-            <button
-              type="button"
-              onClick={() => onModeChange("quick")}
-              className={`px-3 py-1.5 text-xs font-medium transition-colors ${
-                mode === "quick"
-                  ? "bg-accent text-white"
-                  : "bg-transparent text-text-secondary hover:bg-bg-secondary"
-              }`}
-            >
-              Quick lookup
-            </button>
-            <button
-              type="button"
-              onClick={() => onModeChange("deep")}
-              className={`px-3 py-1.5 text-xs font-medium transition-colors ${
-                mode === "deep"
-                  ? "bg-accent text-white"
-                  : "bg-transparent text-text-secondary hover:bg-bg-secondary"
-              }`}
-            >
-              Deep research
-            </button>
-          </div>
-        </div>
-        <textarea
-          ref={textareaRef}
+    <div className="mx-auto w-full max-w-[720px]">
+      <InputGroup className="rounded-lg bg-card shadow-sm">
+        <InputGroupTextarea
           value={value}
-          onChange={handleInput}
+          onChange={(e) => setValue(e.target.value)}
           onKeyDown={handleKeyDown}
-          placeholder="Ask about the Founders podcast..."
+          placeholder="Ask the research…"
           disabled={disabled}
-          rows={1}
-          className="w-full resize-none bg-transparent px-4 pt-3 pb-1 text-sm text-text-primary placeholder:text-text-muted focus:outline-none disabled:opacity-50"
+          rows={3}
+          className="max-h-[200px] min-h-[88px] text-sm"
         />
-        <div className="flex items-center justify-end px-3 pb-2">
-          <button
+        <InputGroupAddon align="block-end" className="border-t">
+          <ToggleGroup
+            type="single"
+            variant="outline"
+            size="sm"
+            spacing={0}
+            value={mode}
+            onValueChange={(next) => next && onModeChange(next as "quick" | "deep")}
+          >
+            <ToggleGroupItem value="quick">Quick lookup</ToggleGroupItem>
+            <ToggleGroupItem value="deep">Deep research</ToggleGroupItem>
+          </ToggleGroup>
+          <Button
+            type="button"
+            size="icon"
+            className="ml-auto rounded-md"
             onClick={handleSubmit}
             disabled={disabled || !value.trim()}
-            className="flex-none p-1.5 rounded-full bg-accent text-white hover:bg-accent-hover disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+            aria-label="Send message"
           >
-            {disabled ? (
-              <svg
-                className="w-5 h-5 animate-spin"
-                viewBox="0 0 24 24"
-                fill="none"
-              >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="10"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  opacity="0.3"
-                />
-                <path
-                  d="M12 2a10 10 0 0 1 10 10"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                />
-              </svg>
-            ) : (
-              <svg
-                width="18"
-                height="18"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2.5"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              >
-                <line x1="12" y1="19" x2="12" y2="5" />
-                <polyline points="5 12 12 5 19 12" />
-              </svg>
-            )}
-          </button>
-        </div>
-      </div>
+            {disabled ? <Spinner /> : <ArrowUp />}
+          </Button>
+        </InputGroupAddon>
+      </InputGroup>
     </div>
   );
 }

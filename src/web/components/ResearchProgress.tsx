@@ -1,5 +1,9 @@
 import { useEffect, useMemo, useState } from "react";
+import { Check } from "lucide-react";
 import type { DeepRunState, DeepRunStatus, DeskKey } from "@/core/types";
+import { Card } from "@/web/components/ui/card";
+import { Badge } from "@/web/components/ui/badge";
+import { cn } from "@/web/lib/utils";
 
 type ResearchProgressProps = {
   run?: DeepRunState;
@@ -62,8 +66,11 @@ function formatElapsed(startedAt?: string, now = Date.now()): string {
 
 function truncate(value: string, maxLength: number): string {
   if (value.length <= maxLength) return value;
-  return `${value.slice(0, maxLength - 1)}...`;
+  return `${value.slice(0, maxLength - 1)}…`;
 }
+
+const stepBase =
+  "flex size-5 flex-none items-center justify-center rounded-full text-[10px] [&>svg]:size-3";
 
 export function ResearchProgress({ run }: ResearchProgressProps) {
   const [now, setNow] = useState(Date.now());
@@ -93,62 +100,64 @@ export function ResearchProgress({ run }: ResearchProgressProps) {
   }
 
   return (
-    <div className="max-w-[720px] mx-auto mb-4 rounded-2xl border border-border bg-bg-card shadow-sm overflow-hidden">
-      <div className="flex items-center justify-between gap-3">
-        <div className="px-4 pt-4">
-          <p className="text-[11px] uppercase tracking-wide text-text-muted">
+    <Card className="mx-auto mb-4 max-w-[720px] gap-0 overflow-hidden p-0">
+      <div className="flex items-start justify-between gap-3 p-4">
+        <div className="min-w-0">
+          <p className="text-[11px] tracking-wide text-muted-foreground uppercase">
             Deep research
           </p>
-          <h3 className="mt-1 text-base font-semibold text-text-primary">
+          <h3 className="mt-1 text-base font-semibold text-foreground">
             {target}
           </h3>
-          <p className="mt-1 text-xs text-text-muted">
+          <p className="mt-1 text-xs text-muted-foreground">
             Run <span className="font-mono">{run.runId}</span>
           </p>
         </div>
-        <div className="px-4 pt-4 text-right">
-          <span className="inline-flex rounded-full bg-accent-light text-accent px-2.5 py-1 text-xs font-medium capitalize">
+        <div className="text-right">
+          <Badge variant="secondary" className="capitalize">
             {formatStatus(run.status)}
-          </span>
-          <p className="mt-1 text-xs text-text-muted">
+          </Badge>
+          <p className="mt-1 text-xs text-muted-foreground">
             {formatElapsed(run.startedAt, now)}
           </p>
         </div>
       </div>
 
-      <div className="px-4 py-4 border-t border-border-light mt-4">
-        <div className="grid grid-cols-1 sm:grid-cols-5 gap-2">
+      <div className="border-t p-4">
+        <div className="grid grid-cols-1 gap-2 sm:grid-cols-5">
           {PHASES.map((phase, index) => {
             const isDone = phaseIndex > index || run.status === "completed";
             const isCurrent = phaseIndex === index;
             return (
               <div
                 key={phase.status}
-                className={`rounded-xl border px-3 py-2 ${
+                className={cn(
+                  "rounded-md border px-3 py-2",
                   isCurrent
-                    ? "border-accent bg-accent-light/40"
+                    ? "border-foreground/30 bg-muted"
                     : isDone
-                      ? "border-border bg-bg-secondary"
-                      : "border-border-light bg-transparent"
-                }`}
+                      ? "bg-muted/50"
+                      : "bg-transparent"
+                )}
               >
                 <div className="flex items-center gap-2">
                   <span
-                    className={`flex h-5 w-5 items-center justify-center rounded-full text-[10px] ${
+                    className={cn(
+                      stepBase,
                       isDone
-                        ? "bg-accent text-white"
+                        ? "bg-primary text-primary-foreground"
                         : isCurrent
-                          ? "bg-accent-light text-accent"
-                          : "bg-bg-secondary text-text-muted"
-                    }`}
+                          ? "bg-foreground/15 text-foreground"
+                          : "bg-muted text-muted-foreground"
+                    )}
                   >
-                    {isDone ? "✓" : index + 1}
+                    {isDone ? <Check /> : index + 1}
                   </span>
-                  <p className="text-xs font-medium text-text-primary">
+                  <p className="text-xs font-medium text-foreground">
                     {phase.label}
                   </p>
                 </div>
-                <p className="mt-1 text-[11px] leading-snug text-text-muted">
+                <p className="mt-1 text-[11px] leading-snug text-muted-foreground">
                   {phase.description}
                 </p>
               </div>
@@ -157,17 +166,17 @@ export function ResearchProgress({ run }: ResearchProgressProps) {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 px-4 pb-4">
+      <div className="grid grid-cols-1 gap-4 p-4 pt-0 lg:grid-cols-2">
         <div>
-          <div className="flex items-center justify-between mb-2">
-            <p className="text-xs font-semibold text-text-primary">
+          <div className="mb-2 flex items-center justify-between">
+            <p className="text-xs font-semibold text-foreground">
               Research desks
             </p>
-            <p className="text-[11px] text-text-muted">
+            <p className="text-[11px] text-muted-foreground">
               {run.currentDeskIndex ?? 0}/{run.deskTotal ?? run.plan?.desks.length ?? 0}
             </p>
           </div>
-          <div className="space-y-2">
+          <div className="flex flex-col gap-2">
             {(run.plan?.desks ?? []).map((desk, index) => {
               const oneBasedIndex = index + 1;
               const deskFindings = findingsByDesk.get(desk.key) ?? 0;
@@ -181,24 +190,26 @@ export function ResearchProgress({ run }: ResearchProgressProps) {
               return (
                 <div
                   key={desk.key}
-                  className="flex items-start gap-2 rounded-lg border border-border-light bg-bg-primary/40 px-3 py-2"
+                  className="flex items-start gap-2 rounded-md border bg-muted/40 px-3 py-2"
                 >
                   <span
-                    className={`mt-0.5 flex h-4 w-4 flex-none items-center justify-center rounded-full text-[10px] ${
+                    className={cn(
+                      "mt-0.5",
+                      stepBase,
                       isDone
-                        ? "bg-accent text-white"
+                        ? "bg-primary text-primary-foreground"
                         : isRunning
-                          ? "bg-accent-light text-accent animate-pulse"
-                          : "bg-bg-secondary text-text-muted"
-                    }`}
+                          ? "animate-pulse bg-foreground/15 text-foreground"
+                          : "bg-muted text-muted-foreground"
+                    )}
                   >
-                    {isDone ? "✓" : isRunning ? "•" : oneBasedIndex}
+                    {isDone ? <Check /> : isRunning ? "•" : oneBasedIndex}
                   </span>
                   <div className="min-w-0 flex-1">
-                    <p className="text-xs font-medium text-text-primary">
+                    <p className="text-xs font-medium text-foreground">
                       {desk.name}
                     </p>
-                    <p className="text-[11px] text-text-muted">
+                    <p className="text-[11px] text-muted-foreground">
                       {isRunning
                         ? "Running now"
                         : isDone
@@ -210,9 +221,9 @@ export function ResearchProgress({ run }: ResearchProgressProps) {
               );
             })}
             {(!run.plan?.desks || run.plan.desks.length === 0) && (
-              <div className="rounded-lg border border-border-light bg-bg-primary/40 px-3 py-2">
-                <p className="text-xs text-text-muted">
-                  Building the desk plan...
+              <div className="rounded-md border bg-muted/40 px-3 py-2">
+                <p className="text-xs text-muted-foreground">
+                  Building the desk plan…
                 </p>
               </div>
             )}
@@ -220,35 +231,35 @@ export function ResearchProgress({ run }: ResearchProgressProps) {
         </div>
 
         <div>
-          <div className="flex items-center justify-between mb-2">
-            <p className="text-xs font-semibold text-text-primary">
+          <div className="mb-2 flex items-center justify-between">
+            <p className="text-xs font-semibold text-foreground">
               Live findings
             </p>
-            <p className="text-[11px] text-text-muted">
+            <p className="text-[11px] text-muted-foreground">
               {run.findings.length} total
             </p>
           </div>
-          <div className="max-h-64 overflow-y-auto rounded-lg border border-border-light bg-bg-primary/40">
+          <div className="max-h-64 overflow-y-auto rounded-md border bg-muted/40">
             {[...run.findings].reverse().map((finding, index) => (
               <div
                 key={`${finding.desk}-${index}-${finding.claim}`}
-                className="border-b border-border-light last:border-b-0 px-3 py-2"
+                className="border-b px-3 py-2 last:border-b-0"
               >
                 <div className="flex items-center justify-between gap-2">
-                  <p className="text-[11px] font-medium text-accent">
+                  <p className="text-[11px] font-medium text-foreground">
                     {deskNameByKey.get(finding.desk) ?? finding.desk}
                   </p>
-                  <span className="rounded-full bg-bg-secondary px-2 py-0.5 text-[10px] text-text-muted">
+                  <Badge variant="secondary" className="text-[10px]">
                     {Math.round(finding.confidence * 100)}%
-                  </span>
+                  </Badge>
                 </div>
-                <p className="mt-1 text-xs leading-relaxed text-text-secondary">
+                <p className="mt-1 text-xs leading-relaxed text-muted-foreground">
                   {truncate(finding.claim, 180)}
                 </p>
               </div>
             ))}
             {run.findings.length === 0 && (
-              <p className="px-3 py-4 text-xs text-text-muted">
+              <p className="px-3 py-4 text-xs text-muted-foreground">
                 Findings will appear here as each research desk completes.
               </p>
             )}
@@ -257,8 +268,8 @@ export function ResearchProgress({ run }: ResearchProgressProps) {
       </div>
 
       {run.error && (
-        <p className="px-4 pb-4 text-xs text-error">Error: {run.error}</p>
+        <p className="px-4 pb-4 text-xs text-destructive">Error: {run.error}</p>
       )}
-    </div>
+    </Card>
   );
 }

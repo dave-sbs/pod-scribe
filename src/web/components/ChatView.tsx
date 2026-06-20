@@ -11,6 +11,7 @@ import {
 } from "../lib/api";
 import { MessageBubble } from "./MessageBubble";
 import { InputBar } from "./InputBar";
+import { Button } from "@/web/components/ui/button";
 import { LoadingIndicator } from "./LoadingIndicator";
 import { ErrorBanner } from "./ErrorBanner";
 import { ResearchProgress } from "./ResearchProgress";
@@ -287,35 +288,37 @@ export function ChatView() {
   // Empty state
   if (!conversation || conversation.messages.length === 0) {
     return (
-      <div className="h-full flex flex-col">
-        <div className="flex-1 flex items-center justify-center px-4">
-          <div className="text-center max-w-lg">
-            <h1 className="font-serif text-4xl font-medium text-text-primary mb-2">
+      <div className="h-full flex flex-col items-center justify-center px-4">
+        <div className="w-full max-w-[720px] -mt-12">
+          <div className="mb-8 text-center">
+            <h1 className="font-serif text-5xl font-medium tracking-tight text-foreground">
               Scribe
             </h1>
-            <p className="text-text-secondary mb-8">
+            <p className="mt-3 text-sm text-muted-foreground">
               Research Companion for Podcast Transcripts
             </p>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-              {STARTER_QUESTIONS.map((q) => (
-                <button
-                  key={q}
-                  onClick={() => sendMessage(q)}
-                  disabled={isStreaming}
-                  className="text-left px-4 py-3 rounded-xl border border-border bg-bg-card text-sm text-text-secondary hover:border-accent/40 hover:text-text-primary hover:bg-accent-light/30 transition-all"
-                >
-                  {q}
-                </button>
-              ))}
-            </div>
+          </div>
+          <InputBar
+            onSend={sendMessage}
+            mode={mode}
+            onModeChange={setMode}
+            disabled={isStreaming || !!pendingClarification}
+          />
+          <div className="mt-6 flex flex-wrap justify-center gap-2">
+            {STARTER_QUESTIONS.map((q) => (
+              <Button
+                key={q}
+                variant="outline"
+                size="sm"
+                onClick={() => sendMessage(q)}
+                disabled={isStreaming}
+                className="rounded-full text-muted-foreground"
+              >
+                {q}
+              </Button>
+            ))}
           </div>
         </div>
-        <InputBar
-          onSend={sendMessage}
-          mode={mode}
-          onModeChange={setMode}
-          disabled={isStreaming || !!pendingClarification}
-        />
       </div>
     );
   }
@@ -358,7 +361,7 @@ export function ChatView() {
       </div>
 
       {checkpoint && (
-        <div className="bg-bg-primary border-t border-border px-4 py-3 shadow-[0_-8px_20px_rgba(0,0,0,0.04)]">
+        <div className="border-t bg-background px-4 py-3">
           <div className="max-w-[720px] mx-auto">
             <CheckpointPrompt
               runId={checkpoint.runId}
@@ -375,13 +378,14 @@ export function ChatView() {
       )}
 
       {/* Input */}
-      <InputBar
-        onSend={sendMessage}
-        mode={mode}
-        onModeChange={setMode}
-        disabled={isStreaming || !!pendingClarification}
-      />
-
+      <div className="px-4 pb-4 pt-2">
+        <InputBar
+          onSend={sendMessage}
+          mode={mode}
+          onModeChange={setMode}
+          disabled={isStreaming || !!pendingClarification}
+        />
+      </div>
     </div>
   );
 }

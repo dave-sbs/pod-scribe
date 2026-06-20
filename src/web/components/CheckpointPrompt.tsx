@@ -1,3 +1,13 @@
+import { ChevronDown } from "lucide-react";
+
+import { Card } from "@/web/components/ui/card";
+import { Button } from "@/web/components/ui/button";
+import {
+  Collapsible,
+  CollapsibleContent,
+  CollapsibleTrigger,
+} from "@/web/components/ui/collapsible";
+
 type CheckpointPromptProps = {
   runId: string;
   checkpoint: "plan" | "synthesis";
@@ -16,39 +26,33 @@ export function CheckpointPrompt({
   onResume,
 }: CheckpointPromptProps) {
   return (
-    <div className="rounded-xl border border-border bg-bg-card shadow-sm px-4 py-3">
-      <div className="flex items-center justify-between gap-3">
-        <button
-          type="button"
-          onClick={onToggleCollapsed}
-          className="min-w-0 flex items-center gap-2 text-left"
-          aria-expanded={!collapsed}
-        >
-          <span className="flex h-6 w-6 flex-none items-center justify-center rounded-full bg-accent-light text-accent text-xs">
-            {collapsed ? ">" : "v"}
-          </span>
-          <span className="min-w-0">
-            <span className="block text-sm font-medium text-text-primary">
-              Checkpoint: {checkpoint} review
+    <Card className="px-4 py-3">
+      <Collapsible open={!collapsed} onOpenChange={onToggleCollapsed}>
+        <div className="flex items-center justify-between gap-3">
+          <CollapsibleTrigger className="group flex min-w-0 items-center gap-2 text-left">
+            <ChevronDown className="size-4 shrink-0 text-muted-foreground transition-transform group-data-[state=closed]:-rotate-90" />
+            <span className="min-w-0">
+              <span className="block text-sm font-medium text-foreground">
+                Checkpoint: {checkpoint} review
+              </span>
+              <span className="block truncate text-xs text-muted-foreground">
+                Run <span className="font-mono">{runId}</span>
+              </span>
             </span>
-            <span className="block truncate text-xs text-text-muted">
-              Run <span className="font-mono">{runId}</span>
-            </span>
-          </span>
-        </button>
-        <button
-          type="button"
-          onClick={() => onResume(checkpoint)}
-          className="flex-none rounded-lg bg-accent text-white px-3 py-1.5 text-xs hover:bg-accent-hover transition-colors"
-        >
-          Approve and continue
-        </button>
-      </div>
-      {!collapsed && (
-        <p className="text-xs text-text-secondary mt-3 pl-8">
+          </CollapsibleTrigger>
+          <Button
+            type="button"
+            size="sm"
+            className="shrink-0"
+            onClick={() => onResume(checkpoint)}
+          >
+            Approve and continue
+          </Button>
+        </div>
+        <CollapsibleContent className="mt-3 pl-6 text-xs text-muted-foreground">
           {note ?? "Review the checkpoint before continuing."}
-        </p>
-      )}
-    </div>
+        </CollapsibleContent>
+      </Collapsible>
+    </Card>
   );
 }

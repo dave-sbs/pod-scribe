@@ -1,9 +1,11 @@
 import { useMemo, useState, useCallback, useRef } from "react";
 import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { Check, Copy } from "lucide-react";
 import type { Message, SourceReference } from "@/core/types";
 import { parseCitations } from "../lib/citations";
 import { CitationChip } from "./CitationChip";
+import { Button } from "@/web/components/ui/button";
 
 type MessageBubbleProps = {
   message: Message;
@@ -14,8 +16,8 @@ export function MessageBubble({ message, isStreaming }: MessageBubbleProps) {
   if (message.role === "user") {
     return (
       <div className="flex justify-end mb-4">
-        <div className="max-w-[85%] bg-bg-card rounded-2xl rounded-br-md px-4 py-3">
-          <p className="text-sm text-text-primary whitespace-pre-wrap">
+        <div className="max-w-[85%] rounded-lg rounded-br-sm border bg-card px-4 py-3">
+          <p className="text-sm whitespace-pre-wrap text-foreground">
             {message.content}
           </p>
         </div>
@@ -98,8 +100,8 @@ function AssistantMessage({ message, isStreaming }: MessageBubbleProps) {
   return (
     <div className="flex justify-start mb-6">
       <div className="max-w-full w-full">
-        <div className="rounded-2xl rounded-bl-md px-5 py-4">
-          <div ref={proseRef} className="prose-assistant prose prose-sm max-w-none prose-headings:text-text-primary prose-p:text-text-primary prose-p:leading-relaxed prose-li:text-text-primary prose-strong:text-text-primary prose-blockquote:border-accent-light prose-blockquote:text-text-secondary">
+        <div className="px-5 py-4">
+          <div ref={proseRef} className="prose-assistant prose prose-sm max-w-none prose-headings:text-foreground prose-p:text-foreground prose-p:leading-relaxed prose-li:text-foreground prose-strong:text-foreground prose-blockquote:border-border prose-blockquote:text-muted-foreground">
             <MarkdownWithCitations
               text={contentWithPlaceholders.text}
               citations={contentWithPlaceholders.citations}
@@ -107,29 +109,23 @@ function AssistantMessage({ message, isStreaming }: MessageBubbleProps) {
             />
           </div>
           {isStreaming && (
-            <span className="inline-block w-1.5 h-4 bg-accent animate-pulse ml-0.5 align-text-bottom rounded-sm" />
+            <span className="ml-0.5 inline-block h-4 w-1.5 rounded-sm bg-foreground align-text-bottom animate-pulse motion-reduce:animate-none" />
           )}
         </div>
 
         {/* Copy button */}
         {!isStreaming && message.content && (
-          <div className="px-5 pb-2">
-            <button
+          <div className="px-4 pb-2">
+            <Button
+              variant="ghost"
+              size="icon-sm"
               onClick={handleCopy}
-              className="p-1 rounded-md text-text-muted hover:text-text-secondary hover:bg-bg-secondary transition-colors"
+              className="text-muted-foreground"
+              aria-label="Copy response"
               title="Copy response"
             >
-              {copied ? (
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <polyline points="20 6 9 17 4 12" />
-                </svg>
-              ) : (
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <rect x="9" y="9" width="13" height="13" rx="2" ry="2" />
-                  <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" />
-                </svg>
-              )}
-            </button>
+              {copied ? <Check /> : <Copy />}
+            </Button>
           </div>
         )}
       </div>

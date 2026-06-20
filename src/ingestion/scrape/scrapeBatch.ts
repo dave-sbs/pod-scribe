@@ -3,10 +3,9 @@ import * as cheerio from "cheerio";
 import { writeFile, mkdir } from "fs/promises";
 import { join } from "path";
 import type { Episode, TranscriptSegment } from "@/core/types";
+import { ingestionConfig } from "@/ingestion/config";
 
-const BASE_URL = "https://podscripts.co";
-const PODCAST_PATH = "/podcasts/founders";
-const DELAY_MS = 1500;
+const { baseUrl, podcastPath } = ingestionConfig;
 
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -14,11 +13,8 @@ function sleep(ms: number): Promise<void> {
 
 async function fetchPage(url: string): Promise<string> {
   const response = await axios.get<string>(url, {
-    timeout: 30_000,
-    headers: {
-      "User-Agent": "scribe-transcript-scraper/1.0",
-      Accept: "text/html",
-    },
+    timeout: ingestionConfig.requestTimeoutMs,
+    headers: ingestionConfig.scraperHeaders,
   });
   return response.data;
 }
@@ -56,7 +52,7 @@ function parseEpisode(html: string, slug: string): Episode {
       episodeNumber,
       title,
       slug,
-      url: `${BASE_URL}${PODCAST_PATH}/${slug}`,
+      url: `${baseUrl}${podcastPath}/${slug}`,
       date,
       category,
     },
@@ -66,7 +62,7 @@ function parseEpisode(html: string, slug: string): Episode {
 }
 
 async function saveEpisode(episode: Episode): Promise<string> {
-  const outDir = join(process.cwd(), "data", "founders", "episodes");
+  const outDir = ingestionConfig.episodesDir;
   await mkdir(outDir, { recursive: true });
 
   const filePath = join(outDir, `${episode.metadata.slug}.json`);
@@ -80,7 +76,7 @@ function parseEpisodeSlugs(html: string): string[] {
 
   $(".listing-item h3 a, .listing-item a").each((_i, el) => {
     const href = $(el).attr("href") || "";
-    const match = href.match(/\/podcasts\/founders\/([^/]+)/);
+    const match = href.match(/\/podcasts\/${PODCAST_SLUG}\/([^/]+)/);
     if (match && !slugs.includes(match[1])) {
       slugs.push(match[1]);
     }
@@ -90,10 +86,13 @@ function parseEpisodeSlugs(html: string): string[] {
 }
 
 async function main() {
-  const count = parseInt(process.argv[2] || "10", 10);
+  const count = parseInt(
+    process.argv[2] || String(ingestionConfig.defaultBatchCount),
+    10,
+  );
 
   console.log("Fetching episode list...");
-  const listHtml = await fetchPage(`${BASE_URL}${PODCAST_PATH}/`);
+  const listHtml = await fetchPage(`${baseUrl}${podcastPath}/`);
   const allSlugs = parseEpisodeSlugs(listHtml);
   const slugs = allSlugs.slice(0, count);
 
@@ -104,7 +103,7 @@ async function main() {
 
   for (let i = 0; i < slugs.length; i++) {
     const slug = slugs[i];
-    const url = `${BASE_URL}${PODCAST_PATH}/${slug}`;
+    const url = `${baseUrl}${podcastPath}/${slug}`;
 
     console.log(`[${i + 1}/${slugs.length}] ${slug}`);
 
@@ -123,7 +122,7 @@ async function main() {
     }
 
     if (i < slugs.length - 1) {
-      await sleep(DELAY_MS);
+      await sleep(ingestionConfig.batchDelayMs);
     }
   }
 

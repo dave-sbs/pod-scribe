@@ -5,11 +5,7 @@ import { chunkTranscript } from "./chunker";
 import { embedTexts } from "@/core/embeddings";
 import { upsertEpisode, getIngestedSlugs } from "@/db/episodes";
 import { upsertChunks } from "@/db/chunks";
-import { applyEpisodeTags, buildCatalogContext } from "./tag/applyTags";
-
-const EPISODES_DIR = join(process.cwd(), "data/founders/episodes");
-const BATCH_SIZE = 20;
-const BATCH_DELAY_MS = 200;
+import { ingestionConfig } from "./config";
 
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -30,13 +26,14 @@ async function ingestEpisode(
   console.log(`    ${chunks.length} chunks`);
 
   const embeddedChunks = [];
-  for (let i = 0; i < chunks.length; i += BATCH_SIZE) {
-    const batch = chunks.slice(i, i + BATCH_SIZE);
+  const { embedBatchSize, embedBatchDelayMs } = ingestionConfig;
+  for (let i = 0; i < chunks.length; i += embedBatchSize) {
+    const batch = chunks.slice(i, i + embedBatchSize);
     const embeddings = await embedTexts(batch.map((c) => c.text));
     for (let j = 0; j < batch.length; j++) {
       embeddedChunks.push({ ...batch[j], embedding: embeddings[j] });
     }
-    if (i + BATCH_SIZE < chunks.length) await sleep(BATCH_DELAY_MS);
+    if (i + embedBatchSize < chunks.length) await sleep(embedBatchDelayMs);
   }
 
   await upsertChunks(episodeId, embeddedChunks);
@@ -44,7 +41,7 @@ async function ingestEpisode(
 }
 
 export async function ingestAll(slugFilter?: string): Promise<void> {
-  const files = (await readdir(EPISODES_DIR))
+  const files = (await readdir(ingestionConfig.episodesDir))
     .filter((f) => f.endsWith(".json"))
     .sort();
 
@@ -59,7 +56,7 @@ export async function ingestAll(slugFilter?: string): Promise<void> {
       console.log(`  skip (done): ${slug}`);
       continue;
     }
-    await ingestEpisode(join(EPISODES_DIR, file), catalogContext);
+    await ingestEpisode(join(ingestionConfig.episodesDir, file));
     count++;
   }
 
